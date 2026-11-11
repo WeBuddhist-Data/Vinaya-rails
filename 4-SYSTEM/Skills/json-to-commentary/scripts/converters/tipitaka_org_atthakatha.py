@@ -152,6 +152,8 @@ H3_FIRST_HEADING = False
 # are emitted only for IDs in it; unresolved citations go to UNRESOLVED.
 ROOT_IDS: set[str] | None = None
 UNRESOLVED: list[tuple[str, list[str], str]] = []
+# Truncated-tail ranges expanded for linking: (as printed, start, end).
+ABBREVIATED: list[tuple[str, int, int]] = []
 
 # Layer "layer" field -> h1 anchor slug
 LAYER_SLUG_MAP = {
@@ -474,6 +476,16 @@ def convert_json_to_commentary(
             if m and root_ctx:
                 n_start = int(m.group(1))
                 n_end   = int(m.group(2)) if m.group(2) else n_start
+                if n_end < n_start:
+                    # CST's truncated-tail range: "133-4." = 133-134,
+                    # "368-74." = 368-374. Kept as printed in the text,
+                    # linked to the full range.
+                    tail = m.group(2)
+                    n_end = int(m.group(1)[:-len(tail)] + tail) if len(tail) < len(m.group(1)) else n_end
+                    if n_end >= n_start:
+                        ABBREVIATED.append((m.group(0).strip(), n_start, n_end))
+                    else:
+                        UNRESOLVED.append((m.group(0).strip(), [], content[:80]))
                 rt_ids  = resolve_root_text_ids(BOOK_ID, root_ctx, n_start, n_end)
                 if ROOT_IDS is not None:
                     # Link only to blocks that exist in the root text; log

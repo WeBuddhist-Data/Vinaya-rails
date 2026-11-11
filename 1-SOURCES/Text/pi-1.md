@@ -9,6 +9,8 @@ pitaka: vinaya
 layer: mula
 copyright: Public domain
 license: cc0
+category_id: 4wuvGxIgXNZ5mb0bDWvkC
+tag_ids: [296WZOr8MXWteSqBBI7pl]
 source_description: Chaṭṭha Saṅgāyana Tipiṭaka (CST) romanised XML, VipassanaTech/tipitaka-xml romn/vin01m.mul.xml. Mūla > Vinayapiṭaka > Pārājikapāḷi; 2477 segments in source; paragraphs 1–662.
 source_filename: romn/vin01m.mul.xml
 source: "https://github.com/VipassanaTech/tipitaka-xml/blob/main/romn/vin01m.mul.xml"

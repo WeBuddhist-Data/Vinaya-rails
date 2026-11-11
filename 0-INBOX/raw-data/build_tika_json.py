@@ -60,7 +60,9 @@ def main():
                 if n > 0 and s["css_class"] == "nikaya":
                     s["css_class"] = "centered"   # volume 2+: repeated piṭaka name
                 elif n > 0 and s["css_class"] == "book":
-                    s["css_class"] = "chapter"    # volume 2+: volume title
+                    # volume 2+: the volume title is a line of text, not a
+                    # division (tipitaka.app joins the volumes with no heading)
+                    s["css_class"] = "centered"
                 segs.append(s)
             offset = segs[-1]["chapter"] + 1
         # find boundaries

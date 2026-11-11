@@ -23,5 +23,5 @@ subprocess.run(["python3", "-B", f"{S}/apply_site_toc.py", out, f"0-INBOX/tipita
 subprocess.run(["python3", "-B", "4-SYSTEM/Skills/add-block-id-commentary/apply.py", "apply", out], check=True, stdout=subprocess.DEVNULL)
 subprocess.run(["python3", "-B", f"{S}/fidelity_check.py", jpath, out])
 txt = pathlib.Path(out).read_text(encoding="utf-8")
-print(f"  transclusions={txt.count('![[')} unresolved={len(mod.UNRESOLVED)}")
-pathlib.Path(out.replace(".md", ".unresolved.json")).write_text(json.dumps(mod.UNRESOLVED, ensure_ascii=False, indent=1), encoding="utf-8")
+print(f"  transclusions={txt.count('![[')} unresolved={len(mod.UNRESOLVED)} abbreviated_ranges={len(mod.ABBREVIATED)}")
+pathlib.Path(out.replace(".md", ".unresolved.json")).write_text(json.dumps({"unresolved": mod.UNRESOLVED, "abbreviated_ranges": mod.ABBREVIATED}, ensure_ascii=False, indent=1), encoding="utf-8")
