@@ -84,7 +84,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from json_to_source_text import format_frontmatter, clean_text  # noqa: E402
 
 
-_leading_num_re = re.compile(r"^\s*\d+\.\s*")
+_leading_num_re = re.compile(r"^\s*\d+(?:-\d+)?\.\s*")
 # Verse opening: captures the leading number (used as the block-ID verse part
 # for non-TOC sections). E.g. "583. Katame dhammā…" → group(1) == "583".
 _verse_opening_re = re.compile(r"^\s*(\d+)\.\s")
@@ -209,7 +209,10 @@ def convert_json_to_source_text(json_path, output_path) -> None:
 
     for src_ch in sorted(chapters.keys()):
         h3_position = src_ch
-        is_toc = (src_ch == 0)
+        # Chapter 0 is the Abhidhamma Mātikā (TOC). Vinaya books have no
+        # mātikā: their chapter 0 is an ordinary kaṇḍa/khandhaka.
+        is_vinaya = str(meta.get("pitaka", "")).lower() == "vinaya"
+        is_toc = (src_ch == 0) and not is_vinaya
         items = chapters[src_ch]
 
         h3_title_raw = next(
@@ -320,7 +323,10 @@ def convert_json_to_source_text(json_path, output_path) -> None:
                     # — the preamble belongs to this verse. Otherwise the buffer
                     # holds the previous numbered verse and must be flushed
                     # before we start the new one.
-                    if current_verse_num[0] is not None:
+                    if current_verse_num[0] is not None or is_vinaya:
+                        # Vinaya: unnumbered prose before a numbered
+                        # paragraph (e.g. a kaṇḍa's uddesa line) is its own
+                        # block, so the paragraph keeps its leading "N.".
                         flush_verse()
                     current_verse_num[0] = int(m.group(1))
             verse_buffer.append(content)
@@ -333,14 +339,26 @@ def convert_json_to_source_text(json_path, output_path) -> None:
 
 _book_id_re = re.compile(r"abh(\d+)m")
 
+# Vinayapiṭaka (CST / tipitaka-xml source IDs) -> book number in this vault.
+_VINAYA_BOOK_ID = {
+    "vin01m": 1,   # Pārājikapāḷi
+    "vin02m1": 2,  # Pācittiyapāḷi (with Bhikkhunīvibhaṅga)
+    "vin02m2": 3,  # Mahāvaggapāḷi
+    "vin02m3": 4,  # Cūḷavaggapāḷi
+    "vin02m4": 5,  # Parivārapāḷi
+}
+
 
 def _derive_book_id(source_filename, source_id) -> int:
     """Derive the book's position within the Abhidhamma pitaka from the
     source ID/filename. tipitaka.org uses abh01m, abh02m, … for the seven
-    Abhidhamma books."""
+    Abhidhamma books. Vinaya books are looked up in _VINAYA_BOOK_ID first."""
     for s in (source_filename, source_id):
         if not s:
             continue
+        stem = re.sub(r"^book/", "", str(s)).split(".")[0]
+        if stem in _VINAYA_BOOK_ID:
+            return _VINAYA_BOOK_ID[stem]
         m = _book_id_re.search(str(s))
         if m:
             return int(m.group(1))

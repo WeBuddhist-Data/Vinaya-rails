@@ -1,0 +1,4434 @@
+[
+ {
+  "key": "tika-pacityadiyojanapali-1",
+  "depth": 3,
+  "rend": "chapter",
+  "start": 3,
+  "end": 667,
+  "title": "Pācittiyayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-1",
+  "depth": 4,
+  "rend": "title",
+  "start": 6,
+  "end": 79,
+  "title": "5. Pācittiyakaṇḍaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-1-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 7,
+  "end": 15,
+  "title": "1. Musāvādasikkhāpada-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-1-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 15,
+  "end": 24,
+  "title": "2. Omasavāda sikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-1-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 24,
+  "end": 28,
+  "title": "3. Pesuññasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-1-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 28,
+  "end": 37,
+  "title": "4. Padasodhammasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-1-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 37,
+  "end": 54,
+  "title": "5. Sahaseyyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-1-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 54,
+  "end": 56,
+  "title": "6. Dutiyasahaseyyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-1-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 56,
+  "end": 59,
+  "title": "7. Dhammadesanāsikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-1-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 59,
+  "end": 63,
+  "title": "8. Bhūtārocanasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-1-9",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 63,
+  "end": 68,
+  "title": "9. Duṭṭhullārocanasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-1-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 68,
+  "end": 79,
+  "title": "10. Pathavīkhaṇanasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-2",
+  "depth": 4,
+  "rend": "title",
+  "start": 79,
+  "end": 160,
+  "title": "2. Bhūtagāmavaggo"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-2-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 80,
+  "end": 100,
+  "title": "1. Bhūtagāmasikkhāpada-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-2-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 100,
+  "end": 106,
+  "title": "2. Aññavādakasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-2-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 106,
+  "end": 111,
+  "title": "3. Ujjhāpanakasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-2-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 111,
+  "end": 124,
+  "title": "4. Paṭhamasenāsanasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-2-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 124,
+  "end": 131,
+  "title": "5. Dutiyasenāsanasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-2-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 131,
+  "end": 138,
+  "title": "6. Anupakhajjasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-2-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 138,
+  "end": 143,
+  "title": "7. Nikkaḍḍhanasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-2-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 143,
+  "end": 147,
+  "title": "8. Vehāsakuṭisikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-2-9",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 147,
+  "end": 156,
+  "title": "9. Mahallakavihārasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-2-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 156,
+  "end": 160,
+  "title": "10. Sappāṇakasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-3",
+  "depth": 4,
+  "rend": "title",
+  "start": 160,
+  "end": 238,
+  "title": "3. Ovādavaggo"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-3-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 161,
+  "end": 201,
+  "title": "1. Ovādasikkhāpada-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-3-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 201,
+  "end": 206,
+  "title": "2. Atthaṅgatasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-3-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 206,
+  "end": 210,
+  "title": "3. Bhikkhunupassayasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-3-3-1",
+  "depth": 6,
+  "rend": "subhead",
+  "start": 208,
+  "end": 210,
+  "title": "Pakiṇṇakakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-3-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 210,
+  "end": 213,
+  "title": "4. Āmisasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-3-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 213,
+  "end": 215,
+  "title": "5. Cīvaradānasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-3-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 215,
+  "end": 219,
+  "title": "6. Cīvarasibbanasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-3-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 219,
+  "end": 226,
+  "title": "7. Saṃvidhānasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-3-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 226,
+  "end": 230,
+  "title": "8. Nāvābhiruhanasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-3-9",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 230,
+  "end": 235,
+  "title": "9. Paripācitasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-3-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 235,
+  "end": 238,
+  "title": "10. Rahonisajjasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-4",
+  "depth": 4,
+  "rend": "title",
+  "start": 238,
+  "end": 394,
+  "title": "4. Bhojanavaggo"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-4-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 239,
+  "end": 244,
+  "title": "1. Āvasathapiṇḍasikkhāpada-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-4-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 244,
+  "end": 261,
+  "title": "2. Gaṇabhojanasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-4-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 261,
+  "end": 269,
+  "title": "3. Paramparabhojanasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-4-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 269,
+  "end": 276,
+  "title": "4. Kāṇamātāsikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-4-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 276,
+  "end": 301,
+  "title": "5. Paṭhamapavāraṇasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-4-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 301,
+  "end": 305,
+  "title": "6. Dutiyapavāraṇasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-4-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 305,
+  "end": 326,
+  "title": "7. Vikālabhojanasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-4-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 326,
+  "end": 334,
+  "title": "8. Sannidhikārakasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-4-9",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 334,
+  "end": 343,
+  "title": "9. Paṇītabhojanasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-4-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 343,
+  "end": 394,
+  "title": "10. Dantaponasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-5",
+  "depth": 4,
+  "rend": "title",
+  "start": 394,
+  "end": 423,
+  "title": "5. Acelakavaggo"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-5-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 395,
+  "end": 398,
+  "title": "1. Acelakasikkhāpada-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-5-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 398,
+  "end": 402,
+  "title": "2. Uyyojanasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-5-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 402,
+  "end": 406,
+  "title": "3. Sabhojanasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-5-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 406,
+  "end": 411,
+  "title": "6. Cārittasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-5-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 411,
+  "end": 415,
+  "title": "7. Mahānāmasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-5-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 415,
+  "end": 418,
+  "title": "8. Uyyuttasenāsikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-5-9",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 418,
+  "end": 420,
+  "title": "9. Senāvāsasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-5-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 420,
+  "end": 423,
+  "title": "10. Uyyodhikasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-6",
+  "depth": 4,
+  "rend": "title",
+  "start": 423,
+  "end": 455,
+  "title": "6. Surāpānavaggo"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-6-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 424,
+  "end": 428,
+  "title": "1. Surāpānasikkhāpada-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-6-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 428,
+  "end": 430,
+  "title": "2. Aṅgulipatodakasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-6-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 430,
+  "end": 435,
+  "title": "3. Hasadhammasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-6-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 435,
+  "end": 439,
+  "title": "4. Anādariyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-6-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 439,
+  "end": 445,
+  "title": "6. Jotisikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-6-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 445,
+  "end": 447,
+  "title": "7. Nahānasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-6-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 447,
+  "end": 450,
+  "title": "8. Dubbaṇṇakaraṇasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-6-9",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 450,
+  "end": 452,
+  "title": "9. Vikappanasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-6-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 452,
+  "end": 455,
+  "title": "10. Cīvarāpanidhānasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-7",
+  "depth": 4,
+  "rend": "title",
+  "start": 455,
+  "end": 495,
+  "title": "7. Sappāṇakavaggo"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-7-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 456,
+  "end": 460,
+  "title": "1. Sañciccapāṇasikkhāpada-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-7-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 460,
+  "end": 462,
+  "title": "2. Sappāṇakasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-7-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 462,
+  "end": 466,
+  "title": "3. Ukkoṭanasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-7-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 466,
+  "end": 470,
+  "title": "4. Duṭṭhullasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-7-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 470,
+  "end": 477,
+  "title": "5. Ūnavīsativassasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-7-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 477,
+  "end": 481,
+  "title": "6. Theyyasatthasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-7-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 481,
+  "end": 483,
+  "title": "7. Saṃvidhānasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-7-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 483,
+  "end": 488,
+  "title": "8. Ariṭṭhasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-7-9",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 488,
+  "end": 491,
+  "title": "9. Ukkhittasambhogasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-7-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 491,
+  "end": 495,
+  "title": "10. Kaṇṭakasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-8",
+  "depth": 4,
+  "rend": "title",
+  "start": 495,
+  "end": 539,
+  "title": "8. Sahadhammikavaggo"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-8-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 496,
+  "end": 498,
+  "title": "1. Sahadhammikasikkhāpada-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-8-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 498,
+  "end": 513,
+  "title": "2. Vilekhanasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-8-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 513,
+  "end": 515,
+  "title": "3. Mohanasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-8-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 515,
+  "end": 520,
+  "title": "4. Pahārasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-8-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 520,
+  "end": 523,
+  "title": "5. Talasattikasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-8-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 523,
+  "end": 525,
+  "title": "6. Amūlakasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-8-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 525,
+  "end": 527,
+  "title": "7. Sañciccasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-8-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 527,
+  "end": 530,
+  "title": "8. Upassutisikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-8-9",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 530,
+  "end": 532,
+  "title": "9. Kammapaṭibāhanasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-8-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 532,
+  "end": 534,
+  "title": "10. Chandaṃ adatvāgamanasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-8-11",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 534,
+  "end": 536,
+  "title": "11. Dubbalasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-8-12",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 536,
+  "end": 539,
+  "title": "12. Pariṇāmanasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-9",
+  "depth": 4,
+  "rend": "title",
+  "start": 539,
+  "end": 577,
+  "title": "9. Ratanavaggo"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-9-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 540,
+  "end": 544,
+  "title": "1. Antepurasikkhāpada-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-9-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 544,
+  "end": 553,
+  "title": "2. Ratanasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-9-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 553,
+  "end": 557,
+  "title": "3. Vikālagāmappavisanasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-9-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 557,
+  "end": 559,
+  "title": "4. Sūcigharasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-9-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 559,
+  "end": 562,
+  "title": "5. Mañcasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-9-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 562,
+  "end": 564,
+  "title": "6. Tūlonaddhasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-9-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 564,
+  "end": 566,
+  "title": "7. Nisīdanasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-9-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 566,
+  "end": 570,
+  "title": "8. Kaṇḍupaṭicchādisikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-9-9",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 570,
+  "end": 572,
+  "title": "9. Vassikasāṭikasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-9-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 572,
+  "end": 577,
+  "title": "10. Nandattherasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-10",
+  "depth": 4,
+  "rend": "title",
+  "start": 577,
+  "end": 597,
+  "title": "6. Pāṭidesanīyakaṇḍaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-10-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 578,
+  "end": 584,
+  "title": "1. Paṭhamapāṭidesanīyasikkhāpada-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-10-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 584,
+  "end": 586,
+  "title": "2. Dutiyapāṭidesanīyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-10-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 586,
+  "end": 589,
+  "title": "3. Tatiyapāṭidesanīyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-10-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 589,
+  "end": 597,
+  "title": "4. Catutthapāṭidesanīyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-11",
+  "depth": 4,
+  "rend": "title",
+  "start": 597,
+  "end": 667,
+  "title": "7. Sekhiyakaṇḍaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-11-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 598,
+  "end": 610,
+  "title": "1. Parimaṇḍalavagga-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-11-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 610,
+  "end": 614,
+  "title": "2. Ujjagghikavagga-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-11-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 614,
+  "end": 624,
+  "title": "3. Khambhakatavagga-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-11-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 624,
+  "end": 629,
+  "title": "4. Sakkaccavagga-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-11-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 629,
+  "end": 636,
+  "title": "5. Kabaḷavagga-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-11-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 636,
+  "end": 645,
+  "title": "6. Surusuruvagga-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-11-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 645,
+  "end": 661,
+  "title": "7. Pādukavagga-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-1-11-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 661,
+  "end": 667,
+  "title": "8. Sattādhikaraṇasamatha-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2",
+  "depth": 3,
+  "rend": "chapter",
+  "start": 667,
+  "end": 1005,
+  "title": "Bhikkhunīvibhaṅgo"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-1",
+  "depth": 4,
+  "rend": "title",
+  "start": 668,
+  "end": 693,
+  "title": "1. Pārājikakaṇḍaatthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-1-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 672,
+  "end": 680,
+  "title": "1. Paṭhamapārājikasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-1-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 680,
+  "end": 683,
+  "title": "2. Dutiyapārājikasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-1-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 683,
+  "end": 685,
+  "title": "3. Tatiyapārājikasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-1-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 685,
+  "end": 693,
+  "title": "4. Catutthapārājikasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-2",
+  "depth": 4,
+  "rend": "title",
+  "start": 693,
+  "end": 740,
+  "title": "2. Saṅghādisesakaṇḍaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-2-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 694,
+  "end": 709,
+  "title": "1. Paṭhamasaṅghādisesasikkhāpada-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-2-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 709,
+  "end": 713,
+  "title": "2. Dutiyasaṅghādisesasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-2-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 713,
+  "end": 721,
+  "title": "3. Tatiyasaṅghādisesasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-2-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 721,
+  "end": 723,
+  "title": "4. Catutthasaṅghādisesasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-2-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 723,
+  "end": 725,
+  "title": "5. Pañcamasaṅghādisesasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-2-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 725,
+  "end": 728,
+  "title": "6. Chaṭṭhasaṅghādisesasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-2-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 728,
+  "end": 730,
+  "title": "7. Sattamasaṅghādisesasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-2-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 730,
+  "end": 732,
+  "title": "8. Aṭṭhamasaṅghādisesasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-2-9",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 732,
+  "end": 734,
+  "title": "9. Navamasaṅghādisesasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-2-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 734,
+  "end": 740,
+  "title": "10. Dasamasaṅghādisesasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-3",
+  "depth": 4,
+  "rend": "title",
+  "start": 740,
+  "end": 775,
+  "title": "3. Nissaggiyakaṇḍaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-3-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 741,
+  "end": 746,
+  "title": "1. Paṭhamanissaggiyapācittiyasikkhāpada-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-3-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 746,
+  "end": 749,
+  "title": "2. Dutiyanissaggiyapācittiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-3-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 749,
+  "end": 751,
+  "title": "3. Tatiyanissaggiyapācittiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-3-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 751,
+  "end": 754,
+  "title": "4. Catutthanissaggiyapācittiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-3-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 754,
+  "end": 756,
+  "title": "5. Pañcamanissaggiyapācittiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-3-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 756,
+  "end": 759,
+  "title": "6. Chaṭṭhanissaggiyapācittiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-3-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 759,
+  "end": 761,
+  "title": "7. Sattamanissaggiyapācittiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-3-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 761,
+  "end": 763,
+  "title": "8. Aṭṭhamanissaggiyapācittiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-3-9",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 763,
+  "end": 765,
+  "title": "9. Navamanissaggiyapācittiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-3-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 765,
+  "end": 767,
+  "title": "10. Dasamanissaggiyapācittiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-3-11",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 767,
+  "end": 769,
+  "title": "11. Ekādasamanissaggiyapācittiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-3-12",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 769,
+  "end": 775,
+  "title": "12. Dvādasamanissaggiyapācittiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-4",
+  "depth": 4,
+  "rend": "title",
+  "start": 775,
+  "end": 776,
+  "title": "4. Pācittiyakaṇḍaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-5",
+  "depth": 4,
+  "rend": "title",
+  "start": 776,
+  "end": 811,
+  "title": "1. Lasuṇavaggo"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-5-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 777,
+  "end": 783,
+  "title": "1. Paṭhamasikkhāpada-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-5-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 783,
+  "end": 785,
+  "title": "2. Dutiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-5-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 785,
+  "end": 788,
+  "title": "3. Tatiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-5-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 788,
+  "end": 791,
+  "title": "4. Catutthasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-5-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 791,
+  "end": 794,
+  "title": "5. Pañcamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-5-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 794,
+  "end": 798,
+  "title": "6. Chaṭṭhasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-5-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 798,
+  "end": 801,
+  "title": "7. Sattamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-5-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 801,
+  "end": 804,
+  "title": "8. Aṭṭhamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-5-9",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 804,
+  "end": 806,
+  "title": "9. Navamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-5-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 806,
+  "end": 811,
+  "title": "10. Dasamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-6",
+  "depth": 4,
+  "rend": "title",
+  "start": 811,
+  "end": 836,
+  "title": "2. Andhakāravaggo"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-6-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 812,
+  "end": 815,
+  "title": "1. Paṭhamasikkhāpada-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-6-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 815,
+  "end": 817,
+  "title": "2. Dutiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-6-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 817,
+  "end": 819,
+  "title": "3. Tatiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-6-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 819,
+  "end": 824,
+  "title": "4. Catutthasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-6-4-5",
+  "depth": 6,
+  "rend": "subsubhead",
+  "start": 821,
+  "end": 824,
+  "title": "5. Pañcamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-6-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 824,
+  "end": 826,
+  "title": "6. Chaṭṭhasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-6-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 826,
+  "end": 828,
+  "title": "7. Sattamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-6-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 828,
+  "end": 830,
+  "title": "8. Aṭṭhamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-6-9",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 830,
+  "end": 833,
+  "title": "9. Navamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-6-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 833,
+  "end": 836,
+  "title": "10. Dasamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-7",
+  "depth": 4,
+  "rend": "title",
+  "start": 836,
+  "end": 859,
+  "title": "3. Naggavaggo"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-7-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 837,
+  "end": 839,
+  "title": "1. Paṭhamasikkhāpada-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-7-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 839,
+  "end": 841,
+  "title": "2. Dutiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-7-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 841,
+  "end": 843,
+  "title": "3. Tatiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-7-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 843,
+  "end": 845,
+  "title": "4. Catutthasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-7-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 845,
+  "end": 847,
+  "title": "5. Pañcamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-7-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 847,
+  "end": 849,
+  "title": "6. Chaṭṭhasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-7-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 849,
+  "end": 852,
+  "title": "7. Sattamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-7-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 852,
+  "end": 854,
+  "title": "8. Aṭṭhamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-7-9",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 854,
+  "end": 856,
+  "title": "9. Navamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-7-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 856,
+  "end": 859,
+  "title": "10. Dasamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-8",
+  "depth": 4,
+  "rend": "title",
+  "start": 859,
+  "end": 878,
+  "title": "4. Tuvaṭṭavaggo"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-8-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 860,
+  "end": 862,
+  "title": "1. Paṭhamasikkhāpada-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-8-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 862,
+  "end": 864,
+  "title": "2. Dutiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-8-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 864,
+  "end": 868,
+  "title": "3. Tatiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-8-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 868,
+  "end": 870,
+  "title": "4. Catutthasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-8-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 870,
+  "end": 872,
+  "title": "5. Pañcamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-8-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 872,
+  "end": 874,
+  "title": "6-9. Chaṭṭhādisikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-8-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 874,
+  "end": 878,
+  "title": "10. Dasamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-9",
+  "depth": 4,
+  "rend": "title",
+  "start": 878,
+  "end": 904,
+  "title": "5. Cittāgāravaggo"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-9-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 879,
+  "end": 882,
+  "title": "1. Paṭhamasikkhāpada-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-9-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 882,
+  "end": 884,
+  "title": "2. Dutiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-9-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 884,
+  "end": 887,
+  "title": "3. Tatiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-9-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 887,
+  "end": 890,
+  "title": "4. Catutthasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-9-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 890,
+  "end": 892,
+  "title": "5. Pañcamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-9-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 892,
+  "end": 894,
+  "title": "6. Chaṭṭhasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-9-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 894,
+  "end": 896,
+  "title": "7. Sattamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-9-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 896,
+  "end": 899,
+  "title": "8. Aṭṭhamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-9-9",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 899,
+  "end": 901,
+  "title": "9. Navamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-9-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 901,
+  "end": 904,
+  "title": "10. Dasamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-10",
+  "depth": 4,
+  "rend": "title",
+  "start": 904,
+  "end": 923,
+  "title": "6. Ārāmavaggo"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-10-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 905,
+  "end": 908,
+  "title": "1. Paṭhamasikkhāpada-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-10-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 908,
+  "end": 910,
+  "title": "2. Dutiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-10-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 910,
+  "end": 912,
+  "title": "3-4. Tatiya-catutthasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-10-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 912,
+  "end": 915,
+  "title": "5. Pañcamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-10-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 915,
+  "end": 917,
+  "title": "6. Chaṭṭhasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-10-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 917,
+  "end": 919,
+  "title": "7-9. Sattama-aṭṭhama-navamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-10-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 919,
+  "end": 923,
+  "title": "10. Dasamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-11",
+  "depth": 4,
+  "rend": "title",
+  "start": 923,
+  "end": 938,
+  "title": "7. Gabbhinivaggo"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-11-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 924,
+  "end": 926,
+  "title": "1. Paṭhamasikkhāpada-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-11-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 926,
+  "end": 928,
+  "title": "2. Dutiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-11-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 928,
+  "end": 931,
+  "title": "3. Tatiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-11-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 931,
+  "end": 933,
+  "title": "4. Catutthasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-11-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 933,
+  "end": 935,
+  "title": "5-9. Pañcamādisikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-11-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 935,
+  "end": 938,
+  "title": "10. Dasamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-12",
+  "depth": 4,
+  "rend": "title",
+  "start": 938,
+  "end": 961,
+  "title": "8. Kumāribhūtavaggo"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-12-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 939,
+  "end": 941,
+  "title": "1-2-3. Paṭhama-dutiya-tatiyasikkhāpada-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-12-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 941,
+  "end": 943,
+  "title": "4. Catutthasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-12-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 943,
+  "end": 945,
+  "title": "5. Pañcamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-12-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 945,
+  "end": 947,
+  "title": "6-7-8. Chaṭṭha-sattama-aṭṭhamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-12-9",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 947,
+  "end": 949,
+  "title": "9. Navamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-12-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 949,
+  "end": 952,
+  "title": "10. Dasamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-12-11",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 952,
+  "end": 956,
+  "title": "11. Ekādasamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-12-12",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 956,
+  "end": 958,
+  "title": "12. Dvādasamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-12-13",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 958,
+  "end": 961,
+  "title": "13. Terasamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-13",
+  "depth": 4,
+  "rend": "title",
+  "start": 961,
+  "end": 1005,
+  "title": "9. Chattupāhanavaggo"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-13-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 962,
+  "end": 964,
+  "title": "1. Paṭhamasikkhāpada-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-13-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 964,
+  "end": 966,
+  "title": "2. Dutiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-13-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 966,
+  "end": 968,
+  "title": "3. Tatiyasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-13-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 968,
+  "end": 970,
+  "title": "4. Catutthasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-13-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 970,
+  "end": 972,
+  "title": "5. Pañcamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-13-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 972,
+  "end": 974,
+  "title": "6. Chaṭṭhasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-13-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 974,
+  "end": 976,
+  "title": "7. Sattamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-13-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 976,
+  "end": 978,
+  "title": "8-10. Aṭṭhamādisikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-13-9",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 978,
+  "end": 980,
+  "title": "11. Ekādasamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-13-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 980,
+  "end": 982,
+  "title": "12. Dvādasamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-13-11",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 982,
+  "end": 990,
+  "title": "13. Terasamasikkhāpadaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-2-13-12",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 990,
+  "end": 1005,
+  "title": "5. Pāṭidesanīyasikkhāpada-atthayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3",
+  "depth": 3,
+  "rend": "chapter",
+  "start": 1005,
+  "end": 1851,
+  "title": "Mahāvaggayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1",
+  "depth": 4,
+  "rend": "title",
+  "start": 1006,
+  "end": 1327,
+  "title": "1. Mahākhandhakaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1007,
+  "end": 1024,
+  "title": "1. Bodhikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1024,
+  "end": 1029,
+  "title": "2. Ajapālakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1029,
+  "end": 1032,
+  "title": "3. Mucalindakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1032,
+  "end": 1036,
+  "title": "4. Rājāyatanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1036,
+  "end": 1047,
+  "title": "5. Brahmayācanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1047,
+  "end": 1059,
+  "title": "6. Pañcavaggiyakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1059,
+  "end": 1078,
+  "title": "7. Pabbajjākathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1078,
+  "end": 1080,
+  "title": "10. Dutiyamārakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-9",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1080,
+  "end": 1082,
+  "title": "11. Bhaddavaggiyakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1082,
+  "end": 1088,
+  "title": "12. Uruvelapāṭihāriyakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-11",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1088,
+  "end": 1098,
+  "title": "13. Bimbisārasamāgamakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-12",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1098,
+  "end": 1108,
+  "title": "14. Sāriputtamoggallāna pabbajjākathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-13",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1108,
+  "end": 1124,
+  "title": "15. Upajjhāyavattakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-14",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1124,
+  "end": 1135,
+  "title": "16. Saddhivihārikavattakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-14-1",
+  "depth": 6,
+  "rend": "subhead",
+  "start": 1126,
+  "end": 1130,
+  "title": "Nasammāvattanādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-14-2",
+  "depth": 6,
+  "rend": "subhead",
+  "start": 1130,
+  "end": 1135,
+  "title": "Rādhabrāhmaṇavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-15",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1135,
+  "end": 1139,
+  "title": "18. Ācariyavattakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-16",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1139,
+  "end": 1141,
+  "title": "20. Paṇāmanākhamāpanākathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-17",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1141,
+  "end": 1155,
+  "title": "22. Nissayapaṭippassaddhikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-17-1",
+  "depth": 6,
+  "rend": "subhead",
+  "start": 1142,
+  "end": 1147,
+  "title": "Āṇattivinicchayo"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-17-2",
+  "depth": 6,
+  "rend": "subhead",
+  "start": 1147,
+  "end": 1155,
+  "title": "Samodhānavinicchayo"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-18",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1155,
+  "end": 1161,
+  "title": "23. Upasampādetabbapañcakakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-19",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1161,
+  "end": 1163,
+  "title": "24. Upasampādetabbachakkakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-20",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1163,
+  "end": 1176,
+  "title": "25. Aññatitthiyapubbavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-21",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1176,
+  "end": 1181,
+  "title": "26. Pañcābādhavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-22",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1181,
+  "end": 1183,
+  "title": "27. Rājabhaṭavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-23",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1183,
+  "end": 1189,
+  "title": "28. Coravatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-24",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1189,
+  "end": 1193,
+  "title": "33. Iṇāyikavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-25",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1193,
+  "end": 1198,
+  "title": "34. Dāsavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-26",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1198,
+  "end": 1206,
+  "title": "35. Kammārabhaṇḍuvatthuādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-27",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1206,
+  "end": 1208,
+  "title": "40. Nissayamuccanakakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-28",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1208,
+  "end": 1235,
+  "title": "41. Rāhulavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-29",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1235,
+  "end": 1238,
+  "title": "42. Sikkhāpadadaṇḍakammavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-30",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1238,
+  "end": 1246,
+  "title": "43. Anāpucchāvaraṇavatthuādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-31",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1246,
+  "end": 1249,
+  "title": "47. Paṇḍakavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-32",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1249,
+  "end": 1266,
+  "title": "48. Theyyasaṃvāsakavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-33",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1266,
+  "end": 1269,
+  "title": "48. Titthiyapakkantakakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-34",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1269,
+  "end": 1274,
+  "title": "49. Tiracchānagatavatthu"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-35",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1274,
+  "end": 1281,
+  "title": "50. Mātughātakādivatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-36",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1281,
+  "end": 1284,
+  "title": "54. Ubhatobyañjanakavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-37",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1284,
+  "end": 1286,
+  "title": "55. Anupajjhāyakādivatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-38",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1286,
+  "end": 1290,
+  "title": "56. Apattakādivatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-39",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1290,
+  "end": 1308,
+  "title": "57. Hatthacchinnādivatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-40",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1308,
+  "end": 1311,
+  "title": "58. Alajjīnissayavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-41",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1311,
+  "end": 1318,
+  "title": "59. Gamikādinissayavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-42",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1318,
+  "end": 1320,
+  "title": "63. Upasampadāvidhikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-1-43",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1320,
+  "end": 1327,
+  "title": "64. Cattāronissayādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-2",
+  "depth": 4,
+  "rend": "title",
+  "start": 1327,
+  "end": 1456,
+  "title": "2. Uposathakkhandhakaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-2-68",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1328,
+  "end": 1334,
+  "title": "68. Sannipātānujānanādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-2-71",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1334,
+  "end": 1371,
+  "title": "71. Sīmānujānanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-2-72",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1371,
+  "end": 1376,
+  "title": "72. Uposathāgārādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-2-74",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1376,
+  "end": 1381,
+  "title": "74. Avippavāsasīmānujānanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-2-76",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1381,
+  "end": 1396,
+  "title": "76. Gāmasīmādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-2-77",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1396,
+  "end": 1399,
+  "title": "77. Uposathabhedādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-2-78",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1399,
+  "end": 1407,
+  "title": "78. Pātimokkhuddesakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-2-82",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1407,
+  "end": 1409,
+  "title": "82. Adhammakammapaṭikkosanādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-2-83",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1409,
+  "end": 1412,
+  "title": "83. Pātimokkhuddesakaajjhesanādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-2-84",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1412,
+  "end": 1418,
+  "title": "84. Pakkhagaṇanādiuggahaṇānujānanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-2-86",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1418,
+  "end": 1421,
+  "title": "86. Disaṃgamikādivatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-2-87",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1421,
+  "end": 1426,
+  "title": "87. Pārisuddhidānakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-2-88",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1426,
+  "end": 1429,
+  "title": "88. Chandadānakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-2-91",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1429,
+  "end": 1435,
+  "title": "91. Saṅghuposathādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-2-92",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1435,
+  "end": 1440,
+  "title": "92. Āpattipaṭikammavidhikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-2-95",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1440,
+  "end": 1444,
+  "title": "95. Anāpattipannarasakādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-2-100",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1444,
+  "end": 1447,
+  "title": "100. Sīmokkantikapeyyālakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-2-101",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1447,
+  "end": 1450,
+  "title": "101. Liṅgādidassanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-2-103",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1450,
+  "end": 1453,
+  "title": "103. Nagantabbagantabbavārakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-2-105",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1453,
+  "end": 1456,
+  "title": "105. Vajjanīyapuggalasandassanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-3",
+  "depth": 4,
+  "rend": "title",
+  "start": 1456,
+  "end": 1489,
+  "title": "3. Vassūpanāyikakkhandhakaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-3-107",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1457,
+  "end": 1459,
+  "title": "107. Vassūpanāyikānujānanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-3-108",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1459,
+  "end": 1462,
+  "title": "108. Vassānecārikāpaṭikkhepādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-3-109",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1462,
+  "end": 1465,
+  "title": "109. Sattāhakaraṇīyānujānanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-3-110",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1465,
+  "end": 1467,
+  "title": "110. Pañcannaṃ appahitepi anujānanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-3-112",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1467,
+  "end": 1470,
+  "title": "112. Pahiteyevaanujānanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-3-113",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1470,
+  "end": 1473,
+  "title": "113. Antarāye anāpattivassacchedakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-3-114",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1473,
+  "end": 1475,
+  "title": "114. Saṅghabhede anāpattivassacchedakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-3-115",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1475,
+  "end": 1480,
+  "title": "115. Vajādīsu vassūpagamanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-3-116",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1480,
+  "end": 1482,
+  "title": "116. Vassaṃ anupagantabbaṭṭhānakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-3-117",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1482,
+  "end": 1484,
+  "title": "117. Adhammikakatikākathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-3-118",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1484,
+  "end": 1489,
+  "title": "118. Paṭissavadukkaṭāpattikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-4",
+  "depth": 4,
+  "rend": "title",
+  "start": 1489,
+  "end": 1524,
+  "title": "4. Pavāraṇākkhandhakaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-4-120",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1490,
+  "end": 1494,
+  "title": "120. Aphāsukavihārakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-4-121",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1494,
+  "end": 1508,
+  "title": "121. Pavāraṇābhedakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-4-140",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1508,
+  "end": 1510,
+  "title": "140. Dvevācikādipavāraṇākathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-4-141",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1510,
+  "end": 1514,
+  "title": "141. Pavāraṇāṭṭhapanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-4-143",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1514,
+  "end": 1518,
+  "title": "143. Vatthuṭṭhapanādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-4-144",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1518,
+  "end": 1521,
+  "title": "144. Bhaṇḍanakārakavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-4-145",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1521,
+  "end": 1524,
+  "title": "145. Pavāraṇāsaṅgahakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-5",
+  "depth": 4,
+  "rend": "title",
+  "start": 1524,
+  "end": 1565,
+  "title": "5. Cammakkhandhakaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-5-147",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1525,
+  "end": 1539,
+  "title": "147. Soṇakoḷivisavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-5-147-1",
+  "depth": 6,
+  "rend": "subhead",
+  "start": 1532,
+  "end": 1539,
+  "title": "Soṇassa pabbajjākathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-5-148",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1539,
+  "end": 1541,
+  "title": "148. Diguṇādiupāhanapaṭikkhepakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-5-149",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1541,
+  "end": 1545,
+  "title": "149. Sabbanīlikādipaṭikkhepakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-5-151",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1545,
+  "end": 1550,
+  "title": "151. Ajjhārāme upāhanapaṭikkhepakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-5-153",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1550,
+  "end": 1552,
+  "title": "153. Yānādipaṭikkhepakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-5-154",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1552,
+  "end": 1555,
+  "title": "154. Uccāsayanamahāsayanapaṭikkhepakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-5-155",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1555,
+  "end": 1558,
+  "title": "155. Sabbacammapaṭikkhepādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-5-157",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1558,
+  "end": 1565,
+  "title": "157. Soṇakuṭikaṇṇavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-6",
+  "depth": 4,
+  "rend": "title",
+  "start": 1565,
+  "end": 1638,
+  "title": "6. Bhesajjakkhandhakaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-6-160",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1566,
+  "end": 1570,
+  "title": "160. Pañcabhesajjādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-6-161",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1570,
+  "end": 1583,
+  "title": "161. Mūlādibhesajjakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-6-163",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1583,
+  "end": 1588,
+  "title": "163. Guḷādianujānanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-6-167",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1588,
+  "end": 1591,
+  "title": "167. Satthakammapaṭikkhepakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-6-169",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1591,
+  "end": 1594,
+  "title": "169. Hatthimaṃsādipaṭikkhepakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-6-170",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1594,
+  "end": 1598,
+  "title": "170. Yāgumadhugoḷakādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-6-173",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1598,
+  "end": 1605,
+  "title": "173. Pāṭaligāmavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-6-178",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1605,
+  "end": 1609,
+  "title": "178. Sīhasenāpativatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-6-179",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1609,
+  "end": 1620,
+  "title": "179. Kappiyabhūmianujānanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-6-180",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1620,
+  "end": 1622,
+  "title": "180. Meṇḍakagahapativatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-6-182",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1622,
+  "end": 1626,
+  "title": "182. Keṇiyajaṭilavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-6-183",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1626,
+  "end": 1630,
+  "title": "183. Rojamallādivatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-6-185",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1630,
+  "end": 1638,
+  "title": "185. Catumahāpadesakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-7",
+  "depth": 4,
+  "rend": "title",
+  "start": 1638,
+  "end": 1665,
+  "title": "7. Kathinakkhandhakaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-7-187",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1639,
+  "end": 1657,
+  "title": "187. Kathinānujānanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-7-188",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1657,
+  "end": 1665,
+  "title": "188. Ādāyasattakakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-8",
+  "depth": 4,
+  "rend": "title",
+  "start": 1665,
+  "end": 1789,
+  "title": "8. Cīvarakkhandhakaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-8-202",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1666,
+  "end": 1674,
+  "title": "202. Jīvakavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-8-203",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1674,
+  "end": 1677,
+  "title": "203. Seṭṭhibhariyādivatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-8-205",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1677,
+  "end": 1680,
+  "title": "205. Rājagahaseṭṭhivatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-8-207",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1680,
+  "end": 1684,
+  "title": "207. Pajjotarājavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-8-208",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1684,
+  "end": 1686,
+  "title": "208. Siveyyakadussayugakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-8-209",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1686,
+  "end": 1689,
+  "title": "209. Samattiṃsavirecanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-8-210",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1689,
+  "end": 1691,
+  "title": "210. Varayācanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-8-211",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1691,
+  "end": 1695,
+  "title": "211. Kambalānujānanādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-8-213",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1695,
+  "end": 1699,
+  "title": "213. Cīvarapaṭiggāhakasammutikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-8-214",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1699,
+  "end": 1711,
+  "title": "214. Bhaṇḍāgārasammutiādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-8-215",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1711,
+  "end": 1714,
+  "title": "215. Cīvararajanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-8-216",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1714,
+  "end": 1717,
+  "title": "216. Chinnakacīvarānujānanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-8-217",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1717,
+  "end": 1719,
+  "title": "217. Ticīvarānujānanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-8-218",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1719,
+  "end": 1724,
+  "title": "218. Atirekacīvarādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-8-221",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1724,
+  "end": 1729,
+  "title": "221. Pacchimavikappanupagacīvarādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-8-222",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1729,
+  "end": 1737,
+  "title": "222. Saṅghikacīvaruppādakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-8-223",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1737,
+  "end": 1740,
+  "title": "223. Upanandasakyaputtavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-8-224",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1740,
+  "end": 1743,
+  "title": "224. Gilānavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-8-225",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1743,
+  "end": 1752,
+  "title": "225. Matasantakakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-8-227",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1752,
+  "end": 1756,
+  "title": "227. Kusacīrādipaṭikkhepakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-8-230",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1756,
+  "end": 1758,
+  "title": "230. Saṅghe bhinne cīvaruppādakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-8-232",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1758,
+  "end": 1789,
+  "title": "232. Aṭṭhacīvaramātikākathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-9",
+  "depth": 4,
+  "rend": "title",
+  "start": 1789,
+  "end": 1810,
+  "title": "9. Campeyyakkhandhakaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-9-234",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1790,
+  "end": 1793,
+  "title": "234. Kassapagottabhikkhuvatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-9-236",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1793,
+  "end": 1796,
+  "title": "236. Ñattivipannakammādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-9-237",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1796,
+  "end": 1801,
+  "title": "237. Catuvaggakaraṇādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-9-239",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1801,
+  "end": 1805,
+  "title": "239. Dvenissāraṇādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-9-241",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1805,
+  "end": 1807,
+  "title": "241. Upālipucchākathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-9-242",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1807,
+  "end": 1810,
+  "title": "242. Tajjanīyakammakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-10",
+  "depth": 4,
+  "rend": "title",
+  "start": 1810,
+  "end": 1851,
+  "title": "10. Kosambakakkhandhakaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-10-271",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1811,
+  "end": 1826,
+  "title": "271. Kosambakavivādakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-10-275",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1826,
+  "end": 1831,
+  "title": "275. Pālileyyakagamanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-10-276",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1831,
+  "end": 1850,
+  "title": "276. Aṭṭhārasavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-3-10-276a",
+  "depth": 5,
+  "rend": "title",
+  "start": 1850,
+  "end": 1851,
+  "title": "Pācityādiyojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4",
+  "depth": 3,
+  "rend": "chapter",
+  "start": 1851,
+  "end": 2424,
+  "title": "Cūḷavaggayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-1",
+  "depth": 4,
+  "rend": "title",
+  "start": 1854,
+  "end": 1879,
+  "title": "1. Kammakkhandhakaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-1-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1855,
+  "end": 1864,
+  "title": "1. Tajjanīyakammakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-1-1-1",
+  "depth": 6,
+  "rend": "subhead",
+  "start": 1857,
+  "end": 1862,
+  "title": "Adhammakammadvādasakakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-1-1-2",
+  "depth": 6,
+  "rend": "subhead",
+  "start": 1862,
+  "end": 1864,
+  "title": "Nappaṭippassambhetabbaaṭṭhārasakādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-1-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1864,
+  "end": 1866,
+  "title": "2. Niyassakammakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-1-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1866,
+  "end": 1868,
+  "title": "3. Pabbājanīyakammakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-1-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1868,
+  "end": 1873,
+  "title": "4. Paṭisāraṇīyakammakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-1-4-1",
+  "depth": 6,
+  "rend": "subhead",
+  "start": 1871,
+  "end": 1873,
+  "title": "Adhammakammādidvādasakakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-1-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1873,
+  "end": 1879,
+  "title": "5. Āpattiyā adassane ukkhepanīyakammakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-2",
+  "depth": 4,
+  "rend": "title",
+  "start": 1879,
+  "end": 1914,
+  "title": "2. Pārivāsikakkhandhakaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-2-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1880,
+  "end": 1908,
+  "title": "1. Pārivāsikavattakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-2-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1908,
+  "end": 1911,
+  "title": "2. Mūlāyapaṭikassanārahavattakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-2-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1911,
+  "end": 1914,
+  "title": "4. Mānattācārikavattakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-3",
+  "depth": 4,
+  "rend": "title",
+  "start": 1914,
+  "end": 1984,
+  "title": "3. Samuccayakkhandhakaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-3-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1915,
+  "end": 1922,
+  "title": "1. Sukkavissaṭṭhikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-3-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1922,
+  "end": 1980,
+  "title": "2. Parivāsakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-3-2-1",
+  "depth": 6,
+  "rend": "subhead",
+  "start": 1966,
+  "end": 1969,
+  "title": "Paṭicchannaparivāsakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-3-2-2",
+  "depth": 6,
+  "rend": "subhead",
+  "start": 1969,
+  "end": 1971,
+  "title": "Samodhānaparivāsakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-3-2-3",
+  "depth": 6,
+  "rend": "subhead",
+  "start": 1971,
+  "end": 1974,
+  "title": "Agghasamodhānaparivāsakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-3-2-4",
+  "depth": 6,
+  "rend": "subhead",
+  "start": 1974,
+  "end": 1980,
+  "title": "Suddhantaparivāsādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-3-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1980,
+  "end": 1984,
+  "title": "8. Dvebhikkhuvāraekādasakādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-4",
+  "depth": 4,
+  "rend": "title",
+  "start": 1984,
+  "end": 2028,
+  "title": "4. Samathakkhandhakaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-4-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1985,
+  "end": 1988,
+  "title": "1. Sammukhāvinayakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-4-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1988,
+  "end": 1990,
+  "title": "2. Sativinayakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-4-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1990,
+  "end": 1992,
+  "title": "3. Amūḷhavinayakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-4-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1992,
+  "end": 1994,
+  "title": "4. Paṭiññātakaraṇakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-4-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1994,
+  "end": 1998,
+  "title": "5. Yebhuyyasikākathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-4-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 1998,
+  "end": 2000,
+  "title": "6. Tassapāpiyasikākathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-4-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2000,
+  "end": 2004,
+  "title": "7. Tiṇavatthārakādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-4-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2004,
+  "end": 2016,
+  "title": "8. Adhikaraṇakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-4-9",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2016,
+  "end": 2028,
+  "title": "9. Adhikaraṇavūpasamanasamathakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-4-9-1",
+  "depth": 6,
+  "rend": "subhead",
+  "start": 2022,
+  "end": 2025,
+  "title": "Tividhasalākaggāhakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-4-9-2",
+  "depth": 6,
+  "rend": "subhead",
+  "start": 2025,
+  "end": 2028,
+  "title": "Tassapāpiyasikāvinayakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-5",
+  "depth": 4,
+  "rend": "title",
+  "start": 2028,
+  "end": 2087,
+  "title": "5. Khuddakavatthukkhandhakaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-5-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2029,
+  "end": 2087,
+  "title": "Khuddakavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-6",
+  "depth": 4,
+  "rend": "title",
+  "start": 2087,
+  "end": 2272,
+  "title": "6. Senāsanakkhandhakaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-6-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2088,
+  "end": 2117,
+  "title": "Vihārānujānanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-6-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2117,
+  "end": 2121,
+  "title": "Āsanappaṭibāhanādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-6-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2121,
+  "end": 2150,
+  "title": "Senāsanaggāhakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-6-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2150,
+  "end": 2155,
+  "title": "Upanandavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-6-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2155,
+  "end": 2183,
+  "title": "Avissajjiyavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-6-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2183,
+  "end": 2191,
+  "title": "Navakammadānakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-6-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2191,
+  "end": 2198,
+  "title": "Aññatraparibhogapaṭikkhepādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-6-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2198,
+  "end": 2201,
+  "title": "Saṅghabhattādianujānanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-6-9",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2201,
+  "end": 2226,
+  "title": "Uddesabhattakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-6-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2226,
+  "end": 2235,
+  "title": "Nimantanabhattakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-6-11",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2235,
+  "end": 2251,
+  "title": "Salākabhattakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-6-12",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2251,
+  "end": 2272,
+  "title": "Pakkhikabhattādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-7",
+  "depth": 4,
+  "rend": "title",
+  "start": 2272,
+  "end": 2310,
+  "title": "7. Saṅghabhedakakkhandhakaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-7-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2273,
+  "end": 2279,
+  "title": "Chasakyapabbajjākathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-7-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2279,
+  "end": 2286,
+  "title": "Pakāsanīyakammādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-7-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2286,
+  "end": 2293,
+  "title": "Saṅghabhedakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-7-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2293,
+  "end": 2310,
+  "title": "Upālipañhākathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-8",
+  "depth": 4,
+  "rend": "title",
+  "start": 2310,
+  "end": 2341,
+  "title": "8. Vattakkhandhakaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-8-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2311,
+  "end": 2314,
+  "title": "1. Āgantukavattakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-8-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2314,
+  "end": 2317,
+  "title": "2. Āvāsikavattakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-8-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2317,
+  "end": 2319,
+  "title": "3. Gamikavattakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-8-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2319,
+  "end": 2321,
+  "title": "4. Anumodanavattakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-8-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2321,
+  "end": 2327,
+  "title": "5. Bhattaggavattakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-8-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2327,
+  "end": 2329,
+  "title": "6. Piṇḍacārikavattakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-8-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2329,
+  "end": 2332,
+  "title": "7. Āraññikavattakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-8-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2332,
+  "end": 2334,
+  "title": "8. Senāsanavattakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-8-9",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2334,
+  "end": 2341,
+  "title": "9. Jantāgharavattādikathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-9",
+  "depth": 4,
+  "rend": "title",
+  "start": 2341,
+  "end": 2367,
+  "title": "9. Pātimokkhaṭṭhapanakkhandhakaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-9-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2342,
+  "end": 2346,
+  "title": "1. Pātimokkhuddesayācanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-9-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2346,
+  "end": 2348,
+  "title": "4. Pātimokkhasavanārahakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-9-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2348,
+  "end": 2351,
+  "title": "5. Dhammikādhammikapātimokkhaṭṭhapanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-9-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2351,
+  "end": 2353,
+  "title": "6. Dhammikapātimokkhaṭṭhapanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-9-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2353,
+  "end": 2358,
+  "title": "7. Attādānaaṅgakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-9-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2358,
+  "end": 2361,
+  "title": "8. Codakena paccavekkhitabbadhammakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-9-9",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2361,
+  "end": 2363,
+  "title": "9. Codakena upaṭṭhāpetabbakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-9-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2363,
+  "end": 2367,
+  "title": "10. Codakacuditakapaṭisaṃyuttakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-10",
+  "depth": 4,
+  "rend": "title",
+  "start": 2367,
+  "end": 2399,
+  "title": "10. Bhikkhunikkhandhakaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-10-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2368,
+  "end": 2373,
+  "title": "Mahāpajāpatigotamīvatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-10-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2373,
+  "end": 2399,
+  "title": "Bhikkhunīupasampadānujānanakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-11",
+  "depth": 4,
+  "rend": "title",
+  "start": 2399,
+  "end": 2404,
+  "title": "11. Pañcasatikakkhandhakaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-11-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2400,
+  "end": 2404,
+  "title": "1. Khuddānukhuddakasikkhāpadakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-12",
+  "depth": 4,
+  "rend": "title",
+  "start": 2404,
+  "end": 2424,
+  "title": "12. Sattasatikakkhandhakaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-12-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2405,
+  "end": 2423,
+  "title": "Dasavatthukathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-4-12-2",
+  "depth": 5,
+  "rend": "title",
+  "start": 2423,
+  "end": 2424,
+  "title": "Pācityādiyojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5",
+  "depth": 3,
+  "rend": "chapter",
+  "start": 2424,
+  "end": 2992,
+  "title": "Parivāravaggayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-1",
+  "depth": 4,
+  "rend": "title",
+  "start": 2427,
+  "end": 2428,
+  "title": "Soḷasamahāvāro"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-2",
+  "depth": 4,
+  "rend": "title",
+  "start": 2428,
+  "end": 2450,
+  "title": "Paññattivārayojanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-2-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2441,
+  "end": 2444,
+  "title": "Katāpattivārādivaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-2-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2444,
+  "end": 2450,
+  "title": "Samuṭṭhānasīsavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-3",
+  "depth": 4,
+  "rend": "title",
+  "start": 2450,
+  "end": 2480,
+  "title": "Samuṭṭhānasīso"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-3-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2451,
+  "end": 2455,
+  "title": "Paṭhamapārājikasamuṭṭhānavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-3-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2455,
+  "end": 2458,
+  "title": "Dutiyapārājikasamuṭṭhānavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-3-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2458,
+  "end": 2463,
+  "title": "Sañcarittasamuṭṭhānavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-3-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2463,
+  "end": 2465,
+  "title": "Samanubhāsanāsamuṭṭhānavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-3-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2465,
+  "end": 2468,
+  "title": "Kathinasamuṭṭhānavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-3-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2468,
+  "end": 2471,
+  "title": "Eḷakalomasamuṭṭhānavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-3-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2471,
+  "end": 2473,
+  "title": "Padasodhammasamuṭṭhānavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-3-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2473,
+  "end": 2475,
+  "title": "Addhānasamuṭṭhānavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-3-9",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2475,
+  "end": 2477,
+  "title": "Theyyasatthasamuṭṭhānavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-3-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2477,
+  "end": 2480,
+  "title": "Dhammadesanāsamuṭṭhānavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-4",
+  "depth": 4,
+  "rend": "title",
+  "start": 2480,
+  "end": 2495,
+  "title": "Antarapeyyāla katipucchāvāravaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-5",
+  "depth": 4,
+  "rend": "title",
+  "start": 2495,
+  "end": 2506,
+  "title": "Khandhakapucchāvāro"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-5-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2496,
+  "end": 2506,
+  "title": "Pucchāvissajjanāvaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-6",
+  "depth": 4,
+  "rend": "title",
+  "start": 2506,
+  "end": 2607,
+  "title": "Ekuttarikanayo"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-6-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2507,
+  "end": 2516,
+  "title": "Ekuttarikanayo ekakavāravaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-6-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2516,
+  "end": 2527,
+  "title": "Ekuttarikanayo dukavāravaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-6-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2527,
+  "end": 2543,
+  "title": "Ekuttarikanayo tikavāravaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-6-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2543,
+  "end": 2560,
+  "title": "Ekuttarikanayo catukkavāravaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-6-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2560,
+  "end": 2575,
+  "title": "Ekuttarikanayo pañcakavāravaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-6-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2575,
+  "end": 2580,
+  "title": "Ekuttarikanayo chakkavāravaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-6-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2580,
+  "end": 2584,
+  "title": "Ekuttarikanayo sattakavāravaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-6-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2584,
+  "end": 2591,
+  "title": "Ekuttarikanayo aṭṭhakavāravaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-6-9",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2591,
+  "end": 2595,
+  "title": "Ekuttarikanayo navakavāravaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-6-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2595,
+  "end": 2600,
+  "title": "Ekuttarikanayo dasakavāravaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-6-11",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2600,
+  "end": 2607,
+  "title": "Ekuttarikanayo ekādasakavāravaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-7",
+  "depth": 4,
+  "rend": "title",
+  "start": 2607,
+  "end": 2618,
+  "title": "Uposathādipucchāvissajjanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-7-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2611,
+  "end": 2618,
+  "title": "Atthavasapakaraṇavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-8",
+  "depth": 4,
+  "rend": "title",
+  "start": 2618,
+  "end": 2652,
+  "title": "Paṭhamagāthāsaṅgaṇikaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-8-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2619,
+  "end": 2622,
+  "title": "Sattanagaresu paññattasikkhāpadavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-8-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2622,
+  "end": 2628,
+  "title": "Catuvipattivaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-8-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2628,
+  "end": 2630,
+  "title": "Chedanakādivaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-8-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2630,
+  "end": 2638,
+  "title": "Asādhāraṇādivaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-8-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2638,
+  "end": 2652,
+  "title": "Pārājikādiāpattivaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-9",
+  "depth": 4,
+  "rend": "title",
+  "start": 2652,
+  "end": 2681,
+  "title": "Adhikaraṇabhedaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-9-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2653,
+  "end": 2665,
+  "title": "Ukkoṭanabhedādivaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-9-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2665,
+  "end": 2675,
+  "title": "Adhikaraṇanidānādivaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-9-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2675,
+  "end": 2678,
+  "title": "Sattasamathanidānavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-9-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2678,
+  "end": 2681,
+  "title": "Sattasamathanānātthādivaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-10",
+  "depth": 4,
+  "rend": "title",
+  "start": 2681,
+  "end": 2695,
+  "title": "Dutiyagāthāsaṅgaṇikaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-10-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2682,
+  "end": 2695,
+  "title": "Codanādipucchāvissajjanāvaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-11",
+  "depth": 4,
+  "rend": "title",
+  "start": 2695,
+  "end": 2705,
+  "title": "Codanākaṇḍaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-11-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2696,
+  "end": 2699,
+  "title": "Anuvijjakakiccavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-11-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2699,
+  "end": 2705,
+  "title": "Codakapucchāvissajjanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-12",
+  "depth": 4,
+  "rend": "title",
+  "start": 2705,
+  "end": 2716,
+  "title": "Cūḷasaṅgāmaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-12-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2706,
+  "end": 2716,
+  "title": "Anuvijjakassa paṭipattivaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-13",
+  "depth": 4,
+  "rend": "title",
+  "start": 2716,
+  "end": 2726,
+  "title": "Mahāsaṅgāmaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-13-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2717,
+  "end": 2720,
+  "title": "Voharantena jānitabbādivaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-13-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2720,
+  "end": 2726,
+  "title": "Agatiagantabbavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-14",
+  "depth": 4,
+  "rend": "title",
+  "start": 2726,
+  "end": 2742,
+  "title": "Kathinabhedaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-14-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2727,
+  "end": 2731,
+  "title": "Kathinaatthatādivaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-14-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2731,
+  "end": 2735,
+  "title": "Pubbakaraṇanidānādivibhāgavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-14-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2735,
+  "end": 2742,
+  "title": "Kathinādijānitabbavibhāgavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-15",
+  "depth": 4,
+  "rend": "title",
+  "start": 2742,
+  "end": 2803,
+  "title": "Upālipañcakaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-15-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2743,
+  "end": 2746,
+  "title": "Anissitavaggavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-15-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2746,
+  "end": 2752,
+  "title": "Nappaṭippassambhanavaggavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-15-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2752,
+  "end": 2764,
+  "title": "Vohāravaggavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-15-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2764,
+  "end": 2771,
+  "title": "Diṭṭhāvikammavaggavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-15-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2771,
+  "end": 2775,
+  "title": "Musāvādavaggavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-15-6",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2775,
+  "end": 2781,
+  "title": "Bhikkhunovādavaggavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-15-7",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2781,
+  "end": 2785,
+  "title": "Ubbāhikavaggavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-15-8",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2785,
+  "end": 2790,
+  "title": "Adhikaraṇavūpasamavaggavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-15-9",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2790,
+  "end": 2792,
+  "title": "Saṅghabhedavaggadvayavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-15-10",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2792,
+  "end": 2795,
+  "title": "Āvāsikavaggavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-15-11",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2795,
+  "end": 2800,
+  "title": "Kathinatthāravaggavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-15-12",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2800,
+  "end": 2803,
+  "title": "Āpattisamuṭṭhānavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-16",
+  "depth": 4,
+  "rend": "title",
+  "start": 2803,
+  "end": 2838,
+  "title": "Aparadutiyagāthāsaṅgaṇikaṃ"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-16-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2804,
+  "end": 2809,
+  "title": "(1) Kāyikādiāpattivaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-16-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2809,
+  "end": 2818,
+  "title": "(2) Desanāgāminiyādivaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-16-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2818,
+  "end": 2829,
+  "title": "(3) Pācittiyavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-16-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2829,
+  "end": 2838,
+  "title": "(4) Avandanīyapuggalādivaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-17",
+  "depth": 4,
+  "rend": "title",
+  "start": 2838,
+  "end": 2869,
+  "title": "Sedamocikagāthā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-17-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2839,
+  "end": 2849,
+  "title": "(1) Avippavāsapañhāvaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-17-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2849,
+  "end": 2858,
+  "title": "(2) Pārājikādipañhāvaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-17-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2858,
+  "end": 2869,
+  "title": "(3) Pācittiyādipañhāvaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-18",
+  "depth": 4,
+  "rend": "title",
+  "start": 2869,
+  "end": 2992,
+  "title": "Pañcavaggo"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-18-1",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2870,
+  "end": 2896,
+  "title": "Kammavaggavaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-18-2",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2896,
+  "end": 2934,
+  "title": "Apalokanakammakathā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-18-3",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2934,
+  "end": 2950,
+  "title": "Atthavasavaggādivaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-18-4",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2950,
+  "end": 2975,
+  "title": "Nigamanakathāvaṇṇanā"
+ },
+ {
+  "key": "tika-pacityadiyojanapali-5-18-5",
+  "depth": 5,
+  "rend": "subhead",
+  "start": 2975,
+  "end": 2992,
+  "title": "Nigamanakathā"
+ }
+]

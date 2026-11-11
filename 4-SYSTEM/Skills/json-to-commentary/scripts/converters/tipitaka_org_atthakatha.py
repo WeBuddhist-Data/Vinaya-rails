@@ -140,6 +140,19 @@ ROOT_TEXT_PATH = "1-SOURCES/Text/pi-dhammasangani.md"
 # Book position within its pitaka (1 = Dhammasangani, 2 = Vibhanga, ...).
 BOOK_ID = 1
 
+# Keep the printed citation number ("12. …") at the start of the paragraph
+# instead of stripping it (the final Abhidhamma commentaries keep it).
+KEEP_REF_NUMBER = False
+
+# For a chapter with no chapter-class segment, take the h3 title from the
+# first heading in document order (Vinaya) instead of preferring a subhead.
+H3_FIRST_HEADING = False
+
+# Optional set of root-text block IDs (without "^"). When set, transclusions
+# are emitted only for IDs in it; unresolved citations go to UNRESOLVED.
+ROOT_IDS: set[str] | None = None
+UNRESOLVED: list[tuple[str, list[str], str]] = []
+
 # Layer "layer" field -> h1 anchor slug
 LAYER_SLUG_MAP = {
     "atthakatha": "atthakatha",
@@ -160,7 +173,7 @@ LAYER_DISPLAY_MAP = {
 # HELPERS
 # ---------------------------------------------------------------------------
 
-_leading_num_re   = re.compile(r"^\s*\d+\.\s*")
+_leading_num_re   = re.compile(r"^\s*\d+(?:-\d+)?\.\s*")
 _verse_ref_re     = re.compile(r"^\s*(\d+)(?:-(\d+))?\.(?:\s|$)")
 _leading_strip_re = re.compile(r"^\s*\d+(?:-\d+)?\.\s*")
 
@@ -413,15 +426,30 @@ def convert_json_to_commentary(
             # ch0: no chapter-class segment.
             # Prefer the first *subhead* (e.g. "Nidanakatha") over subsubhead
             # (e.g. "Gantharambhakatha") since the subhead names the section.
-            h3_title = (
-                next((c for r, c in items if r == ROLE_SUBHEAD), None)
-                or next((c for r, c in items if r == ROLE_TITLE), None)
-                or next((c for r, c in items if r == ROLE_SUBSUBHEAD), None)
-                or f"Section {src_ch}"
-            )
+            if H3_FIRST_HEADING:
+                # Use the first heading in document order, so no heading is
+                # moved ahead of text that precedes it in the source.
+                h3_title = next(
+                    (c for r, c in items
+                     if r in (ROLE_TITLE, ROLE_SUBHEAD, ROLE_SUBSUBHEAD)),
+                    None,
+                ) or f"Section {src_ch}"
+            else:
+                h3_title = (
+                    next((c for r, c in items if r == ROLE_SUBHEAD), None)
+                    or next((c for r, c in items if r == ROLE_TITLE), None)
+                    or next((c for r, c in items if r == ROLE_SUBSUBHEAD), None)
+                    or f"Section {src_ch}"
+                )
             h3_title = strip_leading_number(h3_title)
 
-        out.append(f"### {h3_title} ^{BOOK_ID}-{src_ch}-0\n\n")
+        h3_line = f"### {h3_title} ^{BOOK_ID}-{src_ch}-0\n\n"
+        # With H3_FIRST_HEADING, text that precedes the chapter's first
+        # heading in the source (e.g. a second volume's homage line) is
+        # emitted before the ### line instead of after it.
+        h3_pending = H3_FIRST_HEADING and not h3_title.startswith("Section ")
+        if not h3_pending:
+            out.append(h3_line)
 
         # Per-chapter sub-section state
         h4_counter  = 0
@@ -447,9 +475,17 @@ def convert_json_to_commentary(
                 n_start = int(m.group(1))
                 n_end   = int(m.group(2)) if m.group(2) else n_start
                 rt_ids  = resolve_root_text_ids(BOOK_ID, root_ctx, n_start, n_end)
+                if ROOT_IDS is not None:
+                    # Link only to blocks that exist in the root text; log
+                    # the rest for the citation-irregularities report.
+                    missing = [r for r in rt_ids if r not in ROOT_IDS]
+                    if missing:
+                        UNRESOLVED.append((m.group(0).strip(), missing, content[:80]))
+                    rt_ids = [r for r in rt_ids if r in ROOT_IDS]
                 if rt_ids:
                     out.append(make_transclusions(rt_ids, ROOT_TEXT_PATH) + "\n\n")
-                content = _leading_strip_re.sub("", content).strip()
+                if not KEEP_REF_NUMBER:
+                    content = _leading_strip_re.sub("", content).strip()
 
             if not content:
                 return
@@ -457,6 +493,11 @@ def convert_json_to_commentary(
             out.append(f"{content} {vid}\n\n")
 
         for role, content in items:
+            if h3_pending and role in (ROLE_CHAPTER, ROLE_TITLE,
+                                       ROLE_SUBHEAD, ROLE_SUBSUBHEAD):
+                flush_gatha()
+                out.append(h3_line)
+                h3_pending = False
             if role == ROLE_CHAPTER:
                 if not consumed_h3:
                     consumed_h3 = True
@@ -467,6 +508,10 @@ def convert_json_to_commentary(
 
             if role == ROLE_TITLE:
                 flush_gatha()
+                if H3_FIRST_HEADING and not consumed_h3 and \
+                        strip_leading_number(content) == h3_title:
+                    consumed_h3 = True
+                    continue
                 seen_title  = True
                 h4_counter += 1
                 h5_counter  = 0
@@ -512,6 +557,8 @@ def convert_json_to_commentary(
             emit_verse(content, root_context)
 
         flush_gatha()  # safety flush at chapter end
+        if h3_pending:
+            out.append(h3_line)
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text("".join(out), encoding="utf-8")

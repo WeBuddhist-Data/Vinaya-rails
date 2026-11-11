@@ -182,6 +182,14 @@ Converts a translation that carries the root text inline (root lines, a separato
 Re-aligns a commentary that is aligned to one root text to a second root text containing the same passages, by carrying the existing alignment across.
 → [`commentary-realign/SKILL.md`](commentary-realign/SKILL.md)
 
+### `add-block-id-root-text`
+Pāli Tipiṭaka root texts from CST/tipitaka.org: content IDs `^book-N` from the printed paragraph numbers (zones only where numbering restarts), headings by sibling position. Vault-local, ported from the Abhidhamma vault.
+→ [`add-block-id-root-text/SKILL.md`](add-block-id-root-text/SKILL.md)
+
+### `add-block-id-commentary`
+Pāli aṭṭhakathā / ṭīkā files: one continuous content counter `^book-N` per file, headings by sibling position; the book is the root text's. Vault-local, ported from the Abhidhamma vault.
+→ [`add-block-id-commentary/SKILL.md`](add-block-id-commentary/SKILL.md)
+
 ### `add-block-ids`
 Adds block IDs so every verse, prose block and heading can be cited and transcluded. Modes for commentaries, root texts, and texts with no internal numbering.
 → [`add-block-ids/SKILL.md`](add-block-ids/SKILL.md)
@@ -211,6 +219,14 @@ Propagates human-curated author metadata from the commentary frontmatter in `1-S
 ---
 
 ## 6. Section rails
+
+### `atthakatha-summaries`
+Introductory summaries for every TOC level of a root text, strictly from its aṭṭhakathā → `2-RAILS/Sections/<text>-summaries.md`. Vault-local, ported from the Abhidhamma vault.
+→ [`atthakatha-summaries/SKILL.md`](atthakatha-summaries/SKILL.md)
+
+### `practice-summaries`
+Practice-oriented summaries for every TOC level of a root text, from its aṭṭhakathā → `2-RAILS/Sections/<text>-practice.md`. Vault-local, ported from the Abhidhamma vault.
+→ [`practice-summaries/SKILL.md`](practice-summaries/SKILL.md)
 
 ### `section-summary`
 Summarises one node of the structural outline: first once per commentary in that commentary's own language and terminology (`Sections/Raw/<commentary-id>/<node-id>.md`), then as one combined file with an English translation underneath (`Sections/<node-id>.md`).
