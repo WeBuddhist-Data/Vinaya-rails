@@ -16,6 +16,9 @@ source_filename: romn/vin01m.mul.xml
 source: "https://github.com/VipassanaTech/tipitaka-xml/blob/main/romn/vin01m.mul.xml"
 other_ids:
   - tipitaka.org: vin01m
+text_id: NeySMirSFLEgeMNztyy7J
+edition_id: LOajhD42NZB0aoZx6eb3h
+toc_id: 09jFySGJHb2Cc4cmPuP00
 ---
 
 Namo tassa bhagavato arahato sammāsambuddhassa ^T-1

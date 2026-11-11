@@ -21,6 +21,11 @@ other_ids:
   - tipitaka.org: vin01t1
   - tipitaka.org: vin01t2
 source_note: "4 citation(s) use CST's truncated-tail range form ('61-2.' = 61-62, '142-3.' = 142-143, '148-9.' = 148-149, …); kept as printed and linked to the full range. In the Saṅghādisesakaṇḍa (after the citation '236-237.'), the retelling of King Kosala's sixteen dreams numbers the dreams 1-16 and then their meanings 1-16; CST marks these as paragraph numbers, so they are linked to root paragraphs 1-16 (32 links) exactly as printed, as tipitaka.app also links them. They are list numbers, not citations."
+commentary_of: NeySMirSFLEgeMNztyy7J
+text_id: PcV57z4T2gqDv1ILRtdlE
+edition_id: Sn25vAbquEf1le6nDc5xk
+toc_id: V1PXPTR6YbLW6PzJtVPoF
+aligned_to_edition_id: LOajhD42NZB0aoZx6eb3h
 ---
 
 Namo tassa bhagavato arahato sammāsambuddhassa ^T-1

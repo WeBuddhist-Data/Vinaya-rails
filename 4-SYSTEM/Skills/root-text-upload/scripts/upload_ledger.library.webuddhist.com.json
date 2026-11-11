@@ -1,0 +1,33 @@
+{
+ "pi-1": {
+  "edition_id": "MFOWkY29Osjzqoe6nWJ35",
+  "file_type": "root-text",
+  "lang_tag": "pi",
+  "log": [
+   {
+    "step": "text",
+    "text_id": "145hytwp0dxLJg48dLpXl",
+    "ts": "2026-11-11T17:15:45"
+   },
+   {
+    "chars": 641228,
+    "edition_id": "MFOWkY29Osjzqoe6nWJ35",
+    "segments": 675,
+    "step": "edition",
+    "ts": "2026-11-11T17:15:53"
+   },
+   {
+    "step": "toc",
+    "subsections": 1,
+    "toc_id": "RGUDeqlb9rGHFudZARnDH",
+    "ts": "2026-11-11T17:15:53"
+   }
+  ],
+  "source_file": "1-SOURCES/Text/pi-1.md",
+  "text_id": "145hytwp0dxLJg48dLpXl",
+  "toc_id": "RGUDeqlb9rGHFudZARnDH",
+  "host": "https://library.webuddhist.com",
+  "note": "Uploaded to the wrong environment on 2026-11-11 (the script's default host, not prod library-prod.webuddhist.com). Kept as a record; the text still exists there.",
+  "deleted": "2026-11-11: table of contents, edition and text deleted on request (all three returned 204)"
+ }
+}

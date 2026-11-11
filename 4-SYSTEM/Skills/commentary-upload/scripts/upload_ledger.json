@@ -1,1 +1,150 @@
-{}
+{
+  "pi-parajika-atthakatha": {
+    "aligned_to_edition_id": "LOajhD42NZB0aoZx6eb3h",
+    "edition_id": "G5Xf8XNTGD4j85Tm6OIIx",
+    "file_type": "commentary",
+    "lang_tag": "pi",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "lfmZoqj9eYuJrsOUTSM4Z",
+        "ts": "2026-11-11T17:38:21"
+      },
+      {
+        "chars": 1175920,
+        "edition_id": "G5Xf8XNTGD4j85Tm6OIIx",
+        "segments": 2539,
+        "step": "edition",
+        "ts": "2026-11-11T17:38:23"
+      },
+      {
+        "nodes": 151,
+        "step": "toc",
+        "toc_id": "cXGimhcIN5SBGDEd4HMpK",
+        "ts": "2026-11-11T17:38:24"
+      },
+      {
+        "pairs": 2468,
+        "root_edition_id": "LOajhD42NZB0aoZx6eb3h",
+        "step": "alignment",
+        "ts": "2026-11-11T17:38:37"
+      }
+    ],
+    "root_edition_id": "LOajhD42NZB0aoZx6eb3h",
+    "root_text_id": "NeySMirSFLEgeMNztyy7J",
+    "source_file": "1-SOURCES/Commentaries/pi-parajika-atthakatha.md",
+    "text_id": "lfmZoqj9eYuJrsOUTSM4Z",
+    "toc_id": "cXGimhcIN5SBGDEd4HMpK"
+  },
+  "pi-parajika-saratthadipani": {
+    "aligned_to_edition_id": "LOajhD42NZB0aoZx6eb3h",
+    "edition_id": "Sn25vAbquEf1le6nDc5xk",
+    "file_type": "commentary",
+    "lang_tag": "pi",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "PcV57z4T2gqDv1ILRtdlE",
+        "ts": "2026-11-11T17:38:41"
+      },
+      {
+        "chars": 1655243,
+        "edition_id": "Sn25vAbquEf1le6nDc5xk",
+        "segments": 2785,
+        "step": "edition",
+        "ts": "2026-11-11T17:38:43"
+      },
+      {
+        "nodes": 153,
+        "step": "toc",
+        "toc_id": "V1PXPTR6YbLW6PzJtVPoF",
+        "ts": "2026-11-11T17:38:43"
+      },
+      {
+        "pairs": 2388,
+        "root_edition_id": "LOajhD42NZB0aoZx6eb3h",
+        "step": "alignment",
+        "ts": "2026-11-11T17:38:58"
+      }
+    ],
+    "root_edition_id": "LOajhD42NZB0aoZx6eb3h",
+    "root_text_id": "NeySMirSFLEgeMNztyy7J",
+    "source_file": "1-SOURCES/Commentaries/pi-parajika-saratthadipani.md",
+    "text_id": "PcV57z4T2gqDv1ILRtdlE",
+    "toc_id": "V1PXPTR6YbLW6PzJtVPoF"
+  },
+  "pi-parajika-vajirabuddhi": {
+    "aligned_to_edition_id": "LOajhD42NZB0aoZx6eb3h",
+    "edition_id": "FDVzp6dZeXBwYcEhN51bA",
+    "file_type": "commentary",
+    "lang_tag": "pi",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "URgLMpwpciSEK0p2jJwXF",
+        "ts": "2026-11-11T17:39:10"
+      },
+      {
+        "chars": 523159,
+        "edition_id": "FDVzp6dZeXBwYcEhN51bA",
+        "segments": 725,
+        "step": "edition",
+        "ts": "2026-11-11T17:39:11"
+      },
+      {
+        "nodes": 112,
+        "step": "toc",
+        "toc_id": "3m16VwQdQaxa7skqYnhx2",
+        "ts": "2026-11-11T17:39:11"
+      },
+      {
+        "pairs": 748,
+        "root_edition_id": "LOajhD42NZB0aoZx6eb3h",
+        "step": "alignment",
+        "ts": "2026-11-11T17:39:13"
+      }
+    ],
+    "root_edition_id": "LOajhD42NZB0aoZx6eb3h",
+    "root_text_id": "NeySMirSFLEgeMNztyy7J",
+    "source_file": "1-SOURCES/Commentaries/pi-parajika-vajirabuddhi.md",
+    "text_id": "URgLMpwpciSEK0p2jJwXF",
+    "toc_id": "3m16VwQdQaxa7skqYnhx2"
+  },
+  "pi-parajika-vimativinodani": {
+    "aligned_to_edition_id": "LOajhD42NZB0aoZx6eb3h",
+    "edition_id": "9lWiR3WIQyOUIKw74nBhX",
+    "file_type": "commentary",
+    "lang_tag": "pi",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "p2lM0D26XkcAZZB1PkeCP",
+        "ts": "2026-11-11T17:39:02"
+      },
+      {
+        "chars": 656711,
+        "edition_id": "9lWiR3WIQyOUIKw74nBhX",
+        "segments": 1026,
+        "step": "edition",
+        "ts": "2026-11-11T17:39:03"
+      },
+      {
+        "nodes": 138,
+        "step": "toc",
+        "toc_id": "KB82fiahYzeJ9fGItFywT",
+        "ts": "2026-11-11T17:39:03"
+      },
+      {
+        "pairs": 954,
+        "root_edition_id": "LOajhD42NZB0aoZx6eb3h",
+        "step": "alignment",
+        "ts": "2026-11-11T17:39:07"
+      }
+    ],
+    "root_edition_id": "LOajhD42NZB0aoZx6eb3h",
+    "root_text_id": "NeySMirSFLEgeMNztyy7J",
+    "source_file": "1-SOURCES/Commentaries/pi-parajika-vimativinodani.md",
+    "text_id": "p2lM0D26XkcAZZB1PkeCP",
+    "toc_id": "KB82fiahYzeJ9fGItFywT"
+  }
+}

@@ -1,5 +1,5 @@
 ---
-title: Samantapāsādikā (Pārājika)
+title: Pārājikakaṇḍa-aṭṭhakathā
 language: Pali
 script: Roman (PTS diacritics)
 file_type: commentary
@@ -20,6 +20,11 @@ source: "https://github.com/VipassanaTech/tipitaka-xml/blob/main/romn/vin01a.att
 other_ids:
   - tipitaka.org: vin01a
 source_note: "26 citation(s) use CST's truncated-tail range form ('133-4.' = 133-134, '142-3.' = 142-143, '148-9.' = 148-149, …); kept as printed and linked to the full range."
+commentary_of: NeySMirSFLEgeMNztyy7J
+text_id: lfmZoqj9eYuJrsOUTSM4Z
+edition_id: G5Xf8XNTGD4j85Tm6OIIx
+toc_id: cXGimhcIN5SBGDEd4HMpK
+aligned_to_edition_id: LOajhD42NZB0aoZx6eb3h
 ---
 
 Namo tassa bhagavato arahato sammāsambuddhassa ^T-1

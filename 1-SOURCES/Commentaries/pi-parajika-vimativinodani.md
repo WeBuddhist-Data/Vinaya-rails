@@ -14,12 +14,17 @@ copyright: Public domain
 license: cc0
 category_id: 4wuvGxIgXNZ5mb0bDWvkC
 tag_ids: [296WZOr8MXWteSqBBI7pl]
-source_description: Chaṭṭha Saṅgāyana Tipiṭaka (CST) romanised XML, VipassanaTech/tipitaka-xml romn/vin07t.nrf.xml — the part commenting on Pārājika; 1181 segments; root citations linked by printed paragraph number.
+source_description: Chaṭṭha Saṅgāyana Tipiṭaka (CST) romanised XML, VipassanaTech/tipitaka-xml romn/vin07t.nrf.xml — the part commenting on Pārājika; 1179 segments; root citations linked by printed paragraph number.
 source_filename: romn/vin07t.nrf.xml
 source: "https://github.com/VipassanaTech/tipitaka-xml/blob/main/romn/vin07t.nrf.xml"
 other_ids:
   - tipitaka.org: vin07t
 source_note: "18 citation(s) use CST's truncated-tail range form ('20-1.' = 20-21, '61-2.' = 61-62, '140-1.' = 140-141, …); kept as printed and linked to the full range."
+commentary_of: NeySMirSFLEgeMNztyy7J
+text_id: p2lM0D26XkcAZZB1PkeCP
+edition_id: 9lWiR3WIQyOUIKw74nBhX
+toc_id: KB82fiahYzeJ9fGItFywT
+aligned_to_edition_id: LOajhD42NZB0aoZx6eb3h
 ---
 
 Namo tassa bhagavato arahato sammāsambuddhassa ^T-1
@@ -2973,8 +2978,4 @@ Iti samantapāsādikāya vinayaṭṭhakathāya vimativinodaniyaṃ ^1-1023
 Tiṃsakavaṇṇanānayo niṭṭhito. ^1-1024
 
 Paṭhamo bhāgo niṭṭhito. ^1-1025
-
-Namo tassa bhagavato arahato sammāsambuddhassa ^1-1026
-
-Vinayapiṭake ^1-1027
 

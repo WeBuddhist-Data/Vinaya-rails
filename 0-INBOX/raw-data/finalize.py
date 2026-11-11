@@ -23,7 +23,7 @@ BOOK = {1: ("parajika", "Pārājika"), 2: ("pacittiya", "Pācittiya"),
         3: ("mahavagga", "Mahāvagga"), 4: ("culavagga", "Cūḷavagga"),
         5: ("parivara", "Parivāra")}
 WORK = {
-    "atthakatha": ("Samantapāsādikā", "atthakatha"),
+    "atthakatha": ("Samantapāsādikā", "atthakatha"),  # title taken from the source file, see main()
     "saratthadipani": ("Sāratthadīpanī-ṭīkā", "tika"),
     "vimativinodani": ("Vimativinodanī-ṭīkā", "tika"),
     "vajirabuddhi": ("Vajirabuddhi-ṭīkā", "tika"),
@@ -39,6 +39,15 @@ KNOWN_IRREGULARITIES = {
         "sixteen dreams numbers the dreams 1-16 and then their meanings 1-16; CST marks these as "
         "paragraph numbers, so they are linked to root paragraphs 1-16 (32 links) exactly as "
         "printed, as tipitaka.app also links them. They are list numbers, not citations."),
+    # Found in the tipitaka-xml check, 2026-11-11 (0-INBOX/vinaya-tipitaka-xml-audit.md).
+    "pi-pacittiya-vajirabuddhi": (
+        "In the Kāṇamātāsikkhāpadavaṇṇanā, between the citations '229.' and '236.', CST prints "
+        "'31-3.' where root paragraphs 231-233 are meant (the lemmas paṭiyāloka, pūvagaṇanā are "
+        "in 2-231 and 2-233); linked exactly as printed, to 2-31-2-33."),
+    "pi-mahavagga-vimativinodani": (
+        "In the Mahākhandhaka, between the citations '23.' and '26.', CST prints '15.' where root "
+        "paragraph 25 is meant (the lemmas āḷambara, vikesika are in 3-25, Yasa's story); "
+        "linked exactly as printed, to 3-15."),
 }
 
 
@@ -107,7 +116,12 @@ def main():
         ext = data["layer_type"]
         text = p.read_text(encoding="utf-8")
         cited = sorted({int(m) for m in re.findall(rf"!\[\[1-SOURCES/Text/pi-{b}\.md#\^{b}-(\d+)\]\]", text)})
-        title = f"{wname} ({BOOK[b][1]})"
+        if work == "atthakatha":
+            # The aṭṭhakathā's own title as CST and tipitaka.app print it
+            # (e.g. 'Pārājikakaṇḍa-aṭṭhakathā'), without the volume label.
+            title = re.sub(r"\s*\((paṭhamo|dutiyo|tatiyo) bhāgo\)$", "", data["title_pali"])
+        else:
+            title = f"{wname} ({BOOK[b][1]})"
         meta = {
             "title": title, "language": "Pali", "script": "Roman (PTS diacritics)",
             "file_type": "commentary", "registered_id": f"{slug}-{work}", "lang_tag": "pi",
