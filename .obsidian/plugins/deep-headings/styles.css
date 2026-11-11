@@ -1,0 +1,42 @@
+/* Deep headings (7+ '#'): styled like h6, with a fold arrow. */
+
+/* Editor */
+.cm-line.deep-heading-line {
+  font-weight: var(--h6-weight, 600);
+  font-size: var(--h6-size);
+  color: var(--h6-color);
+}
+.deep-heading-fold {
+  display: inline-block;
+  width: 1.1em;
+  margin-inline-start: -1.1em;
+  cursor: pointer;
+  color: var(--text-faint);
+  text-align: center;
+}
+.deep-heading-fold::before { content: "▾"; }
+.deep-heading-fold.is-collapsed::before { content: "▸"; }
+.deep-heading-fold:hover { color: var(--text-normal); }
+
+/* Reading view */
+.deep-heading {
+  display: flex;
+  align-items: baseline;
+  margin-block: var(--p-spacing) 0;
+  font-weight: var(--h6-weight, 600);
+  font-size: var(--h6-size);
+  color: var(--h6-color);
+  line-height: var(--h6-line-height, 1.5);
+}
+.deep-heading-toggle {
+  flex: none;
+  width: 1.1em;
+  margin-inline-start: -1.1em;
+  cursor: pointer;
+  color: var(--text-faint);
+  text-align: center;
+}
+.deep-heading-toggle::before { content: "▾"; }
+.deep-heading.is-collapsed .deep-heading-toggle::before { content: "▸"; }
+.deep-heading-toggle:hover { color: var(--text-normal); }
+.deep-heading-hidden { display: none !important; }

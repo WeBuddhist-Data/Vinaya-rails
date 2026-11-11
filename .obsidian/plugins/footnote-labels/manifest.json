@@ -1,0 +1,9 @@
+{
+  "id": "footnote-labels",
+  "name": "Footnote labels",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Shows each footnote's real label (d1, n1) in the reading-view footnote list instead of Obsidian's running number.",
+  "author": "OpenPecha",
+  "isDesktopOnly": false
+}

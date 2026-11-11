@@ -1,0 +1,29 @@
+/* "Footnote list" sidebar: one plain line per footnote. */
+.footnote-list-view { display: flex; flex-direction: column; gap: var(--size-4-2); }
+.footnote-list-filter { width: 100%; }
+.footnote-list-count { font-size: var(--font-ui-smaller); color: var(--text-muted); }
+.footnote-list-row {
+  display: flex;
+  gap: var(--size-4-1);
+  font-size: var(--font-ui-small);
+  line-height: 1.5;
+}
+.footnote-list-label,
+.footnote-list-text {
+  padding: var(--size-2-1) var(--size-4-1);
+  border-radius: var(--radius-s);
+}
+.footnote-list-label {
+  flex: none;
+  min-width: 3em;
+  color: var(--text-muted);
+  font-variant-numeric: tabular-nums;
+}
+.footnote-list-text { flex: 1; overflow-wrap: anywhere; }
+.footnote-list-row [data-line] { cursor: pointer; }
+.footnote-list-row [data-line]:hover { background: var(--background-modifier-hover); }
+/* The entry a click in the sidebar landed on, in reading view. */
+@keyframes footnote-list-flash { from { background: var(--text-highlight-bg); } to { background: transparent; } }
+.footnotes li.footnote-list-flash { animation: footnote-list-flash 1.5s ease-out; }
+.footnote-list-text.is-missing,
+.footnote-list-row.is-orphan .footnote-list-text { color: var(--text-error); }

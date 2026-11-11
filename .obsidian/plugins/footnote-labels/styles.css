@@ -1,0 +1,6 @@
+/* Footnote list in reading view: show "[d1]: " instead of "1.". */
+.footnotes ol:has(> li[data-footlabel]) { padding-inline-start: 0; }
+.footnotes li[data-footlabel] { list-style: none; }
+.footnotes li[data-footlabel] > p:first-child::before {
+  content: "[" attr(data-footlabel) "]: ";
+}

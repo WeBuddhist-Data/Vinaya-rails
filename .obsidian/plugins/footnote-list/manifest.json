@@ -1,0 +1,9 @@
+{
+  "id": "footnote-list",
+  "name": "Footnote list",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "A sidebar listing every footnote of the open note as plain text, in marker order. Click the label to go to the marker, the text to the definition.",
+  "author": "OpenPecha",
+  "isDesktopOnly": false
+}

@@ -1,0 +1,3 @@
+Read `4-SYSTEM/Skills/commentary-realign/SKILL.md` in full, then execute it on the file(s) or input the user specifies.
+
+Skill purpose: Make a copy of a commentary that is aligned to one root text, re-aligned to a second root text that contains the same root passages (possibly several times), by carrying the existing alignment across: every transcluded root block is matched to all of its occurrences in the new root, the copy's transclusions are re-pointed there, its frontmatter is re-pointed and cleared of the old live ids and given a new unique title, the result is verified against the old alignment, and the old file is deleted.

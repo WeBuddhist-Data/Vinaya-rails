@@ -1,0 +1,3 @@
+Read `4-SYSTEM/Skills/aligned-corpus-intake/SKILL.md` in full, then execute it on the file(s) or input the user specifies.
+
+Skill purpose: Turn a human-made, human-segmented and human-aligned corpus — OpenPecha API downloads and Dzongsar-style Google-Docs exports (.docx Tsadel/Tsadrel line-parallel alignments, sentence segmentations, citation and sa-bcad TOC docs, numbered alignment references, metadata sheets; or the same Docs downloaded as Markdown row-for-row pairs with CSV metadata) — into vault source files in 1-SOURCES/ that the WeBuddhist library linter/parser publishes: root texts, aligned translations and commentaries with headings, block ids and transclusions, plus a lossless sidecar of every annotation layer.

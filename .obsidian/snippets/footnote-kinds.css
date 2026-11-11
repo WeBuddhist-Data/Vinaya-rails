@@ -1,0 +1,8 @@
+/* Footnote labels: show the real label ([d1], [n1], [x1]) in reading view and
+   hover popups in place of Obsidian's running number. The letter tells the
+   kind apart: d = durchen (variant reading), other letters other notes. */
+.footnote-link[data-footref] { font-size: 0; }
+.footnote-link[data-footref]::after {
+  content: "[" attr(data-footref) "]";
+  font-size: var(--font-ui-smaller);
+}
