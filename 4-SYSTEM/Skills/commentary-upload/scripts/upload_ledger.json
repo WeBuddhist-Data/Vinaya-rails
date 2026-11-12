@@ -28,13 +28,26 @@
         "root_edition_id": "MAjWAYsgc2Iyv5wtXcOcc",
         "step": "alignment",
         "ts": "2026-11-12T10:28:05"
+      },
+      {
+        "note": "contents tree replaced (DELETE + POST): source form (tipitaka-xml / tipitaka.app): printed heading and paragraph numbers kept, the piṭaka heading as printed, notes as {…}",
+        "step": "toc",
+        "toc_id": "qcCFqKJLR7lYSoRkRv3PB",
+        "ts": "2026-11-12T11:16:23"
+      },
+      {
+        "note": "pairs put back (PUT) after the root's segmentation was replaced; the same pairs as before",
+        "pairs": 1389,
+        "root_edition_id": "MAjWAYsgc2Iyv5wtXcOcc",
+        "step": "realign",
+        "ts": "2026-11-12T11:16:37"
       }
     ],
     "root_edition_id": "MAjWAYsgc2Iyv5wtXcOcc",
     "root_text_id": "QUJx63k0I45O2i7ypmZRP",
     "source_file": "1-SOURCES/Commentaries/pi-pacittiya-atthakatha.md",
     "text_id": "zyKRXBrnCwF2C09KgyDtp",
-    "toc_id": "Eg6tvJxuh2iyISa05D81z"
+    "toc_id": "qcCFqKJLR7lYSoRkRv3PB"
   },
   "pi-pacittiya-saratthadipani": {
     "aligned_to_edition_id": "MAjWAYsgc2Iyv5wtXcOcc",
@@ -65,13 +78,26 @@
         "root_edition_id": "MAjWAYsgc2Iyv5wtXcOcc",
         "step": "alignment",
         "ts": "2026-11-12T10:28:21"
+      },
+      {
+        "note": "contents tree replaced (DELETE + POST): source form (tipitaka-xml / tipitaka.app): printed heading and paragraph numbers kept, the piṭaka heading as printed, notes as {…}",
+        "step": "toc",
+        "toc_id": "k5traw26hraiDBSUVDknB",
+        "ts": "2026-11-12T11:16:23"
+      },
+      {
+        "note": "pairs put back (PUT) after the root's segmentation was replaced; the same pairs as before",
+        "pairs": 820,
+        "root_edition_id": "MAjWAYsgc2Iyv5wtXcOcc",
+        "step": "realign",
+        "ts": "2026-11-12T11:16:37"
       }
     ],
     "root_edition_id": "MAjWAYsgc2Iyv5wtXcOcc",
     "root_text_id": "QUJx63k0I45O2i7ypmZRP",
     "source_file": "1-SOURCES/Commentaries/pi-pacittiya-saratthadipani.md",
     "text_id": "tqqaZvFMtg2ZyqqO8YD1v",
-    "toc_id": "h5XGfFz3G9D74u56XNpcn"
+    "toc_id": "k5traw26hraiDBSUVDknB"
   },
   "pi-pacittiya-vajirabuddhi": {
     "aligned_to_edition_id": "MAjWAYsgc2Iyv5wtXcOcc",
@@ -102,13 +128,31 @@
         "root_edition_id": "MAjWAYsgc2Iyv5wtXcOcc",
         "step": "alignment",
         "ts": "2026-11-12T10:28:46"
+      },
+      {
+        "note": "source form (tipitaka-xml / tipitaka.app): printed heading and paragraph numbers kept, the piṭaka heading as printed, notes as {…} ; the added homage removed (PATCH content replace; DELETE + POST segmentation)",
+        "step": "content",
+        "ts": "2026-11-12T11:16:23"
+      },
+      {
+        "note": "contents tree replaced (DELETE + POST): source form (tipitaka-xml / tipitaka.app): printed heading and paragraph numbers kept, the piṭaka heading as printed, notes as {…}",
+        "step": "toc",
+        "toc_id": "moiBkUuN4r5uWuTZMwGVi",
+        "ts": "2026-11-12T11:16:23"
+      },
+      {
+        "note": "pairs put back (PUT) after the root's segmentation was replaced; the same pairs as before",
+        "pairs": 670,
+        "root_edition_id": "MAjWAYsgc2Iyv5wtXcOcc",
+        "step": "realign",
+        "ts": "2026-11-12T11:16:37"
       }
     ],
     "root_edition_id": "MAjWAYsgc2Iyv5wtXcOcc",
     "root_text_id": "QUJx63k0I45O2i7ypmZRP",
     "source_file": "1-SOURCES/Commentaries/pi-pacittiya-vajirabuddhi.md",
     "text_id": "NhOl0hggpKU6eN4IHBTrv",
-    "toc_id": "0o8RLh4pf4FREk68CDcaG"
+    "toc_id": "moiBkUuN4r5uWuTZMwGVi"
   },
   "pi-pacittiya-vimativinodani": {
     "aligned_to_edition_id": "MAjWAYsgc2Iyv5wtXcOcc",
@@ -139,13 +183,26 @@
         "root_edition_id": "MAjWAYsgc2Iyv5wtXcOcc",
         "step": "alignment",
         "ts": "2026-11-12T10:28:34"
+      },
+      {
+        "note": "contents tree replaced (DELETE + POST): source form (tipitaka-xml / tipitaka.app): printed heading and paragraph numbers kept, the piṭaka heading as printed, notes as {…}",
+        "step": "toc",
+        "toc_id": "yj0LnzE4h98ciF52dkXHL",
+        "ts": "2026-11-12T11:16:23"
+      },
+      {
+        "note": "pairs put back (PUT) after the root's segmentation was replaced; the same pairs as before",
+        "pairs": 793,
+        "root_edition_id": "MAjWAYsgc2Iyv5wtXcOcc",
+        "step": "realign",
+        "ts": "2026-11-12T11:16:37"
       }
     ],
     "root_edition_id": "MAjWAYsgc2Iyv5wtXcOcc",
     "root_text_id": "QUJx63k0I45O2i7ypmZRP",
     "source_file": "1-SOURCES/Commentaries/pi-pacittiya-vimativinodani.md",
     "text_id": "wKH7J4lNoLp5ZzfRuv4Uk",
-    "toc_id": "EkEPigy5IKQ3XLnybHzJL"
+    "toc_id": "yj0LnzE4h98ciF52dkXHL"
   },
   "pi-pacittiya-yojana": {
     "aligned_to_edition_id": "MAjWAYsgc2Iyv5wtXcOcc",
@@ -176,13 +233,26 @@
         "root_edition_id": "MAjWAYsgc2Iyv5wtXcOcc",
         "step": "alignment",
         "ts": "2026-11-12T10:29:01"
+      },
+      {
+        "note": "contents tree replaced (DELETE + POST): source form (tipitaka-xml / tipitaka.app): printed heading and paragraph numbers kept, the piṭaka heading as printed, notes as {…}",
+        "step": "toc",
+        "toc_id": "cFJ1PLAa9CtivQ3LI075l",
+        "ts": "2026-11-12T11:16:23"
+      },
+      {
+        "note": "pairs put back (PUT) after the root's segmentation was replaced; the same pairs as before",
+        "pairs": 751,
+        "root_edition_id": "MAjWAYsgc2Iyv5wtXcOcc",
+        "step": "realign",
+        "ts": "2026-11-12T11:16:37"
       }
     ],
     "root_edition_id": "MAjWAYsgc2Iyv5wtXcOcc",
     "root_text_id": "QUJx63k0I45O2i7ypmZRP",
     "source_file": "1-SOURCES/Commentaries/pi-pacittiya-yojana.md",
     "text_id": "vsbm8MUFloI3jclNqO5r4",
-    "toc_id": "hQn11YRtaqeL4pg2LOv4b"
+    "toc_id": "cFJ1PLAa9CtivQ3LI075l"
   },
   "pi-parajika-atthakatha": {
     "aligned_to_edition_id": "LOajhD42NZB0aoZx6eb3h",

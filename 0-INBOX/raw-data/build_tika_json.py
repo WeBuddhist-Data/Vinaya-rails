@@ -99,15 +99,10 @@ def main():
                 j = next(n for n, s in enumerate(part) if s["content"] == boundary
                          and s["css_class"] in ("chapter", "book"))
                 head = part[:j]              # homage [+ piṭaka name] [+ work title]
-                # Every part opens with the homage (^T-1), as every Abhidhamma
-                # commentary part does (abhidhamma-rails pi-4 … pi-7 reports:
-                # "homage line ^T-1 at the top of the ṭīkās"). A single-volume
-                # work (vin06t Vajirabuddhi) prints it only once, at the start:
-                # the later parts get it here, as they get the piṭaka line.
-                homage = [s for s in head if s["content"].startswith("Namo tassa")] or [
-                    {"id": "synthetic_homage", "chapter": part[j]["chapter"],
-                     "paragraph": "k0", "content": "Namo tassa bhagavato arahato sammāsambuddhassa",
-                     "css_class": "centered", "synthetic": True}]
+                # The homage only where the source prints it: a single-volume
+                # work (vin06t Vajirabuddhi) prints it once, before its first
+                # part, so its later parts open without one.
+                homage = [s for s in head if s["content"].startswith("Namo tassa")]
                 pitaka = [dict(s, css_class="nikaya") for s in head
                           if s["content"] == "Vinayapiṭake"][:1] or [
                     {"id": "synthetic_nikaya", "chapter": part[j]["chapter"],

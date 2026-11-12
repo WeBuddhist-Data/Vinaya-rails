@@ -2,11 +2,11 @@
   "sections": [
     {
       "title": {
-        "pi": "Vinayapiṭake (ṭīkā)"
+        "pi": "Vinayapiṭake"
       },
       "span": {
-        "start": 46,
-        "end": 147395
+        "start": 0,
+        "end": 147349
       },
       "subsections": [
         {
@@ -14,1041 +14,1041 @@
             "pi": "Pācittiyavaṇṇanā"
           },
           "span": {
-            "start": 46,
-            "end": 147395
+            "start": 0,
+            "end": 147349
           },
           "subsections": [
             {
               "title": {
-                "pi": "Pācittiyakaṇḍo"
+                "pi": "5. Pācittiyakaṇḍo"
               },
               "span": {
-                "start": 46,
-                "end": 46
+                "start": 0,
+                "end": 0
               }
             },
             {
               "title": {
-                "pi": "Musāvādavaggo"
+                "pi": "1. Musāvādavaggo"
               },
               "span": {
-                "start": 46,
-                "end": 18871
+                "start": 0,
+                "end": 18825
               },
               "subsections": [
                 {
                   "title": {
-                    "pi": "Musāvādasikkhāpadavaṇṇanā"
+                    "pi": "1. Musāvādasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 46,
-                    "end": 3905
+                    "start": 0,
+                    "end": 3859
                   }
                 },
                 {
                   "title": {
-                    "pi": "Omasavādasikkhāpadavaṇṇanā"
+                    "pi": "2. Omasavādasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 3905,
-                    "end": 6896
+                    "start": 3859,
+                    "end": 6850
                   }
                 },
                 {
                   "title": {
-                    "pi": "Pesuññasikkhāpadavaṇṇanā"
+                    "pi": "3. Pesuññasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 6896,
-                    "end": 8413
+                    "start": 6850,
+                    "end": 8367
                   }
                 },
                 {
                   "title": {
-                    "pi": "Padasodhammasikkhāpadavaṇṇanā"
+                    "pi": "4. Padasodhammasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 8413,
-                    "end": 14121
+                    "start": 8367,
+                    "end": 14075
                   }
                 },
                 {
                   "title": {
-                    "pi": "Paṭhamasahaseyyasikkhāpadavaṇṇanā"
+                    "pi": "5. Paṭhamasahaseyyasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 14121,
-                    "end": 15394
+                    "start": 14075,
+                    "end": 15348
                   }
                 },
                 {
                   "title": {
-                    "pi": "Dutiyasahaseyyasikkhāpadavaṇṇanā"
+                    "pi": "6. Dutiyasahaseyyasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 15394,
-                    "end": 15811
+                    "start": 15348,
+                    "end": 15765
                   }
                 },
                 {
                   "title": {
-                    "pi": "Dhammadesanāsikkhāpadavaṇṇanā"
+                    "pi": "7. Dhammadesanāsikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 15811,
-                    "end": 16679
+                    "start": 15765,
+                    "end": 16633
                   }
                 },
                 {
                   "title": {
-                    "pi": "Bhūtārocanasikkhāpadavaṇṇanā"
+                    "pi": "8. Bhūtārocanasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 16679,
-                    "end": 17179
+                    "start": 16633,
+                    "end": 17133
                   }
                 },
                 {
                   "title": {
-                    "pi": "Duṭṭhullārocanasikkhāpadavaṇṇanā"
+                    "pi": "9. Duṭṭhullārocanasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 17179,
-                    "end": 17729
+                    "start": 17133,
+                    "end": 17683
                   }
                 },
                 {
                   "title": {
-                    "pi": "Pathavīkhaṇanasikkhāpadavaṇṇanā"
+                    "pi": "10. Pathavīkhaṇanasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 17729,
-                    "end": 18871
+                    "start": 17683,
+                    "end": 18825
                   }
                 }
               ]
             },
             {
               "title": {
-                "pi": "Bhūtagāmavaggo"
+                "pi": "2. Bhūtagāmavaggo"
               },
               "span": {
-                "start": 18871,
-                "end": 28847
+                "start": 18825,
+                "end": 28801
               },
               "subsections": [
                 {
                   "title": {
-                    "pi": "Bhūtagāmasikkhāpadavaṇṇanā"
+                    "pi": "1. Bhūtagāmasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 18871,
-                    "end": 21330
+                    "start": 18825,
+                    "end": 21284
                   }
                 },
                 {
                   "title": {
-                    "pi": "Aññavādakasikkhāpadavaṇṇanā"
+                    "pi": "2. Aññavādakasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 21330,
-                    "end": 21889
+                    "start": 21284,
+                    "end": 21843
                   }
                 },
                 {
                   "title": {
-                    "pi": "Ujjhāpanakasikkhāpadavaṇṇanā"
+                    "pi": "3. Ujjhāpanakasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 21889,
-                    "end": 22711
+                    "start": 21843,
+                    "end": 22665
                   }
                 },
                 {
                   "title": {
-                    "pi": "Paṭhamasenāsanasikkhāpadavaṇṇanā"
+                    "pi": "4. Paṭhamasenāsanasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 22711,
-                    "end": 25438
+                    "start": 22665,
+                    "end": 25392
                   }
                 },
                 {
                   "title": {
-                    "pi": "Dutiyasenāsanasikkhāpadavaṇṇanā"
+                    "pi": "5. Dutiyasenāsanasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 25438,
-                    "end": 26155
+                    "start": 25392,
+                    "end": 26109
                   }
                 },
                 {
                   "title": {
-                    "pi": "Anupakhajjasikkhāpadavaṇṇanā"
+                    "pi": "6. Anupakhajjasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 26155,
-                    "end": 27221
+                    "start": 26109,
+                    "end": 27175
                   }
                 },
                 {
                   "title": {
-                    "pi": "Nikkaḍḍhanasikkhāpadavaṇṇanā"
+                    "pi": "7. Nikkaḍḍhanasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 27221,
-                    "end": 27418
+                    "start": 27175,
+                    "end": 27372
                   }
                 },
                 {
                   "title": {
-                    "pi": "Vehāsakuṭisikkhāpadavaṇṇanā"
+                    "pi": "8. Vehāsakuṭisikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 27418,
-                    "end": 27563
+                    "start": 27372,
+                    "end": 27517
                   }
                 },
                 {
                   "title": {
-                    "pi": "Mahallakavihārasikkhāpadavaṇṇanā"
+                    "pi": "9. Mahallakavihārasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 27563,
-                    "end": 28761
+                    "start": 27517,
+                    "end": 28715
                   }
                 },
                 {
                   "title": {
-                    "pi": "Sappāṇakasikkhāpadavaṇṇanā"
+                    "pi": "10. Sappāṇakasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 28761,
-                    "end": 28847
+                    "start": 28715,
+                    "end": 28801
                   }
                 }
               ]
             },
             {
               "title": {
-                "pi": "Ovādavaggo"
+                "pi": "3. Ovādavaggo"
               },
               "span": {
-                "start": 28847,
-                "end": 40209
+                "start": 28801,
+                "end": 40163
               },
               "subsections": [
                 {
                   "title": {
-                    "pi": "Ovādasikkhāpadavaṇṇanā"
+                    "pi": "1. Ovādasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 28847,
-                    "end": 32426
+                    "start": 28801,
+                    "end": 32380
                   }
                 },
                 {
                   "title": {
-                    "pi": "Atthaṅgatasikkhāpadavaṇṇanā"
+                    "pi": "2. Atthaṅgatasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 32426,
-                    "end": 33488
+                    "start": 32380,
+                    "end": 33442
                   }
                 },
                 {
                   "title": {
-                    "pi": "Bhikkhunupassayasikkhāpadavaṇṇanā"
+                    "pi": "3. Bhikkhunupassayasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 33488,
-                    "end": 34226
+                    "start": 33442,
+                    "end": 34180
                   }
                 },
                 {
                   "title": {
-                    "pi": "Āmisasikkhāpadavaṇṇanā"
+                    "pi": "4. Āmisasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 34226,
-                    "end": 36770
+                    "start": 34180,
+                    "end": 36724
                   }
                 },
                 {
                   "title": {
-                    "pi": "Cīvaradānasikkhāpadavaṇṇanā"
+                    "pi": "5. Cīvaradānasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 36770,
-                    "end": 36833
+                    "start": 36724,
+                    "end": 36787
                   }
                 },
                 {
                   "title": {
-                    "pi": "Cīvarasibbanasikkhāpadavaṇṇanā"
+                    "pi": "6. Cīvarasibbanasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 36833,
-                    "end": 37228
+                    "start": 36787,
+                    "end": 37182
                   }
                 },
                 {
                   "title": {
-                    "pi": "Saṃvidhānasikkhāpadavaṇṇanā"
+                    "pi": "7. Saṃvidhānasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 37228,
-                    "end": 38574
+                    "start": 37182,
+                    "end": 38528
                   }
                 },
                 {
                   "title": {
-                    "pi": "Nāvābhiruhanasikkhāpadavaṇṇanā"
+                    "pi": "8. Nāvābhiruhanasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 38574,
-                    "end": 39425
+                    "start": 38528,
+                    "end": 39379
                   }
                 },
                 {
                   "title": {
-                    "pi": "Paripācitasikkhāpadavaṇṇanā"
+                    "pi": "9. Paripācitasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 39425,
-                    "end": 40079
+                    "start": 39379,
+                    "end": 40033
                   }
                 },
                 {
                   "title": {
-                    "pi": "Rahonisajjasikkhāpadavaṇṇanā"
+                    "pi": "10. Rahonisajjasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 40079,
-                    "end": 40209
+                    "start": 40033,
+                    "end": 40163
                   }
                 }
               ]
             },
             {
               "title": {
-                "pi": "Bhojanavaggo"
+                "pi": "4. Bhojanavaggo"
               },
               "span": {
-                "start": 40209,
-                "end": 64520
+                "start": 40163,
+                "end": 64474
               },
               "subsections": [
                 {
                   "title": {
-                    "pi": "Āvasathapiṇḍasikkhāpadavaṇṇanā"
+                    "pi": "1. Āvasathapiṇḍasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 40209,
-                    "end": 41127
+                    "start": 40163,
+                    "end": 41081
                   }
                 },
                 {
                   "title": {
-                    "pi": "Gaṇabhojanasikkhāpadavaṇṇanā"
+                    "pi": "2. Gaṇabhojanasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 41127,
-                    "end": 44040
+                    "start": 41081,
+                    "end": 43994
                   }
                 },
                 {
                   "title": {
-                    "pi": "Paramparabhojanasikkhāpadavaṇṇanā"
+                    "pi": "3. Paramparabhojanasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 44040,
-                    "end": 49372
+                    "start": 43994,
+                    "end": 49326
                   }
                 },
                 {
                   "title": {
-                    "pi": "Kāṇamātāsikkhāpadavaṇṇanā"
+                    "pi": "4. Kāṇamātāsikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 49372,
-                    "end": 50960
+                    "start": 49326,
+                    "end": 50914
                   }
                 },
                 {
                   "title": {
-                    "pi": "Paṭhamapavāraṇasikkhāpadavaṇṇanā"
+                    "pi": "5. Paṭhamapavāraṇasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 50960,
-                    "end": 55390
+                    "start": 50914,
+                    "end": 55344
                   }
                 },
                 {
                   "title": {
-                    "pi": "Dutiyapavāraṇasikkhāpadavaṇṇanā"
+                    "pi": "6. Dutiyapavāraṇasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 55390,
-                    "end": 55508
+                    "start": 55344,
+                    "end": 55462
                   }
                 },
                 {
                   "title": {
-                    "pi": "Vikālabhojanasikkhāpadavaṇṇanā"
+                    "pi": "7. Vikālabhojanasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 55508,
-                    "end": 57805
+                    "start": 55462,
+                    "end": 57759
                   }
                 },
                 {
                   "title": {
-                    "pi": "Sannidhikārakasikkhāpadavaṇṇanā"
+                    "pi": "8. Sannidhikārakasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 57805,
-                    "end": 60720
+                    "start": 57759,
+                    "end": 60674
                   }
                 },
                 {
                   "title": {
-                    "pi": "Paṇītabhojanasikkhāpadavaṇṇanā"
+                    "pi": "9. Paṇītabhojanasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 60720,
-                    "end": 61236
+                    "start": 60674,
+                    "end": 61190
                   }
                 },
                 {
                   "title": {
-                    "pi": "Dantaponasikkhāpadavaṇṇanā"
+                    "pi": "10. Dantaponasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 61236,
-                    "end": 64520
+                    "start": 61190,
+                    "end": 64474
                   }
                 }
               ]
             },
             {
               "title": {
-                "pi": "Acelakavaggo"
+                "pi": "5. Acelakavaggo"
               },
               "span": {
-                "start": 64520,
-                "end": 66980
+                "start": 64474,
+                "end": 66934
               },
               "subsections": [
                 {
                   "title": {
-                    "pi": "Acelakasikkhāpadavaṇṇanā"
+                    "pi": "1. Acelakasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 64520,
-                    "end": 64654
+                    "start": 64474,
+                    "end": 64608
                   }
                 },
                 {
                   "title": {
-                    "pi": "Uyyojanasikkhāpadavaṇṇanā"
+                    "pi": "2. Uyyojanasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 64654,
-                    "end": 64836
+                    "start": 64608,
+                    "end": 64790
                   }
                 },
                 {
                   "title": {
-                    "pi": "Sabhojanasikkhāpadavaṇṇanā"
+                    "pi": "3. Sabhojanasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 64836,
-                    "end": 65046
+                    "start": 64790,
+                    "end": 65000
                   }
                 },
                 {
                   "title": {
-                    "pi": "Rahopaṭicchannasikkhāpadavaṇṇanā"
+                    "pi": "4. Rahopaṭicchannasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 65046,
-                    "end": 65262
+                    "start": 65000,
+                    "end": 65216
                   }
                 },
                 {
                   "title": {
-                    "pi": "Rahonisajjasikkhāpadavaṇṇanā"
+                    "pi": "5. Rahonisajjasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 65262,
-                    "end": 65305
+                    "start": 65216,
+                    "end": 65259
                   }
                 },
                 {
                   "title": {
-                    "pi": "Cārittasikkhāpadavaṇṇanā"
+                    "pi": "6. Cārittasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 65305,
-                    "end": 65805
+                    "start": 65259,
+                    "end": 65759
                   }
                 },
                 {
                   "title": {
-                    "pi": "Mahānāmasikkhāpadavaṇṇanā"
+                    "pi": "7. Mahānāmasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 65805,
-                    "end": 66310
+                    "start": 65759,
+                    "end": 66264
                   }
                 },
                 {
                   "title": {
-                    "pi": "Uyyuttasenāsikkhāpadavaṇṇanā"
+                    "pi": "8. Uyyuttasenāsikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 66310,
-                    "end": 66450
+                    "start": 66264,
+                    "end": 66404
                   }
                 },
                 {
                   "title": {
-                    "pi": "Senāvāsasikkhāpadavaṇṇanā"
+                    "pi": "9. Senāvāsasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 66450,
-                    "end": 66590
+                    "start": 66404,
+                    "end": 66544
                   }
                 },
                 {
                   "title": {
-                    "pi": "Uyyodhikasikkhāpadavaṇṇanā"
+                    "pi": "10. Uyyodhikasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 66590,
-                    "end": 66980
+                    "start": 66544,
+                    "end": 66934
                   }
                 }
               ]
             },
             {
               "title": {
-                "pi": "Surāpānavaggo"
+                "pi": "6. Surāpānavaggo"
               },
               "span": {
-                "start": 66980,
-                "end": 70635
+                "start": 66934,
+                "end": 70589
               },
               "subsections": [
                 {
                   "title": {
-                    "pi": "Surāpānasikkhāpadavaṇṇanā"
+                    "pi": "1. Surāpānasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 66980,
+                    "start": 66934,
+                    "end": 67753
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "2. Aṅgulipatodakasikkhāpadavaṇṇanā"
+                  },
+                  "span": {
+                    "start": 67753,
                     "end": 67799
                   }
                 },
                 {
                   "title": {
-                    "pi": "Aṅgulipatodakasikkhāpadavaṇṇanā"
+                    "pi": "3. Hasadhammasikkhāpadavaṇṇanā"
                   },
                   "span": {
                     "start": 67799,
-                    "end": 67845
+                    "end": 68216
                   }
                 },
                 {
                   "title": {
-                    "pi": "Hasadhammasikkhāpadavaṇṇanā"
+                    "pi": "4. Anādariyasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 67845,
-                    "end": 68262
+                    "start": 68216,
+                    "end": 69339
                   }
                 },
                 {
                   "title": {
-                    "pi": "Anādariyasikkhāpadavaṇṇanā"
+                    "pi": "5. Bhiṃsāpanasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 68262,
-                    "end": 69385
+                    "start": 69339,
+                    "end": 69381
                   }
                 },
                 {
                   "title": {
-                    "pi": "Bhiṃsāpanasikkhāpadavaṇṇanā"
+                    "pi": "6. Jotisikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 69385,
-                    "end": 69427
+                    "start": 69381,
+                    "end": 69483
                   }
                 },
                 {
                   "title": {
-                    "pi": "Jotisikkhāpadavaṇṇanā"
+                    "pi": "7. Nahānasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 69427,
-                    "end": 69529
+                    "start": 69483,
+                    "end": 69521
                   }
                 },
                 {
                   "title": {
-                    "pi": "Nahānasikkhāpadavaṇṇanā"
+                    "pi": "8. Dubbaṇṇakaraṇasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 69529,
-                    "end": 69567
+                    "start": 69521,
+                    "end": 69898
                   }
                 },
                 {
                   "title": {
-                    "pi": "Dubbaṇṇakaraṇasikkhāpadavaṇṇanā"
+                    "pi": "9. Vikappanasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 69567,
-                    "end": 69944
+                    "start": 69898,
+                    "end": 69994
                   }
                 },
                 {
                   "title": {
-                    "pi": "Vikappanasikkhāpadavaṇṇanā"
+                    "pi": "10. Cīvarāpanidhānasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 69944,
-                    "end": 70040
-                  }
-                },
-                {
-                  "title": {
-                    "pi": "Cīvarāpanidhānasikkhāpadavaṇṇanā"
-                  },
-                  "span": {
-                    "start": 70040,
-                    "end": 70635
+                    "start": 69994,
+                    "end": 70589
                   }
                 }
               ]
             },
             {
               "title": {
-                "pi": "Sappāṇakavaggo"
+                "pi": "7. Sappāṇakavaggo"
               },
               "span": {
-                "start": 70635,
-                "end": 76124
+                "start": 70589,
+                "end": 76078
               },
               "subsections": [
                 {
                   "title": {
-                    "pi": "Sañciccapāṇasikkhāpadavaṇṇanā"
+                    "pi": "1. Sañciccapāṇasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 70635,
-                    "end": 70679
+                    "start": 70589,
+                    "end": 70633
                   }
                 },
                 {
                   "title": {
-                    "pi": "Sappāṇakasikkhāpadavaṇṇanā"
+                    "pi": "2. Sappāṇakasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 70679,
-                    "end": 70883
+                    "start": 70633,
+                    "end": 70837
                   }
                 },
                 {
                   "title": {
-                    "pi": "Ukkoṭanasikkhāpadavaṇṇanā"
+                    "pi": "3. Ukkoṭanasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 70883,
-                    "end": 71327
+                    "start": 70837,
+                    "end": 71281
                   }
                 },
                 {
                   "title": {
-                    "pi": "Duṭṭhullasikkhāpadavaṇṇanā"
+                    "pi": "4. Duṭṭhullasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 71327,
-                    "end": 72837
+                    "start": 71281,
+                    "end": 72791
                   }
                 },
                 {
                   "title": {
-                    "pi": "Ūnavīsativassasikkhāpadavaṇṇanā"
+                    "pi": "5. Ūnavīsativassasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 72837,
-                    "end": 73714
+                    "start": 72791,
+                    "end": 73668
                   }
                 },
                 {
                   "title": {
-                    "pi": "Theyyasatthasikkhāpadavaṇṇanā"
+                    "pi": "6. Theyyasatthasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 73714,
-                    "end": 74241
+                    "start": 73668,
+                    "end": 74195
                   }
                 },
                 {
                   "title": {
-                    "pi": "Saṃvidhānasikkhāpadavaṇṇanā"
+                    "pi": "7. Saṃvidhānasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 74241,
-                    "end": 74777
+                    "start": 74195,
+                    "end": 74731
                   }
                 },
                 {
                   "title": {
-                    "pi": "Ariṭṭhasikkhāpadavaṇṇanā"
+                    "pi": "8. Ariṭṭhasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 74777,
-                    "end": 75244
+                    "start": 74731,
+                    "end": 75198
                   }
                 },
                 {
                   "title": {
-                    "pi": "Ukkhittasambhogasikkhāpadavaṇṇanā"
+                    "pi": "9. Ukkhittasambhogasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 75244,
-                    "end": 75525
+                    "start": 75198,
+                    "end": 75479
                   }
                 },
                 {
                   "title": {
-                    "pi": "Kaṇṭakasikkhāpadavaṇṇanā"
+                    "pi": "10. Kaṇṭakasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 75525,
-                    "end": 76124
+                    "start": 75479,
+                    "end": 76078
                   }
                 }
               ]
             },
             {
               "title": {
-                "pi": "Sahadhammikavaggo"
+                "pi": "8. Sahadhammikavaggo"
               },
               "span": {
-                "start": 76124,
-                "end": 82098
+                "start": 76078,
+                "end": 82052
               },
               "subsections": [
                 {
                   "title": {
-                    "pi": "Sahadhammikasikkhāpadavaṇṇanā"
+                    "pi": "1. Sahadhammikasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 76124,
-                    "end": 76168
+                    "start": 76078,
+                    "end": 76122
                   }
                 },
                 {
                   "title": {
-                    "pi": "Vilekhanasikkhāpadavaṇṇanā"
+                    "pi": "2. Vilekhanasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 76168,
-                    "end": 77714
+                    "start": 76122,
+                    "end": 77668
                   }
                 },
                 {
                   "title": {
-                    "pi": "Mohanasikkhāpadavaṇṇanā"
+                    "pi": "3. Mohanasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 77714,
-                    "end": 77752
+                    "start": 77668,
+                    "end": 77706
                   }
                 },
                 {
                   "title": {
-                    "pi": "Pahārasikkhāpadavaṇṇanā"
+                    "pi": "4. Pahārasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 77752,
-                    "end": 77971
+                    "start": 77706,
+                    "end": 77925
                   }
                 },
                 {
                   "title": {
-                    "pi": "Talasattikasikkhāpadavaṇṇanā"
+                    "pi": "5. Talasattikasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 77971,
-                    "end": 79075
+                    "start": 77925,
+                    "end": 79029
                   }
                 },
                 {
                   "title": {
-                    "pi": "Amūlakasikkhāpadavaṇṇanā"
+                    "pi": "6. Amūlakasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 79075,
-                    "end": 79298
+                    "start": 79029,
+                    "end": 79252
                   }
                 },
                 {
                   "title": {
-                    "pi": "Sañciccasikkhāpadavaṇṇanā"
+                    "pi": "7. Sañciccasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 79298,
-                    "end": 79776
+                    "start": 79252,
+                    "end": 79730
                   }
                 },
                 {
                   "title": {
-                    "pi": "Upassutisikkhāpadavaṇṇanā"
+                    "pi": "8. Upassutisikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 79776,
-                    "end": 80173
+                    "start": 79730,
+                    "end": 80127
                   }
                 },
                 {
                   "title": {
-                    "pi": "Kammapaṭibāhanasikkhāpadavaṇṇanā"
+                    "pi": "9. Kammapaṭibāhanasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 80173,
-                    "end": 81020
+                    "start": 80127,
+                    "end": 80974
                   }
                 },
                 {
                   "title": {
-                    "pi": "Chandaṃadatvāgamanasikkhāpadavaṇṇanā"
+                    "pi": "10. Chandaṃadatvāgamanasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 81020,
-                    "end": 81450
+                    "start": 80974,
+                    "end": 81404
                   }
                 },
                 {
                   "title": {
-                    "pi": "Dubbalasikkhāpadavaṇṇanā"
+                    "pi": "11. Dubbalasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 81450,
-                    "end": 81890
+                    "start": 81404,
+                    "end": 81844
                   }
                 },
                 {
                   "title": {
-                    "pi": "Pariṇāmanasikkhāpadavaṇṇanā"
+                    "pi": "12. Pariṇāmanasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 81890,
-                    "end": 82098
+                    "start": 81844,
+                    "end": 82052
                   }
                 }
               ]
             },
             {
               "title": {
-                "pi": "Ratanavaggo"
+                "pi": "9. Ratanavaggo"
               },
               "span": {
-                "start": 82098,
-                "end": 93597
+                "start": 82052,
+                "end": 93551
               },
               "subsections": [
                 {
                   "title": {
-                    "pi": "Antepurasikkhāpadavaṇṇanā"
+                    "pi": "1. Antepurasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 82098,
-                    "end": 82790
+                    "start": 82052,
+                    "end": 82744
                   }
                 },
                 {
                   "title": {
-                    "pi": "Ratanasikkhāpadavaṇṇanā"
+                    "pi": "2. Ratanasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 82790,
-                    "end": 83238
+                    "start": 82744,
+                    "end": 83192
                   }
                 },
                 {
                   "title": {
-                    "pi": "Vikālagāmappavisanasikkhāpadavaṇṇanā"
+                    "pi": "3. Vikālagāmappavisanasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 83238,
-                    "end": 83445
+                    "start": 83192,
+                    "end": 83399
                   }
                 },
                 {
                   "title": {
-                    "pi": "Sūcigharasikkhāpadavaṇṇanā"
+                    "pi": "4. Sūcigharasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 83445,
-                    "end": 83618
+                    "start": 83399,
+                    "end": 83572
                   }
                 },
                 {
                   "title": {
-                    "pi": "Mañcasikkhāpadavaṇṇanā"
+                    "pi": "5. Mañcasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 83618,
-                    "end": 83788
+                    "start": 83572,
+                    "end": 83742
                   }
                 },
                 {
                   "title": {
-                    "pi": "Tūlonaddhasikkhāpadavaṇṇanā"
+                    "pi": "6. Tūlonaddhasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 83788,
-                    "end": 84093
+                    "start": 83742,
+                    "end": 84047
                   }
                 },
                 {
                   "title": {
-                    "pi": "Nisīdanasikkhāpadavaṇṇanā"
+                    "pi": "7. Nisīdanasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 84093,
-                    "end": 84511
+                    "start": 84047,
+                    "end": 84465
                   }
                 },
                 {
                   "title": {
-                    "pi": "Kaṇḍupaṭicchādisikkhāpadavaṇṇanā"
+                    "pi": "8. Kaṇḍupaṭicchādisikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 84511,
-                    "end": 85180
+                    "start": 84465,
+                    "end": 85134
                   }
                 },
                 {
                   "title": {
-                    "pi": "Vassikasāṭikasikkhāpadavaṇṇanā"
+                    "pi": "9. Vassikasāṭikasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 85180,
-                    "end": 85631
+                    "start": 85134,
+                    "end": 85585
                   }
                 },
                 {
                   "title": {
-                    "pi": "Nandattherasikkhāpadavaṇṇanā"
+                    "pi": "10. Nandattherasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 85631,
-                    "end": 85846
+                    "start": 85585,
+                    "end": 85800
                   }
                 },
                 {
                   "title": {
-                    "pi": "Pāṭidesanīyakaṇḍo"
+                    "pi": "6. Pāṭidesanīyakaṇḍo"
                   },
                   "span": {
-                    "start": 85846,
-                    "end": 85846
+                    "start": 85800,
+                    "end": 85800
                   }
                 },
                 {
                   "title": {
-                    "pi": "Paṭhamapāṭidesanīyasikkhāpadavaṇṇanā"
+                    "pi": "1. Paṭhamapāṭidesanīyasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 85846,
-                    "end": 86192
+                    "start": 85800,
+                    "end": 86146
                   }
                 },
                 {
                   "title": {
-                    "pi": "Dutiyapāṭidesanīyasikkhāpadavaṇṇanā"
+                    "pi": "2. Dutiyapāṭidesanīyasikkhāpadavaṇṇanā"
                   },
                   "span": {
-                    "start": 86192,
-                    "end": 87310
+                    "start": 86146,
+                    "end": 87264
                   }
                 },
                 {
                   "title": {
-                    "pi": "Sekhiyakaṇḍo"
+                    "pi": "7. Sekhiyakaṇḍo"
                   },
                   "span": {
-                    "start": 87310,
-                    "end": 87310
+                    "start": 87264,
+                    "end": 87264
                   }
                 },
                 {
                   "title": {
-                    "pi": "Parimaṇḍalavaggavaṇṇanā"
+                    "pi": "1. Parimaṇḍalavaggavaṇṇanā"
                   },
                   "span": {
-                    "start": 87310,
-                    "end": 89184
+                    "start": 87264,
+                    "end": 89138
                   }
                 },
                 {
                   "title": {
-                    "pi": "Ujjagghikavaggavaṇṇanā"
+                    "pi": "2. Ujjagghikavaggavaṇṇanā"
                   },
                   "span": {
-                    "start": 89184,
-                    "end": 89823
+                    "start": 89138,
+                    "end": 89777
                   }
                 },
                 {
                   "title": {
-                    "pi": "Khambhakatavaggavaṇṇanā"
+                    "pi": "3. Khambhakatavaggavaṇṇanā"
                   },
                   "span": {
-                    "start": 89823,
-                    "end": 90692
+                    "start": 89777,
+                    "end": 90646
                   }
                 },
                 {
                   "title": {
-                    "pi": "Sakkaccavaggavaṇṇanā"
+                    "pi": "4. Sakkaccavaggavaṇṇanā"
                   },
                   "span": {
-                    "start": 90692,
-                    "end": 91486
+                    "start": 90646,
+                    "end": 91440
                   }
                 },
                 {
                   "title": {
-                    "pi": "Kabaḷavaggavaṇṇanā"
+                    "pi": "5. Kabaḷavaggavaṇṇanā"
                   },
                   "span": {
-                    "start": 91486,
-                    "end": 91787
+                    "start": 91440,
+                    "end": 91741
                   }
                 },
                 {
                   "title": {
-                    "pi": "Surusuruvaggavaṇṇanā"
+                    "pi": "6. Surusuruvaggavaṇṇanā"
                   },
                   "span": {
-                    "start": 91787,
-                    "end": 92384
+                    "start": 91741,
+                    "end": 92338
                   }
                 },
                 {
                   "title": {
-                    "pi": "Pādukavaggavaṇṇanā"
+                    "pi": "7. Pādukavaggavaṇṇanā"
                   },
                   "span": {
-                    "start": 92384,
-                    "end": 93412
+                    "start": 92338,
+                    "end": 93366
                   },
                   "subsections": [
                     {
@@ -1056,19 +1056,19 @@
                         "pi": "Pakiṇṇakavaṇṇanā"
                       },
                       "span": {
-                        "start": 92990,
-                        "end": 93412
+                        "start": 92944,
+                        "end": 93366
                       }
                     }
                   ]
                 },
                 {
                   "title": {
-                    "pi": "Sattādhikaraṇasamathavaṇṇanā"
+                    "pi": "8. Sattādhikaraṇasamathavaṇṇanā"
                   },
                   "span": {
-                    "start": 93412,
-                    "end": 93597
+                    "start": 93366,
+                    "end": 93551
                   }
                 }
               ]
@@ -1078,17 +1078,17 @@
                 "pi": "Bhikkhunīvibhaṅgavaṇṇanā"
               },
               "span": {
-                "start": 93597,
-                "end": 147395
+                "start": 93551,
+                "end": 147349
               },
               "subsections": [
                 {
                   "title": {
-                    "pi": "Pārājikakaṇḍavaṇṇanā"
+                    "pi": "1. Pārājikakaṇḍavaṇṇanā"
                   },
                   "span": {
-                    "start": 93597,
-                    "end": 93597
+                    "start": 93551,
+                    "end": 93551
                   }
                 },
                 {
@@ -1096,701 +1096,701 @@
                     "pi": "Ganthārambhavaṇṇanā"
                   },
                   "span": {
-                    "start": 93597,
-                    "end": 118612
+                    "start": 93551,
+                    "end": 118566
                   },
                   "subsections": [
                     {
                       "title": {
-                        "pi": "Paṭhamapārājikasikkhāpadavaṇṇanā"
+                        "pi": "1. Paṭhamapārājikasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 93789,
-                        "end": 100442
+                        "start": 93743,
+                        "end": 100396
                       }
                     },
                     {
                       "title": {
-                        "pi": "Dutiyapārājikasikkhāpadavaṇṇanā"
+                        "pi": "2. Dutiyapārājikasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 100442,
-                        "end": 102047
+                        "start": 100396,
+                        "end": 102001
                       }
                     },
                     {
                       "title": {
-                        "pi": "Tatiyapārājikasikkhāpadavaṇṇanā"
+                        "pi": "3. Tatiyapārājikasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 102047,
-                        "end": 103097
+                        "start": 102001,
+                        "end": 103051
                       }
                     },
                     {
                       "title": {
-                        "pi": "Catutthapārājikasikkhāpadavaṇṇanā"
+                        "pi": "4. Catutthapārājikasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 103097,
-                        "end": 103620
+                        "start": 103051,
+                        "end": 103574
                       }
                     },
                     {
                       "title": {
-                        "pi": "Saṅghādisesakaṇḍavaṇṇanā"
+                        "pi": "2. Saṅghādisesakaṇḍavaṇṇanā"
                       },
                       "span": {
-                        "start": 103620,
-                        "end": 103620
+                        "start": 103574,
+                        "end": 103574
                       }
                     },
                     {
                       "title": {
-                        "pi": "Paṭhamasaṅghādisesasikkhāpadavaṇṇanā"
+                        "pi": "1. Paṭhamasaṅghādisesasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 103620,
-                        "end": 104560
+                        "start": 103574,
+                        "end": 104514
                       }
                     },
                     {
                       "title": {
-                        "pi": "Dutiyasaṅghādisesasikkhāpadavaṇṇanā"
+                        "pi": "2. Dutiyasaṅghādisesasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 104560,
-                        "end": 104973
+                        "start": 104514,
+                        "end": 104927
                       }
                     },
                     {
                       "title": {
-                        "pi": "Tatiyasaṅghādisesasikkhāpadavaṇṇanā"
+                        "pi": "3. Tatiyasaṅghādisesasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 104973,
-                        "end": 109819
+                        "start": 104927,
+                        "end": 109773
                       }
                     },
                     {
                       "title": {
-                        "pi": "Catutthasaṅghādisesasikkhāpadavaṇṇanā"
+                        "pi": "4. Catutthasaṅghādisesasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 109819,
-                        "end": 110869
+                        "start": 109773,
+                        "end": 110823
                       }
                     },
                     {
                       "title": {
-                        "pi": "Pañcamasaṅghādisesasikkhāpadavaṇṇanā"
+                        "pi": "5. Pañcamasaṅghādisesasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 110869,
-                        "end": 111682
+                        "start": 110823,
+                        "end": 111636
                       }
                     },
                     {
                       "title": {
-                        "pi": "Chaṭṭhasaṅghādisesasikkhāpadavaṇṇanā"
+                        "pi": "6. Chaṭṭhasaṅghādisesasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 111682,
-                        "end": 111935
+                        "start": 111636,
+                        "end": 111889
                       }
                     },
                     {
                       "title": {
-                        "pi": "Sattamasaṅghādisesasikkhāpadavaṇṇanā"
+                        "pi": "7. Sattamasaṅghādisesasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 111935,
-                        "end": 112364
+                        "start": 111889,
+                        "end": 112318
                       }
                     },
                     {
                       "title": {
-                        "pi": "Aṭṭhamasaṅghādisesasikkhāpadavaṇṇanā"
+                        "pi": "8. Aṭṭhamasaṅghādisesasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 112364,
-                        "end": 112809
+                        "start": 112318,
+                        "end": 112763
                       }
                     },
                     {
                       "title": {
-                        "pi": "Navamasaṅghādisesasikkhāpadavaṇṇanā"
+                        "pi": "9. Navamasaṅghādisesasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 112809,
-                        "end": 112935
+                        "start": 112763,
+                        "end": 112889
                       }
                     },
                     {
                       "title": {
-                        "pi": "Nissaggiyakaṇḍavaṇṇanā"
+                        "pi": "3. Nissaggiyakaṇḍavaṇṇanā"
                       },
                       "span": {
-                        "start": 112935,
-                        "end": 112935
+                        "start": 112889,
+                        "end": 112889
                       }
                     },
                     {
                       "title": {
-                        "pi": "Paṭhamanissaggiyapācittiyasikkhāpadavaṇṇanā"
+                        "pi": "1. Paṭhamanissaggiyapācittiyasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 112935,
-                        "end": 112989
+                        "start": 112889,
+                        "end": 112943
                       }
                     },
                     {
                       "title": {
-                        "pi": "Dutiyanissaggiyapācittiyasikkhāpadavaṇṇanā"
+                        "pi": "2. Dutiyanissaggiyapācittiyasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 112989,
-                        "end": 114070
+                        "start": 112943,
+                        "end": 114024
                       }
                     },
                     {
                       "title": {
-                        "pi": "Tatiyanissaggiyapācittiyasikkhāpadavaṇṇanā"
+                        "pi": "3. Tatiyanissaggiyapācittiyasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 114070,
-                        "end": 114213
+                        "start": 114024,
+                        "end": 114167
                       }
                     },
                     {
                       "title": {
-                        "pi": "Catutthanissaggiyapācittiyasikkhāpadavaṇṇanā"
+                        "pi": "4. Catutthanissaggiyapācittiyasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 114213,
-                        "end": 114465
+                        "start": 114167,
+                        "end": 114419
                       }
                     },
                     {
                       "title": {
-                        "pi": "Pañcamanissaggiyapācittiyasikkhāpadavaṇṇanā"
+                        "pi": "5. Pañcamanissaggiyapācittiyasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 114465,
-                        "end": 114581
+                        "start": 114419,
+                        "end": 114535
                       }
                     },
                     {
                       "title": {
-                        "pi": "Chaṭṭhanissaggiyapācittiyasikkhāpadavaṇṇanā"
+                        "pi": "6. Chaṭṭhanissaggiyapācittiyasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 114581,
-                        "end": 114992
+                        "start": 114535,
+                        "end": 114946
                       }
                     },
                     {
                       "title": {
-                        "pi": "Sattamanissaggiyapācittiyasikkhāpadavaṇṇanā"
+                        "pi": "7. Sattamanissaggiyapācittiyasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 114992,
-                        "end": 116452
+                        "start": 114946,
+                        "end": 116406
                       }
                     },
                     {
                       "title": {
-                        "pi": "Aṭṭhamanissaggiyapācittiyasikkhāpadavaṇṇanā"
+                        "pi": "8. Aṭṭhamanissaggiyapācittiyasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 116452,
-                        "end": 116562
+                        "start": 116406,
+                        "end": 116516
                       }
                     },
                     {
                       "title": {
-                        "pi": "Navamanissaggiyapācittiyasikkhāpadavaṇṇanā"
+                        "pi": "9. Navamanissaggiyapācittiyasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 116562,
-                        "end": 116668
+                        "start": 116516,
+                        "end": 116622
                       }
                     },
                     {
                       "title": {
-                        "pi": "Dasamanissaggiyapācittiyasikkhāpadavaṇṇanā"
+                        "pi": "10. Dasamanissaggiyapācittiyasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 116668,
-                        "end": 117438
+                        "start": 116622,
+                        "end": 117392
                       }
                     },
                     {
                       "title": {
-                        "pi": "Ekādasamanissaggiyapācittiyasikkhāpadavaṇṇanā"
+                        "pi": "11. Ekādasamanissaggiyapācittiyasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 117438,
-                        "end": 118612
+                        "start": 117392,
+                        "end": 118566
                       }
                     },
                     {
                       "title": {
-                        "pi": "Pācittiyakaṇḍavaṇṇanā"
+                        "pi": "4. Pācittiyakaṇḍavaṇṇanā"
                       },
                       "span": {
-                        "start": 118612,
-                        "end": 118612
+                        "start": 118566,
+                        "end": 118566
                       }
                     }
                   ]
                 },
                 {
                   "title": {
-                    "pi": "Lasuṇavaggo"
+                    "pi": "1. Lasuṇavaggo"
                   },
                   "span": {
-                    "start": 118612,
-                    "end": 125154
+                    "start": 118566,
+                    "end": 125108
                   },
                   "subsections": [
                     {
                       "title": {
-                        "pi": "Paṭhamalasuṇasikkhāpadavaṇṇanā"
+                        "pi": "1. Paṭhamalasuṇasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 118612,
-                        "end": 118784
+                        "start": 118566,
+                        "end": 118738
                       }
                     },
                     {
                       "title": {
-                        "pi": "Dutiyasikkhāpadavaṇṇanā"
+                        "pi": "2. Dutiyasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 118784,
-                        "end": 119298
+                        "start": 118738,
+                        "end": 119252
                       }
                     },
                     {
                       "title": {
-                        "pi": "Pañcamasikkhāpadavaṇṇanā"
+                        "pi": "5. Pañcamasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 119298,
-                        "end": 119676
+                        "start": 119252,
+                        "end": 119630
                       }
                     },
                     {
                       "title": {
-                        "pi": "Sattamasikkhāpadavaṇṇanā"
+                        "pi": "7. Sattamasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 119676,
-                        "end": 122538
+                        "start": 119630,
+                        "end": 122492
                       }
                     },
                     {
                       "title": {
-                        "pi": "Aṭṭhamasikkhāpadavaṇṇanā"
+                        "pi": "8. Aṭṭhamasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 122538,
-                        "end": 122788
+                        "start": 122492,
+                        "end": 122742
                       }
                     },
                     {
                       "title": {
-                        "pi": "Navamasikkhāpadavaṇṇanā"
+                        "pi": "9. Navamasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 122788,
-                        "end": 123268
+                        "start": 122742,
+                        "end": 123222
                       }
                     },
                     {
                       "title": {
-                        "pi": "Dasamasikkhāpadavaṇṇanā"
+                        "pi": "10. Dasamasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 123268,
-                        "end": 125154
+                        "start": 123222,
+                        "end": 125108
                       }
                     }
                   ]
                 },
                 {
                   "title": {
-                    "pi": "Andhakāravaggavaṇṇanā"
+                    "pi": "2. Andhakāravaggavaṇṇanā"
                   },
                   "span": {
-                    "start": 125154,
-                    "end": 130778
+                    "start": 125108,
+                    "end": 130732
                   },
                   "subsections": [
                     {
                       "title": {
-                        "pi": "Paṭhamasikkhāpadavaṇṇanā"
+                        "pi": "1. Paṭhamasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 125154,
-                        "end": 127304
+                        "start": 125108,
+                        "end": 127258
                       }
                     },
                     {
                       "title": {
-                        "pi": "Dutiyatatiyacatutthasikkhāpadavaṇṇanā"
+                        "pi": "2-3-4. Dutiyatatiyacatutthasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 127304,
-                        "end": 128497
+                        "start": 127258,
+                        "end": 128451
                       }
                     },
                     {
                       "title": {
-                        "pi": "Pañcamasikkhāpadavaṇṇanā"
+                        "pi": "5. Pañcamasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 128497,
-                        "end": 128830
+                        "start": 128451,
+                        "end": 128784
                       }
                     },
                     {
                       "title": {
-                        "pi": "Chaṭṭhasikkhāpadavaṇṇanā"
+                        "pi": "6. Chaṭṭhasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 128830,
-                        "end": 129362
+                        "start": 128784,
+                        "end": 129316
                       }
                     },
                     {
                       "title": {
-                        "pi": "Sattamasikkhāpadavaṇṇanā"
+                        "pi": "7. Sattamasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 129362,
-                        "end": 130137
+                        "start": 129316,
+                        "end": 130091
                       }
                     },
                     {
                       "title": {
-                        "pi": "Aṭṭhamasikkhāpadavaṇṇanā"
+                        "pi": "8. Aṭṭhamasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 130137,
-                        "end": 130215
+                        "start": 130091,
+                        "end": 130169
                       }
                     },
                     {
                       "title": {
-                        "pi": "Navamasikkhāpadavaṇṇanā"
+                        "pi": "9. Navamasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 130215,
-                        "end": 130587
+                        "start": 130169,
+                        "end": 130541
                       }
                     },
                     {
                       "title": {
-                        "pi": "Dasamasikkhāpadavaṇṇanā"
+                        "pi": "10. Dasamasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 130587,
-                        "end": 130778
+                        "start": 130541,
+                        "end": 130732
                       }
                     }
                   ]
                 },
                 {
                   "title": {
-                    "pi": "Naggavaggavaṇṇanā"
+                    "pi": "3. Naggavaggavaṇṇanā"
                   },
                   "span": {
-                    "start": 130778,
-                    "end": 132228
+                    "start": 130732,
+                    "end": 132182
                   },
                   "subsections": [
                     {
                       "title": {
-                        "pi": "Paṭhamadutiyasikkhāpadavaṇṇanā"
+                        "pi": "1-2. Paṭhamadutiyasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 130778,
-                        "end": 131118
+                        "start": 130732,
+                        "end": 131072
                       }
                     },
                     {
                       "title": {
-                        "pi": "Tatiyasikkhāpadavaṇṇanā"
+                        "pi": "3. Tatiyasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 131118,
-                        "end": 131366
+                        "start": 131072,
+                        "end": 131320
                       }
                     },
                     {
                       "title": {
-                        "pi": "Catutthasikkhāpadavaṇṇanā"
+                        "pi": "4. Catutthasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 131366,
-                        "end": 131694
+                        "start": 131320,
+                        "end": 131648
                       }
                     },
                     {
                       "title": {
-                        "pi": "Pañcamasikkhāpadavaṇṇanā"
+                        "pi": "5. Pañcamasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 131694,
-                        "end": 131832
+                        "start": 131648,
+                        "end": 131786
                       }
                     },
                     {
                       "title": {
-                        "pi": "Aṭṭhamasikkhāpadavaṇṇanā"
+                        "pi": "8. Aṭṭhamasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 131832,
-                        "end": 131935
+                        "start": 131786,
+                        "end": 131889
                       }
                     },
                     {
                       "title": {
-                        "pi": "Navamasikkhāpadavaṇṇanā"
+                        "pi": "9. Navamasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 131935,
-                        "end": 132083
+                        "start": 131889,
+                        "end": 132037
                       }
                     },
                     {
                       "title": {
-                        "pi": "Dasamasikkhāpadavaṇṇanā"
+                        "pi": "10. Dasamasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 132083,
-                        "end": 132228
+                        "start": 132037,
+                        "end": 132182
                       }
                     }
                   ]
                 },
                 {
                   "title": {
-                    "pi": "Tuvaṭṭavaggavaṇṇanā"
+                    "pi": "4. Tuvaṭṭavaggavaṇṇanā"
                   },
                   "span": {
-                    "start": 132228,
-                    "end": 134669
+                    "start": 132182,
+                    "end": 134623
                   },
                   "subsections": [
                     {
                       "title": {
-                        "pi": "Paṭhamasikkhāpadavaṇṇanā"
+                        "pi": "1. Paṭhamasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 132228,
-                        "end": 132720
+                        "start": 132182,
+                        "end": 132674
                       }
                     },
                     {
                       "title": {
-                        "pi": "Dutiyasikkhāpadavaṇṇanā"
+                        "pi": "2. Dutiyasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 132720,
-                        "end": 132995
+                        "start": 132674,
+                        "end": 132949
                       }
                     },
                     {
                       "title": {
-                        "pi": "Tatiyasikkhāpadavaṇṇanā"
+                        "pi": "3. Tatiyasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 132995,
-                        "end": 133309
+                        "start": 132949,
+                        "end": 133263
                       }
                     },
                     {
                       "title": {
-                        "pi": "Chaṭṭhasikkhāpadavaṇṇanā"
+                        "pi": "6. Chaṭṭhasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 133309,
-                        "end": 133551
+                        "start": 133263,
+                        "end": 133505
                       }
                     },
                     {
                       "title": {
-                        "pi": "Navamasikkhāpadavaṇṇanā"
+                        "pi": "9. Navamasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 133551,
-                        "end": 134566
+                        "start": 133505,
+                        "end": 134520
                       }
                     },
                     {
                       "title": {
-                        "pi": "Dasamasikkhāpadavaṇṇanā"
+                        "pi": "10. Dasamasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 134566,
-                        "end": 134669
+                        "start": 134520,
+                        "end": 134623
                       }
                     }
                   ]
                 },
                 {
                   "title": {
-                    "pi": "Cittāgāravaggavaṇṇanā"
+                    "pi": "5. Cittāgāravaggavaṇṇanā"
                   },
                   "span": {
-                    "start": 134669,
-                    "end": 136155
+                    "start": 134623,
+                    "end": 136109
                   },
                   "subsections": [
                     {
                       "title": {
-                        "pi": "Paṭhamasikkhāpadavaṇṇanā"
+                        "pi": "1. Paṭhamasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 134669,
-                        "end": 135042
+                        "start": 134623,
+                        "end": 134996
                       }
                     },
                     {
                       "title": {
-                        "pi": "Dutiyasikkhāpadavaṇṇanā"
+                        "pi": "2. Dutiyasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 135042,
-                        "end": 135323
+                        "start": 134996,
+                        "end": 135277
                       }
                     },
                     {
                       "title": {
-                        "pi": "Tatiyasikkhāpadavaṇṇanā"
+                        "pi": "3. Tatiyasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 135323,
-                        "end": 135498
+                        "start": 135277,
+                        "end": 135452
                       }
                     },
                     {
                       "title": {
-                        "pi": "Catutthasikkhāpadavaṇṇanā"
+                        "pi": "4. Catutthasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 135498,
-                        "end": 135665
+                        "start": 135452,
+                        "end": 135619
                       }
                     },
                     {
                       "title": {
-                        "pi": "Chaṭṭhasikkhāpadavaṇṇanā"
+                        "pi": "6. Chaṭṭhasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 135665,
-                        "end": 135857
+                        "start": 135619,
+                        "end": 135811
                       }
                     },
                     {
                       "title": {
-                        "pi": "Navamasikkhāpadavaṇṇanā"
+                        "pi": "9. Navamasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 135857,
-                        "end": 136155
+                        "start": 135811,
+                        "end": 136109
                       }
                     }
                   ]
                 },
                 {
                   "title": {
-                    "pi": "Ārāmavaggavaṇṇanā"
+                    "pi": "6. Ārāmavaggavaṇṇanā"
                   },
                   "span": {
-                    "start": 136155,
-                    "end": 138574
+                    "start": 136109,
+                    "end": 138528
                   },
                   "subsections": [
                     {
                       "title": {
-                        "pi": "Dutiyasikkhāpadavaṇṇanā"
+                        "pi": "2. Dutiyasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 136195,
-                        "end": 137261
+                        "start": 136149,
+                        "end": 137215
                       }
                     },
                     {
                       "title": {
-                        "pi": "Catutthasikkhāpadavaṇṇanā"
+                        "pi": "4. Catutthasikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 137261,
-                        "end": 138574
+                        "start": 137215,
+                        "end": 138528
                       }
                     }
                   ]
                 },
                 {
                   "title": {
-                    "pi": "Gabbhinivaggavaṇṇanā"
+                    "pi": "7. Gabbhinivaggavaṇṇanā"
                   },
                   "span": {
-                    "start": 138574,
-                    "end": 139304
+                    "start": 138528,
+                    "end": 139258
                   },
                   "subsections": [
                     {
                       "title": {
-                        "pi": "Paṭhamādisikkhāpadavaṇṇanā"
+                        "pi": "1. Paṭhamādisikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 138574,
-                        "end": 139304
+                        "start": 138528,
+                        "end": 139258
                       }
                     }
                   ]
                 },
                 {
                   "title": {
-                    "pi": "Kumāribhūtavaggavaṇṇanā"
+                    "pi": "8. Kumāribhūtavaggavaṇṇanā"
                   },
                   "span": {
-                    "start": 139304,
-                    "end": 144260
+                    "start": 139258,
+                    "end": 144214
                   },
                   "subsections": [
                     {
                       "title": {
-                        "pi": "Dutiyādisikkhāpadavaṇṇanā"
+                        "pi": "2. Dutiyādisikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 139304,
-                        "end": 144260
+                        "start": 139258,
+                        "end": 144214
                       }
                     }
                   ]
                 },
                 {
                   "title": {
-                    "pi": "Chattupāhanavaggavaṇṇanā"
+                    "pi": "9. Chattupāhanavaggavaṇṇanā"
                   },
                   "span": {
-                    "start": 144260,
-                    "end": 147395
+                    "start": 144214,
+                    "end": 147349
                   },
                   "subsections": [
                     {
                       "title": {
-                        "pi": "Ekādasamādisikkhāpadavaṇṇanā"
+                        "pi": "11. Ekādasamādisikkhāpadavaṇṇanā"
                       },
                       "span": {
-                        "start": 144260,
-                        "end": 147395
+                        "start": 144214,
+                        "end": 147349
                       },
                       "subsections": [
                         {
@@ -1798,8 +1798,8 @@
                             "pi": "Nigamanavaṇṇanā"
                           },
                           "span": {
-                            "start": 145029,
-                            "end": 147395
+                            "start": 144983,
+                            "end": 147349
                           }
                         }
                       ]

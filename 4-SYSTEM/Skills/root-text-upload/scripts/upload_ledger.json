@@ -65,10 +65,21 @@
         "subsections": 1,
         "toc_id": "2nhSkx7jKslOorhO39GeC",
         "ts": "2026-11-12T10:26:55"
+      },
+      {
+        "note": "source form (tipitaka-xml / tipitaka.app): printed heading and paragraph numbers kept, the piṭaka heading as printed, notes as {…} (PATCH content replace; DELETE + POST segmentation)",
+        "step": "content",
+        "ts": "2026-11-12T11:16:23"
+      },
+      {
+        "note": "contents tree replaced (DELETE + POST): source form (tipitaka-xml / tipitaka.app): printed heading and paragraph numbers kept, the piṭaka heading as printed, notes as {…}",
+        "step": "toc",
+        "toc_id": "MFluV3CnTeHPDg8jVtwjx",
+        "ts": "2026-11-12T11:16:23"
       }
     ],
     "source_file": "1-SOURCES/Text/pi-2.md",
     "text_id": "QUJx63k0I45O2i7ypmZRP",
-    "toc_id": "2nhSkx7jKslOorhO39GeC"
+    "toc_id": "MFluV3CnTeHPDg8jVtwjx"
   }
 }

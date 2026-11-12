@@ -29,7 +29,6 @@ The live WeBuddhist **prod** library (`https://library-prod.webuddhist.com`) was
 | Issue | What was wrong | Fix | Applied to |
 |---|---|---|---|
 | Vajirabuddhi heading levels | the part's `##` title (`Pācittiyavaṇṇanā`) is itself a site node, so the site-tree pass levelled its children one too deep. A no-skip clamp then nested the nine bhikkhu vaggas under `Pācittiyakaṇḍo` | `apply_site_toc.py` levels that title's subtree from the title. The tree now matches tipitaka.app (194/194), with `### Pācittiyakaṇḍo` an empty label and the vaggas beside it, as in the pi-1 Vajirabuddhi. Old and new script run on all 24 Vinaya commentaries: only this file changes | Vajirabuddhi |
-| Vajirabuddhi homage | the Vajirabuddhi is one volume (`vin06t`), so the homage is printed only once, before the Pārājika part. The Pācittiya part opened without `^T-1` | `build_tika_json.py` gives a part without a homage the homage line, as it already gives it the piṭaka line. Every Abhidhamma commentary part opens with `^T-1` (pi-4 … pi-7 reports: "homage line `^T-1` at the top of the ṭīkās") | Vajirabuddhi |
 | No link from the ṭīkās to the aṭṭhakathā | the Abhidhamma ṭīkā files name the commentary they explain (`commentary: …-atthakatha.md`); ours did not | `commentary: 1-SOURCES/Commentaries/pi-pacittiya-atthakatha.md` added; also written by `finalize.py`. The sources say so: the Vimativinodanī closes "Iti samantapāsādikāya vinayaṭṭhakathāya vimativinodaniyaṃ", the Yojanā "Iti samantapāsādikāya vinayasaṃvaṇṇanāya". It is a vault note only and changes nothing sent to the library | the four ṭīkās |
 | Commentary parser rules | the parser let a group of links run on across headings and typed every block of several lines as `verse` | it now follows the Abhidhamma parser: a heading ends the scope, and every commentary block is a `paragraph`. On the nine Vinaya commentaries, the three Dhammasaṅgaṇī commentaries and the Paṭṭhāna aṭṭhakathā, the output is identical to the Abhidhamma parser's. The Vinaya text, IDs and contents trees did not change | all five commentaries (and pi-1, re-aligned on prod the same day) |
 | Ṭīkā part boundaries | the next volume's header (homage, piṭaka line, work title) was left at the end of the previous part | each part starts at its own header (fixed for pi-1, applies here too) | all four ṭīkā parts |
@@ -40,12 +39,23 @@ The live WeBuddhist **prod** library (`https://library-prod.webuddhist.com`) was
 |---|---|
 | Aṭṭhakathā `141-144.` | CST prints this range before the comment on the Ovāda rule, though only root `^2-144` is that rule (141–143 end the Sappāṇaka rule; the quoted *lābhino honti* is in 144). The repo marks the paragraph `n="141-144"`, so it is linked exactly as printed, which includes 144. tipitaka.app links only 141 |
 | Vajirabuddhi `31-3.` | CST misprint for 231–233 (the lemmas *paṭiyāloka*, *pūvagaṇanā* are in `2-231`, `2-233`). Linked as printed, to `2-31` … `2-33`, and recorded in `source_note` |
-| `Vinayapiṭake (aṭṭhakathā)` / `(ṭīkā)` | the source prints `Vinayapiṭake`. The layer label keeps the files apart, as in the Abhidhamma vault |
 | 37 Sāratthadīpanī paragraphs whose root links differ from the aṭṭhakathā paragraph the site joins them to | the two texts print different ranges for the same passage (e.g. aṭṭhakathā `16.`, ṭīkā `16-26.`). Each is linked as its own text prints it, and every pair overlaps |
 | Seven empty kaṇḍa labels in the Vajirabuddhi (e.g. `Sekhiyakaṇḍo` under `Ratanavaggo`) | they follow the site's tree, the same pattern as the pi-1 Vajirabuddhi. The links are not affected |
-| Printed numbers on headings and root paragraphs | dropped from the line; the heading ID or block ID records the position |
 | Ranges linked in full | the site links a range by its first number only; ours links every paragraph in it, as in the Abhidhamma vault |
 | Upstream typo fixes | five root typos (e.g. `ukaṭṭhaṃ` → `ukkaṭṭhaṃ`, `ārācesuṃ` → `ārocesuṃ`) are fixed in tipitaka-xml's Devanagari master but not yet in `romn/`. Our file follows `romn/`; pick them up once upstream regenerates it |
+
+### Source form (2026-11-12)
+
+The Vinaya files keep the body and structure of their own sources; only the Abhidhamma vault's *way of working* is followed, not its format. So, as tipitaka-xml prints them and tipitaka.app shows them:
+
+- **printed numbers stay** on headings (`1. Pārājikakaṇḍaṃ`) and at the start of root paragraphs (`1. Tena samayena…`); the block ID still records the number;
+- **the piṭaka heading is `Vinayapiṭake`**, as printed (it was `Vinayapiṭake (aṭṭhakathā)` / `(ṭīkā)`);
+- **variant-reading notes are `{…}`**, as on the site (a `<note>` in the XML); brackets inside a note's own text stay;
+- **no homage is added** where the source prints none.
+
+The step is `4-SYSTEM/scripts/tipitaka-xml-to-json/source_form.py`, run last in `build_roots.sh` and `build_commentary.py`. Checked with `verify.py --strict` (nothing normalised: 0 text differences) and line by line against tipitaka.app (every line exactly equal, the site's own bold and page markers aside). Bold stays plain: the library stores plain text. No block ID, heading ID, link or alignment pair changed.
+
+On prod (same day): the root editions' text, segmentation and contents tree were replaced and every commentary's alignment put back; the commentaries got new contents trees (titles with their printed numbers, `Vinayapiṭake`). Text and edition IDs are unchanged; the new contents-tree IDs are in the files, the ledgers and the table above. Read back: text, segments, contents trees and pairs equal the files.
 
 ---
 
@@ -95,7 +105,7 @@ Each numbered commentary paragraph links to the root paragraphs it explains, and
 | aṭṭhakathā | 246 | 1 / 1 / 5 / 25 / 126 / 88 | `^T-1`, `^2-1` … `^2-1185` | homage |
 | Sāratthadīpanī | 130 | 1 / 1 / 8 / 36 / 84 | `^T-1`, `^2-1` … `^2-566` | homage |
 | Vimativinodanī | 135 | 1 / 1 / 8 / 35 / 90 | `^T-1`, `^2-1` … `^2-457` | homage |
-| Vajirabuddhi | 196 | 1 / 1 / 11 / 115 / 67 / 1 | `^T-1`, `^2-1` … `^2-499` | homage (added, see above) |
+| Vajirabuddhi | 196 | 1 / 1 / 11 / 115 / 67 / 1 | `^2-1` … `^2-499` | no homage: the one-volume Vajirabuddhi prints it once, before its Pārājika part |
 | Yojanā | 237 | 1 / 1 / 2 / 24 / 207 / 2 | `^T-1`, `^2-1` … `^2-760` | homage |
 
 | Layer | Lines identical to tipitaka.app | Headings in the site's tree | tipitaka-xml |
@@ -117,7 +127,7 @@ The one line in each file not on the site is the piṭaka label. Each ṭīkā p
 | aṭṭhakathā | 463 | 524 | 524 | 1,389 | 1,176 of 1,186 |
 | Sāratthadīpanī | 233 | 325 | 325 | 820 | 565 of 567 |
 | Vimativinodanī | 229 | 444 | 444 | 793 | 457 of 458 |
-| Vajirabuddhi | 251 | 351 | 351 | 670 | 482 of 500 |
+| Vajirabuddhi | 251 | 351 | 351 | 670 | 482 of 499 |
 | Yojanā | 417 | 419 | 419 | 751 | 747 of 761 |
 
 The pairs follow the Abhidhamma rule: a group of links aligns every commentary block after it until the next group of links or the next heading.
@@ -161,17 +171,17 @@ Uploaded on 2026-11-12 to `https://library-prod.webuddhist.com`: `root-text-uplo
 
 | | text_id | edition_id | toc_id | Characters | Segments | TOC nodes | Alignment pairs |
 |---|---|---|---|---|---|---|---|
-| Pācittiyapāḷi | `QUJx63k0I45O2i7ypmZRP` | `MAjWAYsgc2Iyv5wtXcOcc` | `2nhSkx7jKslOorhO39GeC` | 732,583 | 1,253 | 260 | — |
-| aṭṭhakathā | `zyKRXBrnCwF2C09KgyDtp` | `lWE26PLVKL3OZJC1rvSVM` | `Eg6tvJxuh2iyISa05D81z` | 359,193 | 1,186 | 246 | 1,389 |
-| Sāratthadīpanī | `tqqaZvFMtg2ZyqqO8YD1v` | `BoRg7jYapQfMppmuVrAD7` | `h5XGfFz3G9D74u56XNpcn` | 203,214 | 567 | 130 | 820 |
-| Vimativinodanī | `wKH7J4lNoLp5ZzfRuv4Uk` | `zaq0MP3eFmmIhkB9zRKyi` | `EkEPigy5IKQ3XLnybHzJL` | 108,397 | 458 | 135 | 793 |
-| Vajirabuddhi | `NhOl0hggpKU6eN4IHBTrv` | `rcGLzvX5UV75h8pEd42oR` | `0o8RLh4pf4FREk68CDcaG` | 147,395 | 500 | 196 | 670 |
-| Yojanā | `vsbm8MUFloI3jclNqO5r4` | `jUhyZBdaHqgtA49chJr7m` | `hQn11YRtaqeL4pg2LOv4b` | 262,065 | 761 | 237 | 751 |
+| Pācittiyapāḷi | `QUJx63k0I45O2i7ypmZRP` | `MAjWAYsgc2Iyv5wtXcOcc` | `MFluV3CnTeHPDg8jVtwjx` | 738,928 | 1,253 | 260 | — |
+| aṭṭhakathā | `zyKRXBrnCwF2C09KgyDtp` | `lWE26PLVKL3OZJC1rvSVM` | `qcCFqKJLR7lYSoRkRv3PB` | 359,193 | 1,186 | 246 | 1,389 |
+| Sāratthadīpanī | `tqqaZvFMtg2ZyqqO8YD1v` | `BoRg7jYapQfMppmuVrAD7` | `k5traw26hraiDBSUVDknB` | 203,214 | 567 | 130 | 820 |
+| Vimativinodanī | `wKH7J4lNoLp5ZzfRuv4Uk` | `zaq0MP3eFmmIhkB9zRKyi` | `yj0LnzE4h98ciF52dkXHL` | 108,397 | 458 | 135 | 793 |
+| Vajirabuddhi | `NhOl0hggpKU6eN4IHBTrv` | `rcGLzvX5UV75h8pEd42oR` | `moiBkUuN4r5uWuTZMwGVi` | 147,349 | 499 | 196 | 670 |
+| Yojanā | `vsbm8MUFloI3jclNqO5r4` | `jUhyZBdaHqgtA49chJr7m` | `cFJ1PLAa9CtivQ3LI075l` | 262,065 | 761 | 237 | 751 |
 
 **Read back from prod (2026-11-12), all six texts:**
 
 - **Root record:** the root lists all five commentaries, with the category, tag and licence above.
-- **Segments:** the same references in the same order as the file's blocks, and each segment's text is identical to its block. The root's segments are `verse`; every commentary segment after the homage (`T-1`, `top_segment`) is `paragraph`, as in the Abhidhamma uploads.
+- **Segments:** the same references in the same order as the file's blocks, and each segment's text is identical to its block. The root's segments are `verse`; every commentary segment is `paragraph` (the homage `T-1`, where the source prints one, is `top_segment`), as in the Abhidhamma uploads.
 - **Table of contents:** one node per heading, with the same title and depth in the same order. Every span starts at the heading's first block and ends at the last block before the next heading of the same or a higher level.
 - **Alignments:** the live pairs equal the parser output, and their root targets are exactly the file's transclusion targets. They run commentary → root only.
 - **Titles:** identical to the files' `title:` lines.
