@@ -43,6 +43,17 @@ PLAN = [
 ]
 
 
+def is_volume_header(seg, file_head):
+    """Homage line, repeated piṭaka name, or repeated work title."""
+    c = seg["content"]
+    if c.startswith("Namo tassa bhagavato"):
+        return True
+    if c == "Vinayapiṭake":
+        return True
+    work_titles = {s["content"] for s in file_head if s["css_class"] == "book"}
+    return seg["css_class"] == "title" and c in work_titles
+
+
 def load(stem):
     return json.loads((R / f"{stem}.json").read_text(encoding="utf-8"))
 
@@ -74,15 +85,43 @@ def main():
                 hits = [i for i, s in enumerate(segs)
                         if s["content"] == boundary and s["css_class"] in ("chapter", "book")]
                 assert len(hits) == 1, (name, boundary, hits)
-                idx.append(hits[0])
+                i = hits[0]
+                # The next volume's header (homage, repeated piṭaka name,
+                # repeated work title) is printed just before the boundary
+                # heading: it opens the next part, not closes this one.
+                while i > 0 and is_volume_header(segs[i - 1], segs[0:3]):
+                    i -= 1
+                idx.append(i)
         idx.append(len(segs))
         for k, (book, name, boundary) in enumerate(parts):
             part = segs[idx[k]:idx[k + 1]]
             if boundary is not None:
-                part = [dict(part[0], css_class="book")] + part[1:]
-                part = [{"id": "synthetic_nikaya", "chapter": part[0]["chapter"],
-                         "paragraph": "k0", "content": "Vinayapiṭake",
-                         "css_class": "nikaya", "synthetic": True}] + part
+                j = next(n for n, s in enumerate(part) if s["content"] == boundary
+                         and s["css_class"] in ("chapter", "book"))
+                head = part[:j]              # homage [+ piṭaka name] [+ work title]
+                # Every part opens with the homage (^T-1), as every Abhidhamma
+                # commentary part does (abhidhamma-rails pi-4 … pi-7 reports:
+                # "homage line ^T-1 at the top of the ṭīkās"). A single-volume
+                # work (vin06t Vajirabuddhi) prints it only once, at the start:
+                # the later parts get it here, as they get the piṭaka line.
+                homage = [s for s in head if s["content"].startswith("Namo tassa")] or [
+                    {"id": "synthetic_homage", "chapter": part[j]["chapter"],
+                     "paragraph": "k0", "content": "Namo tassa bhagavato arahato sammāsambuddhassa",
+                     "css_class": "centered", "synthetic": True}]
+                pitaka = [dict(s, css_class="nikaya") for s in head
+                          if s["content"] == "Vinayapiṭake"][:1] or [
+                    {"id": "synthetic_nikaya", "chapter": part[j]["chapter"],
+                     "paragraph": "k0", "content": "Vinayapiṭake",
+                     "css_class": "nikaya", "synthetic": True}]
+                work = [s for s in head if s["css_class"] == "title"]
+                if work:
+                    # repeated work title (vin12t 'Pācityādiyojanā'): it heads
+                    # the part, with the boundary as its first division -- the
+                    # same shape as the work's first part
+                    part = (homage + pitaka + [dict(work[0], css_class="book")]
+                            + [dict(part[j], css_class="chapter")] + part[j + 1:])
+                else:
+                    part = homage + pitaka + [dict(part[j], css_class="book")] + part[j + 1:]
             title = next(s["content"] for s in part if s["css_class"] == "book")
             ids = "+".join(sources)
             d = dict(base, segments=part, total_segments=len(part),

@@ -54,12 +54,24 @@ def main(md_path, toc_path):
     eq = [b for op, a1, a2, b1, b2 in ops if op == "equal" for b in range(b1, b2)]
     offset = 3 - min(site[b]["depth"] for b in eq) if eq else 0
     first_b, last_b = (eq[0], eq[-1]) if eq else (0, -1)
+    # The part's own '##' title can itself be a site node (e.g. the
+    # Vajirabuddhi's 'Pācittiyavaṇṇanā', site depth 3), with a sibling after
+    # it on the site that the file keeps at '###' (Bhikkhunīvibhaṅgavaṇṇanā,
+    # also depth 3). Then the offset above puts the title's own children one
+    # level too deep, and the no-skip clamp below nests them wrongly. Level
+    # that title's subtree from the title instead: its children land at ###.
+    sub_offset, sub_end = None, None
+    h2 = next((key(m.group(1)) for m in (re.match(r"^##\s+(.*?)(\s+\^\S+)?\s*$", l) for l in lines) if m), None)
+    t = first_b - 1
+    if h2 and eq and t >= 0 and theirs[t] == h2 and site[t]["depth"] + offset != 2:
+        sub_offset = 2 - site[t]["depth"]
+        sub_end = next((b for b in range(t + 1, len(site)) if site[b]["depth"] <= site[t]["depth"]), len(site))
     changed, matched, unmatched_vault, unmatched_site = 0, 0, [], []
     for op, a1, a2, b1, b2 in ops:
         if op == "equal":
             for a, b in zip(range(a1, a2), range(b1, b2)):
                 matched += 1
-                depth = site[b]["depth"] + offset
+                depth = site[b]["depth"] + (sub_offset if sub_end and b < sub_end else offset)
                 m = HEADING.match(lines[idx[a]])
                 text = norm(m.group(2))
                 nm = NOTE.search(text)
