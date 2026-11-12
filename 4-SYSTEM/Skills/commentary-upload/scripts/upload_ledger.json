@@ -1,4 +1,115 @@
 {
+  "pi-mahavagga-atthakatha": {
+    "aligned_to_edition_id": "VVPfVPNWsbjPzk3bMocKP",
+    "edition_id": "Xq9kTf5x3VksG44HNonAP",
+    "file_type": "commentary",
+    "lang_tag": "pi",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "sB4W6zmMtsYGeWdX0fYgj",
+        "ts": "2026-11-12T12:47:00"
+      },
+      {
+        "chars": 346395,
+        "edition_id": "Xq9kTf5x3VksG44HNonAP",
+        "segments": 758,
+        "step": "edition",
+        "ts": "2026-11-12T12:47:01"
+      },
+      {
+        "nodes": 141,
+        "step": "toc",
+        "toc_id": "EOBIi8UcS1FAAF3nwqfE9",
+        "ts": "2026-11-12T12:47:03"
+      },
+      {
+        "pairs": 799,
+        "root_edition_id": "VVPfVPNWsbjPzk3bMocKP",
+        "step": "alignment",
+        "ts": "2026-11-12T12:47:05"
+      }
+    ],
+    "root_edition_id": "VVPfVPNWsbjPzk3bMocKP",
+    "root_text_id": "UuDkWSmWOL5PESPmgILv6",
+    "source_file": "1-SOURCES/Commentaries/pi-mahavagga-atthakatha.md",
+    "text_id": "sB4W6zmMtsYGeWdX0fYgj",
+    "toc_id": "EOBIi8UcS1FAAF3nwqfE9"
+  },
+  "pi-mahavagga-saratthadipani": {
+    "aligned_to_edition_id": "VVPfVPNWsbjPzk3bMocKP",
+    "edition_id": "MTQ3EE81YEH9aEcDYNS1N",
+    "file_type": "commentary",
+    "lang_tag": "pi",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "r044xwsKCdvWjgbJyJb0h",
+        "ts": "2026-11-12T12:47:13"
+      },
+      {
+        "chars": 396727,
+        "edition_id": "MTQ3EE81YEH9aEcDYNS1N",
+        "segments": 767,
+        "step": "edition",
+        "ts": "2026-11-12T12:47:14"
+      },
+      {
+        "nodes": 145,
+        "step": "toc",
+        "toc_id": "JevcqrL6V236B0siaPqO9",
+        "ts": "2026-11-12T12:47:15"
+      },
+      {
+        "pairs": 852,
+        "root_edition_id": "VVPfVPNWsbjPzk3bMocKP",
+        "step": "alignment",
+        "ts": "2026-11-12T12:47:17"
+      }
+    ],
+    "root_edition_id": "VVPfVPNWsbjPzk3bMocKP",
+    "root_text_id": "UuDkWSmWOL5PESPmgILv6",
+    "source_file": "1-SOURCES/Commentaries/pi-mahavagga-saratthadipani.md",
+    "text_id": "r044xwsKCdvWjgbJyJb0h",
+    "toc_id": "JevcqrL6V236B0siaPqO9"
+  },
+  "pi-mahavagga-vimativinodani": {
+    "aligned_to_edition_id": "VVPfVPNWsbjPzk3bMocKP",
+    "edition_id": "k1D5JciSEUihRFJHk74dI",
+    "file_type": "commentary",
+    "lang_tag": "pi",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "BlavXdDozOQTQtORNfZKu",
+        "ts": "2026-11-12T12:47:25"
+      },
+      {
+        "chars": 207874,
+        "edition_id": "k1D5JciSEUihRFJHk74dI",
+        "segments": 545,
+        "step": "edition",
+        "ts": "2026-11-12T12:47:26"
+      },
+      {
+        "nodes": 105,
+        "step": "toc",
+        "toc_id": "Jzw90MuM0lmzOGfk9SAcd",
+        "ts": "2026-11-12T12:47:27"
+      },
+      {
+        "pairs": 667,
+        "root_edition_id": "VVPfVPNWsbjPzk3bMocKP",
+        "step": "alignment",
+        "ts": "2026-11-12T12:47:28"
+      }
+    ],
+    "root_edition_id": "VVPfVPNWsbjPzk3bMocKP",
+    "root_text_id": "UuDkWSmWOL5PESPmgILv6",
+    "source_file": "1-SOURCES/Commentaries/pi-mahavagga-vimativinodani.md",
+    "text_id": "BlavXdDozOQTQtORNfZKu",
+    "toc_id": "Jzw90MuM0lmzOGfk9SAcd"
+  },
   "pi-pacittiya-atthakatha": {
     "aligned_to_edition_id": "MAjWAYsgc2Iyv5wtXcOcc",
     "edition_id": "lWE26PLVKL3OZJC1rvSVM",

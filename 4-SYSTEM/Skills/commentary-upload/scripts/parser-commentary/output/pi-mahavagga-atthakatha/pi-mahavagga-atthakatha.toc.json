@@ -1,0 +1,1297 @@
+{
+  "sections": [
+    {
+      "title": {
+        "pi": "Vinayapiṭake"
+      },
+      "span": {
+        "start": 46,
+        "end": 346395
+      },
+      "subsections": [
+        {
+          "title": {
+            "pi": "Mahāvagga-aṭṭhakathā"
+          },
+          "span": {
+            "start": 46,
+            "end": 346395
+          },
+          "subsections": [
+            {
+              "title": {
+                "pi": "1. Mahākhandhakaṃ"
+              },
+              "span": {
+                "start": 46,
+                "end": 144604
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "pi": "Bodhikathā"
+                  },
+                  "span": {
+                    "start": 46,
+                    "end": 8648
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Ajapālakathā"
+                  },
+                  "span": {
+                    "start": 8648,
+                    "end": 11800
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Mucalindakathā"
+                  },
+                  "span": {
+                    "start": 11800,
+                    "end": 13727
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Rājāyatanakathā"
+                  },
+                  "span": {
+                    "start": 13727,
+                    "end": 16772
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Brahmayācanakathā"
+                  },
+                  "span": {
+                    "start": 16772,
+                    "end": 20877
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Pañcavaggiyakathā"
+                  },
+                  "span": {
+                    "start": 20877,
+                    "end": 24360
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Pabbajjākathā"
+                  },
+                  "span": {
+                    "start": 24360,
+                    "end": 33408
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Dutiyamārakathā"
+                  },
+                  "span": {
+                    "start": 33408,
+                    "end": 33598
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Bhaddavaggiyakathā"
+                  },
+                  "span": {
+                    "start": 33598,
+                    "end": 34058
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Uruvelapāṭihāriyakathā"
+                  },
+                  "span": {
+                    "start": 34058,
+                    "end": 34737
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Bimbisārasamāgamakathā"
+                  },
+                  "span": {
+                    "start": 34737,
+                    "end": 37671
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Sāriputtamoggallānapabbajjākathā"
+                  },
+                  "span": {
+                    "start": 37671,
+                    "end": 42237
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Upajjhāyavattakathā"
+                  },
+                  "span": {
+                    "start": 42237,
+                    "end": 51713
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Saddhivihārikavattakathā"
+                  },
+                  "span": {
+                    "start": 51713,
+                    "end": 52590
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Nasammāvattanādikathā"
+                  },
+                  "span": {
+                    "start": 52590,
+                    "end": 53974
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Rādhabrāhmaṇavatthukathā"
+                  },
+                  "span": {
+                    "start": 53974,
+                    "end": 55539
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Ācariyavattakathā"
+                  },
+                  "span": {
+                    "start": 55539,
+                    "end": 56943
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Paṇāmanākhamanākathā"
+                  },
+                  "span": {
+                    "start": 56943,
+                    "end": 57861
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Nissayapaṭippassaddhikathā"
+                  },
+                  "span": {
+                    "start": 57861,
+                    "end": 63898
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Upasampādetabbapañcakakathā"
+                  },
+                  "span": {
+                    "start": 63898,
+                    "end": 66702
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Upasampādetabbachakkakathā"
+                  },
+                  "span": {
+                    "start": 66702,
+                    "end": 67110
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Aññatitthiyapubbavatthukathā"
+                  },
+                  "span": {
+                    "start": 67110,
+                    "end": 74962
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Pañcābādhavatthukathā"
+                  },
+                  "span": {
+                    "start": 74962,
+                    "end": 77042
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Rājabhaṭavatthukathā"
+                  },
+                  "span": {
+                    "start": 77042,
+                    "end": 78083
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Coravatthukathā"
+                  },
+                  "span": {
+                    "start": 78083,
+                    "end": 81615
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Iṇāyikavatthukathā"
+                  },
+                  "span": {
+                    "start": 81615,
+                    "end": 83879
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Dāsavatthukathā"
+                  },
+                  "span": {
+                    "start": 83879,
+                    "end": 87282
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Kammārabhaṇḍuvatthādikathā"
+                  },
+                  "span": {
+                    "start": 87282,
+                    "end": 90206
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Rāhulavatthukathā"
+                  },
+                  "span": {
+                    "start": 90206,
+                    "end": 105892
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Sikkhāpadadaṇḍakammavatthukathā"
+                  },
+                  "span": {
+                    "start": 105892,
+                    "end": 107437
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Anāpucchāvaraṇavatthuādikathā"
+                  },
+                  "span": {
+                    "start": 107437,
+                    "end": 111213
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Paṇḍakavatthukathā"
+                  },
+                  "span": {
+                    "start": 111213,
+                    "end": 112316
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Theyyasaṃvāsakavatthukathā"
+                  },
+                  "span": {
+                    "start": 112316,
+                    "end": 120354
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Titthiyapakkantakakathā"
+                  },
+                  "span": {
+                    "start": 120354,
+                    "end": 122196
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Tiracchānagatavatthukathā"
+                  },
+                  "span": {
+                    "start": 122196,
+                    "end": 123745
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Mātughātakādivatthukathā"
+                  },
+                  "span": {
+                    "start": 123745,
+                    "end": 126639
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Ubhatobyañjanakavatthukathā"
+                  },
+                  "span": {
+                    "start": 126639,
+                    "end": 127909
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Anupajjhāyakādivatthukathā"
+                  },
+                  "span": {
+                    "start": 127909,
+                    "end": 128541
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Apattakādivatthukathā"
+                  },
+                  "span": {
+                    "start": 128541,
+                    "end": 129900
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Hatthacchinnādivatthukathā"
+                  },
+                  "span": {
+                    "start": 129900,
+                    "end": 139302
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Alajjīnissayavatthukathā"
+                  },
+                  "span": {
+                    "start": 139302,
+                    "end": 140426
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Gamikādinissayavatthukathā"
+                  },
+                  "span": {
+                    "start": 140426,
+                    "end": 142749
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Upasampadāvidhikathā"
+                  },
+                  "span": {
+                    "start": 142749,
+                    "end": 143111
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Cattāronissayādikathā"
+                  },
+                  "span": {
+                    "start": 143111,
+                    "end": 144604
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "pi": "2. Uposathakkhandhakaṃ"
+              },
+              "span": {
+                "start": 144604,
+                "end": 200504
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "pi": "Sannipātānujānanādikathā"
+                  },
+                  "span": {
+                    "start": 144604,
+                    "end": 146266
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Sīmānujānanakathā"
+                  },
+                  "span": {
+                    "start": 146266,
+                    "end": 168744
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Uposathāgārādikathā"
+                  },
+                  "span": {
+                    "start": 168744,
+                    "end": 170199
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Avippavāsasīmānujānanakathā"
+                  },
+                  "span": {
+                    "start": 170199,
+                    "end": 173598
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Gāmasīmādikathā"
+                  },
+                  "span": {
+                    "start": 173598,
+                    "end": 182643
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Uposathabhedādikathā"
+                  },
+                  "span": {
+                    "start": 182643,
+                    "end": 183498
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Pātimokkhuddesakathā"
+                  },
+                  "span": {
+                    "start": 183498,
+                    "end": 187459
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Adhammakammapaṭikkosanādikathā"
+                  },
+                  "span": {
+                    "start": 187459,
+                    "end": 188688
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Pakkhagaṇanādiuggahaṇānujānanakathā"
+                  },
+                  "span": {
+                    "start": 188688,
+                    "end": 189833
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Disaṃgamikādivatthukathā"
+                  },
+                  "span": {
+                    "start": 189833,
+                    "end": 191444
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Pārisuddhidānakathā"
+                  },
+                  "span": {
+                    "start": 191444,
+                    "end": 192761
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Chandadānakathā"
+                  },
+                  "span": {
+                    "start": 192761,
+                    "end": 193428
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Saṅghuposathādikathā"
+                  },
+                  "span": {
+                    "start": 193428,
+                    "end": 194318
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Āpattipaṭikammavidhikathā"
+                  },
+                  "span": {
+                    "start": 194318,
+                    "end": 196275
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Anāpattipannarasakādikathā"
+                  },
+                  "span": {
+                    "start": 196275,
+                    "end": 197015
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Sīmokkantikapeyyālakathā"
+                  },
+                  "span": {
+                    "start": 197015,
+                    "end": 197748
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Liṅgādidassanakathā"
+                  },
+                  "span": {
+                    "start": 197748,
+                    "end": 198725
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Nagantabbagantabbavārakathā"
+                  },
+                  "span": {
+                    "start": 198725,
+                    "end": 199745
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Vajjanīyapuggalasandassanakathā"
+                  },
+                  "span": {
+                    "start": 199745,
+                    "end": 200504
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "pi": "3. Vassūpanāyikakkhandhakaṃ"
+              },
+              "span": {
+                "start": 200504,
+                "end": 211306
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "pi": "Vassūpanāyikānujānanakathā"
+                  },
+                  "span": {
+                    "start": 200504,
+                    "end": 201453
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Vassānecārikāpaṭikkhepādikathā"
+                  },
+                  "span": {
+                    "start": 201453,
+                    "end": 202230
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Sattāhakaraṇīyānujānanakathā"
+                  },
+                  "span": {
+                    "start": 202230,
+                    "end": 203704
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Pañcannaṃappahitepianujānanakathā"
+                  },
+                  "span": {
+                    "start": 203704,
+                    "end": 204810
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Pahiteyevaanujānanakathā"
+                  },
+                  "span": {
+                    "start": 204810,
+                    "end": 205920
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Antarāyeanāpattivassacchedakathā"
+                  },
+                  "span": {
+                    "start": 205920,
+                    "end": 207184
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Saṅghabhedeanāpattivassacchedakathā"
+                  },
+                  "span": {
+                    "start": 207184,
+                    "end": 207564
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Vajādīsuvassūpagamanakathā"
+                  },
+                  "span": {
+                    "start": 207564,
+                    "end": 210032
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Adhammikakatikādikathā"
+                  },
+                  "span": {
+                    "start": 210032,
+                    "end": 211306
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "pi": "4. Pavāraṇākkhandhakaṃ"
+              },
+              "span": {
+                "start": 211306,
+                "end": 223040
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "pi": "Aphāsukavihārakathā"
+                  },
+                  "span": {
+                    "start": 211306,
+                    "end": 212787
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Pavāraṇābhedakathā"
+                  },
+                  "span": {
+                    "start": 212787,
+                    "end": 213901
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Pavāraṇādānānujānanakathā"
+                  },
+                  "span": {
+                    "start": 213901,
+                    "end": 215201
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Anāpattipannarasakādikathā"
+                  },
+                  "span": {
+                    "start": 215201,
+                    "end": 217605
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Dvevācikādipavāraṇākathā"
+                  },
+                  "span": {
+                    "start": 217605,
+                    "end": 217874
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Pavāraṇāṭhapanakathā"
+                  },
+                  "span": {
+                    "start": 217874,
+                    "end": 219281
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Vatthuṭhapanādikathā"
+                  },
+                  "span": {
+                    "start": 219281,
+                    "end": 221014
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Bhaṇḍanakārakavatthukathā"
+                  },
+                  "span": {
+                    "start": 221014,
+                    "end": 222146
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Pavāraṇāsaṅgahakathā"
+                  },
+                  "span": {
+                    "start": 222146,
+                    "end": 223040
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "pi": "5. Cammakkhandhakaṃ"
+              },
+              "span": {
+                "start": 223040,
+                "end": 236109
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "pi": "Soṇakoḷivisavatthukathā"
+                  },
+                  "span": {
+                    "start": 223040,
+                    "end": 224597
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Soṇassa pabbajjākathā"
+                  },
+                  "span": {
+                    "start": 224597,
+                    "end": 227438
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Diguṇādiupāhanapaṭikkhepakathā"
+                  },
+                  "span": {
+                    "start": 227438,
+                    "end": 228088
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Sabbanīlikādipaṭikkhepakathā"
+                  },
+                  "span": {
+                    "start": 228088,
+                    "end": 229648
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Ajjhārāmeupāhanapaṭikkhepakathā"
+                  },
+                  "span": {
+                    "start": 229648,
+                    "end": 230914
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Yānādipaṭikkhepakathā"
+                  },
+                  "span": {
+                    "start": 230914,
+                    "end": 233010
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Sabbacammapaṭikkhepādikathā"
+                  },
+                  "span": {
+                    "start": 233010,
+                    "end": 236109
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "pi": "6. Bhesajjakkhandhakaṃ"
+              },
+              "span": {
+                "start": 236109,
+                "end": 261750
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "pi": "Pañcabhesajjādikathā"
+                  },
+                  "span": {
+                    "start": 236109,
+                    "end": 240605
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Guḷādianujānanakathā"
+                  },
+                  "span": {
+                    "start": 240605,
+                    "end": 242957
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Hatthimaṃsādipaṭikkhepakathā"
+                  },
+                  "span": {
+                    "start": 242957,
+                    "end": 243790
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Yāgumadhugoḷakādikathā"
+                  },
+                  "span": {
+                    "start": 243790,
+                    "end": 244520
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Pāṭaligāmavatthukathā"
+                  },
+                  "span": {
+                    "start": 244520,
+                    "end": 246993
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Sīhasenāpativatthuādikathā"
+                  },
+                  "span": {
+                    "start": 246993,
+                    "end": 248359
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Kappiyabhūmianujānanakathā"
+                  },
+                  "span": {
+                    "start": 248359,
+                    "end": 254786
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Keṇiyajaṭilavatthukathā"
+                  },
+                  "span": {
+                    "start": 254786,
+                    "end": 257136
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Rojamallādivatthukathā"
+                  },
+                  "span": {
+                    "start": 257136,
+                    "end": 258168
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Catumahāpadesakathā"
+                  },
+                  "span": {
+                    "start": 258168,
+                    "end": 261750
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "pi": "7. Kathinakkhandhakaṃ"
+              },
+              "span": {
+                "start": 261750,
+                "end": 276824
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "pi": "Kathinānujānanakathā"
+                  },
+                  "span": {
+                    "start": 261750,
+                    "end": 273765
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Ādāyasattakakathā"
+                  },
+                  "span": {
+                    "start": 273765,
+                    "end": 276824
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "pi": "8. Cīvarakkhandhakaṃ"
+              },
+              "span": {
+                "start": 276824,
+                "end": 331166
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "pi": "Jīvakavatthukathā"
+                  },
+                  "span": {
+                    "start": 276824,
+                    "end": 280876
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Seṭṭhibhariyādivatthukathā"
+                  },
+                  "span": {
+                    "start": 280876,
+                    "end": 281664
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Rājagahaseṭṭhivatthukathā"
+                  },
+                  "span": {
+                    "start": 281664,
+                    "end": 282240
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Pajjotarājavatthukathā"
+                  },
+                  "span": {
+                    "start": 282240,
+                    "end": 283349
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Siveyyakadussayugakathā"
+                  },
+                  "span": {
+                    "start": 283349,
+                    "end": 283760
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Samattiṃsavirecanakathā"
+                  },
+                  "span": {
+                    "start": 283760,
+                    "end": 285720
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Varayācanakathā"
+                  },
+                  "span": {
+                    "start": 285720,
+                    "end": 286459
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Kambalānujānanādikathā"
+                  },
+                  "span": {
+                    "start": 286459,
+                    "end": 289369
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Bhaṇḍāgārasammutiādikathā"
+                  },
+                  "span": {
+                    "start": 289369,
+                    "end": 297233
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Cīvararajanakathā"
+                  },
+                  "span": {
+                    "start": 297233,
+                    "end": 298549
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Chinnakacīvarānujānanakathā"
+                  },
+                  "span": {
+                    "start": 298549,
+                    "end": 299905
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Ticīvarānujānanakathā"
+                  },
+                  "span": {
+                    "start": 299905,
+                    "end": 300871
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Atirekacīvarādikathā"
+                  },
+                  "span": {
+                    "start": 300871,
+                    "end": 301949
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Pacchimavikappanupagacīvarādikathā"
+                  },
+                  "span": {
+                    "start": 301949,
+                    "end": 303212
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Saṅghikacīvaruppādakathā"
+                  },
+                  "span": {
+                    "start": 303212,
+                    "end": 306366
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Upanandasakyaputtavatthukathā"
+                  },
+                  "span": {
+                    "start": 306366,
+                    "end": 307678
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Gilānavatthukathā"
+                  },
+                  "span": {
+                    "start": 307678,
+                    "end": 309019
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Matasantakakathā"
+                  },
+                  "span": {
+                    "start": 309019,
+                    "end": 311799
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Kusacīrādipaṭikkhepakathā"
+                  },
+                  "span": {
+                    "start": 311799,
+                    "end": 312600
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Saṅghebhinnecīvaruppādakathā"
+                  },
+                  "span": {
+                    "start": 312600,
+                    "end": 313338
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Aṭṭhacīvaramātikākathā"
+                  },
+                  "span": {
+                    "start": 313338,
+                    "end": 331166
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "pi": "9. Campeyyakkhandhakaṃ"
+              },
+              "span": {
+                "start": 331166,
+                "end": 336028
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "pi": "Kassapagottabhikkhuvatthukathā"
+                  },
+                  "span": {
+                    "start": 331166,
+                    "end": 332642
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Catuvaggakaraṇādikathā"
+                  },
+                  "span": {
+                    "start": 332642,
+                    "end": 333533
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Dvenissāraṇādikathā"
+                  },
+                  "span": {
+                    "start": 333533,
+                    "end": 335048
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Upālipucchākathā"
+                  },
+                  "span": {
+                    "start": 335048,
+                    "end": 335439
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Tajjanīyakammakathā"
+                  },
+                  "span": {
+                    "start": 335439,
+                    "end": 336028
+                  }
+                }
+              ]
+            },
+            {
+              "title": {
+                "pi": "10. Kosambakakkhandhakaṃ"
+              },
+              "span": {
+                "start": 336028,
+                "end": 346395
+              },
+              "subsections": [
+                {
+                  "title": {
+                    "pi": "Kosambakavivādakathā"
+                  },
+                  "span": {
+                    "start": 336028,
+                    "end": 341750
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Pālileyyakagamanakathā"
+                  },
+                  "span": {
+                    "start": 341750,
+                    "end": 342806
+                  }
+                },
+                {
+                  "title": {
+                    "pi": "Aṭṭhārasavatthukathā"
+                  },
+                  "span": {
+                    "start": 342806,
+                    "end": 346395
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

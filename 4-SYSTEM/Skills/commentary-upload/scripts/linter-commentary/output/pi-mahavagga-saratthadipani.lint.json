@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Commentaries/pi-mahavagga-saratthadipani.md",
+  "validated_at": "2026-11-12T07:18:13.955987+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "translation_of: not set (optional)",
+    "commentary_of: 'UuDkWSmWOL5PESPmgILv6'",
+    "root_text: '1-SOURCES/Text/pi-3.md'",
+    "source: source = 'https://github.com/VipassanaTech/tipitaka-xml/blob/main/romn/vin02t.tik.xml'",
+    "toc: 145 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now",
+    "alt_titles: missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "pi": "Sāratthadīpanī-ṭīkā (Mahāvagga)"
+    },
+    "alt_titles": null,
+    "language": "pi",
+    "commentary_of": "UuDkWSmWOL5PESPmgILv6",
+    "translation_of": null,
+    "category_id": "4wuvGxIgXNZ5mb0bDWvkC",
+    "license": "cc0",
+    "contributions": null,
+    "tag_ids": [
+      "296WZOr8MXWteSqBBI7pl"
+    ]
+  }
+}
