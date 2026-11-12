@@ -389,12 +389,10 @@ def _build_content_and_segmentation(blocks, doc_default):
                 f"segment; the parts may each need their own block ID",
                 file=sys.stderr,
             )
-        # Verse wins: several lines with no gap is a verse wherever it sits,
-        # front matter or colophon included. Otherwise the ID decides.
-        if _is_verse_shape(content_lines):
-            seg_type = "verse"
-        else:
-            seg_type = _infer_segment_type(ref_no_caret, doc_default)
+        # The ID decides the type, as in the Abhidhamma vault: commentary
+        # blocks are paragraphs, verses (gāthās) included. (The earlier
+        # "verse wins" rule typed any multi-line block as a verse.)
+        seg_type = _infer_segment_type(ref_no_caret, doc_default)
         seg_list.append({"lines": line_spans, "type": seg_type, "reference": ref_no_caret})
 
     return "".join(parts), seg_list, headings
@@ -510,15 +508,18 @@ def build_alignment(source_path):
 
     for block in blocks:
         lines = block["lines"]
-        # Headings are invisible to alignment (FORK, Dzongsar-dolma-bumtsok-rails
-        # 2026-09-26): they are never aligned and they neither close nor reset the
-        # current scope — only the next transclusion group does. A heading line
-        # glued to transclusion lines is dropped and the rest read as usual.
+        # A heading ends the current scope, as in the Abhidhamma vault
+        # (abhidhamma-rails parser-commentary, used for its pi-1 … pi-7
+        # uploads): commentary after a heading must carry its own
+        # transclusion to be aligned. Headings are never aligned. Root
+        # transclusions glued to the heading open the new scope.
         if block["is_header"]:
-            lines = [l for l in lines if not l.lstrip().startswith('#')]
-            if not any(l.strip() for l in lines):
-                continue
-            block = {**block, "ref": None}
+            glued = [r for l in lines if not l.lstrip().startswith('#')
+                     for f, r in _TRANS_FILE_REF_RE.findall(l)
+                     if root_name is None or _note_name(f) == root_name]
+            active_targets = list(dict.fromkeys(glued))
+            prev_trans_only = False
+            continue
         # Only transclusions of the root_text file give alignment targets
         # (FORK, Dzongsar-dolma-bumtsok-rails 2026-09-26). A transclusion of any
         # other file still counts as a transclusion group — it closes the

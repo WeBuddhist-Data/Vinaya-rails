@@ -30,21 +30,18 @@ Same as `parser-root-text` (see its README): headings add no segment and no text
 
 ### Segment types
 
-The shape of the block is checked first, then its ID:
+The block ID decides the type, as in the Abhidhamma vault's parser (used for its pi-1 … pi-7 uploads):
 
 | Test | Type | Example |
 |------|------|---------|
-| **Two or more lines with no empty line between them** | `verse` | a quoted verse, one line per unit |
 | ID starts with `T` or `t` | `top_segment` | `^T-1` |
 | Any part is an uppercase Roman numeral | `front_matter` | `^I-1`, `^2-I-3` |
 | Any part is lowercase letters only | `back_matter` | `^a-1` |
 | Anything else | `paragraph` | `^1-1`, `^1-2x3`, `^1-U4` |
 
-**Verse wins over the ID.** A verse in the intro or the colophon is `verse`, not `front_matter` or `back_matter`: those mark where a block sits, and the block's shape says what it is. The ID types only blocks that are not verse.
+A quoted verse (gāthā) in a commentary is a `paragraph` too. (Changed 2026-11-12 to match the Abhidhamma uploads; the earlier rule typed every block of two or more lines with no empty line between them as `verse`.)
 
-An empty line inside a block — including a line holding only an invisible character such as a zero-width space — stops it being verse, and the parser warns about it. Such a block is usually two paragraphs that each need their own block ID, and Obsidian shows no gap there, so the warning is the only sign.
-
-A block of prose that was hard-wrapped onto several lines without a blank line between them reads as verse to this rule. Keep a paragraph on one line.
+An empty line inside a block — including a line holding only an invisible character such as a zero-width space — makes the parser warn. Such a block is usually two paragraphs that each need their own block ID, and Obsidian shows no gap there, so the warning is the only sign.
 
 ## Alignment
 
@@ -55,7 +52,7 @@ Transclusions in the commentary (`![[1-SOURCES/Text/<lang>-<title>.md#^1-1]]`) s
 
 A transclusion, or a group of consecutive transclusions, opens a scope. Transclusions written one after another count as one group even when blank lines separate them (keep them on separate lines — the parser joins them). Every commentary block that follows is aligned to those root-text segments until the **next transclusion group**, which replaces the scope.
 
-Headings are ignored by the alignment: they are never aligned, and they neither close nor reset the scope — commentary under a new heading stays aligned to the last transclusion group until a new one appears. (Fork change in this vault; the 21-taras-rails original closed the scope at every heading.) Only blocks before the first transclusion in the file are left unaligned. Transclusions that point to a heading in the `root_text` file are skipped with a warning, since headings are not segments. Only transclusions of the `root_text` file give targets: a transclusion of any other file still opens a new scope, but an empty one, so the commentary under it stays unaligned instead of being paired with a same-numbered block of the root (fork change, 2026-09-26; used by `commentary-realign` for root passages the new root does not contain). Alignment can be many-to-one (several paragraphs on one verse) or many-to-many (several paragraphs on a group of verses).
+A heading ends the scope: commentary after a heading must carry its own transclusion to be aligned, as in the Abhidhamma vault's parser. Headings themselves are never aligned; root transclusions glued to a heading open the new scope. (Changed 2026-11-12 to match the Abhidhamma uploads; the earlier fork rule let the scope run on across headings.) Blocks before the first transclusion, and blocks after a heading until the next transclusion, are left unaligned. Transclusions that point to a heading in the `root_text` file are skipped with a warning, since headings are not segments. Only transclusions of the `root_text` file give targets: a transclusion of any other file still opens a new scope, but an empty one, so the commentary under it stays unaligned instead of being paired with a same-numbered block of the root (fork change, 2026-09-26; used by `commentary-realign` for root passages the new root does not contain). Alignment can be many-to-one (several paragraphs on one verse) or many-to-many (several paragraphs on a group of verses).
 
 ## Requirements
 

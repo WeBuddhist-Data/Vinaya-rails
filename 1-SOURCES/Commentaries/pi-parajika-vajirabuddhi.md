@@ -9,6 +9,7 @@ verse_id_format: book-verse
 pitaka: vinaya
 layer: tika
 root_text: 1-SOURCES/Text/pi-1.md
+commentary: 1-SOURCES/Commentaries/pi-parajika-atthakatha.md
 covers_verses: 1-2–1-657
 copyright: Public domain
 license: cc0

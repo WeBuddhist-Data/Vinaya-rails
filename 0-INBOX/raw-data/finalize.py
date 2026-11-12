@@ -127,6 +127,9 @@ def main():
             "file_type": "commentary", "registered_id": f"{slug}-{work}", "lang_tag": "pi",
             "verse_id_format": "book-verse", "pitaka": "vinaya", "layer": layer,
             "root_text": f"1-SOURCES/Text/pi-{b}.md",
+            # As in the Abhidhamma ṭīkā files: the commentary this one explains.
+            # The Vinaya ṭīkās and the Yojanā all explain the Samantapāsādikā.
+            **({} if work == "atthakatha" else {"commentary": f"1-SOURCES/Commentaries/pi-{slug}-atthakatha.md"}),
             "covers_verses": f"{b}-{cited[0]}–{b}-{cited[-1]}" if cited else "",
             "copyright": "Public domain", "license": "cc0", "category_id": CATEGORY_ID, "tag_ids": TAG_IDS,
             "source_description": f"Chaṭṭha Saṅgāyana Tipiṭaka (CST) romanised XML, VipassanaTech/tipitaka-xml {', '.join(f'romn/{s}.{ext}.xml' for s in srcs)}"

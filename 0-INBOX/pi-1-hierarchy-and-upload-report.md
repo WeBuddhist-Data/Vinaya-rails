@@ -161,10 +161,12 @@ Each numbered commentary paragraph has one `![[1-SOURCES/Text/pi-1.md#^1-N]]` li
 
 | | Linked paragraphs | Link lines | Distinct root targets | Alignment pairs (prod) | Commentary segments aligned |
 |---|---|---|---|---|---|
-| aṭṭhakathā | 367 | 410 | 410 | 2,468 | 2,201 of 2,539 |
-| Sāratthadīpanī | 337 | 408 | 376 | 2,388 | 2,147 of 2,785 |
-| Vimativinodanī | 279 | 330 | 329 | 954 | 844 of 1,026 |
-| Vajirabuddhi | 206 | 248 | 247 | 748 | 606 of 725 |
+| aṭṭhakathā | 367 | 410 | 410 | 2,305 | 2,040 of 2,539 |
+| Sāratthadīpanī | 337 | 408 | 376 | 2,145 | 1,905 of 2,785 |
+| Vimativinodanī | 279 | 330 | 329 | 888 | 778 of 1,026 |
+| Vajirabuddhi | 206 | 248 | 247 | 697 | 561 of 725 |
+
+The pairs follow the Abhidhamma vault's rule, used for its pi-1 … pi-7 uploads: a group of links aligns every commentary block after it **until the next group of links or the next heading**. Commentary under a heading that has no link of its own stays unaligned. (Changed 2026-11-12; see "Brought in line with the Abhidhamma uploads" below.)
 
 **Checks:**
 
@@ -200,18 +202,33 @@ Uploaded on 2026-11-11 to `https://library-prod.webuddhist.com`, with `root-text
 | | text_id | edition_id | toc_id | Characters | Segments | TOC nodes | Alignment pairs |
 |---|---|---|---|---|---|---|---|
 | Pārājikapāḷi | `NeySMirSFLEgeMNztyy7J` | `LOajhD42NZB0aoZx6eb3h` | `09jFySGJHb2Cc4cmPuP00` | 641,228 | 675 | 80 | — |
-| aṭṭhakathā | `lfmZoqj9eYuJrsOUTSM4Z` | `G5Xf8XNTGD4j85Tm6OIIx` | `cXGimhcIN5SBGDEd4HMpK` | 1,175,920 | 2,539 | 151 | 2,468 |
-| Sāratthadīpanī | `PcV57z4T2gqDv1ILRtdlE` | `Sn25vAbquEf1le6nDc5xk` | `V1PXPTR6YbLW6PzJtVPoF` | 1,655,243 | 2,785 | 153 | 2,388 |
-| Vimativinodanī | `p2lM0D26XkcAZZB1PkeCP` | `9lWiR3WIQyOUIKw74nBhX` | `KB82fiahYzeJ9fGItFywT` | 656,711 | 1,026 | 138 | 954 |
-| Vajirabuddhi | `URgLMpwpciSEK0p2jJwXF` | `FDVzp6dZeXBwYcEhN51bA` | `3m16VwQdQaxa7skqYnhx2` | 523,159 | 725 | 112 | 748 |
+| aṭṭhakathā | `lfmZoqj9eYuJrsOUTSM4Z` | `G5Xf8XNTGD4j85Tm6OIIx` | `cXGimhcIN5SBGDEd4HMpK` | 1,175,920 | 2,539 | 151 | 2,305 |
+| Sāratthadīpanī | `PcV57z4T2gqDv1ILRtdlE` | `Sn25vAbquEf1le6nDc5xk` | `V1PXPTR6YbLW6PzJtVPoF` | 1,655,243 | 2,785 | 153 | 2,145 |
+| Vimativinodanī | `p2lM0D26XkcAZZB1PkeCP` | `9lWiR3WIQyOUIKw74nBhX` | `KB82fiahYzeJ9fGItFywT` | 656,711 | 1,026 | 138 | 888 |
+| Vajirabuddhi | `URgLMpwpciSEK0p2jJwXF` | `FDVzp6dZeXBwYcEhN51bA` | `3m16VwQdQaxa7skqYnhx2` | 523,159 | 725 | 112 | 697 |
 
-**Read back from prod (2026-11-11, after the title change), all five texts:**
+**Read back from prod (2026-11-12, after the change below), all five texts:**
 
 - **Root record:** the root text lists all four commentaries.
-- **Segments:** the same references in the same order as the file's blocks, and each segment's text is identical to its block.
+- **Segments:** the same references in the same order as the file's blocks, and each segment's text is identical to its block. The root's segments are `verse` and every commentary segment after the homage (`T-1`, `top_segment`) is `paragraph`, as in the Abhidhamma uploads.
 - **Table of contents:** one node per heading, with the same title and depth in the same order. Every span starts at the heading's first block and ends at the last block before the next heading of the same or a higher level.
 - **Alignments:** the live pairs are identical to the parser output. Their root targets are exactly the file's transclusion targets, and every target exists in the root.
 - **Titles:** identical to the files' `title:` lines.
+
+### Brought in line with the Abhidhamma uploads (2026-11-12)
+
+The Abhidhamma vault's pi-1 … pi-7 uploads are the reference. Compared with them, two things in the first pi-1 upload differed: the commentary parser in this vault let a group of links run on across headings, and it typed every block of several lines (a gāthā) as `verse`. Both rules now follow the Abhidhamma parser (`4-SYSTEM/Skills/commentary-upload/scripts/parser-commentary/`). On all nine Vinaya commentaries (pi-1 and pi-2), the three Dhammasaṅgaṇī commentaries and the Paṭṭhāna aṭṭhakathā, the parser's output is now identical to the Abhidhamma parser's. On the Dhammasaṅgaṇī it reproduces the live Abhidhamma pairs exactly (1,980 / 853 / 956). The Vinaya text, block IDs and contents trees did not change.
+
+On prod, for each of the four commentaries:
+
+1. the live segments, alignments and contents tree were backed up;
+2. the segmentation was replaced (`DELETE` + `POST /v2/editions/{id}/segmentation`): same references and spans, 608 segments `verse` → `paragraph` (214 / 278 / 13 / 103);
+3. the alignment was replaced (`PUT /v2/editions/{id}/alignments/{root edition}`): 2,468 / 2,388 / 954 / 748 → 2,305 / 2,145 / 888 / 697 pairs. Only the pairs that ran on across a heading were removed; none was added;
+4. everything was read back: segments, types, content, contents tree and pairs equal the parser output.
+
+The text, edition and contents IDs are unchanged. Each step is logged in `upload_ledger.json`.
+
+The three ṭīkā files also gained `commentary: 1-SOURCES/Commentaries/pi-parajika-atthakatha.md`, as the Abhidhamma ṭīkā files name the commentary they explain. It is a vault note only; nothing sent to the library changes.
 
 ---
 
@@ -219,7 +236,7 @@ Uploaded on 2026-11-11 to `https://library-prod.webuddhist.com`, with `root-text
 
 - **The upload script's default host is not prod.** Set `WEBUDDHIST_API_BASE=https://library-prod.webuddhist.com` before uploading. Prod needs the API key even for reads.
 - **The API key** is in `4-SYSTEM/scripts/.env` (`WEBUDDHIST_API_KEY`). It is git-ignored; never commit it.
-- **The linter rewrites a tracked file.** Running the commentary linter rewrites `4-SYSTEM/Skills/commentary-upload/scripts/linter-commentary/languages.py`; restore it with `git checkout`. Its `output/` folders are not committed.
+- **The linter rewrites a tracked file.** Running the commentary linter rewrites `4-SYSTEM/Skills/commentary-upload/scripts/linter-commentary/languages.py`; restore it with `git checkout`. As in the Abhidhamma vault, the linter and parser output that was uploaded is committed (see Files).
 - **Changing a title on prod** only needs a PATCH to `/v2/texts/{text_id}` (`{"title": {"pi": "…"}}`). It does not touch the edition, TOC or alignment.
 - **Not looked at:** the WeBuddhist reader. Open the texts there to see the TOC and the commentary panel.
 
@@ -235,18 +252,24 @@ Should they be dropped? Dropping them would mean re-uploading the Sāratthadīpa
 
 ## Files
 
-Committed in `f85fb47`:
+Committed in `f85fb47` (first upload) and `be85fd7` (this report):
 
 - `pi-1.md` and the four commentary files
 - the two upload ledgers and the wrong-host receipt
 - `0-INBOX/raw-data/finalize.py`
 
+Committed with the 2026-11-12 change, as Abhidhamma pi-3 was:
+
+- the three ṭīkā files (`commentary:` line)
+- linter output: `4-SYSTEM/scripts/linter-root-text/output/pi-1.lint.json` and `4-SYSTEM/Skills/commentary-upload/scripts/linter-commentary/output/pi-parajika-*.lint.json`
+- parser output: `4-SYSTEM/scripts/parser-root-text/output/pi-1/` (edition, text, toc) and `4-SYSTEM/Skills/commentary-upload/scripts/parser-commentary/output/pi-parajika-*/` (alignment, edition, text, toc) — exactly what is live
+- the parser rule change (`parser.py`, its `README.md`, the skill's `SKILL.md`), `finalize.py`, the upload ledger and this report
+
 Not committed:
 
-- this report
-- books 2–5 (`pi-2` … `pi-5` and their 20 commentaries)
+- books 2–5 (`pi-2` … `pi-5` and their commentaries)
 - the tipitaka-xml checker and its audit
-- `compare_md_site.py`, `build_tika_json.py` and `.gitignore`
+- `compare_md_site.py` and `.gitignore`
 
 Never commit `.env`.
 
