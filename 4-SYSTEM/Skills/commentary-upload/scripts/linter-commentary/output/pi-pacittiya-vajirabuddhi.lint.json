@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Commentaries/pi-pacittiya-vajirabuddhi.md",
+  "validated_at": "2026-11-12T04:30:56.297414+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "translation_of: not set (optional)",
+    "root_text: '1-SOURCES/Text/pi-2.md'",
+    "source: source = 'https://github.com/VipassanaTech/tipitaka-xml/blob/main/romn/vin06t.nrf.xml'",
+    "toc: 196 headers found"
+  ],
+  "warnings": [
+    "commentary_of: not set — resolve from root_text's text_id (set text_id on the root text first)",
+    "contributions: author/translator missing — ignored for now",
+    "alt_titles: missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "pi": "Vajirabuddhi-ṭīkā (Pācittiya)"
+    },
+    "alt_titles": null,
+    "language": "pi",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "4wuvGxIgXNZ5mb0bDWvkC",
+    "license": "cc0",
+    "contributions": null,
+    "tag_ids": [
+      "296WZOr8MXWteSqBBI7pl"
+    ]
+  }
+}
