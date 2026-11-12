@@ -21,6 +21,8 @@ bk = {"parajika": "prj", "pacittiya": "pct", "mahavagga": "mv", "culavagga": "cv
 site = SITE[work].format(b=bk, b2="prj" if bk == "prj" else "pct")
 subprocess.run(["python3", "-B", f"{S}/apply_site_toc.py", out, f"0-INBOX/tipitaka-app/{site}.json"], check=True)
 subprocess.run(["python3", "-B", "4-SYSTEM/Skills/add-block-id-commentary/apply.py", "apply", out], check=True, stdout=subprocess.DEVNULL)
+# the source's printed form: heading numbers, the piṭaka heading as printed, {notes}
+subprocess.run(["python3", "-B", f"{S}/source_form.py", out, jpath], check=True)
 subprocess.run(["python3", "-B", f"{S}/fidelity_check.py", jpath, out])
 txt = pathlib.Path(out).read_text(encoding="utf-8")
 print(f"  transclusions={txt.count('![[')} unresolved={len(mod.UNRESOLVED)} abbreviated_ranges={len(mod.ABBREVIATED)}")

@@ -24,13 +24,13 @@ source_note: "18 citation(s) use CST's truncated-tail range form ('20-1.' = 20-2
 commentary_of: NeySMirSFLEgeMNztyy7J
 text_id: p2lM0D26XkcAZZB1PkeCP
 edition_id: 9lWiR3WIQyOUIKw74nBhX
-toc_id: KB82fiahYzeJ9fGItFywT
+toc_id: 5qLTOIwtRTajzFH1UYw8n
 aligned_to_edition_id: LOajhD42NZB0aoZx6eb3h
 ---
 
 Namo tassa bhagavato arahato sammāsambuddhassa ^T-1
 
-# Vinayapiṭake (ṭīkā) ^0
+# Vinayapiṭake ^0
 
 ## Vimativinodanī-ṭīkā (paṭhamo bhāgo) ^1-0
 
@@ -644,9 +644,9 @@ Iti samantapāsādikāya vinayaṭṭhakathāya vimativinodaniyaṃ ^1-262
 
 Verañjakaṇḍavaṇṇanānayo niṭṭhito. ^1-263
 
-### Pārājikakaṇḍo ^1-5-0
+### 1. Pārājikakaṇḍo ^1-5-0
 
-#### Paṭhamapārājikaṃ ^1-5-1-0
+#### 1. Paṭhamapārājikaṃ ^1-5-1-0
 
 ##### Sudinnabhāṇavāravaṇṇanā ^1-5-1-1-0
 
@@ -1045,7 +1045,7 @@ Iti samantapāsādikāya vinayaṭṭhakathāya vimativinodaniyaṃ ^1-404
 
 Paṭhamapārājikavaṇṇanānayo niṭṭhito. ^1-405
 
-#### Dutiyapārājikaṃ ^1-5-2-0
+#### 2. Dutiyapārājikaṃ ^1-5-2-0
 
 Adutiyenāti asadisena jinena yaṃ dutiyaṃ pārājikaṃ pakāsitaṃ, tassa idāni yasmā saṃvaṇṇanākkamo patto, tasmā assa dutiyassa ayaṃ saṃvaṇṇanā hotīti yojanā. ^1-406
 
@@ -1418,7 +1418,7 @@ Iti samantapāsādikāya vinayaṭṭhakathāya vimativinodaniyaṃ ^1-508
 
 Dutiyapārājikavaṇṇanānayo niṭṭhito. ^1-509
 
-#### Tatiyapārājikaṃ ^1-5-3-0
+#### 3. Tatiyapārājikaṃ ^1-5-3-0
 
 Tīhīti kāyavacīmanodvārehi. ^1-510
 
@@ -1639,7 +1639,7 @@ Iti samantapāsādikāya vinayaṭṭhakathāya vimativinodaniyaṃ ^1-591
 
 Tatiyapārājikavaṇṇanānayo niṭṭhito. ^1-592
 
-#### Catutthapārājikaṃ ^1-5-4-0
+#### 4. Catutthapārājikaṃ ^1-5-4-0
 
 ##### Vaggumudātīriyabhikkhuvatthuvaṇṇanā ^1-5-4-1-0
 
@@ -1748,9 +1748,9 @@ Catutthapārājikavaṇṇanānayo niṭṭhito. ^1-618
 
 Niṭṭhito ca pārājikakaṇḍavaṇṇanānayo. ^1-619
 
-### Saṅghādisesakaṇḍo ^1-6-0
+### 2. Saṅghādisesakaṇḍo ^1-6-0
 
-#### Sukkavissaṭṭhisikkhāpadavaṇṇanā ^1-6-1-0
+#### 1. Sukkavissaṭṭhisikkhāpadavaṇṇanā ^1-6-1-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-234]]
 
@@ -1819,7 +1819,7 @@ Upanijjhāyanavatthusmiṃ aṅgajātanti jīvamānaitthīnaṃ passāvamaggova 
 
 Sukkavissaṭṭhisikkhāpadavaṇṇanā niṭṭhitā. ^1-640
 
-#### Kāyasaṃsaggasikkhāpadavaṇṇanā ^1-6-2-0
+#### 2. Kāyasaṃsaggasikkhāpadavaṇṇanā ^1-6-2-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-269]]
 
@@ -1879,7 +1879,7 @@ Pāḷiyaṃ paṇḍakassāti paṇḍakena. Pārājikappahonakakāleti akuthit
 
 Kāyasaṃsaggasikkhāpadavaṇṇanā niṭṭhitā. ^1-662
 
-#### Duṭṭhullavācāsikkhāpadavaṇṇanā ^1-6-3-0
+#### 3. Duṭṭhullavācāsikkhāpadavaṇṇanā ^1-6-3-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-285]]
 
@@ -1913,7 +1913,7 @@ Saṃsīdatīti vahati, saṃsarīyatīti vā attho. Manussitthī, tathāsaññi
 
 Duṭṭhullavācāsikkhāpadavaṇṇanā niṭṭhitā. ^1-673
 
-#### Attakāmapāricariyasikkhāpadavaṇṇanā ^1-6-4-0
+#### 4. Attakāmapāricariyasikkhāpadavaṇṇanā ^1-6-4-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-290]]
 
@@ -1931,7 +1931,7 @@ Vinītavatthūsu "aggadānaṃ dehī"ti idaṃ attano atthāya vuttaṃ, duṭ�
 
 Attakāmapāricariyasikkhāpadavaṇṇanā niṭṭhitā. ^1-679
 
-#### Sañcarittasikkhāpadavaṇṇanā ^1-6-5-0
+#### 5. Sañcarittasikkhāpadavaṇṇanā ^1-6-5-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-296]]
 
@@ -1995,7 +1995,7 @@ Paṇṇattiṃ pana jānitvāti ettha alaṃvacanīyabhāvaṃ vāti vattabba�
 
 Sañcarittasikkhāpadavaṇṇanā niṭṭhitā. ^1-700
 
-#### Kuṭikārasikkhāpadavaṇṇanā ^1-6-6-0
+#### 6. Kuṭikārasikkhāpadavaṇṇanā ^1-6-6-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-342]]
 
@@ -2067,7 +2067,7 @@ Anāpattīti vatvāti vāsāgāratthāya eva aniyamitattā anāpattīti vatvā. 
 
 Kuṭikārasikkhāpadavaṇṇanā niṭṭhitā. ^1-727
 
-#### Vihārakārasikkhāpadavaṇṇanā ^1-6-7-0
+#### 7. Vihārakārasikkhāpadavaṇṇanā ^1-6-7-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-365]]
 
@@ -2079,7 +2079,7 @@ Kuṭikārasikkhāpadavaṇṇanā niṭṭhitā. ^1-727
 
 Vihārakārasikkhāpadavaṇṇanā niṭṭhitā. ^1-730
 
-#### Paṭhamaduṭṭhadosasikkhāpadavaṇṇanā ^1-6-8-0
+#### 8. Paṭhamaduṭṭhadosasikkhāpadavaṇṇanā ^1-6-8-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-380]]
 
@@ -2175,7 +2175,7 @@ Anupāsakoti upāsakopi so bhikkhu na hoti saraṇagamanassāpi paṭippassaddha
 
 Paṭhamaduṭṭhadosasikkhāpadavaṇṇanā niṭṭhitā. ^1-771
 
-#### Dutiyaduṭṭhadosasikkhāpadavaṇṇanā ^1-6-9-0
+#### 9. Dutiyaduṭṭhadosasikkhāpadavaṇṇanā ^1-6-9-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-391]]
 
@@ -2197,7 +2197,7 @@ Vuttanayenevāti "sabhāgavisabhāgavatthuto"tiādinā (pārā. aṭṭha. 2.393
 
 Dutiyaduṭṭhadosasikkhāpadavaṇṇanā niṭṭhitā. ^1-777
 
-#### Paṭhamasaṅghabhedasikkhāpadavaṇṇanā ^1-6-10-0
+#### 10. Paṭhamasaṅghabhedasikkhāpadavaṇṇanā ^1-6-10-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-410]]
 
@@ -2225,7 +2225,7 @@ Kammenāti apalokanādinā. Uddesenāti pātimokkhuddesena. Vohārenāti tāhi t
 
 Paṭhamasaṅghabhedasikkhāpadavaṇṇanā niṭṭhitā. ^1-787
 
-#### Dutiyasaṅghabhedasikkhāpadavaṇṇanā ^1-6-11-0
+#### 11. Dutiyasaṅghabhedasikkhāpadavaṇṇanā ^1-6-11-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-418]]
 
@@ -2233,7 +2233,7 @@ Paṭhamasaṅghabhedasikkhāpadavaṇṇanā niṭṭhitā. ^1-787
 
 Dutiyasaṅghabhedasikkhāpadavaṇṇanā niṭṭhitā. ^1-789
 
-#### Dubbacasikkhāpadavaṇṇanā ^1-6-12-0
+#### 12. Dubbacasikkhāpadavaṇṇanā ^1-6-12-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-424]]
 
@@ -2247,7 +2247,7 @@ Dutiyasaṅghabhedasikkhāpadavaṇṇanā niṭṭhitā. ^1-789
 
 Dubbacasikkhāpadavaṇṇanā niṭṭhitā. ^1-793
 
-#### Kuladūsakasikkhāpadavaṇṇanā ^1-6-13-0
+#### 13. Kuladūsakasikkhāpadavaṇṇanā ^1-6-13-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-431]]
 
@@ -2321,9 +2321,9 @@ Iti samantapāsādikāya vinayaṭṭhakathāya vimativinodaniyaṃ ^1-821
 
 Terasakavaṇṇanānayo niṭṭhito. ^1-822
 
-### Aniyatakaṇḍo ^1-7-0
+### 3. Aniyatakaṇḍo ^1-7-0
 
-#### Paṭhamaaniyatasikkhāpadavaṇṇanā ^1-7-1-0
+#### 1. Paṭhamaaniyatasikkhāpadavaṇṇanā ^1-7-1-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-443]]
 
@@ -2353,7 +2353,7 @@ Idha aniyatavasena vuttānaṃ pārājikasaṅghādisesapācittiyānaṃ tiṇ�
 
 Paṭhamaaniyatasikkhāpadavaṇṇanā niṭṭhitā. ^1-832
 
-#### Dutiyaaniyatasikkhāpadavaṇṇanā ^1-7-2-0
+#### 2. Dutiyaaniyatasikkhāpadavaṇṇanā ^1-7-2-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-452]]
 
@@ -2371,11 +2371,11 @@ Dutiyaaniyatasikkhāpadavaṇṇanā niṭṭhitā. ^1-837
 
 Niṭṭhito aniyatavaṇṇanānayo. ^1-838
 
-### Nissaggiyakaṇḍo ^1-8-0
+### 4. Nissaggiyakaṇḍo ^1-8-0
 
-#### Cīvaravaggo ^1-8-1-0
+#### 1. Cīvaravaggo ^1-8-1-0
 
-##### Paṭhamakathinasikkhāpadavaṇṇanā ^1-8-1-1-0
+##### 1. Paṭhamakathinasikkhāpadavaṇṇanā ^1-8-1-1-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-459]]
 
@@ -2435,7 +2435,7 @@ Tuyhaṃ demītiādīsu pariccattattā manasā asampaṭicchantepi sampadānabh�
 
 Paṭhamakathinasikkhāpadavaṇṇanā niṭṭhitā. ^1-862
 
-##### Udositasikkhāpadavaṇṇanā ^1-8-1-2-0
+##### 2. Udositasikkhāpadavaṇṇanā ^1-8-1-2-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-473]]
 
@@ -2486,7 +2486,7 @@ Agamanapatheti tadaheva gantvā nivattetuṃ na sakkuṇeyyake samuddamajjhe ye 
 
 Udositasikkhāpadavaṇṇanā niṭṭhitā. ^1-874
 
-##### Tatiyakathinasikkhāpadavaṇṇanā ^1-8-1-3-0
+##### 3. Tatiyakathinasikkhāpadavaṇṇanā ^1-8-1-3-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-497]]
 
@@ -2503,7 +2503,7 @@ Pāḷiyaṃ dasāhāti dasāhena. Ekādase uppannetiādīsu ekādasāhe uppanne
 
 Tatiyakathinasikkhāpadavaṇṇanā niṭṭhitā. ^1-879
 
-##### Purāṇacīvarasikkhāpadavaṇṇanā ^1-8-1-4-0
+##### 4. Purāṇacīvarasikkhāpadavaṇṇanā ^1-8-1-4-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-503]]
 ![[1-SOURCES/Text/pi-1.md#^1-504]]
@@ -2525,7 +2525,7 @@ Ekena vatthunāti paṭhamakatena. Pañcasatāni pamāṇaṃ etāsanti pañcasa
 
 Purāṇacīvarasikkhāpadavaṇṇanā niṭṭhitā. ^1-885
 
-##### Cīvarapaṭiggahaṇasikkhāpadavaṇṇanā ^1-8-1-5-0
+##### 5. Cīvarapaṭiggahaṇasikkhāpadavaṇṇanā ^1-8-1-5-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-508]]
 
@@ -2544,7 +2544,7 @@ Purimasikkhāpade viya idha dvādasahattho upacāraniyamo natthīti āha "upacā
 
 Cīvarapaṭiggahaṇasikkhāpadavaṇṇanā niṭṭhitā. ^1-890
 
-##### Aññātakaviññattisikkhāpadavaṇṇanā ^1-8-1-6-0
+##### 6. Aññātakaviññattisikkhāpadavaṇṇanā ^1-8-1-6-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-515]]
 
@@ -2562,7 +2562,7 @@ Yaṃ āvāsaṃ paṭhamaṃ upagacchatīti etthāpi vihāracīvarādiatthāya 
 
 Aññātakaviññattisikkhāpadavaṇṇanā niṭṭhitā. ^1-895
 
-##### Tatuttarisikkhāpadavaṇṇanā ^1-8-1-7-0
+##### 7. Tatuttarisikkhāpadavaṇṇanā ^1-8-1-7-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-522]]
 ![[1-SOURCES/Text/pi-1.md#^1-523]]
@@ -2576,7 +2576,7 @@ Aññātakaviññattisikkhāpadavaṇṇanā niṭṭhitā. ^1-895
 
 Tatuttarisikkhāpadavaṇṇanā niṭṭhitā. ^1-898
 
-##### Paṭhamaupakkhaṭasikkhāpadavaṇṇanā ^1-8-1-8-0
+##### 8. Paṭhamaupakkhaṭasikkhāpadavaṇṇanā ^1-8-1-8-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-528]]
 ![[1-SOURCES/Text/pi-1.md#^1-529]]
@@ -2587,7 +2587,7 @@ Tatuttarisikkhāpadavaṇṇanā niṭṭhitā. ^1-898
 
 Paṭhamaupakkhaṭasikkhāpadavaṇṇanā niṭṭhitā. ^1-900
 
-##### Dutiyaupakkhaṭasikkhāpadavaṇṇanā ^1-8-1-9-0
+##### 9. Dutiyaupakkhaṭasikkhāpadavaṇṇanā ^1-8-1-9-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-533]]
 
@@ -2595,7 +2595,7 @@ Paṭhamaupakkhaṭasikkhāpadavaṇṇanā niṭṭhitā. ^1-900
 
 Dutiyaupakkhaṭasikkhāpadavaṇṇanā niṭṭhitā. ^1-902
 
-##### Rājasikkhāpadavaṇṇanā ^1-8-1-10-0
+##### 10. Rājasikkhāpadavaṇṇanā ^1-8-1-10-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-537]]
 
@@ -2634,9 +2634,9 @@ Rājasikkhāpadavaṇṇanā niṭṭhitā. ^1-917
 
 Niṭṭhito cīvaravaggo paṭhamo. ^1-918
 
-#### Kosiyavaggo ^1-8-2-0
+#### 2. Kosiyavaggo ^1-8-2-0
 
-##### Kosiyasikkhāpadavaṇṇanā ^1-8-2-1-0
+##### 1. Kosiyasikkhāpadavaṇṇanā ^1-8-2-1-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-542]]
 
@@ -2657,7 +2657,7 @@ Kosiyasikkhāpadavaṇṇanā niṭṭhitā. ^1-921
 
 547-552. Dutiyañca tatiyañca uttānameva. Tattha pana odātādimissakasaññāya suddhakāḷakānaññeva santhatassa karaṇavasena cettha dvebhāgato adhikesu suddhakāḷakesu anadhikasaññāya santhatassa karaṇavasena ca acittakatā veditabbā. ^1-922
 
-##### Chabbassasikkhāpadavaṇṇanā ^1-8-2-2-0
+##### 4. Chabbassasikkhāpadavaṇṇanā ^1-8-2-2-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-557]]
 
@@ -2665,7 +2665,7 @@ Kosiyasikkhāpadavaṇṇanā niṭṭhitā. ^1-921
 
 Chabbassasikkhāpadavaṇṇanā niṭṭhitā. ^1-924
 
-##### Nisīdanasanthatasikkhāpadavaṇṇanā ^1-8-2-3-0
+##### 5. Nisīdanasanthatasikkhāpadavaṇṇanā ^1-8-2-3-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-565]]
 
@@ -2681,7 +2681,7 @@ Chabbassasikkhāpadavaṇṇanā niṭṭhitā. ^1-924
 
 Nisīdanasanthatasikkhāpadavaṇṇanā niṭṭhitā. ^1-928
 
-##### Eḷakalomasikkhāpadavaṇṇanā ^1-8-2-4-0
+##### 6. Eḷakalomasikkhāpadavaṇṇanā ^1-8-2-4-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-572]]
 
@@ -2693,7 +2693,7 @@ Nisīdanasanthatasikkhāpadavaṇṇanā niṭṭhitā. ^1-928
 
 Eḷakalomasikkhāpadavaṇṇanā niṭṭhitā. ^1-931
 
-##### Eḷakalomadhovāpanasikkhāpadavaṇṇanā ^1-8-2-5-0
+##### 7. Eḷakalomadhovāpanasikkhāpadavaṇṇanā ^1-8-2-5-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-581]]
 
@@ -2701,7 +2701,7 @@ Eḷakalomasikkhāpadavaṇṇanā niṭṭhitā. ^1-931
 
 Eḷakalomadhovāpanasikkhāpadavaṇṇanā niṭṭhitā. ^1-933
 
-##### Rūpiyasikkhāpadavaṇṇanā ^1-8-2-6-0
+##### 8. Rūpiyasikkhāpadavaṇṇanā ^1-8-2-6-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-583]]
 ![[1-SOURCES/Text/pi-1.md#^1-584]]
@@ -2750,7 +2750,7 @@ Tassa pana santiketi mahārakkhitattherassa santike. Kharapattanti kharasaṅkh�
 
 Rūpiyasikkhāpadavaṇṇanā niṭṭhitā. ^1-953
 
-##### Rūpiyasaṃvohārasikkhāpadavaṇṇanā ^1-8-2-7-0
+##### 9. Rūpiyasaṃvohārasikkhāpadavaṇṇanā ^1-8-2-7-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-587]]
 
@@ -2778,7 +2778,7 @@ Nissajjīti dānavasena vuttaṃ, na vinayakammavasena. Teneva "sappissa pūretv
 
 Rūpiyasaṃvohārasikkhāpadavaṇṇanā niṭṭhitā. ^1-963
 
-##### Kayavikkayasikkhāpadavaṇṇanā ^1-8-2-8-0
+##### 10. Kayavikkayasikkhāpadavaṇṇanā ^1-8-2-8-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-593]]
 ![[1-SOURCES/Text/pi-1.md#^1-594]]
@@ -2794,9 +2794,9 @@ Kayavikkayasikkhāpadavaṇṇanā niṭṭhitā. ^1-966
 
 Niṭṭhito kosiyavaggo dutiyo. ^1-967
 
-#### Pattavaggo ^1-8-3-0
+#### 3. Pattavaggo ^1-8-3-0
 
-##### Pattasikkhāpadavaṇṇanā ^1-8-3-1-0
+##### 1. Pattasikkhāpadavaṇṇanā ^1-8-3-1-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-602]]
 
@@ -2816,7 +2816,7 @@ Evaṃ loke nāḷiyā magadhanāḷi diguṇāti dassitā, evañca gayhamāne o
 
 Pattasikkhāpadavaṇṇanā niṭṭhitā. ^1-973
 
-##### Ūnapañcabandhanasikkhāpadavaṇṇanā ^1-8-3-2-0
+##### 2. Ūnapañcabandhanasikkhāpadavaṇṇanā ^1-8-3-2-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-609]]
 ![[1-SOURCES/Text/pi-1.md#^1-610]]
@@ -2828,7 +2828,7 @@ Pattasikkhāpadavaṇṇanā niṭṭhitā. ^1-973
 
 Ūnapañcabandhanasikkhāpadavaṇṇanā niṭṭhitā. ^1-975
 
-##### Bhesajjasikkhāpadavaṇṇanā ^1-8-3-3-0
+##### 3. Bhesajjasikkhāpadavaṇṇanā ^1-8-3-3-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-618]]
 ![[1-SOURCES/Text/pi-1.md#^1-619]]
@@ -2875,7 +2875,7 @@ Evanti "puna gahessāmī"ti apekkhaṃ akatvā suddhacittena pariccattataṃ par
 
 Bhesajjasikkhāpadavaṇṇanā niṭṭhitā. ^1-992
 
-##### Vassikasāṭikasikkhāpadavaṇṇanā ^1-8-3-4-0
+##### 4. Vassikasāṭikasikkhāpadavaṇṇanā ^1-8-3-4-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-628]]
 
@@ -2897,7 +2897,7 @@ Pāḷiyaṃ acchinnacīvarassātiādīsu acchinnasesacīvarassa naṭṭhasesac
 
 Vassikasāṭikasikkhāpadavaṇṇanā niṭṭhitā. ^1-1000
 
-##### Cīvaraacchindanasikkhāpadavaṇṇanā ^1-8-3-5-0
+##### 5. Cīvaraacchindanasikkhāpadavaṇṇanā ^1-8-3-5-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-631]]
 
@@ -2913,7 +2913,7 @@ Vassikasāṭikasikkhāpadavaṇṇanā niṭṭhitā. ^1-1000
 
 Cīvaraacchindanasikkhāpadavaṇṇanā niṭṭhitā. ^1-1004
 
-##### Suttaviññattisikkhāpadavaṇṇanā ^1-8-3-6-0
+##### 6. Suttaviññattisikkhāpadavaṇṇanā ^1-8-3-6-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-636]]
 
@@ -2929,7 +2929,7 @@ Tante ṭhitaṃyeva adhiṭṭhātabbanti ettha ekavāraṃ adhiṭṭhite pacc
 
 Suttaviññattisikkhāpadavaṇṇanā niṭṭhitā. ^1-1009
 
-##### Mahāpesakārasikkhāpadavaṇṇanā ^1-8-3-7-0
+##### 7. Mahāpesakārasikkhāpadavaṇṇanā ^1-8-3-7-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-642]]
 
@@ -2937,7 +2937,7 @@ Suttaviññattisikkhāpadavaṇṇanā niṭṭhitā. ^1-1009
 
 Mahāpesakārasikkhāpadavaṇṇanā niṭṭhitā. ^1-1011
 
-##### Accekacīvarasikkhāpadavaṇṇanā ^1-8-3-8-0
+##### 8. Accekacīvarasikkhāpadavaṇṇanā ^1-8-3-8-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-646]]
 
@@ -2951,7 +2951,7 @@ Accekacīvarasadise aññasminti pubbe adhiṭṭhite uppannakālākārādi sād
 
 Accekacīvarasikkhāpadavaṇṇanā niṭṭhitā. ^1-1015
 
-##### Sāsaṅkasikkhāpadavaṇṇanā ^1-8-3-9-0
+##### 9. Sāsaṅkasikkhāpadavaṇṇanā ^1-8-3-9-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-652]]
 ![[1-SOURCES/Text/pi-1.md#^1-653]]
@@ -2964,7 +2964,7 @@ Parikkhepārahaṭṭhānatoti ettha gāmapariyante ṭhitagharūpacārato paṭ
 
 Sāsaṅkasikkhāpadavaṇṇanā niṭṭhitā. ^1-1019
 
-##### Pariṇatasikkhāpadavaṇṇanā ^1-8-3-10-0
+##### 10. Pariṇatasikkhāpadavaṇṇanā ^1-8-3-10-0
 
 ![[1-SOURCES/Text/pi-1.md#^1-660]]
 

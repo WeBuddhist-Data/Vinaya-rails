@@ -13,5 +13,7 @@ for n in vin01m vin02m1 vin02m2 vin02m3 vin02m4; do
   L=$(grep -n '^## ' $T/pi-$i.md | head -1 | cut -d: -f1)
   python3 -B 4-SYSTEM/Skills/add-block-id-root-text/apply.py apply $T/pi-$i.md --zones "1=@$L" >/dev/null
   python3 -B 4-SYSTEM/scripts/tipitaka-xml-to-json/heading_ids.py $T/pi-$i.md $i
+  # last: the source's printed form (numbers, piṭaka heading, {notes})
+  python3 -B 4-SYSTEM/scripts/tipitaka-xml-to-json/source_form.py $T/pi-$i.md 0-INBOX/raw-data/$n.json
   i=$((i+1))
 done

@@ -21,10 +21,21 @@
         "subsections": 1,
         "toc_id": "09jFySGJHb2Cc4cmPuP00",
         "ts": "2026-11-11T17:21:54"
+      },
+      {
+        "note": "source form (tipitaka-xml / tipitaka.app): printed heading and paragraph numbers kept, the piṭaka heading as printed, notes as {…} (PATCH content replace; DELETE + POST segmentation)",
+        "step": "content",
+        "ts": "2026-11-12T11:16:23"
+      },
+      {
+        "note": "contents tree replaced (DELETE + POST): source form (tipitaka-xml / tipitaka.app): printed heading and paragraph numbers kept, the piṭaka heading as printed, notes as {…}",
+        "step": "toc",
+        "toc_id": "6c1NiwTHbBorpKNNNrODG",
+        "ts": "2026-11-12T11:16:23"
       }
     ],
     "source_file": "1-SOURCES/Text/pi-1.md",
     "text_id": "NeySMirSFLEgeMNztyy7J",
-    "toc_id": "09jFySGJHb2Cc4cmPuP00"
+    "toc_id": "6c1NiwTHbBorpKNNNrODG"
   }
 }

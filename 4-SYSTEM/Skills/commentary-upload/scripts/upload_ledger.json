@@ -41,13 +41,26 @@
         "root_edition_id": "LOajhD42NZB0aoZx6eb3h",
         "step": "realign",
         "ts": "2026-11-12T10:13:39"
+      },
+      {
+        "note": "contents tree replaced (DELETE + POST): source form (tipitaka-xml / tipitaka.app): printed heading and paragraph numbers kept, the piṭaka heading as printed, notes as {…}",
+        "step": "toc",
+        "toc_id": "m6ykvvoTF1Yg8E0LYTPtd",
+        "ts": "2026-11-12T11:16:23"
+      },
+      {
+        "note": "pairs put back (PUT) after the root's segmentation was replaced; the same pairs as before",
+        "pairs": 2305,
+        "root_edition_id": "LOajhD42NZB0aoZx6eb3h",
+        "step": "realign",
+        "ts": "2026-11-12T11:16:37"
       }
     ],
     "root_edition_id": "LOajhD42NZB0aoZx6eb3h",
     "root_text_id": "NeySMirSFLEgeMNztyy7J",
     "source_file": "1-SOURCES/Commentaries/pi-parajika-atthakatha.md",
     "text_id": "lfmZoqj9eYuJrsOUTSM4Z",
-    "toc_id": "cXGimhcIN5SBGDEd4HMpK"
+    "toc_id": "m6ykvvoTF1Yg8E0LYTPtd"
   },
   "pi-parajika-saratthadipani": {
     "aligned_to_edition_id": "LOajhD42NZB0aoZx6eb3h",
@@ -91,13 +104,26 @@
         "root_edition_id": "LOajhD42NZB0aoZx6eb3h",
         "step": "realign",
         "ts": "2026-11-12T10:13:39"
+      },
+      {
+        "note": "contents tree replaced (DELETE + POST): source form (tipitaka-xml / tipitaka.app): printed heading and paragraph numbers kept, the piṭaka heading as printed, notes as {…}",
+        "step": "toc",
+        "toc_id": "MTj4DjWPJeozNS67yvive",
+        "ts": "2026-11-12T11:16:23"
+      },
+      {
+        "note": "pairs put back (PUT) after the root's segmentation was replaced; the same pairs as before",
+        "pairs": 2145,
+        "root_edition_id": "LOajhD42NZB0aoZx6eb3h",
+        "step": "realign",
+        "ts": "2026-11-12T11:16:37"
       }
     ],
     "root_edition_id": "LOajhD42NZB0aoZx6eb3h",
     "root_text_id": "NeySMirSFLEgeMNztyy7J",
     "source_file": "1-SOURCES/Commentaries/pi-parajika-saratthadipani.md",
     "text_id": "PcV57z4T2gqDv1ILRtdlE",
-    "toc_id": "V1PXPTR6YbLW6PzJtVPoF"
+    "toc_id": "MTj4DjWPJeozNS67yvive"
   },
   "pi-parajika-vajirabuddhi": {
     "aligned_to_edition_id": "LOajhD42NZB0aoZx6eb3h",
@@ -141,13 +167,26 @@
         "root_edition_id": "LOajhD42NZB0aoZx6eb3h",
         "step": "realign",
         "ts": "2026-11-12T10:13:39"
+      },
+      {
+        "note": "contents tree replaced (DELETE + POST): source form (tipitaka-xml / tipitaka.app): printed heading and paragraph numbers kept, the piṭaka heading as printed, notes as {…}",
+        "step": "toc",
+        "toc_id": "Q2SZgsWAnBdP8lX7Xk59y",
+        "ts": "2026-11-12T11:16:23"
+      },
+      {
+        "note": "pairs put back (PUT) after the root's segmentation was replaced; the same pairs as before",
+        "pairs": 697,
+        "root_edition_id": "LOajhD42NZB0aoZx6eb3h",
+        "step": "realign",
+        "ts": "2026-11-12T11:16:37"
       }
     ],
     "root_edition_id": "LOajhD42NZB0aoZx6eb3h",
     "root_text_id": "NeySMirSFLEgeMNztyy7J",
     "source_file": "1-SOURCES/Commentaries/pi-parajika-vajirabuddhi.md",
     "text_id": "URgLMpwpciSEK0p2jJwXF",
-    "toc_id": "3m16VwQdQaxa7skqYnhx2"
+    "toc_id": "Q2SZgsWAnBdP8lX7Xk59y"
   },
   "pi-parajika-vimativinodani": {
     "aligned_to_edition_id": "LOajhD42NZB0aoZx6eb3h",
@@ -191,12 +230,25 @@
         "root_edition_id": "LOajhD42NZB0aoZx6eb3h",
         "step": "realign",
         "ts": "2026-11-12T10:13:39"
+      },
+      {
+        "note": "contents tree replaced (DELETE + POST): source form (tipitaka-xml / tipitaka.app): printed heading and paragraph numbers kept, the piṭaka heading as printed, notes as {…}",
+        "step": "toc",
+        "toc_id": "5qLTOIwtRTajzFH1UYw8n",
+        "ts": "2026-11-12T11:16:23"
+      },
+      {
+        "note": "pairs put back (PUT) after the root's segmentation was replaced; the same pairs as before",
+        "pairs": 888,
+        "root_edition_id": "LOajhD42NZB0aoZx6eb3h",
+        "step": "realign",
+        "ts": "2026-11-12T11:16:37"
       }
     ],
     "root_edition_id": "LOajhD42NZB0aoZx6eb3h",
     "root_text_id": "NeySMirSFLEgeMNztyy7J",
     "source_file": "1-SOURCES/Commentaries/pi-parajika-vimativinodani.md",
     "text_id": "p2lM0D26XkcAZZB1PkeCP",
-    "toc_id": "KB82fiahYzeJ9fGItFywT"
+    "toc_id": "5qLTOIwtRTajzFH1UYw8n"
   }
 }

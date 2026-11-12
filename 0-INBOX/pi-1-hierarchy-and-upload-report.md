@@ -41,9 +41,7 @@ The fixes are in `4-SYSTEM/Skills/json-to-commentary/scripts/converters/tipitaka
 | Item | Why nothing was changed |
 |---|---|
 | 27 spacing differences (`Athakho` on the site, `Atha kho` ours) | the XML has a real space between two bold runs (`<hi>Atha</hi> <hi>kho…`), which the site's display drops. Ours follows the source: root 1, aṭṭhakathā 23, Sāratthadīpanī 1, Vimativinodanī 1, Vajirabuddhi 0 |
-| `# Vinayapiṭake (aṭṭhakathā)` / `(ṭīkā)` | the source and the site print `Vinayapiṭake`. The layer label keeps the commentary files apart, as in the Abhidhamma vault |
-| Printed numbers on headings (`1. Pārājikakaṇḍaṃ`) and root paragraphs (`1.`) | dropped from the line; the heading ID or block ID records the position |
-| Bold and note markup | the site shows bold lemmas as `**…**` and notes as `{…}`. Our files have plain text and `[…]`, as the Abhidhamma files do |
+| Bold | the site shows bold lemmas as `**…**`; the library stores plain text, so the files carry none |
 | Ranges linked in full | the site links a range only by its first number; ours links every paragraph in it, as in the Abhidhamma vault |
 | 25 Sāratthadīpanī paragraphs whose root links differ from the aṭṭhakathā paragraph the site joins them to | the two texts print different ranges for the same passage (e.g. aṭṭhakathā `43-44.`, ṭīkā `43.`). Each is linked as its own text prints it, and the ranges always overlap |
 | The sixteen dreams in the Sāratthadīpanī (32 links to root 1–16) | linked as printed, as tipitaka.app also does. Recorded in `source_note` and left **for a reviewer** (below) |
@@ -201,11 +199,11 @@ Uploaded on 2026-11-11 to `https://library-prod.webuddhist.com`, with `root-text
 
 | | text_id | edition_id | toc_id | Characters | Segments | TOC nodes | Alignment pairs |
 |---|---|---|---|---|---|---|---|
-| Pārājikapāḷi | `NeySMirSFLEgeMNztyy7J` | `LOajhD42NZB0aoZx6eb3h` | `09jFySGJHb2Cc4cmPuP00` | 641,228 | 675 | 80 | — |
-| aṭṭhakathā | `lfmZoqj9eYuJrsOUTSM4Z` | `G5Xf8XNTGD4j85Tm6OIIx` | `cXGimhcIN5SBGDEd4HMpK` | 1,175,920 | 2,539 | 151 | 2,305 |
-| Sāratthadīpanī | `PcV57z4T2gqDv1ILRtdlE` | `Sn25vAbquEf1le6nDc5xk` | `V1PXPTR6YbLW6PzJtVPoF` | 1,655,243 | 2,785 | 153 | 2,145 |
-| Vimativinodanī | `p2lM0D26XkcAZZB1PkeCP` | `9lWiR3WIQyOUIKw74nBhX` | `KB82fiahYzeJ9fGItFywT` | 656,711 | 1,026 | 138 | 888 |
-| Vajirabuddhi | `URgLMpwpciSEK0p2jJwXF` | `FDVzp6dZeXBwYcEhN51bA` | `3m16VwQdQaxa7skqYnhx2` | 523,159 | 725 | 112 | 697 |
+| Pārājikapāḷi | `NeySMirSFLEgeMNztyy7J` | `LOajhD42NZB0aoZx6eb3h` | `6c1NiwTHbBorpKNNNrODG` | 644,430 | 675 | 80 | — |
+| aṭṭhakathā | `lfmZoqj9eYuJrsOUTSM4Z` | `G5Xf8XNTGD4j85Tm6OIIx` | `m6ykvvoTF1Yg8E0LYTPtd` | 1,175,920 | 2,539 | 151 | 2,305 |
+| Sāratthadīpanī | `PcV57z4T2gqDv1ILRtdlE` | `Sn25vAbquEf1le6nDc5xk` | `MTj4DjWPJeozNS67yvive` | 1,655,243 | 2,785 | 153 | 2,145 |
+| Vimativinodanī | `p2lM0D26XkcAZZB1PkeCP` | `9lWiR3WIQyOUIKw74nBhX` | `5qLTOIwtRTajzFH1UYw8n` | 656,711 | 1,026 | 138 | 888 |
+| Vajirabuddhi | `URgLMpwpciSEK0p2jJwXF` | `FDVzp6dZeXBwYcEhN51bA` | `Q2SZgsWAnBdP8lX7Xk59y` | 523,159 | 725 | 112 | 697 |
 
 **Read back from prod (2026-11-12, after the change below), all five texts:**
 
@@ -214,6 +212,19 @@ Uploaded on 2026-11-11 to `https://library-prod.webuddhist.com`, with `root-text
 - **Table of contents:** one node per heading, with the same title and depth in the same order. Every span starts at the heading's first block and ends at the last block before the next heading of the same or a higher level.
 - **Alignments:** the live pairs are identical to the parser output. Their root targets are exactly the file's transclusion targets, and every target exists in the root.
 - **Titles:** identical to the files' `title:` lines.
+
+### Source form (2026-11-12)
+
+The Vinaya files keep the body and structure of their own sources; only the Abhidhamma vault's *way of working* is followed, not its format. So, as tipitaka-xml prints them and tipitaka.app shows them:
+
+- **printed numbers stay** on headings (`1. Pārājikakaṇḍaṃ`) and at the start of root paragraphs (`1. Tena samayena…`); the block ID still records the number;
+- **the piṭaka heading is `Vinayapiṭake`**, as printed (it was `Vinayapiṭake (aṭṭhakathā)` / `(ṭīkā)`);
+- **variant-reading notes are `{…}`**, as on the site (a `<note>` in the XML); brackets inside a note's own text stay;
+- **no homage is added** where the source prints none.
+
+The step is `4-SYSTEM/scripts/tipitaka-xml-to-json/source_form.py`, run last in `build_roots.sh` and `build_commentary.py`. Checked with `verify.py --strict` (nothing normalised: 0 text differences) and line by line against tipitaka.app (every line exactly equal, the site's own bold and page markers aside). Bold stays plain: the library stores plain text. No block ID, heading ID, link or alignment pair changed.
+
+On prod (same day): the root editions' text, segmentation and contents tree were replaced and every commentary's alignment put back; the commentaries got new contents trees (titles with their printed numbers, `Vinayapiṭake`). Text and edition IDs are unchanged; the new contents-tree IDs are in the files, the ledgers and the table above. Read back: text, segments, contents trees and pairs equal the files.
 
 ### Brought in line with the Abhidhamma uploads (2026-11-12)
 
