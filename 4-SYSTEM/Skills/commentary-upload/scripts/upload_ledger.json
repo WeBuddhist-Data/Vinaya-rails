@@ -73,6 +73,43 @@
     "text_id": "S0VZUoy0iHwRShwIL6pGP",
     "toc_id": "bWQLxTGlQbYD6wZuUziaB"
   },
+  "pi-culavagga-vajirabuddhi": {
+    "aligned_to_edition_id": "5H1pn627NnQSdaoR8tm41",
+    "edition_id": "oUrhQKqYRWMJFLmlEo8F2",
+    "file_type": "commentary",
+    "lang_tag": "pi",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "VyiiYnrggyU0AeTyrvxxH",
+        "ts": "2026-11-12T15:36:28"
+      },
+      {
+        "chars": 50470,
+        "edition_id": "oUrhQKqYRWMJFLmlEo8F2",
+        "segments": 148,
+        "step": "edition",
+        "ts": "2026-11-12T15:36:28"
+      },
+      {
+        "nodes": 49,
+        "step": "toc",
+        "toc_id": "fVKwzMXy5YVMKpewBoqCE",
+        "ts": "2026-11-12T15:36:29"
+      },
+      {
+        "pairs": 168,
+        "root_edition_id": "5H1pn627NnQSdaoR8tm41",
+        "step": "alignment",
+        "ts": "2026-11-12T15:36:29"
+      }
+    ],
+    "root_edition_id": "5H1pn627NnQSdaoR8tm41",
+    "root_text_id": "f3Ai1VjpwISPoauHYGms3",
+    "source_file": "1-SOURCES/Commentaries/pi-culavagga-vajirabuddhi.md",
+    "text_id": "VyiiYnrggyU0AeTyrvxxH",
+    "toc_id": "fVKwzMXy5YVMKpewBoqCE"
+  },
   "pi-culavagga-vimativinodani": {
     "aligned_to_edition_id": "5H1pn627NnQSdaoR8tm41",
     "edition_id": "lQkt254Ez1GuPbc91ZN3l",
@@ -109,6 +146,43 @@
     "source_file": "1-SOURCES/Commentaries/pi-culavagga-vimativinodani.md",
     "text_id": "qbE0l0yeCg4y4ObTAChS6",
     "toc_id": "pN1HOdHKXzR4zPuXmCBuj"
+  },
+  "pi-culavagga-yojana": {
+    "aligned_to_edition_id": "5H1pn627NnQSdaoR8tm41",
+    "edition_id": "jJCCXyPh4kPfsc5VHiyGb",
+    "file_type": "commentary",
+    "lang_tag": "pi",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "yzydhNpQTaVXL6COSI7NW",
+        "ts": "2026-11-12T15:36:33"
+      },
+      {
+        "chars": 210911,
+        "edition_id": "jJCCXyPh4kPfsc5VHiyGb",
+        "segments": 490,
+        "step": "edition",
+        "ts": "2026-11-12T15:36:34"
+      },
+      {
+        "nodes": 82,
+        "step": "toc",
+        "toc_id": "dOQYCUuq5jX0WeV1X3LUI",
+        "ts": "2026-11-12T15:36:35"
+      },
+      {
+        "pairs": 416,
+        "root_edition_id": "5H1pn627NnQSdaoR8tm41",
+        "step": "alignment",
+        "ts": "2026-11-12T15:36:36"
+      }
+    ],
+    "root_edition_id": "5H1pn627NnQSdaoR8tm41",
+    "root_text_id": "f3Ai1VjpwISPoauHYGms3",
+    "source_file": "1-SOURCES/Commentaries/pi-culavagga-yojana.md",
+    "text_id": "yzydhNpQTaVXL6COSI7NW",
+    "toc_id": "dOQYCUuq5jX0WeV1X3LUI"
   },
   "pi-mahavagga-atthakatha": {
     "aligned_to_edition_id": "VVPfVPNWsbjPzk3bMocKP",

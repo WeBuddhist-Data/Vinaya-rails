@@ -1,0 +1,1668 @@
+{
+  "alignments": [
+    {
+      "source_segment_reference": "4-2",
+      "target_segment_reference": "4-1"
+    },
+    {
+      "source_segment_reference": "4-3",
+      "target_segment_reference": "4-4"
+    },
+    {
+      "source_segment_reference": "4-4",
+      "target_segment_reference": "4-6"
+    },
+    {
+      "source_segment_reference": "4-5",
+      "target_segment_reference": "4-6"
+    },
+    {
+      "source_segment_reference": "4-6",
+      "target_segment_reference": "4-6"
+    },
+    {
+      "source_segment_reference": "4-7",
+      "target_segment_reference": "4-8"
+    },
+    {
+      "source_segment_reference": "4-8",
+      "target_segment_reference": "4-11"
+    },
+    {
+      "source_segment_reference": "4-9",
+      "target_segment_reference": "4-27"
+    },
+    {
+      "source_segment_reference": "4-10",
+      "target_segment_reference": "4-33"
+    },
+    {
+      "source_segment_reference": "4-11",
+      "target_segment_reference": "4-34"
+    },
+    {
+      "source_segment_reference": "4-12",
+      "target_segment_reference": "4-39"
+    },
+    {
+      "source_segment_reference": "4-13",
+      "target_segment_reference": "4-46"
+    },
+    {
+      "source_segment_reference": "4-14",
+      "target_segment_reference": "4-50"
+    },
+    {
+      "source_segment_reference": "4-15",
+      "target_segment_reference": "4-51"
+    },
+    {
+      "source_segment_reference": "4-16",
+      "target_segment_reference": "4-65"
+    },
+    {
+      "source_segment_reference": "4-17",
+      "target_segment_reference": "4-65"
+    },
+    {
+      "source_segment_reference": "4-18",
+      "target_segment_reference": "4-75"
+    },
+    {
+      "source_segment_reference": "4-19",
+      "target_segment_reference": "4-75"
+    },
+    {
+      "source_segment_reference": "4-20",
+      "target_segment_reference": "4-75"
+    },
+    {
+      "source_segment_reference": "4-21",
+      "target_segment_reference": "4-75"
+    },
+    {
+      "source_segment_reference": "4-22",
+      "target_segment_reference": "4-75"
+    },
+    {
+      "source_segment_reference": "4-23",
+      "target_segment_reference": "4-76"
+    },
+    {
+      "source_segment_reference": "4-24",
+      "target_segment_reference": "4-76"
+    },
+    {
+      "source_segment_reference": "4-25",
+      "target_segment_reference": "4-76"
+    },
+    {
+      "source_segment_reference": "4-26",
+      "target_segment_reference": "4-76"
+    },
+    {
+      "source_segment_reference": "4-27",
+      "target_segment_reference": "4-76"
+    },
+    {
+      "source_segment_reference": "4-28",
+      "target_segment_reference": "4-76"
+    },
+    {
+      "source_segment_reference": "4-29",
+      "target_segment_reference": "4-76"
+    },
+    {
+      "source_segment_reference": "4-30",
+      "target_segment_reference": "4-76"
+    },
+    {
+      "source_segment_reference": "4-31",
+      "target_segment_reference": "4-76"
+    },
+    {
+      "source_segment_reference": "4-32",
+      "target_segment_reference": "4-76"
+    },
+    {
+      "source_segment_reference": "4-33",
+      "target_segment_reference": "4-76"
+    },
+    {
+      "source_segment_reference": "4-34",
+      "target_segment_reference": "4-76"
+    },
+    {
+      "source_segment_reference": "4-35",
+      "target_segment_reference": "4-76"
+    },
+    {
+      "source_segment_reference": "4-36",
+      "target_segment_reference": "4-76"
+    },
+    {
+      "source_segment_reference": "4-37",
+      "target_segment_reference": "4-76"
+    },
+    {
+      "source_segment_reference": "4-38",
+      "target_segment_reference": "4-81"
+    },
+    {
+      "source_segment_reference": "4-39",
+      "target_segment_reference": "4-81"
+    },
+    {
+      "source_segment_reference": "4-40",
+      "target_segment_reference": "4-81"
+    },
+    {
+      "source_segment_reference": "4-41",
+      "target_segment_reference": "4-82"
+    },
+    {
+      "source_segment_reference": "4-42",
+      "target_segment_reference": "4-82"
+    },
+    {
+      "source_segment_reference": "4-43",
+      "target_segment_reference": "4-83"
+    },
+    {
+      "source_segment_reference": "4-44",
+      "target_segment_reference": "4-84"
+    },
+    {
+      "source_segment_reference": "4-45",
+      "target_segment_reference": "4-86"
+    },
+    {
+      "source_segment_reference": "4-46",
+      "target_segment_reference": "4-87"
+    },
+    {
+      "source_segment_reference": "4-47",
+      "target_segment_reference": "4-92"
+    },
+    {
+      "source_segment_reference": "4-48",
+      "target_segment_reference": "4-92"
+    },
+    {
+      "source_segment_reference": "4-55",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-56",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-57",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-58",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-59",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-60",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-61",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-62",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-63",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-64",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-65",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-66",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-67",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-68",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-69",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-70",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-71",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-72",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-73",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-74",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-75",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-76",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-77",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-78",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-79",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-80",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-81",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-82",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-83",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-84",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-85",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-86",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-87",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-88",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-89",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-90",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-91",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-92",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-93",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-94",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-95",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-96",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-97",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-98",
+      "target_segment_reference": "4-102"
+    },
+    {
+      "source_segment_reference": "4-99",
+      "target_segment_reference": "4-108"
+    },
+    {
+      "source_segment_reference": "4-100",
+      "target_segment_reference": "4-125"
+    },
+    {
+      "source_segment_reference": "4-101",
+      "target_segment_reference": "4-134"
+    },
+    {
+      "source_segment_reference": "4-102",
+      "target_segment_reference": "4-138"
+    },
+    {
+      "source_segment_reference": "4-103",
+      "target_segment_reference": "4-156"
+    },
+    {
+      "source_segment_reference": "4-104",
+      "target_segment_reference": "4-160"
+    },
+    {
+      "source_segment_reference": "4-105",
+      "target_segment_reference": "4-165"
+    },
+    {
+      "source_segment_reference": "4-106",
+      "target_segment_reference": "4-166"
+    },
+    {
+      "source_segment_reference": "4-107",
+      "target_segment_reference": "4-180"
+    },
+    {
+      "source_segment_reference": "4-108",
+      "target_segment_reference": "4-181"
+    },
+    {
+      "source_segment_reference": "4-109",
+      "target_segment_reference": "4-184"
+    },
+    {
+      "source_segment_reference": "4-110",
+      "target_segment_reference": "4-184"
+    },
+    {
+      "source_segment_reference": "4-111",
+      "target_segment_reference": "4-186"
+    },
+    {
+      "source_segment_reference": "4-111",
+      "target_segment_reference": "4-187"
+    },
+    {
+      "source_segment_reference": "4-112",
+      "target_segment_reference": "4-188"
+    },
+    {
+      "source_segment_reference": "4-113",
+      "target_segment_reference": "4-195"
+    },
+    {
+      "source_segment_reference": "4-114",
+      "target_segment_reference": "4-196"
+    },
+    {
+      "source_segment_reference": "4-115",
+      "target_segment_reference": "4-200"
+    },
+    {
+      "source_segment_reference": "4-116",
+      "target_segment_reference": "4-202"
+    },
+    {
+      "source_segment_reference": "4-117",
+      "target_segment_reference": "4-204"
+    },
+    {
+      "source_segment_reference": "4-118",
+      "target_segment_reference": "4-204"
+    },
+    {
+      "source_segment_reference": "4-119",
+      "target_segment_reference": "4-207"
+    },
+    {
+      "source_segment_reference": "4-120",
+      "target_segment_reference": "4-212"
+    },
+    {
+      "source_segment_reference": "4-121",
+      "target_segment_reference": "4-213"
+    },
+    {
+      "source_segment_reference": "4-122",
+      "target_segment_reference": "4-214"
+    },
+    {
+      "source_segment_reference": "4-123",
+      "target_segment_reference": "4-215"
+    },
+    {
+      "source_segment_reference": "4-124",
+      "target_segment_reference": "4-215"
+    },
+    {
+      "source_segment_reference": "4-125",
+      "target_segment_reference": "4-215"
+    },
+    {
+      "source_segment_reference": "4-126",
+      "target_segment_reference": "4-215"
+    },
+    {
+      "source_segment_reference": "4-127",
+      "target_segment_reference": "4-216"
+    },
+    {
+      "source_segment_reference": "4-128",
+      "target_segment_reference": "4-220"
+    },
+    {
+      "source_segment_reference": "4-129",
+      "target_segment_reference": "4-222"
+    },
+    {
+      "source_segment_reference": "4-130",
+      "target_segment_reference": "4-222"
+    },
+    {
+      "source_segment_reference": "4-131",
+      "target_segment_reference": "4-222"
+    },
+    {
+      "source_segment_reference": "4-132",
+      "target_segment_reference": "4-222"
+    },
+    {
+      "source_segment_reference": "4-133",
+      "target_segment_reference": "4-224"
+    },
+    {
+      "source_segment_reference": "4-134",
+      "target_segment_reference": "4-228"
+    },
+    {
+      "source_segment_reference": "4-135",
+      "target_segment_reference": "4-230"
+    },
+    {
+      "source_segment_reference": "4-136",
+      "target_segment_reference": "4-231"
+    },
+    {
+      "source_segment_reference": "4-137",
+      "target_segment_reference": "4-233"
+    },
+    {
+      "source_segment_reference": "4-138",
+      "target_segment_reference": "4-234"
+    },
+    {
+      "source_segment_reference": "4-139",
+      "target_segment_reference": "4-235"
+    },
+    {
+      "source_segment_reference": "4-140",
+      "target_segment_reference": "4-235"
+    },
+    {
+      "source_segment_reference": "4-141",
+      "target_segment_reference": "4-238"
+    },
+    {
+      "source_segment_reference": "4-142",
+      "target_segment_reference": "4-238"
+    },
+    {
+      "source_segment_reference": "4-143",
+      "target_segment_reference": "4-243"
+    },
+    {
+      "source_segment_reference": "4-144",
+      "target_segment_reference": "4-243"
+    },
+    {
+      "source_segment_reference": "4-145",
+      "target_segment_reference": "4-244"
+    },
+    {
+      "source_segment_reference": "4-146",
+      "target_segment_reference": "4-245"
+    },
+    {
+      "source_segment_reference": "4-147",
+      "target_segment_reference": "4-246"
+    },
+    {
+      "source_segment_reference": "4-148",
+      "target_segment_reference": "4-246"
+    },
+    {
+      "source_segment_reference": "4-149",
+      "target_segment_reference": "4-247"
+    },
+    {
+      "source_segment_reference": "4-150",
+      "target_segment_reference": "4-247"
+    },
+    {
+      "source_segment_reference": "4-151",
+      "target_segment_reference": "4-248"
+    },
+    {
+      "source_segment_reference": "4-152",
+      "target_segment_reference": "4-249"
+    },
+    {
+      "source_segment_reference": "4-153",
+      "target_segment_reference": "4-249"
+    },
+    {
+      "source_segment_reference": "4-154",
+      "target_segment_reference": "4-251"
+    },
+    {
+      "source_segment_reference": "4-155",
+      "target_segment_reference": "4-252"
+    },
+    {
+      "source_segment_reference": "4-156",
+      "target_segment_reference": "4-252"
+    },
+    {
+      "source_segment_reference": "4-157",
+      "target_segment_reference": "4-253"
+    },
+    {
+      "source_segment_reference": "4-158",
+      "target_segment_reference": "4-254"
+    },
+    {
+      "source_segment_reference": "4-159",
+      "target_segment_reference": "4-254"
+    },
+    {
+      "source_segment_reference": "4-160",
+      "target_segment_reference": "4-254"
+    },
+    {
+      "source_segment_reference": "4-161",
+      "target_segment_reference": "4-255"
+    },
+    {
+      "source_segment_reference": "4-162",
+      "target_segment_reference": "4-255"
+    },
+    {
+      "source_segment_reference": "4-163",
+      "target_segment_reference": "4-255"
+    },
+    {
+      "source_segment_reference": "4-164",
+      "target_segment_reference": "4-256"
+    },
+    {
+      "source_segment_reference": "4-165",
+      "target_segment_reference": "4-256"
+    },
+    {
+      "source_segment_reference": "4-166",
+      "target_segment_reference": "4-256"
+    },
+    {
+      "source_segment_reference": "4-167",
+      "target_segment_reference": "4-257"
+    },
+    {
+      "source_segment_reference": "4-168",
+      "target_segment_reference": "4-258"
+    },
+    {
+      "source_segment_reference": "4-169",
+      "target_segment_reference": "4-259"
+    },
+    {
+      "source_segment_reference": "4-170",
+      "target_segment_reference": "4-260"
+    },
+    {
+      "source_segment_reference": "4-171",
+      "target_segment_reference": "4-261"
+    },
+    {
+      "source_segment_reference": "4-172",
+      "target_segment_reference": "4-262"
+    },
+    {
+      "source_segment_reference": "4-173",
+      "target_segment_reference": "4-263"
+    },
+    {
+      "source_segment_reference": "4-174",
+      "target_segment_reference": "4-264"
+    },
+    {
+      "source_segment_reference": "4-175",
+      "target_segment_reference": "4-265"
+    },
+    {
+      "source_segment_reference": "4-176",
+      "target_segment_reference": "4-268"
+    },
+    {
+      "source_segment_reference": "4-177",
+      "target_segment_reference": "4-268"
+    },
+    {
+      "source_segment_reference": "4-178",
+      "target_segment_reference": "4-269"
+    },
+    {
+      "source_segment_reference": "4-179",
+      "target_segment_reference": "4-270"
+    },
+    {
+      "source_segment_reference": "4-180",
+      "target_segment_reference": "4-270"
+    },
+    {
+      "source_segment_reference": "4-181",
+      "target_segment_reference": "4-273"
+    },
+    {
+      "source_segment_reference": "4-182",
+      "target_segment_reference": "4-273"
+    },
+    {
+      "source_segment_reference": "4-183",
+      "target_segment_reference": "4-274"
+    },
+    {
+      "source_segment_reference": "4-184",
+      "target_segment_reference": "4-275"
+    },
+    {
+      "source_segment_reference": "4-185",
+      "target_segment_reference": "4-277"
+    },
+    {
+      "source_segment_reference": "4-186",
+      "target_segment_reference": "4-278"
+    },
+    {
+      "source_segment_reference": "4-187",
+      "target_segment_reference": "4-280"
+    },
+    {
+      "source_segment_reference": "4-188",
+      "target_segment_reference": "4-280"
+    },
+    {
+      "source_segment_reference": "4-189",
+      "target_segment_reference": "4-280"
+    },
+    {
+      "source_segment_reference": "4-190",
+      "target_segment_reference": "4-281"
+    },
+    {
+      "source_segment_reference": "4-191",
+      "target_segment_reference": "4-282"
+    },
+    {
+      "source_segment_reference": "4-192",
+      "target_segment_reference": "4-283"
+    },
+    {
+      "source_segment_reference": "4-193",
+      "target_segment_reference": "4-284"
+    },
+    {
+      "source_segment_reference": "4-194",
+      "target_segment_reference": "4-285"
+    },
+    {
+      "source_segment_reference": "4-195",
+      "target_segment_reference": "4-286"
+    },
+    {
+      "source_segment_reference": "4-196",
+      "target_segment_reference": "4-288"
+    },
+    {
+      "source_segment_reference": "4-197",
+      "target_segment_reference": "4-289"
+    },
+    {
+      "source_segment_reference": "4-198",
+      "target_segment_reference": "4-293"
+    },
+    {
+      "source_segment_reference": "4-199",
+      "target_segment_reference": "4-293"
+    },
+    {
+      "source_segment_reference": "4-200",
+      "target_segment_reference": "4-294"
+    },
+    {
+      "source_segment_reference": "4-201",
+      "target_segment_reference": "4-295"
+    },
+    {
+      "source_segment_reference": "4-202",
+      "target_segment_reference": "4-295"
+    },
+    {
+      "source_segment_reference": "4-203",
+      "target_segment_reference": "4-295"
+    },
+    {
+      "source_segment_reference": "4-204",
+      "target_segment_reference": "4-296"
+    },
+    {
+      "source_segment_reference": "4-205",
+      "target_segment_reference": "4-297"
+    },
+    {
+      "source_segment_reference": "4-206",
+      "target_segment_reference": "4-297"
+    },
+    {
+      "source_segment_reference": "4-207",
+      "target_segment_reference": "4-297"
+    },
+    {
+      "source_segment_reference": "4-208",
+      "target_segment_reference": "4-297"
+    },
+    {
+      "source_segment_reference": "4-209",
+      "target_segment_reference": "4-297"
+    },
+    {
+      "source_segment_reference": "4-210",
+      "target_segment_reference": "4-297"
+    },
+    {
+      "source_segment_reference": "4-211",
+      "target_segment_reference": "4-298"
+    },
+    {
+      "source_segment_reference": "4-212",
+      "target_segment_reference": "4-299"
+    },
+    {
+      "source_segment_reference": "4-213",
+      "target_segment_reference": "4-300"
+    },
+    {
+      "source_segment_reference": "4-214",
+      "target_segment_reference": "4-300"
+    },
+    {
+      "source_segment_reference": "4-215",
+      "target_segment_reference": "4-300"
+    },
+    {
+      "source_segment_reference": "4-216",
+      "target_segment_reference": "4-301"
+    },
+    {
+      "source_segment_reference": "4-217",
+      "target_segment_reference": "4-303"
+    },
+    {
+      "source_segment_reference": "4-218",
+      "target_segment_reference": "4-305"
+    },
+    {
+      "source_segment_reference": "4-219",
+      "target_segment_reference": "4-305"
+    },
+    {
+      "source_segment_reference": "4-220",
+      "target_segment_reference": "4-305"
+    },
+    {
+      "source_segment_reference": "4-221",
+      "target_segment_reference": "4-307"
+    },
+    {
+      "source_segment_reference": "4-222",
+      "target_segment_reference": "4-307"
+    },
+    {
+      "source_segment_reference": "4-223",
+      "target_segment_reference": "4-307"
+    },
+    {
+      "source_segment_reference": "4-224",
+      "target_segment_reference": "4-307"
+    },
+    {
+      "source_segment_reference": "4-225",
+      "target_segment_reference": "4-308"
+    },
+    {
+      "source_segment_reference": "4-226",
+      "target_segment_reference": "4-310"
+    },
+    {
+      "source_segment_reference": "4-227",
+      "target_segment_reference": "4-315"
+    },
+    {
+      "source_segment_reference": "4-228",
+      "target_segment_reference": "4-316"
+    },
+    {
+      "source_segment_reference": "4-229",
+      "target_segment_reference": "4-316"
+    },
+    {
+      "source_segment_reference": "4-230",
+      "target_segment_reference": "4-316"
+    },
+    {
+      "source_segment_reference": "4-231",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-232",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-233",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-234",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-235",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-236",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-237",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-238",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-239",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-240",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-241",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-242",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-243",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-244",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-245",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-246",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-247",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-248",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-249",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-250",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-251",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-252",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-253",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-254",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-255",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-256",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-257",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-258",
+      "target_segment_reference": "4-318"
+    },
+    {
+      "source_segment_reference": "4-259",
+      "target_segment_reference": "4-319"
+    },
+    {
+      "source_segment_reference": "4-260",
+      "target_segment_reference": "4-319"
+    },
+    {
+      "source_segment_reference": "4-261",
+      "target_segment_reference": "4-320"
+    },
+    {
+      "source_segment_reference": "4-262",
+      "target_segment_reference": "4-320"
+    },
+    {
+      "source_segment_reference": "4-263",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-264",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-265",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-266",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-267",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-268",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-269",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-270",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-271",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-272",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-273",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-274",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-275",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-276",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-277",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-278",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-279",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-280",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-281",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-282",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-283",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-284",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-285",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-286",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-287",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-288",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-289",
+      "target_segment_reference": "4-321"
+    },
+    {
+      "source_segment_reference": "4-290",
+      "target_segment_reference": "4-323"
+    },
+    {
+      "source_segment_reference": "4-291",
+      "target_segment_reference": "4-323"
+    },
+    {
+      "source_segment_reference": "4-292",
+      "target_segment_reference": "4-323"
+    },
+    {
+      "source_segment_reference": "4-293",
+      "target_segment_reference": "4-323"
+    },
+    {
+      "source_segment_reference": "4-294",
+      "target_segment_reference": "4-323"
+    },
+    {
+      "source_segment_reference": "4-295",
+      "target_segment_reference": "4-323"
+    },
+    {
+      "source_segment_reference": "4-296",
+      "target_segment_reference": "4-323"
+    },
+    {
+      "source_segment_reference": "4-297",
+      "target_segment_reference": "4-324"
+    },
+    {
+      "source_segment_reference": "4-298",
+      "target_segment_reference": "4-324"
+    },
+    {
+      "source_segment_reference": "4-299",
+      "target_segment_reference": "4-324"
+    },
+    {
+      "source_segment_reference": "4-300",
+      "target_segment_reference": "4-324"
+    },
+    {
+      "source_segment_reference": "4-301",
+      "target_segment_reference": "4-324"
+    },
+    {
+      "source_segment_reference": "4-302",
+      "target_segment_reference": "4-324"
+    },
+    {
+      "source_segment_reference": "4-303",
+      "target_segment_reference": "4-325"
+    },
+    {
+      "source_segment_reference": "4-304",
+      "target_segment_reference": "4-325"
+    },
+    {
+      "source_segment_reference": "4-372",
+      "target_segment_reference": "4-330"
+    },
+    {
+      "source_segment_reference": "4-373",
+      "target_segment_reference": "4-331"
+    },
+    {
+      "source_segment_reference": "4-374",
+      "target_segment_reference": "4-332"
+    },
+    {
+      "source_segment_reference": "4-375",
+      "target_segment_reference": "4-333"
+    },
+    {
+      "source_segment_reference": "4-376",
+      "target_segment_reference": "4-334"
+    },
+    {
+      "source_segment_reference": "4-377",
+      "target_segment_reference": "4-336"
+    },
+    {
+      "source_segment_reference": "4-378",
+      "target_segment_reference": "4-340"
+    },
+    {
+      "source_segment_reference": "4-379",
+      "target_segment_reference": "4-342"
+    },
+    {
+      "source_segment_reference": "4-380",
+      "target_segment_reference": "4-342"
+    },
+    {
+      "source_segment_reference": "4-381",
+      "target_segment_reference": "4-342"
+    },
+    {
+      "source_segment_reference": "4-382",
+      "target_segment_reference": "4-343"
+    },
+    {
+      "source_segment_reference": "4-383",
+      "target_segment_reference": "4-344"
+    },
+    {
+      "source_segment_reference": "4-384",
+      "target_segment_reference": "4-345"
+    },
+    {
+      "source_segment_reference": "4-385",
+      "target_segment_reference": "4-346"
+    },
+    {
+      "source_segment_reference": "4-386",
+      "target_segment_reference": "4-347"
+    },
+    {
+      "source_segment_reference": "4-387",
+      "target_segment_reference": "4-350"
+    },
+    {
+      "source_segment_reference": "4-388",
+      "target_segment_reference": "4-350"
+    },
+    {
+      "source_segment_reference": "4-389",
+      "target_segment_reference": "4-351"
+    },
+    {
+      "source_segment_reference": "4-390",
+      "target_segment_reference": "4-351"
+    },
+    {
+      "source_segment_reference": "4-391",
+      "target_segment_reference": "4-351"
+    },
+    {
+      "source_segment_reference": "4-392",
+      "target_segment_reference": "4-351"
+    },
+    {
+      "source_segment_reference": "4-393",
+      "target_segment_reference": "4-351"
+    },
+    {
+      "source_segment_reference": "4-394",
+      "target_segment_reference": "4-351"
+    },
+    {
+      "source_segment_reference": "4-395",
+      "target_segment_reference": "4-351"
+    },
+    {
+      "source_segment_reference": "4-396",
+      "target_segment_reference": "4-351"
+    },
+    {
+      "source_segment_reference": "4-397",
+      "target_segment_reference": "4-351"
+    },
+    {
+      "source_segment_reference": "4-398",
+      "target_segment_reference": "4-351"
+    },
+    {
+      "source_segment_reference": "4-399",
+      "target_segment_reference": "4-351"
+    },
+    {
+      "source_segment_reference": "4-400",
+      "target_segment_reference": "4-351"
+    },
+    {
+      "source_segment_reference": "4-401",
+      "target_segment_reference": "4-351"
+    },
+    {
+      "source_segment_reference": "4-402",
+      "target_segment_reference": "4-351"
+    },
+    {
+      "source_segment_reference": "4-403",
+      "target_segment_reference": "4-351"
+    },
+    {
+      "source_segment_reference": "4-404",
+      "target_segment_reference": "4-351"
+    },
+    {
+      "source_segment_reference": "4-405",
+      "target_segment_reference": "4-357"
+    },
+    {
+      "source_segment_reference": "4-406",
+      "target_segment_reference": "4-357"
+    },
+    {
+      "source_segment_reference": "4-407",
+      "target_segment_reference": "4-359"
+    },
+    {
+      "source_segment_reference": "4-408",
+      "target_segment_reference": "4-359"
+    },
+    {
+      "source_segment_reference": "4-409",
+      "target_segment_reference": "4-360"
+    },
+    {
+      "source_segment_reference": "4-410",
+      "target_segment_reference": "4-362"
+    },
+    {
+      "source_segment_reference": "4-411",
+      "target_segment_reference": "4-364"
+    },
+    {
+      "source_segment_reference": "4-412",
+      "target_segment_reference": "4-364"
+    },
+    {
+      "source_segment_reference": "4-413",
+      "target_segment_reference": "4-364"
+    },
+    {
+      "source_segment_reference": "4-414",
+      "target_segment_reference": "4-364"
+    },
+    {
+      "source_segment_reference": "4-415",
+      "target_segment_reference": "4-364"
+    },
+    {
+      "source_segment_reference": "4-416",
+      "target_segment_reference": "4-366"
+    },
+    {
+      "source_segment_reference": "4-417",
+      "target_segment_reference": "4-368"
+    },
+    {
+      "source_segment_reference": "4-418",
+      "target_segment_reference": "4-368"
+    },
+    {
+      "source_segment_reference": "4-419",
+      "target_segment_reference": "4-369"
+    },
+    {
+      "source_segment_reference": "4-420",
+      "target_segment_reference": "4-371"
+    },
+    {
+      "source_segment_reference": "4-421",
+      "target_segment_reference": "4-373"
+    },
+    {
+      "source_segment_reference": "4-422",
+      "target_segment_reference": "4-374"
+    },
+    {
+      "source_segment_reference": "4-423",
+      "target_segment_reference": "4-374"
+    },
+    {
+      "source_segment_reference": "4-424",
+      "target_segment_reference": "4-374"
+    },
+    {
+      "source_segment_reference": "4-425",
+      "target_segment_reference": "4-374"
+    },
+    {
+      "source_segment_reference": "4-426",
+      "target_segment_reference": "4-383"
+    },
+    {
+      "source_segment_reference": "4-427",
+      "target_segment_reference": "4-384"
+    },
+    {
+      "source_segment_reference": "4-428",
+      "target_segment_reference": "4-385"
+    },
+    {
+      "source_segment_reference": "4-429",
+      "target_segment_reference": "4-386"
+    },
+    {
+      "source_segment_reference": "4-430",
+      "target_segment_reference": "4-387"
+    },
+    {
+      "source_segment_reference": "4-431",
+      "target_segment_reference": "4-387"
+    },
+    {
+      "source_segment_reference": "4-432",
+      "target_segment_reference": "4-388"
+    },
+    {
+      "source_segment_reference": "4-433",
+      "target_segment_reference": "4-398"
+    },
+    {
+      "source_segment_reference": "4-434",
+      "target_segment_reference": "4-398"
+    },
+    {
+      "source_segment_reference": "4-435",
+      "target_segment_reference": "4-398"
+    },
+    {
+      "source_segment_reference": "4-436",
+      "target_segment_reference": "4-398"
+    },
+    {
+      "source_segment_reference": "4-437",
+      "target_segment_reference": "4-399"
+    },
+    {
+      "source_segment_reference": "4-438",
+      "target_segment_reference": "4-399"
+    },
+    {
+      "source_segment_reference": "4-439",
+      "target_segment_reference": "4-400"
+    },
+    {
+      "source_segment_reference": "4-440",
+      "target_segment_reference": "4-401"
+    },
+    {
+      "source_segment_reference": "4-441",
+      "target_segment_reference": "4-401"
+    },
+    {
+      "source_segment_reference": "4-442",
+      "target_segment_reference": "4-401"
+    },
+    {
+      "source_segment_reference": "4-443",
+      "target_segment_reference": "4-402"
+    },
+    {
+      "source_segment_reference": "4-444",
+      "target_segment_reference": "4-403"
+    },
+    {
+      "source_segment_reference": "4-445",
+      "target_segment_reference": "4-403"
+    },
+    {
+      "source_segment_reference": "4-446",
+      "target_segment_reference": "4-403"
+    },
+    {
+      "source_segment_reference": "4-447",
+      "target_segment_reference": "4-404"
+    },
+    {
+      "source_segment_reference": "4-448",
+      "target_segment_reference": "4-410"
+    },
+    {
+      "source_segment_reference": "4-449",
+      "target_segment_reference": "4-411"
+    },
+    {
+      "source_segment_reference": "4-450",
+      "target_segment_reference": "4-411"
+    },
+    {
+      "source_segment_reference": "4-451",
+      "target_segment_reference": "4-416"
+    },
+    {
+      "source_segment_reference": "4-452",
+      "target_segment_reference": "4-416"
+    },
+    {
+      "source_segment_reference": "4-453",
+      "target_segment_reference": "4-416"
+    },
+    {
+      "source_segment_reference": "4-454",
+      "target_segment_reference": "4-417"
+    },
+    {
+      "source_segment_reference": "4-455",
+      "target_segment_reference": "4-418"
+    },
+    {
+      "source_segment_reference": "4-456",
+      "target_segment_reference": "4-419"
+    },
+    {
+      "source_segment_reference": "4-457",
+      "target_segment_reference": "4-420"
+    },
+    {
+      "source_segment_reference": "4-458",
+      "target_segment_reference": "4-421"
+    },
+    {
+      "source_segment_reference": "4-459",
+      "target_segment_reference": "4-421"
+    },
+    {
+      "source_segment_reference": "4-460",
+      "target_segment_reference": "4-426"
+    },
+    {
+      "source_segment_reference": "4-461",
+      "target_segment_reference": "4-426"
+    },
+    {
+      "source_segment_reference": "4-462",
+      "target_segment_reference": "4-430"
+    },
+    {
+      "source_segment_reference": "4-463",
+      "target_segment_reference": "4-431"
+    },
+    {
+      "source_segment_reference": "4-464",
+      "target_segment_reference": "4-432"
+    },
+    {
+      "source_segment_reference": "4-465",
+      "target_segment_reference": "4-432"
+    },
+    {
+      "source_segment_reference": "4-466",
+      "target_segment_reference": "4-434"
+    },
+    {
+      "source_segment_reference": "4-467",
+      "target_segment_reference": "4-434"
+    },
+    {
+      "source_segment_reference": "4-468",
+      "target_segment_reference": "4-434"
+    },
+    {
+      "source_segment_reference": "4-469",
+      "target_segment_reference": "4-435"
+    },
+    {
+      "source_segment_reference": "4-470",
+      "target_segment_reference": "4-436"
+    },
+    {
+      "source_segment_reference": "4-471",
+      "target_segment_reference": "4-436"
+    },
+    {
+      "source_segment_reference": "4-472",
+      "target_segment_reference": "4-441"
+    },
+    {
+      "source_segment_reference": "4-473",
+      "target_segment_reference": "4-443"
+    },
+    {
+      "source_segment_reference": "4-474",
+      "target_segment_reference": "4-443"
+    },
+    {
+      "source_segment_reference": "4-475",
+      "target_segment_reference": "4-447"
+    },
+    {
+      "source_segment_reference": "4-476",
+      "target_segment_reference": "4-454"
+    },
+    {
+      "source_segment_reference": "4-477",
+      "target_segment_reference": "4-455"
+    },
+    {
+      "source_segment_reference": "4-478",
+      "target_segment_reference": "4-457"
+    },
+    {
+      "source_segment_reference": "4-479",
+      "target_segment_reference": "4-457"
+    },
+    {
+      "source_segment_reference": "4-480",
+      "target_segment_reference": "4-457"
+    },
+    {
+      "source_segment_reference": "4-481",
+      "target_segment_reference": "4-457"
+    },
+    {
+      "source_segment_reference": "4-482",
+      "target_segment_reference": "4-457"
+    },
+    {
+      "source_segment_reference": "4-483",
+      "target_segment_reference": "4-457"
+    },
+    {
+      "source_segment_reference": "4-484",
+      "target_segment_reference": "4-457"
+    },
+    {
+      "source_segment_reference": "4-485",
+      "target_segment_reference": "4-457"
+    },
+    {
+      "source_segment_reference": "4-486",
+      "target_segment_reference": "4-457"
+    },
+    {
+      "source_segment_reference": "4-487",
+      "target_segment_reference": "4-457"
+    },
+    {
+      "source_segment_reference": "4-488",
+      "target_segment_reference": "4-457"
+    },
+    {
+      "source_segment_reference": "4-489",
+      "target_segment_reference": "4-457"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Commentaries/pi-culavagga-yojana.md",
+  "validated_at": "2026-11-12T10:05:38.804236+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "translation_of: not set (optional)",
+    "commentary_of: 'f3Ai1VjpwISPoauHYGms3'",
+    "root_text: '1-SOURCES/Text/pi-4.md'",
+    "source: source = 'https://github.com/VipassanaTech/tipitaka-xml/blob/main/romn/vin12t.nrf.xml'",
+    "toc: 82 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now",
+    "alt_titles: missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "pi": "Pācityādiyojanā (Cūḷavagga)"
+    },
+    "alt_titles": null,
+    "language": "pi",
+    "commentary_of": "f3Ai1VjpwISPoauHYGms3",
+    "translation_of": null,
+    "category_id": "4wuvGxIgXNZ5mb0bDWvkC",
+    "license": "cc0",
+    "contributions": null,
+    "tag_ids": [
+      "296WZOr8MXWteSqBBI7pl"
+    ]
+  }
+}
