@@ -73,6 +73,43 @@
     "text_id": "r044xwsKCdvWjgbJyJb0h",
     "toc_id": "JevcqrL6V236B0siaPqO9"
   },
+  "pi-mahavagga-vajirabuddhi": {
+    "aligned_to_edition_id": "VVPfVPNWsbjPzk3bMocKP",
+    "edition_id": "N4uslAtsG71RM8zF9eOxG",
+    "file_type": "commentary",
+    "lang_tag": "pi",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "Pyri5OTh9Q241BlCKUCMq",
+        "ts": "2026-11-12T12:47:37"
+      },
+      {
+        "chars": 193666,
+        "edition_id": "N4uslAtsG71RM8zF9eOxG",
+        "segments": 326,
+        "step": "edition",
+        "ts": "2026-11-12T12:47:38"
+      },
+      {
+        "nodes": 114,
+        "step": "toc",
+        "toc_id": "gVBvwWbNRiDmPyYa0FHpH",
+        "ts": "2026-11-12T12:47:38"
+      },
+      {
+        "pairs": 347,
+        "root_edition_id": "VVPfVPNWsbjPzk3bMocKP",
+        "step": "alignment",
+        "ts": "2026-11-12T12:47:39"
+      }
+    ],
+    "root_edition_id": "VVPfVPNWsbjPzk3bMocKP",
+    "root_text_id": "UuDkWSmWOL5PESPmgILv6",
+    "source_file": "1-SOURCES/Commentaries/pi-mahavagga-vajirabuddhi.md",
+    "text_id": "Pyri5OTh9Q241BlCKUCMq",
+    "toc_id": "gVBvwWbNRiDmPyYa0FHpH"
+  },
   "pi-mahavagga-vimativinodani": {
     "aligned_to_edition_id": "VVPfVPNWsbjPzk3bMocKP",
     "edition_id": "k1D5JciSEUihRFJHk74dI",
@@ -109,6 +146,43 @@
     "source_file": "1-SOURCES/Commentaries/pi-mahavagga-vimativinodani.md",
     "text_id": "BlavXdDozOQTQtORNfZKu",
     "toc_id": "Jzw90MuM0lmzOGfk9SAcd"
+  },
+  "pi-mahavagga-yojana": {
+    "aligned_to_edition_id": "VVPfVPNWsbjPzk3bMocKP",
+    "edition_id": "Lfb6tMuOj5AJnYbMptDBv",
+    "file_type": "commentary",
+    "lang_tag": "pi",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "wZROjY39redLF5pkCRgy5",
+        "ts": "2026-11-12T12:47:46"
+      },
+      {
+        "chars": 348378,
+        "edition_id": "Lfb6tMuOj5AJnYbMptDBv",
+        "segments": 691,
+        "step": "edition",
+        "ts": "2026-11-12T12:47:47"
+      },
+      {
+        "nodes": 152,
+        "step": "toc",
+        "toc_id": "9KC7V3xz6Qi8cHVmJIBVV",
+        "ts": "2026-11-12T12:47:47"
+      },
+      {
+        "pairs": 707,
+        "root_edition_id": "VVPfVPNWsbjPzk3bMocKP",
+        "step": "alignment",
+        "ts": "2026-11-12T12:47:49"
+      }
+    ],
+    "root_edition_id": "VVPfVPNWsbjPzk3bMocKP",
+    "root_text_id": "UuDkWSmWOL5PESPmgILv6",
+    "source_file": "1-SOURCES/Commentaries/pi-mahavagga-yojana.md",
+    "text_id": "wZROjY39redLF5pkCRgy5",
+    "toc_id": "9KC7V3xz6Qi8cHVmJIBVV"
   },
   "pi-pacittiya-atthakatha": {
     "aligned_to_edition_id": "MAjWAYsgc2Iyv5wtXcOcc",
