@@ -6,7 +6,9 @@ import json, re, sys
 from pathlib import Path
 
 def words(s):
-    return re.findall(r"[^\s\"‘’“”–—\-\[\]().,;:?!*]+", s)
+    # brackets and braces are punctuation here: a note is [..] in the JSON and
+    # {..} in the file once source_form.py has given it the site's form
+    return re.findall(r"[^\s\"‘’“”–—\-\[\]{}().,;:?!*]+", s)
 
 def main(jp, mp):
     segs = json.loads(Path(jp).read_text(encoding="utf-8"))["segments"]

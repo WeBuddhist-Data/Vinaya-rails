@@ -43,18 +43,23 @@ def key(t):
 
 def braces(t):
     """A note's outer brackets become braces; brackets inside the note's own
-    text stay, as the site shows them (pi-1: {[ ] etthantare pāṭhā …})."""
-    out, depth, notes = [], 0, 0
-    for ch in t:
-        if ch == "[":
-            out.append("{" if depth == 0 else ch)
-            notes += depth == 0
-            depth += 1
-        elif ch == "]" and depth:
-            depth -= 1
-            out.append("}" if depth == 0 else ch)
-        else:
-            out.append(ch)
+    text stay, as the site shows them (pi-1: {[ ] etthantare pāṭhā …}).
+    A <note> always closes in its own paragraph, so a '[' that is never
+    closed on the line is the source's own bracket and stays as printed
+    (pi-3, vin02m2: '… āgatā} [ Evaṃ vutte bhagavā …')."""
+    out, i, notes = [], 0, 0
+    while i < len(t):
+        if t[i] == "[":
+            depth, j = 0, i
+            while j < len(t):
+                depth += (t[j] == "[") - (t[j] == "]")
+                if depth == 0:
+                    break
+                j += 1
+            if j < len(t):          # closed on this line: a note
+                out.append("{" + t[i + 1:j] + "}"); notes += 1; i = j + 1
+                continue
+        out.append(t[i]); i += 1
     return "".join(out), notes
 
 
