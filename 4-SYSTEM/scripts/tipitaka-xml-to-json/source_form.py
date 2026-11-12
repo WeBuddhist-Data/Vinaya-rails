@@ -47,9 +47,14 @@ def braces(t):
     A <note> always closes in its own paragraph, so a '[' that is never
     closed on the line is the source's own bracket and stays as printed
     (pi-3, vin02m2: '… āgatā} [ Evaṃ vutte bhagavā …')."""
-    out, i, notes = [], 0, 0
+    out, i, notes, inbrace = [], 0, 0, 0
     while i < len(t):
-        if t[i] == "[":
+        # already a note in the site's form (re-running the step): leave its text alone
+        if t[i] in "{}":
+            inbrace += 1 if t[i] == "{" else -1
+            out.append(t[i]); i += 1
+            continue
+        if t[i] == "[" and not inbrace:
             depth, j = 0, i
             while j < len(t):
                 depth += (t[j] == "[") - (t[j] == "]")
@@ -69,7 +74,18 @@ def main(md_path, json_path):
     m = re.match(r"^---\n.*?\n---\n", text, re.S)
     head, body = (m.group(0), text[m.end():]) if m else ("", text)
     lines = body.split("\n")
-    segs = [s["content"] for s in json.loads(Path(json_path).read_text(encoding="utf-8"))["segments"]]
+    segs = []
+    for s in json.loads(Path(json_path).read_text(encoding="utf-8"))["segments"]:
+        c = s["content"]
+        # A long note printed inside a heading (pi-4 '10. Dutiyanavakaṃ <note>…')
+        # is moved out by apply_site_toc.py into its own block under the
+        # heading, so the heading reads as the site's contents tree titles it.
+        # Match it the same way: the heading, then the note.
+        hn = re.match(r"^(.*?\S)\s*(\[.*\])\s*$", c, re.S)
+        if s.get("css_class") in ("chapter", "title", "subhead", "subsubhead") and hn:
+            segs += [hn.group(1), hn.group(2)]
+        else:
+            segs.append(c)
 
     items = []  # (line index, is_heading, hashes, title/text, id)
     for i, ln in enumerate(lines):
