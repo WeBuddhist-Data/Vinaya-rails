@@ -21,6 +21,11 @@ source: "https://github.com/VipassanaTech/tipitaka-xml/blob/main/romn/vin12t.nrf
 other_ids:
   - tipitaka.org: vin12t
 source_note: "2 citation(s) use CST's truncated-tail range form ('182-3.' = 182-183, '457-8.' = 457-458); kept as printed and linked to the full range."
+commentary_of: QUJx63k0I45O2i7ypmZRP
+text_id: vsbm8MUFloI3jclNqO5r4
+edition_id: jUhyZBdaHqgtA49chJr7m
+toc_id: hQn11YRtaqeL4pg2LOv4b
+aligned_to_edition_id: MAjWAYsgc2Iyv5wtXcOcc
 ---
 
 Namo tassa bhagavato arahato sammāsambuddhassa ^T-1

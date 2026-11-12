@@ -21,6 +21,11 @@ source: "https://github.com/VipassanaTech/tipitaka-xml/blob/main/romn/vin06t.nrf
 other_ids:
   - tipitaka.org: vin06t
 source_note: "32 citation(s) use CST's truncated-tail range form ('36-7.' = 36-37, '38-9.' = 38-39, '45-6.' = 45-46, …); kept as printed and linked to the full range. In the Kāṇamātāsikkhāpadavaṇṇanā, between the citations '229.' and '236.', CST prints '31-3.' where root paragraphs 231-233 are meant (the lemmas paṭiyāloka, pūvagaṇanā are in 2-231 and 2-233); linked exactly as printed, to 2-31-2-33."
+commentary_of: QUJx63k0I45O2i7ypmZRP
+text_id: NhOl0hggpKU6eN4IHBTrv
+edition_id: rcGLzvX5UV75h8pEd42oR
+toc_id: 0o8RLh4pf4FREk68CDcaG
+aligned_to_edition_id: MAjWAYsgc2Iyv5wtXcOcc
 ---
 
 Namo tassa bhagavato arahato sammāsambuddhassa ^T-1

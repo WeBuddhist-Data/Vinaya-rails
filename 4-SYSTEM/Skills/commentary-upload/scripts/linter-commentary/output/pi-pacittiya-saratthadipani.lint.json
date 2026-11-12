@@ -1,18 +1,18 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Commentaries/pi-pacittiya-saratthadipani.md",
-  "validated_at": "2026-11-12T04:29:17.077520+00:00",
+  "validated_at": "2026-11-12T05:00:33.424651+00:00",
   "notes": [
     "bdrc_work_id: not set (optional)",
     "wiki: not set (optional)",
     "date: not set (optional)",
     "translation_of: not set (optional)",
+    "commentary_of: 'QUJx63k0I45O2i7ypmZRP'",
     "root_text: '1-SOURCES/Text/pi-2.md'",
     "source: source = 'https://github.com/VipassanaTech/tipitaka-xml/blob/main/romn/vin02t.tik.xml'",
     "toc: 130 headers found"
   ],
   "warnings": [
-    "commentary_of: not set — resolve from root_text's text_id (set text_id on the root text first)",
     "contributions: author/translator missing — ignored for now",
     "alt_titles: missing — ignored for now"
   ],
@@ -25,7 +25,7 @@
     },
     "alt_titles": null,
     "language": "pi",
-    "commentary_of": null,
+    "commentary_of": "QUJx63k0I45O2i7ypmZRP",
     "translation_of": null,
     "category_id": "4wuvGxIgXNZ5mb0bDWvkC",
     "license": "cc0",
