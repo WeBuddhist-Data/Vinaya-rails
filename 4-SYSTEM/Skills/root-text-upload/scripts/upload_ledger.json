@@ -37,5 +37,38 @@
     "source_file": "1-SOURCES/Text/pi-1.md",
     "text_id": "NeySMirSFLEgeMNztyy7J",
     "toc_id": "6c1NiwTHbBorpKNNNrODG"
+  },
+  "pi-2": {
+    "edition_id": "MAjWAYsgc2Iyv5wtXcOcc",
+    "file_type": "root-text",
+    "lang_tag": "pi",
+    "log": [
+      {
+        "error": "network error POST https://library-prod.webuddhist.com/v2/texts: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)",
+        "step": "error",
+        "ts": "2026-11-12T10:26:06"
+      },
+      {
+        "step": "text",
+        "text_id": "QUJx63k0I45O2i7ypmZRP",
+        "ts": "2026-11-12T10:26:53"
+      },
+      {
+        "chars": 732583,
+        "edition_id": "MAjWAYsgc2Iyv5wtXcOcc",
+        "segments": 1253,
+        "step": "edition",
+        "ts": "2026-11-12T10:26:54"
+      },
+      {
+        "step": "toc",
+        "subsections": 1,
+        "toc_id": "2nhSkx7jKslOorhO39GeC",
+        "ts": "2026-11-12T10:26:55"
+      }
+    ],
+    "source_file": "1-SOURCES/Text/pi-2.md",
+    "text_id": "QUJx63k0I45O2i7ypmZRP",
+    "toc_id": "2nhSkx7jKslOorhO39GeC"
   }
 }
