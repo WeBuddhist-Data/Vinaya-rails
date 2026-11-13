@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Commentaries/pi-parivara-yojana.md",
+  "validated_at": "2026-11-13T03:42:53.133672+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "translation_of: not set (optional)",
+    "commentary_of: 'FO8DQdu0kqajKngcQD10L'",
+    "root_text: '1-SOURCES/Text/pi-5.md'",
+    "source: source = 'https://github.com/VipassanaTech/tipitaka-xml/blob/main/romn/vin12t.nrf.xml'",
+    "toc: 88 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now",
+    "alt_titles: missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "pi": "Pācityādiyojanā (Parivāra)"
+    },
+    "alt_titles": null,
+    "language": "pi",
+    "commentary_of": "FO8DQdu0kqajKngcQD10L",
+    "translation_of": null,
+    "category_id": "4wuvGxIgXNZ5mb0bDWvkC",
+    "license": "cc0",
+    "contributions": null,
+    "tag_ids": [
+      "296WZOr8MXWteSqBBI7pl"
+    ]
+  }
+}

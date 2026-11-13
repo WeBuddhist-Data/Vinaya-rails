@@ -950,6 +950,43 @@
     "text_id": "12dSaFsfBvzJNcXmqsixl",
     "toc_id": "prsQSUT3k0QSpf9nD1Y4p"
   },
+  "pi-parivara-vajirabuddhi": {
+    "aligned_to_edition_id": "6za9aG69dlALeYGkIXKGH",
+    "edition_id": "2hcjun3jxrlj54y7ZQ6Vi",
+    "file_type": "commentary",
+    "lang_tag": "pi",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "xc7s4FU2jIMKe6Ev9ZNoF",
+        "ts": "2026-11-13T09:13:25"
+      },
+      {
+        "chars": 59893,
+        "edition_id": "2hcjun3jxrlj54y7ZQ6Vi",
+        "segments": 145,
+        "step": "edition",
+        "ts": "2026-11-13T09:13:26"
+      },
+      {
+        "nodes": 78,
+        "step": "toc",
+        "toc_id": "xnHLKIE1nbVvmfI3w4kpz",
+        "ts": "2026-11-13T09:13:27"
+      },
+      {
+        "pairs": 150,
+        "root_edition_id": "6za9aG69dlALeYGkIXKGH",
+        "step": "alignment",
+        "ts": "2026-11-13T09:13:27"
+      }
+    ],
+    "root_edition_id": "6za9aG69dlALeYGkIXKGH",
+    "root_text_id": "FO8DQdu0kqajKngcQD10L",
+    "source_file": "1-SOURCES/Commentaries/pi-parivara-vajirabuddhi.md",
+    "text_id": "xc7s4FU2jIMKe6Ev9ZNoF",
+    "toc_id": "xnHLKIE1nbVvmfI3w4kpz"
+  },
   "pi-parivara-vimativinodani": {
     "aligned_to_edition_id": "6za9aG69dlALeYGkIXKGH",
     "edition_id": "33oZI6xY75ws4ufJEERsp",
@@ -986,5 +1023,42 @@
     "source_file": "1-SOURCES/Commentaries/pi-parivara-vimativinodani.md",
     "text_id": "VARkwbEaVaVbli3MCjXLu",
     "toc_id": "C4zRSnmK0kTTSYIHvnkSU"
+  },
+  "pi-parivara-yojana": {
+    "aligned_to_edition_id": "6za9aG69dlALeYGkIXKGH",
+    "edition_id": "WX987dZ07SNUEOAyg6Bgo",
+    "file_type": "commentary",
+    "lang_tag": "pi",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "DOGpiAHLksHx5mEG1t9Fs",
+        "ts": "2026-11-13T09:13:31"
+      },
+      {
+        "chars": 162471,
+        "edition_id": "WX987dZ07SNUEOAyg6Bgo",
+        "segments": 475,
+        "step": "edition",
+        "ts": "2026-11-13T09:13:31"
+      },
+      {
+        "nodes": 88,
+        "step": "toc",
+        "toc_id": "z680B7mLle2d9PGltHYEV",
+        "ts": "2026-11-13T09:13:32"
+      },
+      {
+        "pairs": 487,
+        "root_edition_id": "6za9aG69dlALeYGkIXKGH",
+        "step": "alignment",
+        "ts": "2026-11-13T09:13:33"
+      }
+    ],
+    "root_edition_id": "6za9aG69dlALeYGkIXKGH",
+    "root_text_id": "FO8DQdu0kqajKngcQD10L",
+    "source_file": "1-SOURCES/Commentaries/pi-parivara-yojana.md",
+    "text_id": "DOGpiAHLksHx5mEG1t9Fs",
+    "toc_id": "z680B7mLle2d9PGltHYEV"
   }
 }
