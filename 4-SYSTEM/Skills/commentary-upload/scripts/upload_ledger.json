@@ -875,5 +875,116 @@
     "source_file": "1-SOURCES/Commentaries/pi-parajika-vimativinodani.md",
     "text_id": "p2lM0D26XkcAZZB1PkeCP",
     "toc_id": "5qLTOIwtRTajzFH1UYw8n"
+  },
+  "pi-parivara-atthakatha": {
+    "aligned_to_edition_id": "6za9aG69dlALeYGkIXKGH",
+    "edition_id": "c9SFEhNIF5nZeeJwWRYRj",
+    "file_type": "commentary",
+    "lang_tag": "pi",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "pdNw4d78h6Br8H6HcigBr",
+        "ts": "2026-11-13T09:13:11"
+      },
+      {
+        "chars": 210992,
+        "edition_id": "c9SFEhNIF5nZeeJwWRYRj",
+        "segments": 534,
+        "step": "edition",
+        "ts": "2026-11-13T09:13:12"
+      },
+      {
+        "nodes": 87,
+        "step": "toc",
+        "toc_id": "zFniku2ihFap2KOrUdum8",
+        "ts": "2026-11-13T09:13:12"
+      },
+      {
+        "pairs": 560,
+        "root_edition_id": "6za9aG69dlALeYGkIXKGH",
+        "step": "alignment",
+        "ts": "2026-11-13T09:13:14"
+      }
+    ],
+    "root_edition_id": "6za9aG69dlALeYGkIXKGH",
+    "root_text_id": "FO8DQdu0kqajKngcQD10L",
+    "source_file": "1-SOURCES/Commentaries/pi-parivara-atthakatha.md",
+    "text_id": "pdNw4d78h6Br8H6HcigBr",
+    "toc_id": "zFniku2ihFap2KOrUdum8"
+  },
+  "pi-parivara-saratthadipani": {
+    "aligned_to_edition_id": "6za9aG69dlALeYGkIXKGH",
+    "edition_id": "9C75QQABofkXHPTbORiy7",
+    "file_type": "commentary",
+    "lang_tag": "pi",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "12dSaFsfBvzJNcXmqsixl",
+        "ts": "2026-11-13T09:13:16"
+      },
+      {
+        "chars": 60735,
+        "edition_id": "9C75QQABofkXHPTbORiy7",
+        "segments": 174,
+        "step": "edition",
+        "ts": "2026-11-13T09:13:17"
+      },
+      {
+        "nodes": 64,
+        "step": "toc",
+        "toc_id": "prsQSUT3k0QSpf9nD1Y4p",
+        "ts": "2026-11-13T09:13:17"
+      },
+      {
+        "pairs": 163,
+        "root_edition_id": "6za9aG69dlALeYGkIXKGH",
+        "step": "alignment",
+        "ts": "2026-11-13T09:13:18"
+      }
+    ],
+    "root_edition_id": "6za9aG69dlALeYGkIXKGH",
+    "root_text_id": "FO8DQdu0kqajKngcQD10L",
+    "source_file": "1-SOURCES/Commentaries/pi-parivara-saratthadipani.md",
+    "text_id": "12dSaFsfBvzJNcXmqsixl",
+    "toc_id": "prsQSUT3k0QSpf9nD1Y4p"
+  },
+  "pi-parivara-vimativinodani": {
+    "aligned_to_edition_id": "6za9aG69dlALeYGkIXKGH",
+    "edition_id": "33oZI6xY75ws4ufJEERsp",
+    "file_type": "commentary",
+    "lang_tag": "pi",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "VARkwbEaVaVbli3MCjXLu",
+        "ts": "2026-11-13T09:13:21"
+      },
+      {
+        "chars": 69874,
+        "edition_id": "33oZI6xY75ws4ufJEERsp",
+        "segments": 274,
+        "step": "edition",
+        "ts": "2026-11-13T09:13:21"
+      },
+      {
+        "nodes": 66,
+        "step": "toc",
+        "toc_id": "C4zRSnmK0kTTSYIHvnkSU",
+        "ts": "2026-11-13T09:13:22"
+      },
+      {
+        "pairs": 281,
+        "root_edition_id": "6za9aG69dlALeYGkIXKGH",
+        "step": "alignment",
+        "ts": "2026-11-13T09:13:22"
+      }
+    ],
+    "root_edition_id": "6za9aG69dlALeYGkIXKGH",
+    "root_text_id": "FO8DQdu0kqajKngcQD10L",
+    "source_file": "1-SOURCES/Commentaries/pi-parivara-vimativinodani.md",
+    "text_id": "VARkwbEaVaVbli3MCjXLu",
+    "toc_id": "C4zRSnmK0kTTSYIHvnkSU"
   }
 }
