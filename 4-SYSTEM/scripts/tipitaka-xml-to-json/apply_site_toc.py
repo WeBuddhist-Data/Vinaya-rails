@@ -66,8 +66,21 @@ def main(md_path, toc_path):
     if h2 and eq and t >= 0 and theirs[t] == h2 and site[t]["depth"] + offset != 2:
         sub_offset = 2 - site[t]["depth"]
         sub_end = next((b for b in range(t + 1, len(site)) if site[b]["depth"] <= site[t]["depth"]), len(site))
+    # A title the source prints before the site tree's first node, and that
+    # the tree does not list, is part of the book's own opening on the site
+    # (pi-5: '1. Bhikkhuvibhaṅgo', shown in the text of the 'vp-pv' book node,
+    # not as a contents node; the commentaries start at Soḷasamahāvāro too).
+    # Keep its words as a text line under the book heading, not a heading.
+    first_a = next((a1 for op, a1, a2, b1, b2 in ops if op == "equal"), None)
+    opening = []
     changed, matched, unmatched_vault, unmatched_site = 0, 0, [], []
     for op, a1, a2, b1, b2 in ops:
+        if op != "equal" and first_a is not None:
+            for a in range(a1, min(a2, first_a)):
+                m = HEADING.match(lines[idx[a]])
+                lines[idx[a]] = m.group(2).replace("**", "") + (m.group(3) or "")
+                opening.append(mine[a])
+            a1 = max(a1, min(a2, first_a))
         if op == "equal":
             for a, b in zip(range(a1, a2), range(b1, b2)):
                 matched += 1
@@ -113,6 +126,8 @@ def main(md_path, toc_path):
     p.write_text("\n".join(lines), encoding="utf-8")
     if notes:
         print(f"  moved {len(notes)} editorial note(s) out of heading titles")
+    for t in opening:
+        print(f"  book opening, kept as a text line (not in the site tree): {t}")
     print(f"{p.name}: {matched}/{len(mine)} headings matched to tipitaka.app, {changed} levels changed" + (f", depth offset {offset}" if offset else ""))
     for t in unmatched_vault:
         print(f"  vault only: {t}")

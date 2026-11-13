@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/pi-5.md",
+  "validated_at": "2026-11-13T03:42:33.364256+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "source: source = 'https://github.com/VipassanaTech/tipitaka-xml/blob/main/romn/vin02m4.mul.xml'",
+    "toc: 255 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now",
+    "alt_titles: missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "pi": "Parivārapāḷi"
+    },
+    "alt_titles": null,
+    "language": "pi",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "4wuvGxIgXNZ5mb0bDWvkC",
+    "license": "cc0",
+    "contributions": null,
+    "tag_ids": [
+      "296WZOr8MXWteSqBBI7pl"
+    ]
+  }
+}
