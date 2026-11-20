@@ -6,14 +6,14 @@
 - **Method:** the same as pi-1 ([`pi-1-verification.md`](pi-1-verification.md)).
 - **Full output:** [`pi-5-detail.md`](pi-5-detail.md)
 
-## Result: content ✅, hierarchy ⚠️ (the Soḷasamahāvāro is mis-nested)
+## Result: content ✅, hierarchy ✅ (fixed 2026-11-17 and 2026-11-20, see finding 2)
 
 | Check | XML | Vault | |
 |---|---|---|---|
 | Lines | 3,645 | 3,611 | 3,577 identical, 34 hangnum merges (below) |
 | Numbered paragraphs | ¶1–¶501 | `^5-1` … `^5-501` | every ID equals its printed number |
 | Words added, missing or changed | | | **0** |
-| Headings | 256 | 255 | `1. Bhikkhuvibhaṅgo` became a paragraph (finding 2a) |
+| Headings | 256 | 256 | `1. Bhikkhuvibhaṅgo` was a paragraph; a heading again since 2026-11-20 (finding 2a) |
 | Heading IDs vs `#` depth | | | all consistent, no skipped levels |
 | Stray digits after `<pb>` | 0 | | |
 
@@ -34,14 +34,40 @@ This is the same artifact as in pi-1 to pi-4: `word<pb/>.` became `word .`.
 
 The source itself has **22 spaces** before punctuation (A 1, B 7, D 14). These stay, and are listed in [`pi-5-spaces-kept.md`](pi-5-spaces-kept.md). Most D cases are a source space after a paragraph number before `…` (`176. …Anādariyaṃ`) or before `…pe…`.
 
-### 2. Hierarchy of the Soḷasamahāvāro ✅ FIXED 2026-11-17 (b, c, d); a kept as text
+### 2. Hierarchy of the Soḷasamahāvāro ✅ FIXED 2026-11-17 (b, c, d) and 2026-11-20 (a)
+
+> **2026-11-20, finding a fixed on the user's approval** with [`fix_pi5_bhikkhuvibhanga.py`](fix_pi5_bhikkhuvibhanga.py) (built on [`heading_tree.py`](heading_tree.py)):
+>
+> ```
+> ### Soḷasamahāvāro                ^5-1-0
+> #### 1. Bhikkhuvibhaṅgo           ^5-1-1-0     ← was the text line ^5-U1
+> ##### 1.–8. vāras ×2 (bhikkhu)    ^5-1-1-1-0 … ^5-1-1-16-0
+> #### Bhikkhunīvibhaṅgo            ^5-1-2-0     (was ^5-1-17-0)
+> ##### 1.–8. vāras ×2 (bhikkhunī)  ^5-1-2-1-0 … ^5-1-2-16-0
+> ### Samuṭṭhānasīsasaṅkhepo        ^5-2-0       (unchanged, as are all later chapters)
+> ```
+>
+> - **Why.** Soḷasamahāvāro is one unit made of the two vibhaṅgas:
+>   - the Vajirabuddhi closes it with `Mahāvibhaṅge ca bhikkhunivibhaṅge soḷasamahāvāravaṇṇanā niṭṭhitā.` ([pi-parivara-vajirabuddhi.md:66](../../1-SOURCES/Commentaries/pi-parivara-vajirabuddhi.md));
+>   - the XML's chapter `div vin5_1` holds both halves.
+>
+>   Each vibhaṅga closes its own 16 vāras (lines 1122–1123 and 1732), so the two vibhaṅgas are siblings.
+> - **The one change of printed order.** In the XML, `<head rend="title">1. Bhikkhuvibhaṅgo</head>` stands *before* `Soḷasamahāvāro`, outside the chapter div. That is why tipitaka.app shows it as a title in its reading view but not in its contents tree. The vault moves this one heading line below `### Soḷasamahāvāro`, because a tree cannot put a child before its parent. No other line moves. This is registered in `vault-annex.md` §2 as a vault-only deviation.
+> - **Checks:**
+>   - **What changed:** 121 heading lines, plus the converted line. The bhikkhu vāras move one level deeper, and all 56 vaggas are now seven levels deep in **bold**.
+>   - **What didn't:** every other non-heading line, the line count and the CRLF line endings. The 501 numbered paragraph IDs `^5-1` … `^5-501` run in sequence; `^T-1`, `^5-U2` and `^5-U3` are unchanged.
+>   - **`^5-U1` is gone.** Nothing in 1-SOURCES, 2-RAILS or 3-TRANSFORMATIONS linked to it or to any pi-5 heading ID.
+>   - **Transclusions:** all 5 Parivāra commentaries pass [`check_links.py`](check_links.py): 544 links in 488 groups, 0 mismatches, 0 missing targets.
+>   - **Re-check against the XML:** 3,576 identical lines plus the 34 hangnum merges. The only new difference is the moved heading line. The old block-ID warning `^5-U1 but paragraph number 1` is gone.
+>   - **Backup:** [`backups/pi-5.pre-bhikkhuvibhanga-fix.md.bak`](backups/).
+>   - **Library:** the prod edition still has `^5-U1` as a segment, and its TOC is the old one. Both need updating there.
 
 > **Fixed on the user's approval** with [`restructure_pi5_solasa.py`](restructure_pi5_solasa.py). The chapter's 120 headings were re-parented by type, and their IDs renumbered from the new tree:
 >
 > - **b.** `#### Bhikkhunīvibhaṅgo ^5-1-17-0` is now the parent of all 16 bhikkhunī vāras.
 > - **c.** Bhikkhunī vāras 3–8 and the 8 paccayavāras are siblings of `2. Katāpattivāro` (`^5-1-17-3-0` … `^5-1-17-16-0`).
 > - **d.** All 56 vaggas sit under their kaṇḍa. The 18 bhikkhunī vaggas are seven levels deep and carry their title in **bold** (CLAUDE.md §5a). These are the first `#######` headings in the vault.
-> - **a.** `1. Bhikkhuvibhaṅgo` stays plain text (`^5-U1`), because it precedes the `Soḷasamahāvāro` heading. Making it a parent would need text moved or every later chapter ID shifted.
+> - **a.** `1. Bhikkhuvibhaṅgo` stayed plain text (`^5-U1`) on 2026-11-17, because it precedes the `Soḷasamahāvāro` heading. *Superseded 2026-11-20, see above.*
 >
 > **Checks:**
 > - **What changed:** 93 heading lines.

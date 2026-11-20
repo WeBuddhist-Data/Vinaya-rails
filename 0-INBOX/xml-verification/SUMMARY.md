@@ -32,7 +32,7 @@
 |---|---|---|
 | pi-1 | ✅ **Fixed 2026-11-17:** the Nissaggiya sikkhāpadas are now nested under their 3 vaggas (32 heading lines changed) | [pi-1](pi-1-verification.md) |
 | pi-2 | ✅ **Fixed 2026-11-17:** the 12 Bhikkhunī Nissaggiya rules are now nested under `1. Pattavaggo` (12 heading lines changed) | [pi-2](pi-2-verification.md) |
-| pi-5 | ✅ **Fixed 2026-11-17:** the Soḷasamahāvāro is rebuilt (93 heading lines). `Bhikkhunīvibhaṅgo` now holds its 16 vāras; the bhikkhunī vāras are de-nested; 56 vaggas sit under their kaṇḍas. `1. Bhikkhuvibhaṅgo` stays plain text | [pi-5](pi-5-verification.md) §2 |
+| pi-5 | ✅ **Fixed 2026-11-17:** the Soḷasamahāvāro is rebuilt (93 heading lines). `Bhikkhunīvibhaṅgo` now holds its 16 vāras; the bhikkhunī vāras are de-nested; 56 vaggas sit under their kaṇḍas. **2026-11-20:** `1. Bhikkhuvibhaṅgo` is a heading again (`^5-1-1-0`), holding the 16 bhikkhu vāras as the sibling of `Bhikkhunīvibhaṅgo` (`^5-1-2-0`); the one heading line moved below `Soḷasamahāvāro` is registered in the annex | [pi-5](pi-5-verification.md) §2 |
 | parajika-atthakatha | ✅ `Nigamanavaṇṇanā` fixed 2026-11-17. `(dutiyo bhāgo)` under the first volume is **accepted as is**, since a fix would renumber content IDs | [→](c-parajika-atthakatha-verification.md) |
 | parajika-saratthadipani | ✅ `Nigamanavaṇṇanā` fixed 2026-11-17. The plain-text `(dutiyo bhāgo)` is **accepted as is**, for the same reason | [→](c-parajika-saratthadipani-verification.md) |
 | parajika-vajirabuddhi | ✅ **Fixed 2026-11-17:** each kaṇḍa (and the Verañjakaṇḍa) is now the parent of its own rules and vaggas (102 heading lines) | [→](c-parajika-vajirabuddhi-verification.md) |

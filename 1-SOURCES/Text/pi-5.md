@@ -27,13 +27,13 @@ Namo tassa bhagavato arahato sammāsambuddhassa ^T-1
 
 ## Parivārapāḷi ^5-0
 
-1. Bhikkhuvibhaṅgo ^5-U1
-
 ### Soḷasamahāvāro ^5-1-0
 
-#### 1. Katthapaññattivāro ^5-1-1-0
+#### 1. Bhikkhuvibhaṅgo ^5-1-1-0
 
-##### 1. Pārājikakaṇḍaṃ ^5-1-1-1-0
+##### 1. Katthapaññattivāro ^5-1-1-1-0
+
+###### 1. Pārājikakaṇḍaṃ ^5-1-1-1-1-0
 
 1. Yaṃ tena bhagavatā jānatā passatā arahatā sammāsambuddhena paṭhamaṃ pārājikaṃ kattha paññattaṃ, kaṃ ārabbha, kismiṃ vatthusmiṃ? Atthi tattha paññatti, anupaññatti, anuppannapaññatti? Sabbatthapaññatti, padesapaññatti? Sādhāraṇapaññatti, asādhāraṇapaññatti? Ekatopaññatti, ubhatopaññatti? Pañcannaṃ pātimokkhuddesānaṃ katthogadhaṃ kattha pariyāpannaṃ? Katamena uddesena uddesaṃ āgacchati? Catunnaṃ vipattīnaṃ katamā vipatti? Sattannaṃ āpattikkhandhānaṃ katamo āpattikkhandho? Channaṃ āpattisamuṭṭhānānaṃ katihi samuṭṭhānehi samuṭṭhāti? Catunnaṃ adhikaraṇānaṃ katamaṃ adhikaraṇaṃ? Sattannaṃ samathānaṃ katihi samathehi sammati? Ko tattha vinayo, ko tattha abhivinayo? Kiṃ tattha pātimokkhaṃ, kiṃ tattha adhipātimokkhaṃ? Kā vipatti? Kā sampatti? Kā paṭipatti? Kati atthavase paṭicca bhagavatā paṭhamaṃ pārājikaṃ paññattaṃ? Ke sikkhanti? Ke sikkhitasikkhā? Kattha ṭhitaṃ? Ke dhārenti? Kassa vacanaṃ? Kenābhatanti? ^5-1
 
@@ -82,7 +82,7 @@ Tassuddānaṃ –
 Methunādinnādānañca, manussaviggahuttari;
 Pārājikāni cattāri, chejjavatthū asaṃsayāti. ^5-6
 
-##### 2. Saṅghādisesakaṇḍaṃ ^5-1-1-2-0
+###### 2. Saṅghādisesakaṇḍaṃ ^5-1-1-1-2-0
 
 7. Yaṃ tena bhagavatā jānatā passatā arahatā sammāsambuddhena upakkamitvā asuciṃ mocentassa saṅghādiseso kattha paññatto? Kaṃ ārabbha? Kismiṃ vatthusmiṃ? Atthi tattha paññatti, anupaññatti, anuppannapaññatti? Sabbatthapaññatti, padesapaññatti? Sādhāraṇapaññatti, asādhāraṇapaññatti? Ekatopaññatti, ubhatopaññatti? Pañcannaṃ pātimokkhuddesānaṃ katthogadhaṃ kattha pariyāpannaṃ? Katamena uddesena uddesaṃ āgacchati? Catunnaṃ vipattīnaṃ katamā vipatti? Sattannaṃ āpattikkhandhānaṃ katamo āpattikkhandho? Channaṃ āpattisamuṭṭhānānaṃ katihi samuṭṭhānehi samuṭṭhāti? Catunnaṃ adhikaraṇānaṃ katamaṃ adhikaraṇaṃ? Sattannaṃ samathānaṃ katihi samathehi sammati? Ko tattha vinayo, ko tattha abhivinayo? Kiṃ tattha pātimokkhaṃ, kiṃ tattha adhipātimokkhaṃ? Kā vipatti, kā sampatti, kā paṭipatti? Kati atthavase paṭicca bhagavatā upakkamitvā asuciṃ mocentassa saṅghādiseso paññatto? Ke sikkhanti, ke sikkhitasikkhā? Kattha ṭhitaṃ? Ke dhārenti? Kassa vacanaṃ? Kenābhatanti? ^5-7
 
@@ -150,7 +150,7 @@ Sañcarittaṃ kuṭī ceva, vihāro ca amūlakaṃ.
 Kiñcidesañca bhedo ca, tasseva {tatheva (ka.)} anuvattakā;
 Dubbacaṃ kuladūsañca, saṅghādisesā terasāti. ^5-20
 
-##### 3. Aniyatakaṇḍaṃ ^5-1-1-3-0
+###### 3. Aniyatakaṇḍaṃ ^5-1-1-1-3-0
 
 21. Yaṃ tena bhagavatā jānatā passatā arahatā sammāsambuddhena paṭhamo aniṃyato kattha paññatto? Kaṃ ārabbha? Kismiṃ vatthusmiṃ? Atthi tattha paññatti, anupaññatti, anuppannapaññatti, sabbatthapaññatti padesapaññatti, sādhāraṇapaññatti asādhāraṇapaññatti, ekatopaññatti ubhatopaññatti, pañcannaṃ pātimokkhuddesānaṃ katthogadhaṃ kattha pariyāpannaṃ, katamena uddesena uddesaṃ āgacchati, catunnaṃ vipattīnaṃ katamā vipatti, sattannaṃ āpattikkhandhānaṃ katamo āpattikkhandho, channaṃ āpattisamuṭṭhānānaṃ katihi samuṭṭhānehi samuṭṭhāti, catunnaṃ adhikaraṇānaṃ katamaṃ adhikaraṇaṃ, sattannaṃ samathānaṃ katihi samathehi sammati, ko tattha vinayo, ko tattha abhivinayo, kiṃ tattha pātimokkhaṃ, kiṃ tattha adhipātimokkhaṃ, kā vipatti, kā sampatti, kā paṭipatti, kati atthavase paṭicca bhagavatā paṭhamo aniyato paññatto, ke sikkhanti, ke sikkhitasikkhā, kattha ṭhitaṃ, ke dhārenti, kassa vacanaṃ kenābhatanti. ^5-21
 
@@ -194,9 +194,9 @@ Tassuddānaṃ –
 Alaṅkammaniyañceva, tatheva ca na heva kho;
 Aniyatā supaññattā, buddhaseṭṭhena tādināti. ^5-23
 
-##### 4. Nissaggiyakaṇḍaṃ ^5-1-1-4-0
+###### 4. Nissaggiyakaṇḍaṃ ^5-1-1-1-4-0
 
-###### 1. Kathinavaggo ^5-1-1-4-1-0
+####### **1. Kathinavaggo** ^5-1-1-1-4-1-0
 
 24. Yaṃ tena bhagavatā jānatā passatā arahatā sammāsambuddhena atirekacīvaraṃ dasāhaṃ atikkāmentassa nissaggiyaṃ pācittiyaṃ kattha paññattanti? Vesāliyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiye bhikkhū ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhū atirekacīvaraṃ dhāresuṃ, tasmiṃ vatthusmiṃ. Ekā paññatti, ekā anupaññatti. Channaṃ āpattisamuṭṭhānānaṃ dvīhi samuṭṭhānehi samuṭṭhāti – siyā kāyato ca vācato ca samuṭṭhāti, na cittato; siyā kāyato ca vācato ca cittato ca samuṭṭhāti…pe…. ^5-24
 
@@ -219,7 +219,7 @@ Aniyatā supaññattā, buddhaseṭṭhena tādināti. ^5-23
 33. Atirekatikkhattuṃ codanāya atirekachakkhattuṃ ṭhānena cīvaraṃ abhinipphādentassa nissaggiyaṃ pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Āyasmantaṃ upanandaṃ sakyaputtaṃ ārabbha. Kismiṃ vatthusminti? Āyasmā upanando sakyaputto upāsakena – "ajjaṇho, bhante, āgamehī"ti vuccamāno nāgamesi, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ chahi samuṭṭhānehi samuṭṭhāti…pe….
 Kathinavaggo paṭhamo. ^5-33
 
-###### 2. Kosiyavaggo ^5-1-1-4-2-0
+####### **2. Kosiyavaggo** ^5-1-1-1-4-2-0
 
 34. Kosiyamissakaṃ santhataṃ kārāpentassa nissaggiyaṃ pācittiyaṃ kattha paññattanti? Āḷaviyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiye bhikkhū ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhū kosiyakārake upasaṅkamitvā evamāhaṃsu "bahū, āvuso, kosakārake pacatha. Amhākampi dassatha. Mayampi icchāma kosiyamissakaṃ santhataṃ kātu"nti, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ chahi samuṭṭhānehi samuṭṭhāti…pe…. ^5-34
 
@@ -242,7 +242,7 @@ Kathinavaggo paṭhamo. ^5-33
 43. Nānappakārakaṃ kayavikkayaṃ samāpajjantassa nissaggiyaṃ pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Āyasmantaṃ upanandaṃ sakyaputtaṃ ārabbha. Kismiṃ vatthusminti? Āyasmā upanando sakyaputto paribbājakena saddhiṃ kayavikkayaṃ samāpajji, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ chahi samuṭṭhānehi samuṭṭhāti…pe….
 Kosiyavaggo dutiyo. ^5-43
 
-###### 3. Pattavaggo ^5-1-1-4-3-0
+####### **3. Pattavaggo** ^5-1-1-1-4-3-0
 
 44. Atirekapattaṃ dasāhaṃ atikkāmentassa nissaggiyaṃ pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiye bhikkhū ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhū atirekapattaṃ dhāresuṃ, tasmiṃ vatthusmiṃ. Ekā paññatti, ekā anupaññatti. Channaṃ āpattisamuṭṭhānānaṃ dvīhi samuṭṭhānehi samuṭṭhāti – siyā kāyato ca vācato ca samuṭṭhāti, na cittato; siyā kāyato ca vācato ca cittato ca samuṭṭhāti…pe…. ^5-44
 
@@ -273,9 +273,9 @@ Dve ca lomāni uggaṇhe, ubho nānappakārakā.
 Dve ca pattāni bhesajjaṃ, vassikā dānapañcamaṃ;
 Sāmaṃ vāyāpanacceko, sāsaṅkaṃ saṅghikena cāti. ^5-53
 
-##### 5. Pācittiyakaṇḍaṃ ^5-1-1-5-0
+###### 5. Pācittiyakaṇḍaṃ ^5-1-1-1-5-0
 
-###### 1. Musāvādavaggo ^5-1-1-5-1-0
+####### **1. Musāvādavaggo** ^5-1-1-1-5-1-0
 
 54. Yaṃ tena bhagavatā jānatā passatā arahatā sammāsambuddhena sampajānamusāvāde pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Hatthakaṃ sakyaputtaṃ ārabbha. Kismiṃ vatthusminti? Āyasmā hatthako sakyaputto titthiyehi saddhiṃ sallapanto avajānitvā paṭijāni, paṭijānitvā avajāni, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ tīhi samuṭṭhānehi samuṭṭhāti – siyā kāyato ca cittato ca samuṭṭhāti, na vācato; siyā vācato ca cittato ca samuṭṭhāti, na kāyato; siyā kāyato ca vācato ca cittato ca samuṭṭhāti…pe…. ^5-54
 
@@ -298,7 +298,7 @@ Sāmaṃ vāyāpanacceko, sāsaṅkaṃ saṅghikena cāti. ^5-53
 63. Pathaviṃ khaṇantassa pācittiyaṃ kattha paññattanti? Āḷaviyaṃ paññattaṃ. Kaṃ ārabbhāti? Āḷavake bhikkhū ārabbha. Kismiṃ vatthusminti? Āḷavakā bhikkhū pathaviṃ khaṇiṃsu, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ tīhi samuṭṭhānehi samuṭṭhāti…pe….
 Musāvādavaggo paṭhamo. ^5-63
 
-###### 2. Bhūtagāmavaggo ^5-1-1-5-2-0
+####### **2. Bhūtagāmavaggo** ^5-1-1-1-5-2-0
 
 64. Bhūtagāmapātabyatā pācittiyaṃ kattha paññattanti? Āḷaviyaṃ paññattaṃ. Kaṃ ārabbhāti? Āḷavake bhikkhū ārabbha. Kismiṃ vatthusminti? Āḷavakā bhikkhū rukkhaṃ chindiṃsu, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ tīhi samuṭṭhānehi samuṭṭhāti…pe…. ^5-64
 
@@ -321,7 +321,7 @@ Musāvādavaggo paṭhamo. ^5-63
 73. Jānaṃ sappāṇakaṃ udakaṃ tiṇaṃ vā mattikaṃ vā siñcantassa pācittiyaṃ kattha paññattanti? Āḷaviyaṃ paññattaṃ. Kaṃ ārabbhāti? Āḷavake bhikkhū ārabbha. Kismiṃ vatthusminti? Āḷavakā bhikkhū jānaṃ sappāṇakaṃ udakaṃ tiṇampi mattikampi siñciṃsu, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ tīhi samuṭṭhānehi samuṭṭhāti…pe….
 Bhūtagāmavaggo dutiyo. ^5-73
 
-###### 3. Ovādavaggo ^5-1-1-5-3-0
+####### **3. Ovādavaggo** ^5-1-1-1-5-3-0
 
 74. Asammatena bhikkhuniyo ovadantassa pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiye bhikkhū ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhū asammatā bhikkhuniyo ovadiṃsu, tasmiṃ vatthusmiṃ. Atthi tattha paññatti, anupaññatti, anuppannapaññattīti? Ekā paññatti, ekā anupaññatti. Anuppannapaññatti tasmiṃ natthi. Channaṃ āpattisamuṭṭhānānaṃ dvīhi samuṭṭhānehi samuṭṭhāti – siyā vācato samuṭṭhāti, na kāyato na cittato; siyā vācato ca cittato ca samuṭṭhāti, na kāyato…pe…. ^5-74
 
@@ -344,7 +344,7 @@ Bhūtagāmavaggo dutiyo. ^5-73
 83. Bhikkhuniyā saddhiṃ eko ekāya raho nisajjaṃ kappentassa pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Āyasmantaṃ udāyiṃ ārabbha. Kismiṃ vatthusminti? Āyasmā udāyī bhikkhuniyā saddhiṃ eko ekāya raho nisajjaṃ kappesi, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhāti – kāyato ca cittato ca samuṭṭhāti, na vācato…pe….
 Ovādavaggo tatiyo. ^5-83
 
-###### 4. Bhojanavaggo ^5-1-1-5-4-0
+####### **4. Bhojanavaggo** ^5-1-1-1-5-4-0
 
 84. Tatuttari āvasathapiṇḍaṃ bhuñjantassa pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiye bhikkhū ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhū anuvasitvā anuvasitvā āvasathapiṇḍaṃ bhuñjiṃsu, tasmiṃ vatthusmiṃ. Ekā paññatti, ekā anupaññatti. Channaṃ āpattisamuṭṭhānānaṃ dvīhi samuṭṭhānehi samuṭṭhāti eḷakalomake…pe…. ^5-84
 
@@ -367,7 +367,7 @@ Ovādavaggo tatiyo. ^5-83
 93. Adinnaṃ mukhadvāraṃ āhāraṃ āharantassa pācittiyaṃ kattha paññattanti? Vesāliyaṃ paññattaṃ. Kaṃ ārabbhāti? Aññataraṃ bhikkhuṃ ārabbha. Kismiṃ vatthusminti? Aññataro bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhari, tasmiṃ vatthusmiṃ. Ekā paññatti, ekā anupaññatti. Channaṃ āpattisamuṭṭhānānaṃ dvīhi samuṭṭhānehi samuṭṭhāti eḷakalomake…pe….
 Bhojanavaggo catuttho. ^5-93
 
-###### 5. Acelakavaggo ^5-1-1-5-5-0
+####### **5. Acelakavaggo** ^5-1-1-1-5-5-0
 
 94. Acelakassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṃ vā bhojanīyaṃ vā dentassa pācittiyaṃ kattha paññattanti? Vesāliyaṃ paññattaṃ. Kaṃ ārabbhāti? Āyasmantaṃ ānandaṃ ārabbha. Kismiṃ vatthusminti? Āyasmā ānando aññatarissā paribbājikāya ekaṃ maññamāno dve pūve adāsi, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ dvīhi samuṭṭhānehi samuṭṭhāti eḷakalomake…pe…. ^5-94
 
@@ -390,7 +390,7 @@ Bhojanavaggo catuttho. ^5-93
 103. Uyyodhikaṃ gacchantassa pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiye bhikkhū ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhū uyyodhikaṃ agamaṃsu, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ dvīhi samuṭṭhānehi samuṭṭhāti eḷakalomake…pe….
 Acelakavaggo pañcamo. ^5-103
 
-###### 6. Surāpānavaggo ^5-1-1-5-6-0
+####### **6. Surāpānavaggo** ^5-1-1-1-5-6-0
 
 104. Surāmerayapāne pācittiyaṃ kattha paññattanti? Kosambiyaṃ paññattaṃ. Kaṃ ārabbhāti? Āyasmantaṃ sāgataṃ ārabbha. Kismiṃ vatthusminti? Āyasmā sāgato majjaṃ pivi, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ dvīhi samuṭṭhānehi samuṭṭhāti – siyā kāyato samuṭṭhāti, na vācato na cittato; siyā kāyato ca cittato ca samuṭṭhāti, na vācato…pe…. ^5-104
 
@@ -413,7 +413,7 @@ Acelakavaggo pañcamo. ^5-103
 113. Bhikkhussa pattaṃ vā cīvaraṃ vā nisīdanaṃ vā sūcigharaṃ vā kāyabandhanaṃ vā apanidhentassa pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiye bhikkhū ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhū bhikkhūnaṃ pattampi cīvarampi apanidhesuṃ, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ tīhi samuṭṭhānehi samuṭṭhāti…pe….
 Surāmerayavaggo chaṭṭho. ^5-113
 
-###### 7. Sappāṇakavaggo ^5-1-1-5-7-0
+####### **7. Sappāṇakavaggo** ^5-1-1-1-5-7-0
 
 114. Sañcicca pāṇaṃ jīvitā voropentassa pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Āyasmantaṃ udāyiṃ ārabbha. Kismiṃ vatthusminti? Āyasmā udāyī sañcicca pāṇaṃ jīvitā voropesi, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ tīhi samuṭṭhānehi samuṭṭhāti…pe…. ^5-114
 
@@ -436,7 +436,7 @@ Surāmerayavaggo chaṭṭho. ^5-113
 123. Jānaṃ tathānāsitaṃ samaṇuddesaṃ upalāpentassa pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiye bhikkhū ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhū jānaṃ tathānāsitaṃ kaṇṭakaṃ samaṇuddesaṃ upalāpesuṃ, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ tīhi samuṭṭhānehi samuṭṭhāti…pe….
 Sappāṇakavaggo sattamo. ^5-123
 
-###### 8. Sahadhammikavaggo ^5-1-1-5-8-0
+####### **8. Sahadhammikavaggo** ^5-1-1-1-5-8-0
 
 124. Bhikkhūhi sahadhammikaṃ vuccamānena "na tāvāhaṃ, āvuso, etasmiṃ sikkhāpade sikkhissāmi yāva na aññaṃ bhikkhuṃ byattaṃ vinayadharaṃ paripucchissāmī"ti bhaṇantassa pācittiyaṃ kattha paññattanti? Kosambiyaṃ paññattaṃ. Kaṃ ārabbhāti? Āyasmantaṃ channaṃ ārabbha. Kismiṃ vatthusminti? Āyasmā channo bhikkhūhi sahadhammikaṃ vuccamāno "na tāvāhaṃ, āvuso, etasmiṃ sikkhāpade sikkhissāmi yāva na aññaṃ bhikkhuṃ byattaṃ vinayadharaṃ paripucchissāmī"ti bhaṇi, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ tīhi samuṭṭhānehi samuṭṭhāti…pe…. ^5-124
 
@@ -463,7 +463,7 @@ Sappāṇakavaggo sattamo. ^5-123
 135. Jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ puggalassa pariṇāmentassa pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiye bhikkhū ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhū jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ puggalassa pariṇāmesuṃ, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ tīhi samuṭṭhānehi samuṭṭhāti…pe….
 Sahadhammikavaggo aṭṭhamo. ^5-135
 
-###### 9. Rājavaggo ^5-1-1-5-9-0
+####### **9. Rājavaggo** ^5-1-1-1-5-9-0
 
 136. Pubbe appaṭisaṃviditena rañño antepuraṃ pavisantassa pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Āyasmantaṃ ānandaṃ ārabbha. Kismiṃ vatthusminti? Āyasmā ānando pubbe appaṭisaṃvidito rañño antepuraṃ pāvisi, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ dvīhi samuṭṭhānehi samuṭṭhāti kathinake…pe…. ^5-136
 
@@ -511,7 +511,7 @@ Tesaṃ vaggānaṃ uddānaṃ –
 Musā bhūtā ca ovādo, bhojanācelakena ca;
 Surā sappāṇakā dhammo, rājavaggena te navāti. ^5-145
 
-##### 6. Pāṭidesanīyakaṇḍaṃ ^5-1-1-6-0
+###### 6. Pāṭidesanīyakaṇḍaṃ ^5-1-1-1-6-0
 
 146. Yaṃ tena bhagavatā jānatā passatā arahatā sammāsambuddhena aññātikāya bhikkhuniyā antaragharaṃ paviṭṭhāya hatthato khādanīyaṃ vā bhojanīyaṃ vā sahatthā paṭiggahetvā bhuñjantassa pāṭidesanīyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Aññataraṃ bhikkhuṃ ārabbha. Kismiṃ vatthusminti? Aññataro bhikkhu aññātikāya bhikkhuniyā antaragharaṃ paviṭṭhāya hatthato āmisaṃ paṭiggahesi, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ dvīhi samuṭṭhānehi samuṭṭhāti – siyā kāyato samuṭṭhāti, na vācato na cittato; siyā kāyato ca cittato ca samuṭṭhāti, na vācato…pe…. ^5-146
 
@@ -525,9 +525,9 @@ Tassuddānaṃ –
 Aññātikāya vosāsaṃ, sekkhaāraññakena ca;
 Pāṭidesanīyā cattāro, sambuddhena pakāsitāti. ^5-149
 
-##### 7. Sekhiyakaṇḍaṃ ^5-1-1-7-0
+###### 7. Sekhiyakaṇḍaṃ ^5-1-1-1-7-0
 
-###### 1. Parimaṇḍalavaggo ^5-1-1-7-1-0
+####### **1. Parimaṇḍalavaggo** ^5-1-1-1-7-1-0
 
 150. Yaṃ tena bhagavatā jānatā passatā arahatā sammāsambuddhena anādariyaṃ paṭicca purato vā pacchato vā olambentena nivāsentassa dukkaṭaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiye bhikkhū ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhū puratopi pacchatopi olambentā nivāsesuṃ, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhāti – kāyato ca cittato ca samuṭṭhāti, na vācato…pe….
 Anādariyaṃ paṭicca purato vā pacchato vā olambentena pārupantassa dukkaṭaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiye bhikkhū ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhū puratopi pacchatopi olambentā pārupiṃsu, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhāti – kāyato ca cittato ca samuṭṭhāti, na vācato…pe….
@@ -541,7 +541,7 @@ Anādariyaṃ paṭicca ukkhittakāya antaraghare gacchantassa dukkaṭaṃ…pe
 Anādariyaṃ paṭicca ukkhittakāya antaraghare nisīdantassa dukkaṭaṃ…pe… ekā paññatti. Ekena samuṭṭhānena samuṭṭhāti – kāyato ca cittato ca samuṭṭhāti, na vācato…pe….
 Parimaṇḍalavaggo paṭhamo. ^5-150
 
-###### 2. Ujjagghikavaggo ^5-1-1-7-2-0
+####### **2. Ujjagghikavaggo** ^5-1-1-1-7-2-0
 
 151. Anādariyaṃ paṭicca ujjagghikāya antaraghare gacchantassa dukkaṭaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiye bhikkhū ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhū mahāhasitaṃ hasantā antaraghare gacchiṃsu, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhāti – kāyato ca vācato ca cittato ca samuṭṭhāti…pe….
 Anādariyaṃ paṭicca ujjagghikāya antaraghare nisīdantassa dukkaṭaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiye bhikkhū ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhū mahāhasitaṃ hasantā antaraghare nisīdiṃsu, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhāti – kāyato ca vācato ca cittato ca samuṭṭhāti…pe….
@@ -555,7 +555,7 @@ Anādariyaṃ paṭicca sīsappacālakaṃ antaraghare gacchantassa dukkaṭaṃ
 Anādariyaṃ paṭicca sīsappacālakaṃ antaraghare nisīdantassa dukkaṭaṃ…pe… ekā paññatti. Ekena samuṭṭhānena samuṭṭhāti – kāyato ca cittato ca samuṭṭhāti, na vācato…pe….
 Ujjagghikavaggo dutiyo. ^5-151
 
-###### 3. Khambhakatavaggo ^5-1-1-7-3-0
+####### **3. Khambhakatavaggo** ^5-1-1-1-7-3-0
 
 152. Anādariyaṃ paṭicca khambhakatena antaraghare gacchantassa dukkaṭaṃ…pe… ekā paññatti. Ekena samuṭṭhānena samuṭṭhāti. Kāyato ca cittato ca samuṭṭhāti, na vācato…pe….
 Anādariyaṃ paṭicca khambhakatena antaraghare nisīdantassa dukkaṭaṃ…pe… ekā paññatti. Ekena samuṭṭhānena samuṭṭhāti – kāyato ca cittato ca samuṭṭhāti, na vācato…pe….
@@ -569,7 +569,7 @@ Anādariyaṃ paṭicca sūpaññeva bahuṃ paṭiggaṇhantassa dukkaṭaṃ�
 Anādariyaṃ paṭicca thūpīkataṃ piṇḍapātaṃ paṭiggaṇhantassa dukkaṭaṃ…pe… ekā paññatti. Ekena samuṭṭhānena samuṭṭhāti – kāyato ca cittato ca samuṭṭhāti, na vācato…pe….
 Khambhakatavaggo tatiyo. ^5-152
 
-###### 4. Piṇḍapātavaggo ^5-1-1-7-4-0
+####### **4. Piṇḍapātavaggo** ^5-1-1-1-7-4-0
 
 153. Anādariyaṃ paṭicca asakkaccaṃ piṇḍapātaṃ bhuñjantassa dukkaṭaṃ…pe… ekā paññatti. Ekena samuṭṭhānena samuṭṭhāti – kāyato ca cittato ca samuṭṭhāti, na vācato…pe….
 Anādariyaṃ paṭicca tahaṃ tahaṃ olokentena piṇḍapātaṃ bhuñjantassa dukkaṭaṃ…pe… ekā paññatti. Ekena samuṭṭhānena samuṭṭhāti – kāyato ca cittato ca samuṭṭhāti, na vācato…pe….
@@ -583,7 +583,7 @@ Anādariyaṃ paṭicca mahantaṃ kabaḷaṃ karontassa dukkaṭaṃ…pe… e
 Anādariyaṃ paṭicca dīghaṃ ālopaṃ karontassa dukkaṭaṃ…pe… ekā paññatti. Ekena samuṭṭhānena samuṭṭhāti – kāyato ca cittato ca samuṭṭhāti, na vācato…pe….
 Piṇḍapātavaggo catuttho. ^5-153
 
-###### 5. Kabaḷavaggo ^5-1-1-7-5-0
+####### **5. Kabaḷavaggo** ^5-1-1-1-7-5-0
 
 154. Anādariyaṃ paṭicca anāhaṭe kabaḷe mukhadvāraṃ vivarantassa dukkaṭaṃ…pe… ekā paññatti. Ekena samuṭṭhānena samuṭṭhāti – kāyato ca cittato ca samuṭṭhāti, na vācato…pe….
 Anādariyaṃ paṭicca bhuñjamānena sabbaṃ hatthaṃ mukhe pakkhipantassa dukkaṭaṃ…pe… ekā paññatti. Ekena samuṭṭhānena samuṭṭhāti – kāyato ca cittato ca samuṭṭhāti, na vācato…pe….
@@ -597,7 +597,7 @@ Anādariyaṃ paṭicca jivhānicchārakaṃ bhuñjantassa dukkaṭaṃ…pe… 
 Anādariyaṃ paṭicca capucapukārakaṃ bhuñjantassa dukkaṭaṃ…pe… ekā paññatti. Ekena samuṭṭhānena samuṭṭhāti – kāyato ca cittato ca samuṭṭhāti, na vācato…pe….
 Kabaḷavaggo pañcamo. ^5-154
 
-###### 6. Surusuruvaggo ^5-1-1-7-6-0
+####### **6. Surusuruvaggo** ^5-1-1-1-7-6-0
 
 155. Anādariyaṃ paṭicca surusurukārakaṃ bhuñjantassa dukkaṭaṃ kattha paññattanti? Kosambiyaṃ paññattaṃ. Kaṃ ārabbhāti? Sambahule bhikkhū ārabbha. Kismiṃ vatthusminti? Sambahulā bhikkhū surusurukārakaṃ khīraṃ piviṃsu, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhāti – kāyato ca cittato ca samuṭṭhāti, na vācato…pe….
 Anādariyaṃ paṭicca hatthanillehakaṃ bhuñjantassa dukkaṭaṃ…pe… ekā paññatti. Ekena samuṭṭhānena samuṭṭhāti – kāyato ca cittato ca samuṭṭhāti, na vācato…pe….
@@ -611,7 +611,7 @@ Anādariyaṃ paṭicca satthapāṇissa dhammaṃ desentassa dukkaṭaṃ…pe�
 Anādariyaṃ paṭicca āvudhapāṇissa dhammaṃ desentassa dukkaṭaṃ…pe… ekā paññatti, ekā anupaññatti. Channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhāti – vācato ca cittato ca samuṭṭhāti, na kāyato…pe….
 Surusuruvaggo chaṭṭho. ^5-155
 
-###### 7. Pādukavaggo ^5-1-1-7-7-0
+####### **7. Pādukavaggo** ^5-1-1-1-7-7-0
 
 156. Anādariyaṃ paṭicca pādukāruḷhassa dhammaṃ desentassa dukkaṭaṃ…pe… ekā paññatti, ekā anupaññatti. Channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhāti – vācato ca cittato ca samuṭṭhāti, na kāyato…pe….
 Anādariyaṃ paṭicca upāhanāruḷhassa dhammaṃ desentassa dukkaṭaṃ…pe… ekā paññatti, ekā anupaññatti. Channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhāti – vācato ca cittato ca samuṭṭhāti, na kāyato…pe….
@@ -652,9 +652,9 @@ Parimaṇḍalaujjagghi, khambhaṃ piṇḍaṃ tatheva ca;
 Kabaḷā surusuru ca, pādukena ca sattamāti.
 Mahāvibhaṅge katthapaññattivāro niṭṭhito. ^5-156
 
-#### 2. Katāpattivāro ^5-1-2-0
+##### 2. Katāpattivāro ^5-1-1-2-0
 
-##### 1. Pārājikakaṇḍaṃ ^5-1-2-1-0
+###### 1. Pārājikakaṇḍaṃ ^5-1-1-2-1-0
 
 157. Methunaṃ dhammaṃ paṭisevanto kati āpattiyo āpajjati? Methunaṃ dhammaṃ paṭisevanto tisso āpattiyo āpajjati. Akkhāyite sarīre methunaṃ dhammaṃ paṭisevati, āpatti pārājikassa; yebhuyyena khāyite sarīre methunaṃ dhammaṃ paṭisevati, āpatti thullaccayassa; vaṭṭakate {vivaṭakate (syā.)} mukhe acchupantaṃ aṅgajātaṃ paveseti, āpatti dukkaṭassa – methunaṃ dhammaṃ paṭisevanto imā tisso āpattiyo āpajjati. ^5-157
 
@@ -665,7 +665,7 @@ Mahāvibhaṅge katthapaññattivāro niṭṭhito. ^5-156
 160. Asantaṃ abhūtaṃ uttarimanussadhammaṃ ullapanto kati āpattiyo āpajjati? Asantaṃ abhūtaṃ uttarimanussadhammaṃ ullapanto tisso āpattiyo āpajjati. Pāpiccho icchāpakato asantaṃ abhūtaṃ uttarimanussadhammaṃ ullapati, āpatti pārājikassa; "yo te vihāre vasati, so bhikkhu arahā"ti bhaṇati, paṭivijānantassa āpatti thullaccayassa; na paṭivijānantassa āpatti dukkaṭassa – asantaṃ abhūtaṃ uttarimanussadhammaṃ ullapanto imā tisso āpattiyo āpajjati.
 Cattāro pārājikā niṭṭhitā. ^5-160
 
-##### 2. Saṅghādisesakaṇḍaṃ ^5-1-2-2-0
+###### 2. Saṅghādisesakaṇḍaṃ ^5-1-1-2-2-0
 
 161. Upakkamitvā asuciṃ mocento tisso āpattiyo āpajjati. Ceteti upakkamati muccati, āpatti saṅghādisesassa; ceteti upakkamati na muccati, āpatti thullaccayassa; payoge dukkaṭaṃ.
 Mātugāmena saddhiṃ kāyasaṃsaggaṃ samāpajjanto tisso āpattiyo āpajjati. Kāyena kāyaṃ āmasati, āpatti saṅghādisesassa; kāyena kāyapaṭibaddhaṃ āmasati, āpatti thullaccayassa; kāyapaṭibaddhena kāyapaṭibaddhaṃ āmasati, āpatti dukkaṭassa.
@@ -682,9 +682,9 @@ Dubbaco bhikkhu yāvatatiyaṃ samanubhāsanāya {samanubhāsiyamāno (syā.)} n
 Kuladūsako bhikkhu yāvatatiyaṃ samanubhāsanāya na paṭinissajjanto tisso āpattiyo āpajjati. Ñattiyā dukkaṭaṃ; dvīhi kammavācāhi thullaccayā; kammavācāpariyosāne āpatti saṅghādisesassa.
 Terasa saṅghādisesā niṭṭhitā. ^5-161
 
-##### 3. Nissaggiyakaṇḍaṃ ^5-1-2-3-0
+###### 3. Nissaggiyakaṇḍaṃ ^5-1-1-2-3-0
 
-###### 1. Kathinavaggo ^5-1-2-3-1-0
+####### **1. Kathinavaggo** ^5-1-1-2-3-1-0
 
 162. Atirekacīvaraṃ dasāhaṃ atikkāmento ekaṃ āpattiṃ āpajjati. Nissaggiyaṃ pācittiyaṃ.
 Ekarattaṃ ticīvarena vippavasanto ekaṃ āpattiṃ āpajjati. Nissaggiyaṃ pācittiyaṃ.
@@ -698,7 +698,7 @@ Pubbe appavārito aññātake gahapatike upasaṅkamitvā cīvare vikappaṃ āp
 Atirekatikkhattuṃ codanāya atirekachakkhattuṃ ṭhānena cīvaraṃ abhinipphādento dve āpattiyo āpajjati. Abhinipphādeti, payoge dukkaṭaṃ; abhinipphādite nissaggiyaṃ pācittiyaṃ.
 Kathinavaggo paṭhamo. ^5-162
 
-###### 2. Kosiyavaggo ^5-1-2-3-2-0
+####### **2. Kosiyavaggo** ^5-1-1-2-3-2-0
 
 163. Kosiyamissakaṃ santhataṃ kārāpento dve āpattiyo āpajjati. Kārāpeti, payoge dukkaṭaṃ; kārāpite nissaggiyaṃ pācittiyaṃ.
 Suddhakāḷakānaṃ eḷakalomānaṃ santhataṃ kārāpento dve āpattiyo āpajjati. Kārāpeti, payoge dukkaṭaṃ; kārāpite nissaggiyaṃ pācittiyaṃ.
@@ -712,7 +712,7 @@ Nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjanto dve āpattiyo āpajjati.
 Nānappakārakaṃ kayavikkayaṃ samāpajjanto dve āpattiyo āpajjati. Samāpajjati, payoge dukkaṭaṃ; samāpanne nissaggiyaṃ pācittiyaṃ.
 Kosiyavaggo dutiyo. ^5-163
 
-###### 3. Pattavaggo ^5-1-2-3-3-0
+####### **3. Pattavaggo** ^5-1-1-2-3-3-0
 
 164. Atirekapattaṃ dasāhaṃ atikkāmento ekaṃ āpattiṃ āpajjati. Nissaggiyaṃ pācittiyaṃ.
 Ūnapañcabandhanena pattena aññaṃ navaṃ pattaṃ cetāpento dve āpattiyo āpajjati. Cetāpeti, payoge dukkaṭaṃ; cetāpite nissaggiyaṃ pācittiyaṃ.
@@ -727,9 +727,9 @@ Jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ attano pariṇāmento dve āpatti
 Pattavaggo tatiyo.
 Tiṃsa nissaggiyā pācittiyā niṭṭhitā. ^5-164
 
-##### 4. Pācittiyakaṇḍaṃ ^5-1-2-4-0
+###### 4. Pācittiyakaṇḍaṃ ^5-1-1-2-4-0
 
-###### 1. Musāvādavaggo ^5-1-2-4-1-0
+####### **1. Musāvādavaggo** ^5-1-1-2-4-1-0
 
 165. Sampajānamusāvādaṃ bhāsanto kati āpattiyo āpajjati? Sampajānamusāvādaṃ bhāsanto pañca āpattiyo āpajjati. Pāpiccho icchāpakato asantaṃ abhūtaṃ uttarimanussadhammaṃ ullapati, āpatti pārājikassa; bhikkhuṃ amūlakena pārājikena dhammena anuddhaṃseti, āpatti saṅghādisesassa; "yo te vihāre vasati, so bhikkhu arahā"ti bhaṇati, paṭivijānantassa āpatti thullaccayassa; na paṭivijānantassa āpatti dukkaṭassa; sampajānamusāvāde pācittiyaṃ – sampajānamusāvādaṃ bhāsanto imā pañca āpattiyo āpajjati.
 Omasanto dve āpattiyo āpajjati. Upasampannaṃ omasati, āpatti pācittiyassa; anupasampannaṃ omasati, āpatti dukkaṭassa.
@@ -743,7 +743,7 @@ Bhikkhussa duṭṭhullaṃ āpattiṃ anupasampannassa ārocento dve āpattiyo 
 Pathaviṃ khaṇanto dve āpattiyo āpajjati. Khaṇati, payoge dukkaṭaṃ; pahāre pahāre āpatti pācittiyassa.
 Musāvādavaggo paṭhamo. ^5-165
 
-###### 2. Bhūtagāmavaggo ^5-1-2-4-2-0
+####### **2. Bhūtagāmavaggo** ^5-1-1-2-4-2-0
 
 166. Bhūtagāmaṃ pātento dve āpattiyo āpajjati. Pāteti, payoge dukkaṭaṃ; pahāre pahāre āpatti pācittiyassa.
 Aññenaññaṃ paṭicaranto dve āpattiyo āpajjati. Anāropite aññavādake aññenaññaṃ paṭicarati, āpatti dukkaṭassa; āropite aññavādake aññenaññaṃ paṭicarati, āpatti pācittiyassa.
@@ -757,7 +757,7 @@ Dvattipariyāye adhiṭṭhahitvā tatuttari adhiṭṭhahanto dve āpattiyo āp
 Jānaṃ sappāṇakaṃ udakaṃ tiṇaṃ vā mattikaṃ vā siñcanto dve āpattiyo āpajjati. Siñcati, payoge dukkaṭaṃ; siñcite āpatti pācittiyassa.
 Bhūtagāmavaggo dutiyo. ^5-166
 
-###### 3. Ovādavaggo ^5-1-2-4-3-0
+####### **3. Ovādavaggo** ^5-1-1-2-4-3-0
 
 167. Asammato bhikkhuniyo ovadanto dve āpattiyo āpajjati. Ovadati, payoge dukkaṭaṃ; ovadite āpatti pācittiyassa.
 Atthaṅgate sūriye bhikkhuniyo ovadanto dve āpattiyo āpajjati. Ovadati, payoge dukkaṭaṃ; ovadite āpatti pācittiyassa.
@@ -771,7 +771,7 @@ Jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjanto dve āpattiyo āpa
 Bhikkhuniyā saddhiṃ eko ekāya raho nisajjaṃ kappento dve āpattiyo āpajjati. Nisīdati, payoge dukkaṭaṃ; nisinne āpatti pācittiyassa.
 Ovādavaggo tatiyo. ^5-167
 
-###### 4. Bhojanavaggo ^5-1-2-4-4-0
+####### **4. Bhojanavaggo** ^5-1-1-2-4-4-0
 
 168. Tatuttari āvasathapiṇḍaṃ bhuñjanto dve āpattiyo āpajjati. Bhuñjissāmīti paṭiggaṇhāti, āpatti dukkaṭassa; ajjhohāre ajjhohāre āpatti pācittiyassa.
 Gaṇabhojanaṃ bhuñjanto dve āpattiyo āpajjati. Bhuñjissāmīti paṭiggaṇhāti, āpatti dukkaṭassa; ajjhohāre ajjhohāre āpatti pācittiyassa.
@@ -785,7 +785,7 @@ Paṇītabhojanāni attano atthāya viññāpetvā bhuñjanto dve āpattiyo āpa
 Adinnaṃ mukhadvāraṃ āhāraṃ āharanto dve āpattiyo āpajjati. Bhuñjissāmīti paṭiggaṇhāti, āpatti dukkaṭassa; ajjhohāre ajjhohāre āpatti pācittiyassa.
 Bhojanavaggo catuttho. ^5-168
 
-###### 5. Acelakavaggo ^5-1-2-4-5-0
+####### **5. Acelakavaggo** ^5-1-1-2-4-5-0
 
 169. Acelakassa, vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṃ vā bhojanīyaṃ vā dento dve āpattiyo āpajjati. Deti, payoge dukkaṭaṃ; dinne āpatti pācittiyassa.
 Bhikkhuṃ – "ehāvuso, gāmaṃ vā nigamaṃ vā piṇḍāya pavisissāmā"ti tassa dāpetvā vā adāpetvā vā uyyojento dve āpattiyo āpajjati. Uyyojeti, payoge dukkaṭaṃ; uyyojite āpatti pācittiyassa.
@@ -799,7 +799,7 @@ Atirekatirattaṃ senāya vasanto dve āpattiyo āpajjati. Vasati, payoge dukka�
 Uyyodhikaṃ gacchanto dve āpattiyo āpajjati. Gacchati, āpatti dukkaṭassa; yattha ṭhito passati, āpatti pācittiyassa.
 Acelakavaggo pañcamo. ^5-169
 
-###### 6. Surāmerayavaggo ^5-1-2-4-6-0
+####### **6. Surāmerayavaggo** ^5-1-1-2-4-6-0
 
 170. Majjaṃ pivanto dve āpattiyo āpajjati. "Pivissāmī"ti paṭiggaṇhāti, āpatti dukkaṭassa; ajjhohāre ajjhohāre āpatti pācittiyassa.
 Bhikkhuṃ aṅgulipatodakena hāsento dve āpattiyo āpajjati. Hāseti, payoge dukkaṭaṃ; hasite āpatti pācittiyassa.
@@ -813,7 +813,7 @@ Bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā sāmaṇerassa vā sāmaṇer
 Bhikkhussa pattaṃ vā cīvaraṃ vā nisīdanaṃ vā sūcigharaṃ vā kāyabandhanaṃ vā apanidhento dve āpattiyo āpajjati. Apanidheti, payoge dukkaṭaṃ; apanidhite āpatti pācittiyassa.
 Surāmerayavaggo chaṭṭho. ^5-170
 
-###### 7. Sappāṇakavaggo ^5-1-2-4-7-0
+####### **7. Sappāṇakavaggo** ^5-1-1-2-4-7-0
 
 171. Sañcicca pāṇaṃ jīvitā voropento kati āpattiyo āpajjati? Sañcicca pāṇaṃ jīvitā voropento catasso āpattiyo āpajjati. Anodissa opātaṃ khaṇati – "yo koci papatitvā marissatī"ti, āpatti dukkaṭassa; manusso tasmiṃ papatitvā marati, āpatti pārājikassa; yakkho vā peto vā tiracchānagatamanussaviggaho vā tasmiṃ papatitvā marati, āpatti thullaccayassa; tiracchānagato tasmiṃ papatitvā marati, āpatti pācittiyassa – sañcicca pāṇaṃ jīvitā voropento imā catasso āpattiyo āpajjati.
 Jānaṃ sappāṇakaṃ udakaṃ paribhuñjanto dve āpattiyo āpajjati. Paribhuñjati, payoge dukkaṭaṃ; paribhutte āpatti pācittiyassa.
@@ -827,7 +827,7 @@ Jānaṃ tathāvādinā bhikkhunā akaṭānudhammena taṃ diṭṭhiṃ appa�
 Jānaṃ tathānāsitaṃ samaṇuddesaṃ upalāpento dve āpattiyo āpajjati. Upalāpeti, payoge dukkaṭaṃ; upalāpite āpatti pācittiyassa.
 Sappāṇakavaggo sattamo. ^5-171
 
-###### 8. Sahadhammikavaggo ^5-1-2-4-8-0
+####### **8. Sahadhammikavaggo** ^5-1-1-2-4-8-0
 
 172. Bhikkhūhi sahadhammikaṃ vuccamāno – "na tāvāhaṃ, āvuso, etasmiṃ sikkhāpade sikkhissāmi yāva na aññaṃ bhikkhuṃ byattaṃ vinayadharaṃ paripucchissāmī"ti bhaṇanto dve āpattiyo āpajjati. Bhaṇati, payoge dukkaṭaṃ; bhaṇite āpatti pācittiyassa.
 Vinayaṃ vivaṇṇento dve āpattiyo āpajjati. Vivaṇṇeti, payoge dukkaṭaṃ; vivaṇṇite āpatti pācittiyassa.
@@ -843,7 +843,7 @@ Samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjanto dve 
 Jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ puggalassa pariṇāmento dve āpattiyo āpajjati. Pariṇāmeti, payoge dukkaṭaṃ; pariṇāmite āpatti pācittiyassa.
 Sahadhammikavaggo aṭṭhamo. ^5-172
 
-###### 9. Rājavaggo ^5-1-2-4-9-0
+####### **9. Rājavaggo** ^5-1-1-2-4-9-0
 
 173. Pubbe appaṭisaṃvidito rañño antepuraṃ pavisanto dve āpattiyo āpajjati. Paṭhamaṃ pādaṃ ummāraṃ atikkāmeti, āpatti dukkaṭassa; dutiyaṃ pādaṃ atikkāmeti, āpatti pācittiyassa.
 Ratanaṃ uggaṇhanto dve āpattiyo āpajjati. Gaṇhāti, payoge dukkaṭaṃ; gahite āpatti pācittiyassa.
@@ -857,7 +857,7 @@ Pamāṇātikkantaṃ vassikasāṭikaṃ kārāpento dve āpattiyo āpajjati. K
 Cīvaraṃ kārāpento kati āpattiyo āpajjati? Sugatacīvarappamāṇaṃ cīvaraṃ kārāpento dve āpattiyo āpajjati. Kārāpeti, payoge dukkaṭaṃ; kārāpite āpatti pācittiyassa – sugatacīvarappamāṇaṃ cīvaraṃ kārāpento imā dve āpattiyo āpajjati.
 Rājavaggo navamo. Khuddakā niṭṭhitā. ^5-173
 
-##### 5. Pāṭidesanīyakaṇḍaṃ ^5-1-2-5-0
+###### 5. Pāṭidesanīyakaṇḍaṃ ^5-1-1-2-5-0
 
 174. Aññātikāya bhikkhuniyā antaragharaṃ paviṭṭhāya hatthato khādanīyaṃ vā bhojanīyaṃ vā sahatthā paṭiggahetvā bhuñjanto kati āpattiyo āpajjati? Aññātikāya bhikkhuniyā antaragharaṃ paviṭṭhāya hatthato khādanīyaṃ vā bhojanīyaṃ vā sahatthā paṭiggahetvā bhuñjanto dve āpattiyo āpajjati. Bhuñjissāmīti paṭiggaṇhāti, āpatti dukkaṭassa; ajjhohāre ajjhohāre āpatti pāṭidesanīyassa – aññātikāya bhikkhuniyā antaragharaṃ paviṭṭhāya hatthato khādanīyaṃ vā bhojanīyaṃ vā sahatthā paṭiggahetvā bhuñjanto imā dve āpattiyo āpajjati.
 Bhikkhuniyā vosāsantiyā na nivāretvā bhuñjanto dve āpattiyo āpajjati. Bhuñjissāmīti paṭiggaṇhāti, āpatti dukkaṭassa; ajjhohāre ajjhohāre āpatti pāṭidesanīyassa.
@@ -865,9 +865,9 @@ Sekkhasammatesu kulesu khādanīyaṃ vā bhojanīyaṃ vā sahatthā paṭiggah
 Āraññakesu senāsanesu pubbe appaṭisaṃviditaṃ khādanīyaṃ vā bhojanīyaṃ vā ajjhārāme sahatthā paṭiggahetvā bhuñjanto kati āpattiyo āpajjati? Āraññakesu senāsanesu pubbe appaṭisaṃviditaṃ khādanīyaṃ vā bhojanīyaṃ vā ajjhārāme sahatthā paṭiggahetvā bhuñjanto dve āpattiyo āpajjati. Bhuñjissāmīti paṭiggaṇhāti, āpatti dukkaṭassa; ajjhohāre ajjhohāre āpatti pāṭidesanīyassa – āraññakesu senāsanesu pubbe appaṭisaṃviditaṃ khādanīyaṃ vā bhojanīyaṃ vā ajjhārāme sahatthā paṭiggahetvā bhuñjanto imā dve āpattiyo āpajjati.
 Cattāro pāṭidesanīyā niṭṭhitā. ^5-174
 
-##### 6. Sekhiyakaṇḍaṃ ^5-1-2-6-0
+###### 6. Sekhiyakaṇḍaṃ ^5-1-1-2-6-0
 
-###### 1. Parimaṇḍalavaggo ^5-1-2-6-1-0
+####### **1. Parimaṇḍalavaggo** ^5-1-1-2-6-1-0
 
 175. Anādariyaṃ paṭicca purato vā pacchato vā olambento nivāsento kati āpattiyo āpajjati? Anādariyaṃ paṭicca purato vā pacchato vā olambento nivāsento ekaṃ āpattiṃ āpajjati. Dukkaṭaṃ – anādariyaṃ paṭicca purato vā pacchato vā olambento nivāsento imaṃ ekaṃ āpattiṃ āpajjati.
 …Anādariyaṃ paṭicca purato vā pacchato vā olambento pārupanto ekaṃ āpattiṃ āpajjati. Dukkaṭaṃ….
@@ -881,7 +881,7 @@ Cattāro pāṭidesanīyā niṭṭhitā. ^5-174
 …Anādariyaṃ paṭicca ukkhittakāya antaraghare nisīdanto ekaṃ āpattiṃ āpajjati. Dukkaṭaṃ….
 Parimaṇḍalavaggo paṭhamo. ^5-175
 
-###### 2. Ujjagghikavaggo ^5-1-2-6-2-0
+####### **2. Ujjagghikavaggo** ^5-1-1-2-6-2-0
 
 176. …Anādariyaṃ paṭicca ujjagghikāya antaraghare gacchanto ekaṃ āpattiṃ āpajjati. Dukkaṭaṃ….
 …Anādariyaṃ paṭicca ujjagghikāya antaraghare nisīdanto ekaṃ āpattiṃ āpajjati. Dukkaṭaṃ….
@@ -895,7 +895,7 @@ Parimaṇḍalavaggo paṭhamo. ^5-175
 …Anādariyaṃ paṭicca sīsappacālakaṃ antaraghare nisīdanto ekaṃ āpattiṃ āpajjati. Dukkaṭaṃ….
 Ujjagghikavaggo dutiyo. ^5-176
 
-###### 3. Khambhakatavaggo ^5-1-2-6-3-0
+####### **3. Khambhakatavaggo** ^5-1-1-2-6-3-0
 
 177. …Anādariyaṃ paṭicca khambhakato antaraghare gacchanto ekaṃ āpattiṃ āpajjati. Dukkaṭaṃ….
 …Anādariyaṃ paṭicca khambhakato antaraghare nisīdanto ekaṃ āpattiṃ āpajjati. Dukkaṭaṃ….
@@ -909,7 +909,7 @@ Ujjagghikavaggo dutiyo. ^5-176
 …Anādariyaṃ paṭicca thūpīkataṃ piṇḍapātaṃ paṭiggaṇhanto ekaṃ āpattiṃ āpajjati. Dukkaṭaṃ….
 Khambhakatavaggo tatiyo. ^5-177
 
-###### 4. Piṇḍapātavaggo ^5-1-2-6-4-0
+####### **4. Piṇḍapātavaggo** ^5-1-1-2-6-4-0
 
 178. …Anādariyaṃ paṭicca asakkaccaṃ piṇḍapātaṃ bhuñjanto ekaṃ āpattiṃ āpajjati. Dukkaṭaṃ….
 …Anādariyaṃ paṭicca tahaṃ tahaṃ olokento piṇḍapātaṃ bhuñjanto ekaṃ āpattiṃ āpajjati. Dukkaṭaṃ….
@@ -923,7 +923,7 @@ Khambhakatavaggo tatiyo. ^5-177
 …Anādariyaṃ paṭicca dīghaṃ ālopaṃ karonto ekaṃ āpattiṃ āpajjati. Dukkaṭaṃ….
 Piṇḍapātavaggo catuttho. ^5-178
 
-###### 5. Kabaḷavaggo ^5-1-2-6-5-0
+####### **5. Kabaḷavaggo** ^5-1-1-2-6-5-0
 
 179. …Anādariyaṃ paṭicca anāhaṭe kabaḷe mukhadvāraṃ vivaranto ekaṃ āpattiṃ āpajjati. Dukkaṭaṃ….
 …Anādariyaṃ paṭicca bhuñjamāno sabbaṃ hatthaṃ mukhe pakkhipanto ekaṃ āpattiṃ āpajjati. Dukkaṭaṃ….
@@ -937,7 +937,7 @@ Piṇḍapātavaggo catuttho. ^5-178
 …Anādariyaṃ paṭicca capucapukārakaṃ bhuñjanto ekaṃ āpattiṃ āpajjati. Dukkaṭaṃ….
 Kabaḷavaggo pañcamo. ^5-179
 
-###### 6. Surusuruvaggo ^5-1-2-6-6-0
+####### **6. Surusuruvaggo** ^5-1-1-2-6-6-0
 
 180. …Anādariyaṃ paṭicca surusurukārakaṃ bhuñjanto ekaṃ āpattiṃ āpajjati. Dukkaṭaṃ….
 …Anādariyaṃ paṭicca hatthanillehakaṃ bhuñjanto ekaṃ āpattiṃ āpajjati. Dukkaṭaṃ….
@@ -951,7 +951,7 @@ Kabaḷavaggo pañcamo. ^5-179
 …Anādariyaṃ paṭicca āvudhapāṇissa dhammaṃ desento ekaṃ āpattiṃ āpajjati. Dukkaṭaṃ….
 Surusuruvaggo chaṭṭho. ^5-180
 
-###### 7. Pādukavaggo ^5-1-2-6-7-0
+####### **7. Pādukavaggo** ^5-1-1-2-6-7-0
 
 181. …Anādariyaṃ paṭicca pādukāruḷhassa dhammaṃ desento ekaṃ āpattiṃ āpajjati. Dukkaṭaṃ….
 …Anādariyaṃ paṭicca upāhanāruḷhassa dhammaṃ desento ekaṃ āpattiṃ āpajjati. Dukkaṭaṃ….
@@ -972,37 +972,37 @@ Pādukavaggo sattamo.
 Sekhiyā niṭṭhitā.
 Katāpattivāro niṭṭhito dutiyo. ^5-181
 
-#### 3. Vipattivāro ^5-1-3-0
+##### 3. Vipattivāro ^5-1-1-3-0
 
 182. Methunaṃ dhammaṃ paṭisevantassa āpattiyo catunnaṃ vipattīnaṃ kati vipattiyo bhajanti? Methunaṃ dhammaṃ paṭisevantassa āpattiyo catunnaṃ vipattīnaṃ dve vipattiyo bhajanti – siyā sīlavipattiṃ, siyā ācāravipattiṃ…pe….
 Anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karontassa āpatti catunnaṃ vipattīnaṃ kati vipattiyo bhajati? Anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karontassa āpatti catunnaṃ vipattīnaṃ ekaṃ vipattiṃ bhajati – ācāravipattiṃ.
 Vipattivāro niṭṭhito tatiyo. ^5-182
 
-#### 4. Saṅgahitavāro ^5-1-4-0
+##### 4. Saṅgahitavāro ^5-1-1-4-0
 
 183. Methunaṃ dhammaṃ paṭisevantassa āpattiyo sattannaṃ āpattikkhandhānaṃ katihi āpattikkhandhehi saṅgahitā? Methunaṃ dhammaṃ paṭisevantassa āpattiyo sattannaṃ āpattikkhandhānaṃ tīhi āpattikkhandhehi saṅgahitā – siyā pārājikāpattikkhandhena, siyā thullaccayāpattikkhandhena, siyā dukkaṭāpattikkhandhena…pe….
 Anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karontassa āpatti sattannaṃ āpattikkhandhānaṃ katihi āpattikkhandhehi saṅgahitā? Anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karontassa āpatti sattannaṃ āpattikkhandhānaṃ ekena āpattikkhandhena saṅgahitā – dukkaṭāpattikkhandhena.
 Saṅgahitavāro niṭṭhito catuttho. ^5-183
 
-#### 5. Samuṭṭhānavāro ^5-1-5-0
+##### 5. Samuṭṭhānavāro ^5-1-1-5-0
 
 184. Methunaṃ dhammaṃ paṭisevantassa āpattiyo channaṃ āpattisamuṭṭhānānaṃ katihi samuṭṭhānehi samuṭṭhanti {samuṭṭhahanti (sī. syā.)}? Methunaṃ dhammaṃ paṭisevantassa āpattiyo channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhanti – kāyato ca cittato ca samuṭṭhanti, na vācato…pe….
 Anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karontassa āpatti channaṃ āpattisamuṭṭhānānaṃ katihi samuṭṭhānehi samuṭṭhāti? Anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karontassa āpatti channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhāti – kāyato ca cittato ca samuṭṭhāti, na vācato.
 Samuṭṭhānavāro niṭṭhito pañcamo. ^5-184
 
-#### 6. Adhikaraṇavāro ^5-1-6-0
+##### 6. Adhikaraṇavāro ^5-1-1-6-0
 
 185. Methunaṃ dhammaṃ paṭisevantassa āpattiyo catunnaṃ adhikaraṇānaṃ katamaṃ adhikaraṇaṃ? Methunaṃ dhammaṃ paṭisevantassa āpattiyo catunnaṃ adhikaraṇānaṃ āpattādhikaraṇaṃ…pe….
 Anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karontassa āpatti catunnaṃ adhikaraṇānaṃ katamaṃ adhikaraṇaṃ? Anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karontassa āpatti catunnaṃ adhikaraṇānaṃ āpattādhikaraṇaṃ.
 Adhikaraṇavāro niṭṭhito chaṭṭho. ^5-185
 
-#### 7. Samathavāro ^5-1-7-0
+##### 7. Samathavāro ^5-1-1-7-0
 
 186. Methunaṃ dhammaṃ paṭisevantassa āpattiyo sattannaṃ samathānaṃ katihi samathehi sammanti? Methunaṃ dhammaṃ paṭisevantassa āpattiyo sattannaṃ samathānaṃ tīhi samathehi sammanti – siyā sammukhāvinayena ca paṭiññātakaraṇena ca, siyā sammukhāvinayena ca tiṇavatthārakena ca…pe….
 Anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karontassa āpatti sattannaṃ samathānaṃ katihi samathehi sammati? Anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karontassa āpatti sattannaṃ samathānaṃ tīhi samathehi sammati – siyā sammukhāvinayena ca paṭiññātakaraṇena ca, siyā sammukhāvinayena ca tiṇavatthārakena ca.
 Samathavāro niṭṭhito sattamo. ^5-186
 
-#### 8. Samuccayavāro ^5-1-8-0
+##### 8. Samuccayavāro ^5-1-1-8-0
 
 187. Methunaṃ dhammaṃ paṭisevanto kati āpattiyo āpajjati? Methunaṃ dhammaṃ paṭisevanto tisso āpattiyo āpajjati. Akkhāyite sarīre methunaṃ dhammaṃ paṭisevati, āpatti pārājikassa; yebhuyyena khāyite sarīre methunaṃ dhammaṃ paṭisevati, āpatti thullaccayassa; vaṭṭakate mukhe acchupantaṃ aṅgajātaṃ paveseti, āpatti dukkaṭassa – methunaṃ dhammaṃ paṭisevanto imā tisso āpattiyo āpajjati.
 Tā āpattiyo catunnaṃ vipattīnaṃ kati vipattiyo bhajanti, sattannaṃ āpattikkhandhānaṃ katihi āpattikkhandhehi saṅgahitā, channaṃ āpattisamuṭṭhānānaṃ katihi samuṭṭhānehi samuṭṭhanti, catunnaṃ adhikaraṇānaṃ katamaṃ adhikaraṇaṃ, sattannaṃ samathānaṃ katihi samathehi sammanti? Tā āpattiyo catunnaṃ vipattīnaṃ dve vipattiyo bhajanti – siyā sīlavipattiṃ, siyā ācāravipattiṃ. Sattannaṃ āpattikkhandhānaṃ tīhi āpattikkhandhehi saṅgahitā – siyā pārājikāpattikkhandhena, siyā thullaccayāpattikkhandhena, siyā dukkaṭāpattikkhandhena. Channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhanti – kāyato ca cittato ca samuṭṭhanti, na vācato. Catunnaṃ adhikaraṇānaṃ, āpattādhikaraṇaṃ. Sattannaṃ samathānaṃ tīhi samathehi sammanti – siyā sammukhāvinayena ca paṭiññātakaraṇena ca, siyā sammukhāvinayena ca tiṇavatthārakena ca…pe….
@@ -1014,9 +1014,9 @@ Tassuddānaṃ –
 Katthapaññatti kati ca, vipattisaṅgahena ca;
 Samuṭṭhānādhikaraṇā samatho, samuccayena cāti. ^5-187
 
-#### 1. Katthapaññattivāro ^5-1-9-0
+##### 1. Katthapaññattivāro ^5-1-1-9-0
 
-##### 1. Pārājikakaṇḍaṃ ^5-1-9-1-0
+###### 1. Pārājikakaṇḍaṃ ^5-1-1-9-1-0
 
 188. Yaṃ tena bhagavatā jānatā passatā arahatā sammāsambuddhena methunaṃ dhammaṃ paṭisevanapaccayā pārājikaṃ kattha paññattaṃ, kaṃ ārabbha, kismiṃ vatthusmiṃ…pe… kenābhatanti?
 Yaṃ tena bhagavatā jānatā passatā arahatā sammāsambuddhena methunaṃ dhammaṃ paṭisevanapaccayā pārājikaṃ kattha paññattanti? Vesāliyaṃ paññattaṃ. Kaṃ ārabbhāti? Sudinnaṃ kalandaputtaṃ ārabbha. Kismiṃ vatthusminti? Sudinno kalandaputto purāṇadutiyikāya methunaṃ dhammaṃ paṭisevi, tasmiṃ vatthusmiṃ. Atthi tattha paññatti, anupaññatti, anuppannapaññattīti? Ekā paññatti, dve anupaññattiyo. Anuppannapaññatti tasmiṃ natthi. Sabbattha paññatti, padesapaññattīti? Sabbatthapaññatti. Sādhāraṇapaññatti, asādhāraṇapaññattīti? Sādhāraṇapaññatti. Ekatopaññatti, ubhatopaññattīti? Ubhatopaññatti. Pañcannaṃ pātimokkhuddesānaṃ katthogadhaṃ kattha pariyāpannanti? Nidānogadhaṃ nidānapariyāpannaṃ. Katamena uddesena uddesaṃ āgacchatīti? Dutiyena uddesena uddesaṃ āgacchati. Catunnaṃ vipattīnaṃ katamā vipattīti? Sīlavipatti. Sattannaṃ āpattikkhandhānaṃ katamo āpattikkhandhoti? Pārājikāpattikkhandho. Channaṃ āpattisamuṭṭhānānaṃ katihi samuṭṭhānehi samuṭṭhātīti? Ekena samuṭṭhānena samuṭṭhāti – kāyato ca cittato ca samuṭṭhāti, na vācato…pe… kenābhatanti? Paramparābhataṃ –
@@ -1032,7 +1032,7 @@ Vinayaṃ dīpe pakāsesuṃ, piṭakaṃ tambapaṇṇiyāti. ^5-188
 191. Asantaṃ abhūtaṃ uttarimanussadhammaṃ ullapanapaccayā pārājikaṃ kattha paññattanti? Vesāliyaṃ paññattaṃ. Kaṃ ārabbhāti? Vaggumudātīriye bhikkhū ārabbha. Kismiṃ vatthusminti? Vaggumudātīriyā bhikkhū gihīnaṃ aññamaññassa uttarimanussadhammassa vaṇṇaṃ bhāsiṃsu, tasmiṃ vatthusmiṃ. Ekā paññatti, ekā anupaññatti. Channaṃ āpattisamuṭṭhānānaṃ tīhi samuṭṭhānehi samuṭṭhāti – siyā kāyato ca cittato ca samuṭṭhāti, na vācato; siyā vācato ca cittato ca samuṭṭhāti, na kāyato; siyā kāyato ca vācato ca cittato ca samuṭṭhāti…pe….
 Cattāro pārājikā niṭṭhitā. ^5-191
 
-##### 2. Saṅghādisesakaṇḍādi ^5-1-9-2-0
+###### 2. Saṅghādisesakaṇḍādi ^5-1-1-9-2-0
 
 192. Yaṃ tena bhagavatā jānatā passatā arahatā sammāsambuddhena upakkamitvāasuciṃ mocanapaccayā saṅghādiseso kattha paññatto, kaṃ ārabbha, kismiṃ vatthusmiṃ…pe… kenābhatanti?
 Yaṃ tena bhagavatā jānatā passatā arahatā sammāsambuddhena upakkamitvā asuciṃ mocanapaccayā saṅghādiseso kattha paññattoti? Sāvatthiyaṃ paññatto. Kaṃ ārabbhāti? Āyasmantaṃ seyyasakaṃ ārabbha. Kismiṃ vatthusminti? Āyasmā seyyasako upakkamitvā asuciṃ mocesi, tasmiṃ vatthusmiṃ. Atthi tattha paññatti, anupaññatti, anuppannapaññattīti? Ekā paññatti, ekā anupaññatti. Anuppannapaññatti tasmiṃ natthi. Sabbatthapaññatti, padesapaññattīti? Sabbatthapaññatti. Sādhāraṇapaññatti, asādhāraṇapaññattīti? Asādhāraṇapaññatti. Ekatopaññatti, ubhatopaññattīti? Ekatopaññatti. Pañcannaṃ pātimokkhuddesānaṃ katthogadhaṃ kattha pariyāpannanti? Nidānogadhaṃ nidānapariyāpannaṃ. Katamena uddesena uddesaṃ āgacchatīti? Tatiyena uddesena uddesaṃ āgacchati. Catunnaṃ vipattīnaṃ katamā vipattīti? Sīlavipatti. Sattannaṃ āpattikkhandhānaṃ katamo āpattikkhandhoti? Saṅghādisesāpattikkhandho. Channaṃ āpattisamuṭṭhānānaṃ katihi samuṭṭhānehi samuṭṭhātīti? Ekena samuṭṭhānena samuṭṭhāti – kāyato ca cittato ca samuṭṭhāti, na vācato…pe… kenābhatanti? Paramparābhataṃ –
@@ -1055,9 +1055,9 @@ Kuladūsakassa bhikkhuno yāvatatiyaṃ samanubhāsanāya na paṭinissajjanapac
 Anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karaṇapaccayā dukkaṭaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiye bhikkhū ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhū udake uccārampi passāvampi kheḷampi akaṃsu, tasmiṃ vatthusmiṃ. Ekā paññatti, ekā anupaññatti. Channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhāti – kāyato ca cittato ca samuṭṭhāti, na vācato…pe….
 Katthapaññattivāro niṭṭhito paṭhamo. ^5-192
 
-#### 2. Katāpattivāro ^5-1-10-0
+##### 2. Katāpattivāro ^5-1-1-10-0
 
-##### 1. Pārājikakaṇḍaṃ ^5-1-10-1-0
+###### 1. Pārājikakaṇḍaṃ ^5-1-1-10-1-0
 
 193. Methunaṃ dhammaṃ paṭisevanapaccayā kati āpattiyo āpajjati? Methunaṃ dhammaṃ paṭisevanapaccayā catasso āpattiyo āpajjati – akkhāyite sarīre methunaṃ dhammaṃ paṭisevati, āpatti pārājikassa; yebhuyyena khāyite sarīre methunaṃ dhammaṃ paṭisevati, āpatti thullaccayassa; vaṭṭakate mukhe acchupantaṃ aṅgajātaṃ paveseti, āpatti dukkaṭassa; jatumaṭṭhake pācittiyaṃ – methunaṃ dhammaṃ paṭisevanapaccayā imā catasso āpattiyo āpajjati.
 Adinnaṃ ādiyanapaccayā kati āpattiyo āpajjati? Adinnaṃ ādiyanapaccayā tisso āpattiyo āpajjati. Pañcamāsakaṃ vā atirekapañcamāsakaṃ vā agghanakaṃ adinnaṃ theyyasaṅkhātaṃ ādiyati, āpatti pārājikassa; atirekamāsakaṃ vā ūnapañcamāsakaṃ vā agghanakaṃ adinnaṃ theyyasaṅkhātaṃ ādiyati, āpatti thullaccayassa; māsakaṃ vā ūnamāsakaṃ vā agghanakaṃ adinnaṃ theyyasaṅkhātaṃ ādiyati, āpatti dukkaṭassa – adinnaṃ ādiyanapaccayā imā tisso āpattiyo āpajjati.
@@ -1065,7 +1065,7 @@ Sañcicca manussaviggahaṃ jīvitā voropanapaccayā kati āpattiyo āpajjati? 
 Asantaṃ abhūtaṃ uttarimanussadhammaṃ ullapanapaccayā kati āpattiyo āpajjati? Asantaṃ abhūtaṃ uttarimanussadhammaṃ ullapanapaccayā tisso āpattiyo āpajjati – pāpiccho icchāpakato asantaṃ abhūtaṃ uttarimanussadhammaṃ ullapati, āpatti pārājikassa, "yo te vihāre vasati so bhikkhu arahā"ti bhaṇati, paṭivijānantassa āpatti thullaccayassa; na paṭivijānantassa āpatti dukkaṭassa – asantaṃ abhūtaṃ uttarimanussadhammaṃ ullapanapaccayā imā tisso āpattiyo āpajjati.
 Cattāro pārājikā niṭṭhitā. ^5-193
 
-##### 2. Saṅghādisesakaṇḍādi ^5-1-10-2-0
+###### 2. Saṅghādisesakaṇḍādi ^5-1-1-10-2-0
 
 194. Upakkamitvā asuciṃ mocanapaccayā kati āpattiyo āpajjati? Upakkamitvā asucimocanapaccayā tisso āpattiyo āpajjati – ceteti upakkamati muccati, āpatti saṅghādisesassa; ceteti upakkamati na muccati, āpatti thullaccayassa; payoge dukkaṭaṃ – upakkamitvā asucimocanapaccayā imā tisso āpattiyo āpajjati.
 Kāyasaṃsaggaṃ samāpajjanapaccayā kati āpattiyo āpajjati? Kāyasaṃsaggaṃ samāpajjanapaccayā pañca āpattiyo āpajjati – avassutā bhikkhunī avassutassa purisapuggalassa adhakkhakaṃ ubbhajāṇumaṇḍalaṃ gahaṇaṃ sādiyati, āpatti pārājikassa; bhikkhu kāyena kāyaṃ āmasati, āpatti saṅghādisesassa; kāyena kāyapaṭibaddhaṃ āmasati, āpatti thullaccayassa; kāyapaṭibaddhena kāyapaṭibaddhaṃ āmasati, āpatti dukkaṭassa; aṅgulipatodake pācittiyaṃ – kāyasaṃsaggaṃ samāpajjanapaccayā imā pañca āpattiyo āpajjati.
@@ -1083,37 +1083,37 @@ Kuladūsako bhikkhu yāvatatiyaṃ samanubhāsanāya na paṭinissajjanapaccayā
 Anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karaṇapaccayā kati āpattiyo āpajjati? Anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karaṇapaccayā ekaṃ āpattiṃ āpajjati. Dukkaṭaṃ – anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karaṇapaccayā imaṃ ekaṃ āpattiṃ āpajjati.
 Katāpattivāro niṭṭhito dutiyo. ^5-194
 
-#### 3. Vipattivāro ^5-1-11-0
+##### 3. Vipattivāro ^5-1-1-11-0
 
 195. Methunaṃ dhammaṃ paṭisevanapaccayā āpattiyo catunnaṃ vipattīnaṃ kati vipattiyo bhajanti? Methunaṃ dhammaṃ paṭisevanapaccayā āpattiyo catunnaṃ vipattīnaṃ dve vipattiyo bhajanti – siyā sīlavipattiṃ siyā ācāravipattiṃ…pe….
 Anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karaṇapaccayā āpatti catunnaṃ vipattīnaṃ kati vipattiyo bhajati? Anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karaṇapaccayā āpatti catunnaṃ vipattīnaṃ ekaṃ vipattiṃ bhajati – ācāravipattiṃ.
 Vipattivāro niṭṭhito tatiyo. ^5-195
 
-#### 4. Saṅgahitavāro ^5-1-12-0
+##### 4. Saṅgahitavāro ^5-1-1-12-0
 
 196. Methunaṃ dhammaṃ paṭisevanapaccayā āpattiyo sattannaṃ āpattikkhandhānaṃ katihi āpattikkhandhehi saṅgahitā? Methunaṃ dhammaṃ paṭisevanapaccayā āpattiyo sattannaṃ āpattikkhandhānaṃ catūhi āpattikkhandhehi saṅgahitā – siyā pārājikāpattikkhandhena, siyā thullaccayāpattikkhandhena, siyā pācittiyāpattikkhandhena, siyā dukkaṭāpattikkhandhena…pe….
 Anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karaṇapaccayā āpatti sattannaṃ āpattikkhandhānaṃ katihi āpattikkhandhehi saṅgahitā? Anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karaṇapaccayā āpatti sattannaṃ āpattikkhandhānaṃ ekena āpattikkhandhena saṅgahitā – dukkaṭāpattikkhandhena.
 Saṅgahitavāro niṭṭhito catuttho. ^5-196
 
-#### 5. Samuṭṭhānavāro ^5-1-13-0
+##### 5. Samuṭṭhānavāro ^5-1-1-13-0
 
 197. Methunaṃ dhammaṃ paṭisevanapaccayā āpattiyo channaṃ āpattisamuṭṭhānānaṃ katihi samuṭṭhānehi samuṭṭhanti? Methunaṃ dhammaṃ paṭisevanapaccayā āpattiyo channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhanti – kāyato ca cittato ca samuṭṭhanti, na vācato…pe….
 Anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karaṇapaccayā āpatti channaṃ āpattisamuṭṭhānānaṃ katihi samuṭṭhānehi samuṭṭhāti? Anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karaṇapaccayā āpatti channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhāti – kāyato ca cittato ca samuṭṭhāti, na vācato…pe….
 Samuṭṭhānavāro niṭṭhito pañcamo. ^5-197
 
-#### 6. Adhikaraṇavāro ^5-1-14-0
+##### 6. Adhikaraṇavāro ^5-1-1-14-0
 
 198. Methunaṃ dhammaṃ paṭisevanapaccayā āpattiyo catunnaṃ adhikaraṇānaṃ katamaṃ adhikaraṇaṃ? Methunaṃ dhammaṃ paṭisevanapaccayā āpattiyo catunnaṃ adhikaraṇānaṃ āpattādhikaraṇaṃ…pe….
 Anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karaṇapaccayā āpatti catunnaṃ adhikaraṇānaṃ katamaṃ adhikaraṇaṃ? Anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karaṇapaccayā āpatti catunnaṃ adhikaraṇānaṃ āpattādhikaraṇaṃ.
 Adhikaraṇavāro niṭṭhito chaṭṭho. ^5-198
 
-#### 7. Samathavāro ^5-1-15-0
+##### 7. Samathavāro ^5-1-1-15-0
 
 199. Methunaṃ dhammaṃ paṭisevanapaccayā āpattiyo sattannaṃ samathānaṃ katihi samathehi sammanti? Methunaṃ dhammaṃ paṭisevanapaccayā āpattiyo sattannaṃ samathānaṃ tīhi samathehi sammanti – siyā sammukhāvinayena ca paṭiññātakaraṇena ca; siyā sammukhāvinayena tiṇavatthārakena ca…pe….
 Anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karaṇapaccayā āpatti sattannaṃ samathānaṃ katihi samathehi sammati? Anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karaṇapaccayā āpatti sattannaṃ samathānaṃ tīhi samathehi sammati – siyā sammukhāvinayena ca paṭiññātakaraṇena ca, siyā sammukhāvinayena ca tiṇavatthārakena cāti.
 Samathavāro niṭṭhito sattamo. ^5-199
 
-#### 8. Samuccayavāro ^5-1-16-0
+##### 8. Samuccayavāro ^5-1-1-16-0
 
 200. Methunaṃ dhammaṃ paṭisevanapaccayā kati āpattiyo āpajjati? Methunaṃ dhammaṃ paṭisevanapaccayā catasso āpattiyo āpajjati. Akkhāyite sarīre methunaṃ dhammaṃ paṭisevati, āpatti pārājikassa; yebhuyyena khāyite sarīre methunaṃ dhammaṃ paṭisevati, āpatti thullaccayassa; vaṭṭakate mukhe acchupantaṃ aṅgajātaṃ paveseti, āpatti dukkaṭassa; jatumaṭṭhake pācittiyaṃ – methunaṃ dhammaṃ paṭisevanapaccayā imā catasso āpattiyo āpajjati. Tā āpattiyo catunnaṃ vipattīnaṃ kati vipattiyo bhajanti? Sattannaṃ āpattikkhandhānaṃ katihi āpattikkhandhehi saṅgahitā? Channaṃ āpattisamuṭṭhānānaṃ katihi samuṭṭhānehi samuṭṭhanti? Catunnaṃ adhikaraṇānaṃ katamaṃ adhikaraṇaṃ? Sattannaṃ samathānaṃ katihi samathehi sammanti? Tā āpattiyo catunnaṃ vipattīnaṃ dve vipattiyo bhajanti – siyā sīlavipattiṃ siyā ācāravipattiṃ. Sattannaṃ āpattikkhandhānaṃ catūhi āpattikkhandhehi saṅgahitā – siyā pārājikāpattikkhandhena, siyā thullaccayāpattikkhandhena, siyā pācittiyāpattikkhandhena, siyā dukkaṭāpattikkhandhena. Channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhanti – kāyato ca cittato ca samuṭṭhanti, na vācato. Catunnaṃ adhikaraṇānaṃ, āpattādhikaraṇaṃ. Sattannaṃ samathānaṃ, tīhi samathehi sammanti – siyā sammukhāvinayena ca, paṭiññātakaraṇena ca, siyā sammukhāvinayena ca tiṇavatthārakena ca…pe….
 Anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karaṇapaccayā kati āpattiyo āpajjati? Anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karaṇapaccayā ekaṃ āpattiṃ āpajjati. Dukkaṭaṃ – anādariyaṃ paṭicca udake uccāraṃ vā passāvaṃ vā kheḷaṃ vā karaṇapaccayā imaṃ ekaṃ āpattiṃ āpajjati. Sā āpatti catunnaṃ vipattīnaṃ kati vipattiyo bhajati? Sattannaṃ āpattikkhandhānaṃ katihi āpattikkhandhehi saṅgahitā? Channaṃ āpattisamuṭṭhānānaṃ katihi samuṭṭhānehi samuṭṭhāti? Catunnaṃ adhikaraṇānaṃ katamaṃ adhikaraṇaṃ? Sattannaṃ samathānaṃ katihi samathehi sammati? Sā āpatti catunnaṃ vipattīnaṃ ekaṃ vipattiṃ bhajati – ācāravipattiṃ. Sattannaṃ āpattikkhandhānaṃ ekena āpattikkhandhena saṅgahitā – dukkaṭāpattikkhandhena. Channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhāti – kāyato ca cittato ca samuṭṭhāti, na vācato. Catunnaṃ adhikaraṇānaṃ, āpattādhikaraṇaṃ. Sattannaṃ samathānaṃ tīhi samathehi sammati – siyā sammukhāvinayena ca paṭiññātakaraṇena ca, siyā sammukhāvinayena ca tiṇavatthārakena cāti.
@@ -1122,11 +1122,11 @@ Aṭṭhapaccayavārā niṭṭhitā.
 Mahāvibhaṅge soḷasamahāvārā niṭṭhitā.
 Bhikkhuvibhaṅgamahāvāro niṭṭhito. ^5-200
 
-#### Bhikkhunīvibhaṅgo ^5-1-17-0
+#### Bhikkhunīvibhaṅgo ^5-1-2-0
 
-##### 1. Katthapaññattivāro ^5-1-17-1-0
+##### 1. Katthapaññattivāro ^5-1-2-1-0
 
-###### 1. Pārājikakaṇḍaṃ ^5-1-17-1-1-0
+###### 1. Pārājikakaṇḍaṃ ^5-1-2-1-1-0
 
 201. Yaṃ tena bhagavatā jānatā passatā arahatā sammāsambuddhena bhikkhunīnaṃ pañcamaṃ pārājikaṃ kattha paññattaṃ? Kaṃ ārabbha? Kismiṃ vatthusmiṃ? Atthi tattha paññatti, anupaññatti, anuppannapaññatti? Sabbatthapaññatti, padesapaññatti? Sādhāraṇapaññatti, asādhāraṇapaññatti? Ekatopaññatti, ubhatopaññatti? Catunnaṃ pātimokkhuddesānaṃ katthogadhaṃ kattha pariyāpannaṃ? Katamena uddesena uddesaṃ āgacchati? Catunnaṃ vipattīnaṃ katamā vipatti? Sattannaṃ āpattikkhandhānaṃ katamo āpattikkhandho? Channaṃ āpattisamuṭṭhānānaṃ katihi samuṭṭhānehi samuṭṭhāti? Catunnaṃ adhikaraṇānaṃ katamaṃ adhikaraṇaṃ? Sattannaṃ samathānaṃ katihi samathehi sammati? Ko tattha vinayo? Ko tattha abhivinayo? Kiṃ tattha pātimokkhaṃ? Kiṃ tattha adhipātimokkhaṃ? Kā vipatti? Kā sampatti? Kā paṭipatti? Kati atthavase paṭicca bhagavatā bhikkhunīnaṃ pañcamaṃ pārājikaṃ paññattaṃ? Kā sikkhanti? Kā sikkhitasikkhā? Kattha ṭhitaṃ? Kā dhārenti? Kassa vacanaṃ? Kenābhatanti? ^5-201
 
@@ -1175,7 +1175,7 @@ Methunādinnādānañca, manussaviggahuttari;
 Kāyasaṃsaggaṃ chādeti, ukkhittā aṭṭha vatthukā;
 Paññāpesi mahāvīro, chejjavatthū asaṃsayāti. ^5-205
 
-###### 2. Saṅghādisesakaṇḍaṃ ^5-1-17-1-2-0
+###### 2. Saṅghādisesakaṇḍaṃ ^5-1-2-1-2-0
 
 206. Yaṃ tena bhagavatā jānatā passatā arahatā sammāsambuddhena ussayavādikāya bhikkhuniyā aḍḍaṃ karontiyā saṅghādiseso kattha paññatto? Kaṃ ārabbha? Kismiṃ vatthusmiṃ…pe… kenābhatanti? ^5-206
 
@@ -1207,7 +1207,7 @@ Tassuddānaṃ –
 Ussayacori gāmantaṃ, ukkhittaṃ khādanena ca;
 Kiṃ te kupitā kismiñci, saṃsaṭṭhā ñāyate dasāti. ^5-216
 
-###### 3. Nissaggiyakaṇḍaṃ ^5-1-17-1-3-0
+###### 3. Nissaggiyakaṇḍaṃ ^5-1-2-1-3-0
 
 217. Yaṃ tena bhagavatā jānatā passatā arahatā sammāsambuddhena pattasannicayaṃ karontiyā nissaggiyaṃ pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiyā bhikkhuniyo ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhuniyo pattasannicayaṃ akaṃsu, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ dvīhi samuṭṭhānehi samuṭṭhāti – kathinake…pe….
 Akālacīvaraṃ "kālacīvara"nti adhiṭṭhahitvā bhājāpentiyā nissaggiyaṃ pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Thullanandaṃ bhikkhuniṃ ārabbha. Kismiṃ vatthusminti? Thullanandā bhikkhunī akālacīvaraṃ "kālacīvara"nti adhiṭṭhahitvā bhājāpesi, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ tīhi samuṭṭhānehi samuṭṭhāti…pe….
@@ -1227,9 +1227,9 @@ Pattaṃ akālaṃ kālañca, parivatte ca viññāpe;
 Cetāpetvā aññadatthi, saṅghikañca mahājanikaṃ;
 Saññācikā puggalikā, catukkaṃsaḍḍhateyyakāti. ^5-217
 
-###### 4. Pācittiyakaṇḍaṃ ^5-1-17-1-4-0
+###### 4. Pācittiyakaṇḍaṃ ^5-1-2-1-4-0
 
-####### **1. Lasuṇavaggo** ^5-1-17-1-4-1-0
+####### **1. Lasuṇavaggo** ^5-1-2-1-4-1-0
 
 218. Yaṃ tena bhagavatā jānatā passatā arahatā sammāsambuddhena lasuṇaṃ khādantiyā pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Thullanandaṃ bhikkhuniṃ ārabbha. Kismiṃ vatthusminti? Thullanandā bhikkhunī na mattaṃ jānitvā lasuṇaṃ harāpesi, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ dvīhi samuṭṭhānehi samuṭṭhāti eḷakalomake…pe….
 Sambādhe lomaṃ saṃharāpentiyā pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiyā bhikkhuniyo ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhuniyo sambādhe lomaṃ saṃharāpesuṃ, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ catūhi samuṭṭhānehi samuṭṭhāti…pe….
@@ -1243,7 +1243,7 @@ Uccāraṃ vā passāvaṃ vā saṅkāraṃ vā vighāsaṃ vā harite chaḍ�
 Naccaṃ vā gītaṃ vā vāditaṃ vā dassanāya gacchantiyā pācittiyaṃ kattha paññattanti? Rājagahe paññattaṃ. Kaṃ ārabbhāti? Chabbaggiyā bhikkhuniyo ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhuniyo naccampi gītampi vāditampi dassanāya agamaṃsu, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ dvīhi samuṭṭhānehi samuṭṭhāti – eḷakalomake…pe….
 Lasuṇavaggo paṭhamo. ^5-218
 
-####### **2. Rattandhakāravaggo** ^5-1-17-1-4-2-0
+####### **2. Rattandhakāravaggo** ^5-1-2-1-4-2-0
 
 219. Rattandhakāre appadīpe purisena saddhiṃ ekenekāya santiṭṭhantiyā pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Aññataraṃ bhikkhuniṃ ārabbha. Kismiṃ vatthusminti? Aññatarā bhikkhunī rattandhakāre appadīpe purisena saddhiṃ ekenekā santiṭṭhi, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ dvīhi samuṭṭhānehi samuṭṭhāti – theyyasatthake…pe….
 Paṭicchanne okāse purisena saddhiṃ ekenekāya santiṭṭhantiyā pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Aññataraṃ bhikkhuniṃ ārabbha. Kismiṃ vatthusminti? Aññatarā bhikkhunī paṭicchanne okāse purisena saddhiṃ ekenekā santiṭṭhi, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ dvīhi samuṭṭhānehi samuṭṭhāti – theyyasatthake…pe….
@@ -1257,7 +1257,7 @@ Attānaṃ vā paraṃ vā nirayena vā brahmacariyena vā abhisapantiyā pācit
 Attānaṃ vadhitvā vadhitvā rodantiyā pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Caṇḍakāḷiṃ bhikkhuniṃ ārabbha. Kismiṃ vatthusminti? Caṇḍakāḷī bhikkhunī attānaṃ vadhitvā vadhitvā rodi, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhāti – dhuranikkhepe…pe….
 Rattandhakāravaggo dutiyo. ^5-219
 
-####### **3. Nahānavaggo** ^5-1-17-1-4-3-0
+####### **3. Nahānavaggo** ^5-1-2-1-4-3-0
 
 220. Naggāya nahāyantiyā pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Sambahulā bhikkhuniyo ārabbha. Kismiṃ vatthusminti? Sambahulā bhikkhuniyo naggā nahāyiṃsu, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ dvīhi samuṭṭhānehi samuṭṭhāti – eḷakalomake…pe….
 Pamāṇātikkantaṃ udakasāṭikaṃ kārāpentiyā pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiyā bhikkhuniyo ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhuniyo appamāṇikāyo udakasāṭikāyo dhāresuṃ, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ chahi samuṭṭhānehi samuṭṭhāti…pe….
@@ -1271,7 +1271,7 @@ Dubbalacīvarapaccāsāya cīvarakālasamayaṃ atikkāmentiyā pācittiyaṃ ka
 Dhammikaṃ kathinuddhāraṃ paṭibāhantiyā pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Thullanandaṃ bhikkhuniṃ ārabbha. Kismiṃ vatthusminti? Thullanandā bhikkhunī dhammikaṃ kathinuddhāraṃ paṭibāhi, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ tīhi samuṭṭhānehi samuṭṭhāti…pe….
 Nahānavaggo tatiyo. ^5-220
 
-####### **4. Tuvaṭṭavaggo** ^5-1-17-1-4-4-0
+####### **4. Tuvaṭṭavaggo** ^5-1-2-1-4-4-0
 
 221. Dvinnaṃ bhikkhunīnaṃ ekamañce tuvaṭṭentīnaṃ pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Sambahulā bhikkhuniyo ārabbha. Kismiṃ vatthusminti? Sambahulā bhikkhuniyo dve ekamañce tuvaṭṭesuṃ, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ dvīhi samuṭṭhānehi samuṭṭhāti – eḷakalomake…pe….
 Dvinnaṃ bhikkhunīnaṃ ekattharaṇapāvuraṇe tuvaṭṭentīnaṃ pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Sambahulā bhikkhuniyo ārabbha. Kismiṃ vatthusminti? Sambahulā bhikkhuniyo dve ekattharaṇapāvuraṇā tuvaṭṭesuṃ, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ dvīhi samuṭṭhānehi samuṭṭhāti – eḷakalomake…pe….
@@ -1285,7 +1285,7 @@ Antovassaṃ cārikaṃ carantiyā pācittiyaṃ kattha paññattanti? Rājagahe
 Vassaṃvuṭṭhāya {vassaṃvutthāya (sī. syā.)} bhikkhuniyā cārikaṃ na pakkamantiyā pācittiyaṃ kattha paññattanti? Rājagahe paññattaṃ. Kaṃ ārabbhāti? Sambahulā bhikkhuniyo ārabbha. Kismiṃ vatthusminti? Sambahulā bhikkhuniyo vassaṃvuṭṭhā cārikaṃ na pakkamiṃsu, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhāti – paṭhamapārājike…pe….
 Tuvaṭṭavaggo catuttho. ^5-221
 
-####### **5. Cittāgāravaggo** ^5-1-17-1-4-5-0
+####### **5. Cittāgāravaggo** ^5-1-2-1-4-5-0
 
 222. Rājāgāraṃ vā cittāgāraṃ vā ārāmaṃ vā uyyānaṃ vā pokkharaṇiṃ vā dassanāya gacchantiyā pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiyā bhikkhuniyo ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhuniyo rājāgārampi cittāgārampi dassanāya agamaṃsu, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ dvīhi samuṭṭhānehi samuṭṭhāti – eḷakalomake…pe….
 Āsandiṃ vā pallaṅkaṃ vā paribhuñjantiyā pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Sambahulā bhikkhuniyo ārabbha. Kismiṃ vatthusminti? Sambahulā bhikkhuniyo āsandimpi pallaṅkampi paribhuñjiṃsu, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ dvīhi samuṭṭhānehi samuṭṭhāti – eḷakalomake…pe….
@@ -1299,7 +1299,7 @@ Tiracchānavijjaṃ pariyāpuṇantiyā pācittiyaṃ kattha paññattanti? Sāv
 Tiracchānavijjaṃ vācentiyā pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiyā bhikkhuniyo ārabbha. Kismiṃ vatthusminti. Chabbaggiyā bhikkhuniyo tiracchānavijjaṃ vācesuṃ, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ dvīhi samuṭṭhānehi samuṭṭhāti – padasodhamme…pe….
 Cittāgāravaggo pañcamo. ^5-222
 
-####### **6. Ārāmavaggo** ^5-1-17-1-4-6-0
+####### **6. Ārāmavaggo** ^5-1-2-1-4-6-0
 
 223. Jānaṃ sabhikkhukaṃ ārāmaṃ anāpucchā pavisantiyā pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Sambahulā bhikkhuniyo ārabbha. Kismiṃ vatthusminti? Sambahulā bhikkhuniyo ārāmaṃ anāpucchā pavisiṃsu, tasmiṃ vatthusmiṃ. Ekā paññatti, dve anupaññattiyo. Channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhāti – dhuranikkhepe…pe….
 Bhikkhuṃ akkosantiyā paribhāsantiyā pācittiyaṃ kattha paññattanti? Vesāliyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiyā bhikkhuniyo ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhuniyo āyasmantaṃ upāliṃ akkosiṃsu, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ tīhi samuṭṭhānehi samuṭṭhāti…pe….
@@ -1313,7 +1313,7 @@ Uposathampi na pucchantiyā ovādampi na yācantiyā pācittiyaṃ kattha paññ
 Pasākhe jātaṃ gaṇḍaṃ vā rudhitaṃ {ruhitaṃ (sī. syā.)} vā anapaloketvā saṅghaṃ vā gaṇaṃ vā purisena saddhiṃ ekenekāya bhedāpentiyā pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Aññataraṃ bhikkhuniṃ ārabbha. Kismiṃ vatthusminti? Aññatarā bhikkhunī pasākhe jātaṃ gaṇḍaṃ purisena saddhiṃ ekenekā bhedāpesi, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ dvīhi samuṭṭhānehi samuṭṭhāti – kathinake…pe….
 Ārāmavaggo chaṭṭho. ^5-223
 
-####### **7. Gabbhinīvaggo** ^5-1-17-1-4-7-0
+####### **7. Gabbhinīvaggo** ^5-1-2-1-4-7-0
 
 224. Gabbhiniṃ vuṭṭhāpentiyā pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Sambahulā bhikkhuniyo ārabbha. Kismiṃ vatthusminti? Sambahulā bhikkhuniyo gabbhiniṃ vuṭṭhāpesuṃ, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ tīhi samuṭṭhānehi samuṭṭhāti…pe….
 Pāyantiṃ vuṭṭhāpentiyā pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Sambahulā bhikkhuniyo ārabbha. Kismiṃ vatthusminti? Sambahulā bhikkhuniyo pāyantiṃ vuṭṭhāpesuṃ, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ tīhi samuṭṭhānehi samuṭṭhāti…pe….
@@ -1327,7 +1327,7 @@ Vuṭṭhāpitaṃ pavattiniṃ dve vassāni nānubandhantiyā pācittiyaṃ kat
 Sahajīviniṃ vuṭṭhāpetvā neva vūpakāsentiyā na vūpakāsāpentiyā pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Thullanandaṃ bhikkhuniṃ ārabbha. Kismiṃ vatthusminti? Thullanandā bhikkhunī sahajīviniṃ vuṭṭhāpetvā neva vūpakāsesi na vūpakāsāpesi, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhāti – dhuranikkhepe…pe….
 Gabbhinivaggo sattamo. ^5-224
 
-####### **8. Kumārībhūtavaggo** ^5-1-17-1-4-8-0
+####### **8. Kumārībhūtavaggo** ^5-1-2-1-4-8-0
 
 225. Ūnavīsativassaṃ kumāribhūtaṃ vuṭṭhāpentiyā pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Sambahulā bhikkhuniyo ārabbha. Kismiṃ vatthusminti? Sambahulā bhikkhuniyo ūnavīsativassaṃ kumāribhūtaṃ vuṭṭhāpesuṃ, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ tīhi samuṭṭhānehi samuṭṭhāti…pe….
 Paripuṇṇavīsativassaṃ kumāribhūtaṃ dve vassāni chasu dhammesu asikkhitasikkhaṃ vuṭṭhāpentiyā pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Sambahulā bhikkhuniyo ārabbha. Kismiṃ vatthusminti? Sambahulā bhikkhuniyo paripuṇṇavīsativassaṃ kumāribhūtaṃ dve vassāni chasu dhammesu asikkhitasikkhaṃ vuṭṭhāpesuṃ, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ tīhi samuṭṭhānehi samuṭṭhāti…pe….
@@ -1344,7 +1344,7 @@ Anuvassaṃ vuṭṭhāpentiyā pācittiyaṃ kattha paññattanti? Sāvatthiya�
 Ekaṃ vassaṃ dve vuṭṭhāpentiyā pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Sambahulā bhikkhuniyo ārabbha. Kismiṃ vatthusminti? Sambahulā bhikkhuniyo ekaṃ vassaṃ dve vuṭṭhāpesuṃ, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ tīhi samuṭṭhānehi samuṭṭhāti…pe….
 Kumārībhūtavaggo aṭṭhamo. ^5-225
 
-####### **9. Chattupāhanavaggo** ^5-1-17-1-4-9-0
+####### **9. Chattupāhanavaggo** ^5-1-2-1-4-9-0
 
 226. Chattupāhanaṃ dhārentiyā pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiyā bhikkhuniyo ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhuniyo chattupāhanaṃ dhāresuṃ, tasmiṃ vatthusmiṃ. Ekā paññatti, ekā anupaññatti. Channaṃ āpattisamuṭṭhānānaṃ dvīhi samuṭṭhānehi samuṭṭhāti – eḷakalomake…pe….
 Yānena yāyantiyā pācittiyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiyā bhikkhuniyo ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhuniyo yānena yāyiṃsu, tasmiṃ vatthusmiṃ. Ekā paññatti, ekā anupaññatti. Channaṃ āpattisamuṭṭhānānaṃ dvīhi samuṭṭhānehi samuṭṭhāti – eḷakalomake…pe….
@@ -1386,7 +1386,7 @@ Tesaṃ vaggānaṃ uddānaṃ –
 Lasuṇandhakārā nhānā, tuvaṭṭā cittagārakā;
 Ārāmaṃ gabbhinī ceva, kumārī chattupāhanāti. ^5-226
 
-###### 5. Pāṭidesanīyakaṇḍaṃ ^5-1-17-1-5-0
+###### 5. Pāṭidesanīyakaṇḍaṃ ^5-1-2-1-5-0
 
 227. Sappiṃ viññāpetvā bhuñjantiyā pāṭidesanīyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiyā bhikkhuniyo ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhuniyo sappiṃ viññāpetvā bhuñjiṃsu, tasmiṃ vatthusmiṃ. Ekā paññatti, ekā anupaññatti. Channaṃ āpattisamuṭṭhānānaṃ catūhi samuṭṭhānehi samuṭṭhāti…pe….
 Telaṃ viññāpetvā bhuñjantiyā pāṭidesanīyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiyā bhikkhuniyo ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhuniyo telaṃ viññāpetvā bhuñjiṃsu, tasmiṃ vatthusmiṃ. Ekā paññatti, ekā anupaññatti. Channaṃ āpattisamuṭṭhānānaṃ catūhi samuṭṭhānehi samuṭṭhāti…pe….
@@ -1405,9 +1405,9 @@ Ye sikkhāpadā bhikkhuvibhaṅge vitthāritā te saṃkhittā
 Bhikkhunivibhaṅge.
 Katthapaññattivāro niṭṭhito paṭhamo. ^5-227
 
-##### 2. Katāpattivāro ^5-1-17-2-0
+##### 2. Katāpattivāro ^5-1-2-2-0
 
-###### 1. Pārājikakaṇḍaṃ ^5-1-17-2-1-0
+###### 1. Pārājikakaṇḍaṃ ^5-1-2-2-1-0
 
 228. Avassutā bhikkhunī avassutassa purisapuggalassa kāyasaṃsaggaṃ sādiyantī kati āpattiyo āpajjati? Avassutā bhikkhunī avassutassa purisapuggalassa kāyasaṃsaggaṃ sādiyantī tisso āpattiyo āpajjati. Adhakkhakaṃ ubbhajāṇumaṇḍalaṃ gahaṇaṃ sādiyati, āpatti pārājikassa; ubbhakkhakaṃ adhojāṇumaṇḍalaṃ gahaṇaṃ sādiyati, āpatti thullaccayassa; kāyapaṭibaddhaṃ gahaṇaṃ sādiyati, āpatti dukkaṭassa – avassutā bhikkhunī avassutassa purisapuggalassa kāyasaṃsaggaṃ sādiyantī imā tisso āpattiyo āpajjati.
 Vajjappaṭicchādikā bhikkhunī vajjaṃ paṭicchādentī kati āpattiyo āpajjati? Vajjappaṭicchādikā bhikkhunī vajjaṃ paṭicchādentī tisso āpattiyo āpajjati. Jānaṃ pārājikaṃ dhammaṃ paṭicchādeti, āpatti pārājikassa; vematikā paṭicchādeti, āpatti thullaccayassa; ācāravipattiṃ paṭicchādeti, āpatti dukkaṭassa – vajjappaṭicchādikā bhikkhunī vajjaṃ paṭicchādentī imā tisso āpattiyo āpajjati.
@@ -1415,7 +1415,7 @@ Ukkhittānuvattikā bhikkhunī yāvatatiyaṃ samanubhāsanāya na paṭinissajj
 Aṭṭhamaṃ vatthuṃ paripūrentī kati āpattiyo āpajjati? Aṭṭhamaṃ vatthuṃ paripūrentī tisso āpattiyo āpajjati. Purisena – "itthannāmaṃ okāsaṃ {itthannāmaṃ gahanaṃ (sī.), itthannāmaṃ gabbhaṃ (syā.)} āgacchā"ti vuttā gacchati, āpatti dukkaṭassa; purisassa hatthapāsaṃ okkantamatte āpatti thullaccayassa; aṭṭhamaṃ vatthuṃ paripūreti, āpatti pārājikassa – aṭṭhamaṃ vatthuṃ paripūrentī imā tisso āpattiyo āpajjati.
 Pārājikā niṭṭhitā. ^5-228
 
-###### 2. Saṅghādisesakaṇḍaṃ ^5-1-17-2-2-0
+###### 2. Saṅghādisesakaṇḍaṃ ^5-1-2-2-2-0
 
 229. Ussayavādikā bhikkhunī aḍḍaṃ karontī tisso āpattiyo āpajjati. Ekassa āroceti, āpatti dukkaṭassa; dutiyassa āroceti, āpatti thullaccayassa; aḍḍapariyosāne āpatti saṅghādisesassa.
 Coriṃ vuṭṭhāpentī tisso āpattiyo āpajjati. Ñattiyā dukkaṭaṃ; dvīhi kammavācāhi thullaccayā; kammavācāpariyosāne āpatti saṅghādisesassa.
@@ -1429,7 +1429,7 @@ Saṃsaṭṭhā bhikkhuniyo yāvatatiyaṃ samanubhāsanāya na paṭinissajjan
 "Saṃsaṭṭhāva, ayye, tumhe viharatha. Mā tumhe nānā viharitthā"ti uyyojentī yāvatatiyaṃ samanubhāsanāya na paṭinissajjantī tisso āpattiyo āpajjati. Ñattiyā dukkaṭaṃ; dvīhi kammavācāhi thullaccayā; kammavācāpariyosāne āpatti saṅghādisesassa.
 Saṅghādisesā niṭṭhitā. ^5-229
 
-###### 3. Nissaggiyakaṇḍaṃ ^5-1-17-2-3-0
+###### 3. Nissaggiyakaṇḍaṃ ^5-1-2-2-3-0
 
 230. Pattasannicayaṃ karontī ekaṃ āpattiṃ āpajjati. Nissaggiyaṃ pācittiyaṃ.
 Akālacīvaraṃ "kālacīvara"nti adhiṭṭhahitvā bhājāpentī dve āpattiyo āpajjati. Bhājāpeti, payoge dukkaṭaṃ; bhājāpite nissaggiyaṃ pācittiyaṃ.
@@ -1445,9 +1445,9 @@ Atirekacatukkaṃsaparamaṃ garupāvuraṇaṃ cetāpentī dve āpattiyo āpajj
 Atirekaaḍḍhateyyakaṃsaparamaṃ lahupāvuraṇaṃ cetāpentī dve āpattiyo āpajjati. Cetāpeti, payoge dukkaṭaṃ; cetāpite nissaggiyaṃ pācittiyaṃ.
 Nissaggiyā pācittiyā niṭṭhitā. ^5-230
 
-###### 4. Pācittiyakaṇḍaṃ ^5-1-17-2-4-0
+###### 4. Pācittiyakaṇḍaṃ ^5-1-2-2-4-0
 
-####### **1. Lasuṇavaggo** ^5-1-17-2-4-1-0
+####### **1. Lasuṇavaggo** ^5-1-2-2-4-1-0
 
 231. Lasuṇaṃ khādantī dve āpattiyo āpajjati. Khādissāmīti paṭiggaṇhāti, āpatti dukkaṭassa; ajjhohāre ajjhohāre āpatti pācittiyassa.
 Sambādhe lomaṃ saṃharāpentī dve āpattiyo āpajjati. Saṃharāpeti, payoge dukkaṭaṃ; saṃharāpite āpatti pācittiyassa.
@@ -1461,7 +1461,7 @@ Uccāraṃ vā passāvaṃ vā saṅkāraṃ vā vighāsaṃ vā harite chaḍ�
 Naccaṃ vā gītaṃ vā vāditaṃ vā dassanāya gacchantī dve āpattiyo āpajjati. Gacchati, āpatti dukkaṭassa; yattha ṭhitā passati vā suṇāti vā, āpatti pācittiyassa.
 Lasuṇavaggo paṭhamo. ^5-231
 
-####### **2. Rattandhakāravaggo** ^5-1-17-2-4-2-0
+####### **2. Rattandhakāravaggo** ^5-1-2-2-4-2-0
 
 232. Rattandhakāre appadīpe purisena saddhiṃ ekenekā santiṭṭhantī dve āpattiyo āpajjati. Hatthapāse tiṭṭhati, āpatti pācittiyassa; hatthapāsaṃ vijahitvā tiṭṭhati, āpatti dukkaṭassa.
 Paṭicchanne okāse purisena saddhiṃ ekenekā santiṭṭhantī dve āpattiyo āpajjati. Hatthapāse tiṭṭhati, āpatti pācittiyassa; hatthapāsaṃ vijahitvā tiṭṭhati, āpatti dukkaṭassa.
@@ -1475,7 +1475,7 @@ Attānaṃ vā paraṃ vā nirayena vā brahmacariyena vā abhisapantī dve āpa
 Attānaṃ vadhitvā vadhitvā rodantī dve āpattiyo āpajjati. Vadhati rodati, āpatti pācittiyassa; vadhati na rodati, āpatti dukkaṭassa.
 Rattandhakāravaggo dutiyo. ^5-232
 
-####### **3. Nahānavaggo** ^5-1-17-2-4-3-0
+####### **3. Nahānavaggo** ^5-1-2-2-4-3-0
 
 233. Naggā nahāyantī dve āpattiyo āpajjati. Nahāyati, payoge dukkaṭaṃ; nahānapariyosāne āpatti pācittiyassa.
 Pamāṇātikkantaṃ udakasāṭikaṃ kārāpentī dve āpattiyo āpajjati. Kārāpeti, payoge dukkaṭaṃ; kārāpite, āpatti pācittiyassa.
@@ -1488,7 +1488,7 @@ Dubbalacīvarapaccāsā cīvarakālasamayaṃ atikkāmentī dve āpattiyo āpajj
 Dhammikaṃ kathinuddhāraṃ paṭibāhantī dve āpattiyo āpajjati. Paṭibāhati, payoge dukkaṭaṃ; paṭibāhite, āpatti pācittiyassa.
 Nahānavaggo tatiyo. ^5-233
 
-####### **4. Tuvaṭṭavaggo** ^5-1-17-2-4-4-0
+####### **4. Tuvaṭṭavaggo** ^5-1-2-2-4-4-0
 
 234. Dve bhikkhuniyo ekamañce tuvaṭṭentiyo dve āpattiyo āpajjanti. Nipajjanti, payoge dukkaṭaṃ; nipanne, āpatti pācittiyassa.
 Dve bhikkhuniyo ekattharaṇapāvuraṇā tuvaṭṭentiyo dve āpattiyo āpajjanti. Nipajjanti, payoge dukkaṭaṃ; nipanne, āpatti pācittiyassa.
@@ -1502,7 +1502,7 @@ Antovassaṃ cārikaṃ carantī dve āpattiyo āpajjati. Paṭipajjati, payoge 
 Vassaṃvuṭṭhā bhikkhunī cārikaṃ na pakkamantī ekaṃ āpattiṃ āpajjati. Pācittiyaṃ.
 Tuvaṭṭavaggo catuttho. ^5-234
 
-####### **5. Cittāgāravaggo** ^5-1-17-2-4-5-0
+####### **5. Cittāgāravaggo** ^5-1-2-2-4-5-0
 
 235. Rājāgāraṃ vā cittāgāraṃ vā ārāmaṃ vā uyyānaṃ vā pokkharaṇiṃ vā dassanāya gacchantī dve āpattiyo āpajjati. Gacchati, āpatti dukkaṭassa; yattha ṭhitā passati, āpatti pācittiyassa.
 Āsandiṃ vā pallaṅkaṃ vā paribhuñjantī dve āpattiyo āpajjati. Paribhuñjati, payoge dukkaṭaṃ; paribhutte, āpatti pācittiyassa.
@@ -1516,7 +1516,7 @@ Tiracchānavijjaṃ pariyāpuṇantī dve āpattiyo āpajjati. Pariyāpuṇāti,
 Tiracchānavijjaṃ vācentī dve āpattiyo āpajjati. Vāceti, payoge dukkaṭaṃ; pade pade āpatti pācittiyassa.
 Cittāgāravaggo pañcamo. ^5-235
 
-####### **6. Ārāmavaggo** ^5-1-17-2-4-6-0
+####### **6. Ārāmavaggo** ^5-1-2-2-4-6-0
 
 236. Jānaṃ sabhikkhukaṃ ārāmaṃ anāpucchā pavisantī dve āpattiyo āpajjati. Paṭhamaṃ pādaṃ parikkhepaṃ atikkāmeti, āpatti dukkaṭassa; dutiyaṃ pādaṃ atikkāmeti, āpatti pācittiyassa.
 Bhikkhuṃ akkosantī paribhāsantī dve āpattiyo āpajjati. Akkosati, payoge dukkaṭaṃ; akkosite, āpatti pācittiyassa.
@@ -1530,7 +1530,7 @@ Uposathampi na pucchantī ovādampi na yācantī ekaṃ āpattiṃ āpajjati. P�
 Pasākhe jātaṃ gaṇḍaṃ vā rudhitaṃ vā anapaloketvā saṅghaṃ vā gaṇaṃ vā purisena saddhiṃ ekenekā bhedāpentī dve āpattiyo āpajjati. Bhedāpeti, payoge dukkaṭaṃ; bhinne, āpatti pācittiyassa.
 Ārāmavaggo chaṭṭho. ^5-236
 
-####### **7. Gabbhinīvaggo** ^5-1-17-2-4-7-0
+####### **7. Gabbhinīvaggo** ^5-1-2-2-4-7-0
 
 237. Gabbhiniṃ vuṭṭhāpentī dve āpattiyo āpajjati. Vuṭṭhāpeti, payoge dukkaṭaṃ; vuṭṭhāpite, āpatti pācittiyassa.
 Pāyantiṃ vuṭṭhāpentī dve āpattiyo āpajjati. Vuṭṭhāpeti, payoge dukkaṭaṃ; vuṭṭhāpite, āpatti pācittiyassa.
@@ -1544,7 +1544,7 @@ Vuṭṭhāpitaṃ pavattiniṃ dve vassāni nānubandhantī ekaṃ āpattiṃ �
 Sahajīviniṃ vuṭṭhāpetvā neva vūpakāsentī na vūpakāsāpentī ekaṃ āpattiṃ āpajjati. Pācittiyaṃ.
 Gabbhinīvaggo sattamo. ^5-237
 
-####### **8. Kumārībhūtavaggo** ^5-1-17-2-4-8-0
+####### **8. Kumārībhūtavaggo** ^5-1-2-2-4-8-0
 
 238. Ūnavīsativassaṃ kumāribhūtaṃ vuṭṭhāpentī dve āpattiyo āpajjati. Vuṭṭhāpeti, payoge dukkaṭaṃ; vuṭṭhāpite, āpatti pācittiyassa.
 Paripuṇṇavīsativassaṃ kumāribhūtaṃ dve vassāni chasu dhammesu asikkhitasikkhaṃ vuṭṭhāpentī dve āpattiyo āpajjati. Vuṭṭhāpeti, payoge dukkaṭaṃ; vuṭṭhāpite, āpatti pācittiyassa.
@@ -1561,7 +1561,7 @@ Anuvassaṃ vuṭṭhāpentī dve āpattiyo āpajjati. Vuṭṭhāpeti, payoge d
 Ekaṃ vassaṃ dve vuṭṭhāpentī dve āpattiyo āpajjati. Vuṭṭhāpeti, payoge dukkaṭaṃ; vuṭṭhāpite, āpatti pācittiyassa.
 Kumārībhūtavaggo aṭṭhamo. ^5-238
 
-####### **9. Chattupāhanavaggo** ^5-1-17-2-4-9-0
+####### **9. Chattupāhanavaggo** ^5-1-2-2-4-9-0
 
 239. Chattupāhanaṃ dhārentī dve āpattiyo āpajjati. Dhāreti, payoge dukkaṭaṃ; dhārite, āpatti pācittiyassa.
 Yānena yāyantī dve āpattiyo āpajjati. Yāyati, payoge dukkaṭaṃ; yāyite, āpatti pācittiyassa.
@@ -1579,7 +1579,7 @@ Asaṅkaccikā gāmaṃ pavisantī dve āpattiyo āpajjati. Paṭhamaṃ pāda�
 Chattupāhanavaggo navamo.
 Khuddakaṃ niṭṭhitaṃ. ^5-239
 
-###### 5. Pāṭidesanīyakaṇḍaṃ ^5-1-17-2-5-0
+###### 5. Pāṭidesanīyakaṇḍaṃ ^5-1-2-2-5-0
 
 240. Sappiṃ viññāpetvā bhuñjantī dve āpattiyo āpajjati. Bhuñjissāmīti paṭiggaṇhāti, āpatti dukkaṭassa; ajjhohāre ajjhohāre āpatti pāṭidesanīyassa.
 Telaṃ viññāpetvā bhuñjantī dve āpattiyo āpajjati. Bhuñjissāmīti paṭiggaṇhāti, āpatti dukkaṭassa; ajjhohāre ajjhohāre āpatti pāṭidesanīyassa.
@@ -1592,37 +1592,37 @@ Dadhiṃ viññāpetvā bhuñjantī dve āpattiyo āpajjati. Bhuñjissāmīti pa
 Aṭṭha pāṭidesanīyā niṭṭhitā.
 Katāpattivāro niṭṭhito dutiyo. ^5-240
 
-##### 3. Vipattivāro ^5-1-17-3-0
+##### 3. Vipattivāro ^5-1-2-3-0
 
 241. Avassutā bhikkhuniyā avassutassa purisapuggalassa kāyasaṃsaggaṃ sādiyantiyā āpattiyo catunnaṃ vipattīnaṃ kati vipattiyo bhajanti? Avassutāya bhikkhuniyā avassutassa purisapuggalassa kāyasaṃsaggaṃ sādiyantiyā āpattiyo catunnaṃ vipattīnaṃ dve vipattiyo bhajanti – siyā sīlavipattiṃ, siyā ācāravipattiṃ…pe….
 Dadhiṃ viññāpetvā bhuñjantiyā āpattiyo catunnaṃ vipattīnaṃ kati vipattiyo bhajanti? Dadhiṃ viññāpetvā bhuñjantiyā āpattiyo catunnaṃ vipattīnaṃ ekaṃ vipattiṃ bhajanti – ācāravipattiṃ.
 Vipattivāro niṭṭhito tatiyo. ^5-241
 
-##### 4. Saṅgahavāro ^5-1-17-4-0
+##### 4. Saṅgahavāro ^5-1-2-4-0
 
 242. Avassutā bhikkhuniyā avassutassa purisapuggalassa kāyasaṃsaggaṃ sādiyantiyā āpattiyo sattannaṃ āpattikkhandhānaṃ katihi āpattikkhandhehi saṅgahitā? Avassutāya bhikkhuniyā avassutassa purisapuggalassa kāyasaṃsaggaṃ sādiyantiyā āpattiyo sattannaṃ āpattikkhandhānaṃ tīhi āpattikkhandhehi saṅgahitā – siyā pārājikāpattikkhandhena, siyā thullaccayāpattikkhandhena, siyā dukkaṭāpattikkhandhena…pe….
 Dadhiṃ viññāpetvā bhuñjantiyā āpattiyo sattannaṃ āpattikkhandhānaṃ katihi āpattikkhandhehi saṅgahitā? Dadhiṃ viññāpetvā bhuñjantiyā āpattiyo sattannaṃ āpattikkhandhānaṃ dvīhi āpattikkhandhehi saṅgahitā – siyā pāṭidesanīyāpattikkhandhena, siyā dukkaṭāpattikkhandhena.
 Saṅgahavāro niṭṭhito catuttho. ^5-242
 
-##### 5. Samuṭṭhānavāro ^5-1-17-5-0
+##### 5. Samuṭṭhānavāro ^5-1-2-5-0
 
 243. Avassutāya bhikkhuniyā avassutassa purisapuggalassa kāyasaṃsaggaṃ sādiyantiyā āpattiyo channaṃ āpattisamuṭṭhānānaṃ katihi samuṭṭhānehi samuṭṭhanti? Avassutāya bhikkhuniyā avassutassa purisapuggalassa kāyasaṃsaggaṃ sādiyantiyā āpattiyo channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhanti – kāyato ca cittato ca samuṭṭhanti, na vācato…pe….
 Dadhiṃ viññāpetvā bhuñjantiyā āpattiyo channaṃ āpattisamuṭṭhānānaṃ katihi samuṭṭhānehi samuṭṭhanti? Dadhiṃ viññāpetvā bhuñjantiyā āpattiyo channaṃ āpattisamuṭṭhānānaṃ catūhi samuṭṭhānehi samuṭṭhanti – siyā kāyato samuṭṭhanti, na vācato na cittato; siyā kāyato ca vācato ca samuṭṭhanti, na cittato; siyā kāyato ca cittato ca samuṭṭhanti, na vācato; siyā kāyato ca vācato ca cittato ca samuṭṭhanti.
 Samuṭṭhānavāro niṭṭhito pañcamo. ^5-243
 
-##### 6. Adhikaraṇavāro ^5-1-17-6-0
+##### 6. Adhikaraṇavāro ^5-1-2-6-0
 
 244. Avassutā bhikkhuniyā avassutassa purisapuggalassa kāyasaṃsaggaṃ sādiyantiyā āpattiyo catunnaṃ adhikaraṇānaṃ katamaṃ adhikaraṇaṃ? Avassutāya bhikkhuniyā avassutassa purisapuggalassa kāyasaṃsaggaṃ sādiyantiyā āpattiyo catunnaṃ adhikaraṇānaṃ – āpattādhikaraṇaṃ…pe….
 Dadhiṃ viññāpetvā bhuñjantiyā āpattiyo catunnaṃ adhikaraṇānaṃ katamaṃ adhikaraṇaṃ? Dadhiṃ viññāpetvā bhuñjantiyā āpattiyo catunnaṃ adhikaraṇānaṃ – āpattādhikaraṇaṃ.
 Adhikaraṇavāro niṭṭhito chaṭṭho. ^5-244
 
-##### 7. Samathavāro ^5-1-17-7-0
+##### 7. Samathavāro ^5-1-2-7-0
 
 245. Avassutāya bhikkhuniyā avassutassa purisapuggalassa kāyasaṃsaggaṃ sādiyantiyā āpattiyo sattannaṃ samathānaṃ katihi samathehi sammanti? Avassutāya bhikkhuniyā avassutassa purisapuggalassa kāyasaṃsaggaṃ sādiyantiyā āpattiyo sattannaṃ samathānaṃ tīhi samathehi sammanti – siyā sammukhāvinayena ca paṭiññātakaraṇena ca, siyā sammukhāvinayena ca tiṇavatthārakena ca…pe….
 Dadhiṃ viññāpetvā bhuñjantiyā āpattiyo sattannaṃ samathānaṃ katihi samathehi sammanti? Dadhiṃ viññāpetvā bhuñjantiyā āpattiyo sattannaṃ samathānaṃ tīhi samathehi sammanti – siyā sammukhāvinayena ca paṭiññātakaraṇena ca, siyā sammukhāvinayena ca tiṇavatthārakena ca.
 Samathavāro niṭṭhito sattamo. ^5-245
 
-##### 8. Samuccayavāro ^5-1-17-8-0
+##### 8. Samuccayavāro ^5-1-2-8-0
 
 246. Avassutā bhikkhunī avassutassa purisapuggalassa kāyasaṃsaggaṃ sādiyantī kati āpattiyo āpajjati? Avassutā bhikkhunī avassutassa purisapuggalassa kāyasaṃsaggaṃ sādiyantī tisso āpattiyo āpajjati. Adhakkhakaṃ ubbhajāṇumaṇḍalaṃ gahaṇaṃ sādiyati, āpatti pārājikassa; ubbhakkhakaṃ adhojāṇumaṇḍalaṃ gahaṇaṃ sādiyati, āpatti thullaccayassa; kāyapaṭibaddhaṃ gahaṇaṃ sādiyati, āpatti dukkaṭassa – avassutā bhikkhunī avassutassa purisapuggalassa kāyasaṃsaggaṃ sādiyantī imā tisso āpattiyo āpajjati.
 Tā āpattiyo catunnaṃ vipattīnaṃ kati vipattiyo bhajanti? Sattannaṃ āpattikkhandhānaṃ katihi āpattikkhandhehi saṅgahitā? Channaṃ āpattisamuṭṭhānānaṃ katihi samuṭṭhānehi samuṭṭhanti? Catunnaṃ adhikaraṇānaṃ katamaṃ adhikaraṇaṃ? Sattannaṃ samathānaṃ katihi samathehi sammanti? Tā āpattiyo catunnaṃ vipattīnaṃ dve vipattiyo bhajanti – siyā sīlavipattiṃ, siyā ācāravipattiṃ. Sattannaṃ āpattikkhandhānaṃ tīhi āpattikkhandhehi saṅgahitā – siyā pārājikāpattikkhandhena, siyā thullaccayāpattikkhandhena, siyā dukkaṭāpattikkhandhena. Channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhanti – kāyato ca cittato ca samuṭṭhanti, na vācato. Catunnaṃ adhikaraṇānaṃ āpattādhikaraṇaṃ. Sattannaṃ samathānaṃ tīhi samathehi sammanti – siyā sammukhāvinayena ca paṭiññātakaraṇena ca, siyā sammukhāvinayena ca tiṇavatthārakena ca…pe….
@@ -1630,9 +1630,9 @@ Dadhiṃ viññāpetvā bhuñjantī kati āpattiyo āpajjati? Dadhiṃ viññāp
 Tā āpattiyo catunnaṃ vipattīnaṃ kati vipattiyo bhajanti? Sattannaṃ āpattikkhandhānaṃ katihi āpattikkhandhehi saṅgahitā? Channaṃ āpattisamuṭṭhānānaṃ katihi samuṭṭhānehi samuṭṭhanti? Catunnaṃ adhikaraṇānaṃ katamaṃ adhikaraṇaṃ? Sattannaṃ samathānaṃ katihi samathehi sammanti? Tā āpattiyo catunnaṃ vipattīnaṃ ekaṃ vipattiṃ bhajanti – ācāravipattiṃ. Sattannaṃ āpattikkhandhānaṃ dvīhi āpattikkhandhehi saṅgahitā – siyā pāṭidesanīyāpattikkhandhena, siyā dukkaṭāpattikkhandhena. Channaṃ āpattisamuṭṭhānānaṃ catūhi samuṭṭhānehi samuṭṭhanti – siyā kāyato samuṭṭhanti na vācato na cittato, siyā kāyato ca vācato ca samuṭṭhanti na cittato, siyā kāyato ca cittato ca samuṭṭhanti na vācato, siyā kāyato ca vācato ca cittato ca samuṭṭhanti. Catunnaṃ adhikaraṇānaṃ – āpattādhikaraṇaṃ. Sattannaṃ samathānaṃ tīhi samathehi sammanti – siyā sammukhāvinayena ca paṭiññātakaraṇena ca, siyā sammukhāvinayena ca tiṇavatthārakena ca.
 Samuccayavāro niṭṭhito aṭṭhamo. ^5-246
 
-##### 1. Katthapaññattivāro ^5-1-17-9-0
+##### 1. Katthapaññattivāro ^5-1-2-9-0
 
-###### 1. Pārājikakaṇḍaṃ ^5-1-17-9-1-0
+###### 1. Pārājikakaṇḍaṃ ^5-1-2-9-1-0
 
 247. Yaṃ tena bhagavatā jānatā passatā arahatā sammāsambuddhena kāyasaṃsaggaṃ sādiyanapaccayā pārājikaṃ kattha paññattaṃ? Kaṃ ārabbha? Kismiṃ vatthusmiṃ…pe… kenābhatanti?
 Yaṃ tena bhagavatā jānatā passatā arahatā sammāsambuddhena kāyasaṃsaggaṃ sādiyanapaccayā pārājikaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Sundarīnandaṃ bhikkhuniṃ ārabbha. Kismiṃ vatthusminti? Sundarīnandā bhikkhunī avassutā avassutassa purisapuggalassa kāyasaṃsaggaṃ sādiyi, tasmiṃ vatthusmiṃ. Atthi tattha paññatti, anupaññatti, anuppannapaññattīti? Ekā paññatti. Anupaññatti anuppannapaññatti tasmiṃ natthi. Sabbatthapaññatti, padesapaññattīti? Sabbatthapaññatti. Sādhāraṇapaññatti, asādhāraṇapaññattīti? Asādhāraṇapaññatti. Ekatopaññatti, ubhatopaññattīti? Ekatopaññatti. Catunnaṃ pātimokkhuddesānaṃ katthogadhaṃ kattha pariyāpannanti? Nidānogadhaṃ nidānapariyāpannaṃ? Katamena uddesena uddesaṃ āgacchatīti? Dutiyena uddesena uddesaṃ āgacchati. Catunnaṃ vipattīnaṃ katamā vipattīti? Sīlavipatti. Sattannaṃ āpattikkhandhānaṃ katamo āpattikkhandhoti? Pārājikāpattikkhandho. Channaṃ āpattisamuṭṭhānānaṃ katihi samuṭṭhānehi samuṭṭhātīti? Ekena samuṭṭhānena samuṭṭhāti – kāyato ca cittato ca samuṭṭhāti, na vācato…pe… kenābhatanti? Paramparābhataṃ –
@@ -1645,7 +1645,7 @@ Yāvatatiyaṃ samanubhāsanāya na paṭinissajjanapaccayā pārājikaṃ katth
 Aṭṭhamaṃ vatthuṃ paripūraṇapaccayā pārājikaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiyā bhikkhuniyo ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhuniyo aṭṭhamaṃ vatthuṃ paripūresuṃ, tasmiṃ vatthusmiṃ. Ekā paññatti. Channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhāti – dhuranikkhepe…pe….
 Pārājikā niṭṭhitā. ^5-247
 
-###### 2. Saṅghādisesakaṇḍādi ^5-1-17-9-2-0
+###### 2. Saṅghādisesakaṇḍādi ^5-1-2-9-2-0
 
 248. Yaṃ tena bhagavatā jānatā passatā arahatā sammāsambuddhena ussayavādikāya bhikkhuniyā aḍḍaṃ karaṇapaccayā saṅghādiseso kattha paññatto? Kaṃ ārabbha? Kismiṃ vatthusmiṃ…pe… kenābhatanti?
 Yaṃ tena bhagavatā jānatā passatā arahatā sammāsambuddhena ussayavādikāya bhikkhuniyā aḍḍaṃ karaṇapaccayā saṅghādiseso kattha paññattoti? Sāvatthiyaṃ paññatto. Kaṃ ārabbhāti? Thullanandaṃ bhikkhuniṃ ārabbha. Kismiṃ vatthusminti? Thullanandā bhikkhunī ussayavādikā vihari, tasmiṃ vatthusmiṃ. Atthi tattha paññatti, anupaññatti, anuppannapaññattīti? Ekā paññatti. Anupaññatti anuppannapaññatti tasmiṃ natthi. Sabbatthapaññatti, padesapaññattīti? Sabbatthapaññatti. Sādhāraṇapaññatti, asādhāraṇapaññattīti? Asādhāraṇapaññatti. Ekatopaññatti, ubhatopaññattīti? Ekatopaññatti. Catunnaṃ pātimokkhuddesānaṃ katthogadhaṃ kattha pariyāpannanti? Nidānogadhaṃ nidānapariyāpannaṃ. Katamena uddesena uddesaṃ āgacchatīti? Tatiyena uddesena uddesaṃ āgacchati. Catunnaṃ vipattīnaṃ katamā vipattīti? Sīlavipatti. Sattannaṃ āpattikkhandhānaṃ katamo āpattikkhandhoti? Saṅghādisesāpattikkhandho. Channaṃ āpattisamuṭṭhānānaṃ katihi samuṭṭhānehi samuṭṭhātīti? Dvīhi samuṭṭhānehi samuṭṭhāti – siyā kāyato ca vācato ca samuṭṭhāti, na cittato; siyā kāyato ca vācato cittato ca samuṭṭhāti…pe… kenābhatanti? Paramparābhataṃ –
@@ -1665,9 +1665,9 @@ Saṃsaṭṭhānaṃ bhikkhunīnaṃ yāvatatiyaṃ samanubhāsanāya na paṭi
 Dadhiṃ viññāpetvā bhuñjanapaccayā pāṭidesanīyaṃ kattha paññattanti? Sāvatthiyaṃ paññattaṃ. Kaṃ ārabbhāti? Chabbaggiyā bhikkhuniyo ārabbha. Kismiṃ vatthusminti? Chabbaggiyā bhikkhuniyo dadhiṃ viññāpetvā bhuñjiṃsu, tasmiṃ vatthusmiṃ. Ekā paññatti, ekā anupaññatti. Channaṃ āpattisamuṭṭhānānaṃ catūhi samuṭṭhānehi samuṭṭhāti…pe….
 Katthapaññattivāro niṭṭhito paṭhamo. ^5-248
 
-##### 2. Katāpattivāro ^5-1-17-10-0
+##### 2. Katāpattivāro ^5-1-2-10-0
 
-###### 1. Pārājikakaṇḍaṃ ^5-1-17-10-1-0
+###### 1. Pārājikakaṇḍaṃ ^5-1-2-10-1-0
 
 249. Kāyasaṃsaggaṃ sādiyanapaccayā kati āpattiyo āpajjati? Kāyasaṃsaggaṃ sādiyanapaccayā pañca āpattiyo āpajjati. Avassutā bhikkhunī avassutassa purisapuggalassa adhakkhakaṃ ubbhajāṇumaṇḍalaṃ gahaṇaṃ sādiyati, āpatti pārājikassa; bhikkhu kāyena kāyaṃ āmasati, āpatti saṅghādisesassa; kāyena kāyapaṭibaddhaṃ āmasati, āpatti thullaccayassa; kāyapaṭibaddhena kāyapaṭibaddhaṃ āmasati, āpatti dukkaṭassa; aṅgulipatodake pācittiyaṃ – kāyasaṃsaggaṃ sādiyanapaccayā imā pañca āpattiyo āpajjati.
 Vajjappaṭicchādanapaccayā kati āpattiyo āpajjati? Vajjappaṭicchādanapaccayā catasso āpattiyo āpajjati. Bhikkhunī jānaṃ pārājikaṃ dhammaṃ {dhammaṃ ajjhāpannaṃ (syā.)} paṭicchādeti, āpatti pārājikassa; vematikā paṭicchādeti, āpatti thullaccayassa; bhikkhu saṅghādisesaṃ paṭicchādeti, āpatti pācittiyassa; ācāravipattiṃ paṭicchādeti, āpatti dukkaṭassa – vajjappaṭicchādanapaccayā imā catasso āpattiyo āpajjati.
@@ -1675,7 +1675,7 @@ Yāvatatiyaṃ samanubhāsanāya na paṭinissajjanapaccayā kati āpattiyo āpa
 Aṭṭhamaṃ vatthuṃ paripūraṇapaccayā kati āpattiyo āpajjati? Aṭṭhamaṃ vatthuṃ paripūraṇapaccayā tisso āpattiyo āpajjati. Purisena – "itthannāmaṃ okāsaṃ āgacchā"ti vuttā gacchati, āpatti dukkaṭassa; purisassa hatthapāsaṃ okkantamatte āpatti thullaccayassa; aṭṭhamaṃ vatthuṃ paripūreti, āpatti pārājikassa – aṭṭhamaṃ vatthuṃ paripūraṇapaccayā imā tisso āpattiyo āpajjati.
 Pārājikā niṭṭhitā. ^5-249
 
-###### 2. Saṅghādisesakaṇḍādi ^5-1-17-10-2-0
+###### 2. Saṅghādisesakaṇḍādi ^5-1-2-10-2-0
 
 250. Ussayavādikā bhikkhunī aḍḍaṃ karaṇapaccayā tisso āpattiyo āpajjati. Ekassa āroceti, āpatti dukkaṭassa; dutiyassa āroceti, āpatti thullaccayassa; aḍḍapariyosāne āpatti saṅghādisesassa.
 Coriṃ vuṭṭhāpanapaccayā tisso āpattiyo āpajjati. Ñattiyā dukkaṭaṃ; dvīhi kammavācāhi thullaccayā; kammavācāpariyosāne āpatti saṅghādisesassa.
@@ -1692,36 +1692,36 @@ Dasa saṅghādisesā niṭṭhitā…pe….
 Dadhiṃ viññāpetvā bhuñjanapaccayā kati āpattiyo āpajjati? Dadhiṃ viññāpetvā bhuñjanapaccayā dve āpattiyo āpajjati. Bhuñjissāmīti paṭiggaṇhāti, āpatti dukkaṭassa; ajjhohāre ajjhohāre āpatti pāṭidesanīyassa – dadhiṃ viññāpetvā bhuñjanapaccayā imā dve āpattiyo āpajjati.
 Katāpattivāro niṭṭhito dutiyo. ^5-250
 
-##### 3. Vipattivāro ^5-1-17-11-0
+##### 3. Vipattivāro ^5-1-2-11-0
 
 251. Kāyasaṃsaggaṃ sādiyanapaccayā āpattiyo catunnaṃ vipattīnaṃ kati vipattiyo bhajanti? Kāyasaṃsaggaṃ sādiyanapaccayā āpattiyo catunnaṃ vipattīnaṃ dve vipattiyo bhajanti – siyā sīlavipattiṃ, siyā ācāravipattiṃ…pe… dadhiṃ viññāpetvā bhuñjanapaccayā āpattiyo catunnaṃ vipattīnaṃ kati vipattiyo bhajanti? Dadhiṃ viññāpetvā bhuñjanapaccayā āpattiyo catunnaṃ vipattīnaṃ ekaṃ vipattiṃ bhajanti – ācāravipattiṃ.
 Vipattivāro niṭṭhito tatiyo. ^5-251
 
-##### 4. Saṅgahavāro ^5-1-17-12-0
+##### 4. Saṅgahavāro ^5-1-2-12-0
 
 252. Kāyasaṃsaggaṃ sādiyanapaccayā āpattiyo sattannaṃ āpattikkhandhānaṃ katihi āpattikkhandhehi saṅgahitā? Kāyasaṃsaggaṃ sādiyanapaccayā āpattiyo sattannaṃ āpattikkhandhānaṃ pañcahi āpattikkhandhehi saṅgahitā – siyā pārājikāpattikkhandhena, siyā saṅghādisesāpattikkhandhena, siyā thullaccayāpattikkhandhena, siyā pācittiyāpattikkhandhena, siyā dukkaṭāpattikkhandhena…pe….
 Dadhiṃ viññāpetvā bhuñjanapaccayā āpattiyo sattannaṃ āpattikkhandhānaṃ katihi āpattikkhandhehi saṅgahitā? Dadhiṃ viññāpetvā bhuñjanapaccayā āpattiyo sattannaṃ āpattikkhandhānaṃ dvīhi āpattikkhandhehi saṅgahitā – siyā pāṭidesanīyāpattikkhandhena, siyā dukkaṭāpattikkhandhena.
 Saṅgahavāro niṭṭhito catuttho. ^5-252
 
-##### 5. Samuṭṭhānavāro ^5-1-17-13-0
+##### 5. Samuṭṭhānavāro ^5-1-2-13-0
 
 253. Kāyasaṃsaggaṃ sādiyanapaccayā āpattiyo channaṃ āpattisamuṭṭhānānaṃ katihi samuṭṭhānehi samuṭṭhanti? Kāyasaṃsaggaṃ sādiyanapaccayā āpattiyo channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhanti – kāyato ca cittato ca samuṭṭhanti, na vācato…pe….
 Dadhiṃ viññāpetvā bhuñjanapaccayā āpattiyo channaṃ āpattisamuṭṭhānānaṃ katihi samuṭṭhānehi samuṭṭhanti? Dadhiṃ viññāpetvā bhuñjanapaccayā āpattiyo channaṃ āpattisamuṭṭhānānaṃ catūhi samuṭṭhānehi samuṭṭhanti – siyā kāyato samuṭṭhanti, na vācato na cittato; siyā kāyato ca vācato ca samuṭṭhanti, na cittato; siyā kāyato ca cittato ca samuṭṭhanti, na vācato; siyā kāyato ca vācato ca cittato ca samuṭṭhanti.
 Samuṭṭhānavāro niṭṭhito pañcamo. ^5-253
 
-##### 6. Adhikaraṇavāro ^5-1-17-14-0
+##### 6. Adhikaraṇavāro ^5-1-2-14-0
 
 254. Kāyasaṃsaggaṃ sādiyanapaccayā āpattiyo catunnaṃ adhikaraṇānaṃ katamaṃ adhikaraṇaṃ? Kāyasaṃsaggaṃ sādiyanapaccayā āpattiyo catunnaṃ adhikaraṇānaṃ, āpattādhikaraṇaṃ…pe….
 Dadhiṃ viññāpetvā bhuñjanapaccayā āpattiyo catunnaṃ adhikaraṇānaṃ katamaṃ adhikaraṇaṃ? Dadhiṃ viññāpetvā bhuñjanapaccayā āpattiyo catunnaṃ adhikaraṇānaṃ – āpattādhikaraṇaṃ.
 Adhikaraṇavāro niṭṭhito chaṭṭho. ^5-254
 
-##### 7. Samathavāro ^5-1-17-15-0
+##### 7. Samathavāro ^5-1-2-15-0
 
 255. Kāyasaṃsaggaṃ sādiyanapaccayā āpattiyo sattannaṃ samathānaṃ katihi samathehi sammanti? Kāyasaṃsaggaṃ sādiyanapaccayā āpattiyo sattannaṃ samathānaṃ tīhi samathehi sammanti – siyā sammukhāvinayena ca paṭiññātakaraṇena ca, siyā sammukhāvinayena ca tiṇavatthārakena ca…pe….
 Dadhiṃ viññāpetvā bhuñjanapaccayā āpattiyo sattannaṃ samathānaṃ katihi samathehi sammanti? Dadhiṃ viññāpetvā bhuñjanapaccayā āpattiyo sattannaṃ samathānaṃ tīhi samathehi sammanti – siyā sammukhāvinayena ca paṭiññātakaraṇena ca, siyā sammukhāvinayena ca tiṇavatthārakena ca.
 Samathavāro niṭṭhito sattamo. ^5-255
 
-##### 8. Samuccayavāro ^5-1-17-16-0
+##### 8. Samuccayavāro ^5-1-2-16-0
 
 256. Kāyasaṃsaggaṃ sādiyanapaccayā kati āpattiyo āpajjati? Kāyasaṃsaggaṃ sādiyanapaccayā pañca āpattiyo āpajjati. Avassutā bhikkhunī avassutassa purisapuggalassa adhakkhakaṃ ubbhajāṇumaṇḍalaṃ gahaṇaṃ sādiyati, āpatti pārājikassa; bhikkhu kāyena kāyaṃ āmasati, āpatti saṅghādisesassa; kāyena kāyapaṭibaddhaṃ āmasati, āpatti thullaccayassa; kāyapaṭibaddhena kāyapaṭibaddhaṃ āmasati, āpatti dukkaṭassa; aṅgulipatodake pācittiyaṃ – kāyasaṃsaggaṃ sādiyanapaccayā imā pañca āpattiyo āpajjati.
 Tā āpattiyo catunnaṃ vipattīnaṃ kati vipattiyo bhajanti? Sattannaṃ āpattikkhandhānaṃ katihi āpattikkhandhehi saṅgahitā? Channaṃ āpattisamuṭṭhānānaṃ katihi samuṭṭhānehi samuṭṭhanti? Catunnaṃ adhikaraṇānaṃ katamaṃ adhikaraṇaṃ? Sattannaṃ samathānaṃ katihi samathehi sammanti? Tā āpattiyo catunnaṃ vipattīnaṃ dve vipattiyo bhajanti – siyā sīlavipattiṃ, siyā ācāravipattiṃ. Sattannaṃ āpattikkhandhānaṃ pañcahi āpattikkhandhehi saṅgahitā – siyā pārājikāpattikkhandhena, siyā saṅghādisesāpattikkhandhena, siyā thullaccayāpattikkhandhena, siyā pācittiyāpattikkhandhena, siyā dukkaṭāpattikkhandhena. Channaṃ āpattisamuṭṭhānānaṃ ekena samuṭṭhānena samuṭṭhanti – kāyato ca cittato ca samuṭṭhanti, na vācato. Catunnaṃ adhikaraṇānaṃ āpattādhikaraṇaṃ. Sattannaṃ samathānaṃ tīhi samathehi sammanti – siyā sammukhāvinayena ca paṭiññātakaraṇena ca, siyā sammukhāvinayena ca tiṇavatthārakena ca…pe….

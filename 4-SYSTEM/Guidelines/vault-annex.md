@@ -80,6 +80,23 @@ The recognised deviation types are listed in `annotation-conventions.md` §7: in
   Flattening would lose that, and in the Kammakkhandhaka it would leave runs of identical titles, the same lists repeated for each of the seven kammas, with nothing to say which kamma each belongs to.
 - **For later contributors.** Do not "fix" these back to the XML's flat level. The text and the paragraph IDs `^N-N` are identical either way; only heading depth and heading IDs differ.
 
+### ⚑ `pi-5.md`: `1. Bhikkhuvibhaṅgo` moved below `Soḷasamahāvāro` — one heading line out of printed order (registered 2026-11-20)
+
+**This is a convention of this vault only.** It is not a general Railroads rule.
+
+- **What the source does.** The XML prints `<head rend="title">1. Bhikkhuvibhaṅgo</head>` right after the book title and *before* the first chapter head `Soḷasamahāvāro`, outside that chapter's div. tipitaka.app shows it as a title in its reading view but leaves it out of its contents tree.
+- **What this vault does.**
+  - The heading sits one line lower, as `#### 1. Bhikkhuvibhaṅgo ^5-1-1-0` under `### Soḷasamahāvāro ^5-1-0`. It holds the 16 bhikkhu vāras.
+  - `#### Bhikkhunīvibhaṅgo ^5-1-2-0` is its sibling and holds the 16 bhikkhunī vāras.
+  - This is the only line out of the printed order. No paragraph moves, and the chapter IDs `^5-2-0` onward are unchanged.
+- **Why.** Soḷasamahāvāro is one unit made of the two vibhaṅgas:
+  - the Vajirabuddhi closes it with `Mahāvibhaṅge ca bhikkhunivibhaṅge soḷasamahāvāravaṇṇanā niṭṭhitā.`;
+  - the XML's chapter div holds both halves;
+  - each vibhaṅga closes its own 16 vāras.
+
+  A Markdown heading tree cannot put a child before its parent, so the line has to move for the two vibhaṅgas to be siblings.
+- **For later contributors.** Do not move it back above `Soḷasamahāvāro`, and do not turn it back into a text line (`^5-U1`, the state until 2026-11-20). The record is in `0-INBOX/xml-verification/pi-5-verification.md` §2.
+
 ### Re-segmentation and ID-migration log
 
 [Every change to an addressing scheme after rails already cited it. One dated entry each: what changed, where the pre-change file is kept, and what has to be re-checked.
