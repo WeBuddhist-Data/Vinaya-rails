@@ -65,6 +65,7 @@ FIX = {
     "root-not-on-env": "push the root text to this environment first",
     "link-differs": "cannot be patched (set only at creation): ask a developer",
     "edition-mismatch": "check by hand (verify)", "gone": "check by hand (verify)", "blocked": "fix the note",
+    "ids-stale": "update --only ids",
 }
 for _a in ANNOTATIONS:
     FIX[f"{_a}-missing"] = f"push --only {_a}"
@@ -99,6 +100,7 @@ class Item:
     live_direction: str | None = None        # "root->self" | "self->root"
     live_ann: dict = field(default_factory=dict)
     ops: list | None = None
+    stale_fm: dict = field(default_factory=dict)  # frontmatter key -> (id there, id on the server now)
 
     @property
     def link(self):
@@ -554,8 +556,35 @@ def _classify(it: Item, ctx: Ctx):
             f["alignment-missing"] = f"no alignment with the root on {ctx.env.name}"
         elif want != have:
             f["alignment-differs"] = f"{len(have)} pairs on {ctx.env.name}, {len(want)} from the note"
+    it.stale_fm = _stale_frontmatter(it, ctx)
+    if it.stale_fm:
+        f["ids-stale"] = "frontmatter " + ", ".join(f"{k} {a} is gone, the server has {b}"
+                                                    for k, (a, b) in it.stale_fm.items())
     if not f:
         f["ok"] = ""
+
+
+def _stale_frontmatter(it: Item, ctx: Ctx) -> dict:
+    """On the frontmatter environment: frontmatter ids that no longer exist on the server, each
+    with the one id that replaced it there. Only a clear successor is offered."""
+    if ctx.env.name != FRONTMATTER_ENV or not it.live_text:
+        return {}
+    try:
+        fm = FM.ids(it.path)
+    except Exception:  # noqa: BLE001
+        return {}
+    out = {}
+    if fm.get("text_id") and it.text_id and fm["text_id"] != it.text_id and \
+            ctx.client.get_or_none(f"/v2/texts/{fm['text_id']}") is None:
+        out["text_id"] = (fm["text_id"], it.text_id)
+    editions = it.live_text.get("editions") or []
+    if fm.get("edition_id") and it.edition_id and fm["edition_id"] != it.edition_id and \
+            fm["edition_id"] not in editions and it.edition_id in editions:
+        out["edition_id"] = (fm["edition_id"], it.edition_id)
+    tocs = [str(t.get("id")) for t in (it.live_ann.get("toc") or []) if t.get("id")]
+    if fm.get("toc_id") and len(tocs) == 1 and fm["toc_id"] not in tocs:
+        out["toc_id"] = (fm["toc_id"], tocs[0])
+    return out
 
 
 # ------------------------------------------------------------------ links (the re-segmentation gate)
@@ -605,18 +634,32 @@ def links(it: Item, ctx: Ctx) -> list:
 
 # ------------------------------------------------------------------ steps
 
-def _record(it: Item, ctx: Ctx, **ids):
-    """Ledger always; frontmatter only on the frontmatter environment, never overwriting."""
+def _record(it: Item, ctx: Ctx, supersedes=None, **ids):
+    """Ledger always; frontmatter only on the frontmatter environment, never overwriting —
+    except an id in `supersedes`, which the caller confirmed is gone from the server."""
     e = ctx.ledger.entry(it.key)
     e.update({k: v for k, v in ids.items() if v is not None})
     ctx.ledger.save()
     fm_ids = {k: v for k, v in ids.items() if k in FM.ID_KEYS and v}
     if ctx.env.name == FRONTMATTER_ENV and fm_ids:
         try:
-            FM.write_ids(it.path, **fm_ids)
+            written = FM.write_ids(it.path, supersedes=supersedes, **fm_ids)
         except ValueError as exc:
             return f" (frontmatter NOT updated: {exc})"
+        if written:
+            return f" (frontmatter: {', '.join(written)} written)"
     return ""
+
+
+def _fix_frontmatter_ids(it, ctx):
+    """update --only ids: put the server's current id where the frontmatter holds one that is gone."""
+    new = {k: b for k, (a, b) in it.stale_fm.items()}
+    gone = {k: {a} for k, (a, b) in it.stale_fm.items()}
+    it.ids.update({k: v for k, v in new.items() if k in ("text_id", "edition_id", "toc_id")})
+    msg = _record(it, ctx, supersedes=gone, **new)
+    if any(FM.ids(it.path).get(k) != v for k, v in new.items()):
+        raise ApiError("frontmatter read back still differs" + msg)
+    return "; ".join(f"{k} {a} -> {b}" for k, (a, b) in it.stale_fm.items()) + msg
 
 
 def _post_text(it, ctx):
@@ -641,10 +684,11 @@ def _post_edition(it, ctx):
     return f"edition {out['id']}, {len(back)} segments read back" + msg
 
 
-def _post_toc(it, ctx):
+def _post_toc(it, ctx, replaced=()):
+    """Post the note's TOC; `replaced` are the TOC ids just deleted, which the frontmatter may drop."""
     out = ctx.client.post(f"/v2/editions/{it.edition_id}/table-of-contents", {"sections": it.p["toc"]})
     it.ids["toc_id"] = out.get("id")
-    return f"toc {out.get('id')}" + _record(it, ctx, toc_id=out.get("id"))
+    return f"toc {out.get('id')}" + _record(it, ctx, supersedes={"toc_id": set(replaced)}, toc_id=out.get("id"))
 
 
 def _post_annotations(it, ctx, a):
@@ -661,10 +705,12 @@ def _sync_annotations(it, ctx, a):
     """Make the edition's annotations of kind `a` exactly the note's (delete what differs, post what is missing)."""
     eid, c = it.edition_id, ctx.client
     if a == "toc":
+        deleted = []
         for t in items(c.get(f"/v2/editions/{eid}/table-of-contents")):
             c.delete(f"/v2/table-of-contents/{t['id']}")
+            deleted.append(str(t["id"]))
         if it.p.get("toc"):
-            return _post_toc(it, ctx) + " (old one(s) deleted)"
+            return _post_toc(it, ctx, replaced=deleted) + " (old one(s) deleted)"
         return "table of contents deleted"
     if a == "footnotes":
         c.delete(f"/v2/editions/{eid}/footnotes")
@@ -865,9 +911,9 @@ def plan_update(states, ctx, only):
     plans = []
     for it in states:
         f = it.flags
-        todo = [k for k in ("details", "content", *ANNOTATIONS) if k in only and (
+        todo = [k for k in ("details", "content", *ANNOTATIONS, "ids") if k in only and (
             (k == "details" and "details-changed" in f) or (k == "content" and "content-patchable" in f)
-            or f"{k}-differs" in f)]
+            or (k == "ids" and "ids-stale" in f) or f"{k}-differs" in f)]
         if not todo:
             continue
         p = NotePlan(title=it.title, link=it.link)
@@ -886,6 +932,10 @@ def plan_update(states, ctx, only):
                 if a in todo:
                     p.steps.append(Step(f"sync {a} on {it.edition_id}  (delete what differs, post what is missing)",
                                         lambda it=it, a=a: _sync_annotations(it, ctx, a)))
+            if "ids" in todo:
+                what = ", ".join(f"{k} {a} -> {b}" for k, (a, b) in it.stale_fm.items())
+                p.steps.append(Step(f"write frontmatter ids  ({what}; the old ones are gone from {ctx.env.name})",
+                                    lambda it=it: _fix_frontmatter_ids(it, ctx)))
         plans.append(p)
     return plans
 

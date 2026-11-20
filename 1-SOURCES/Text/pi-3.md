@@ -18,7 +18,7 @@ other_ids:
   - tipitaka.org: vin02m2
 text_id: UuDkWSmWOL5PESPmgILv6
 edition_id: VVPfVPNWsbjPzk3bMocKP
-toc_id: 3xPDH8mIs5yt969isbaNB
+toc_id: EaBr8ZlrObQccnIK3utPU
 ---
 
 Namo tassa bhagavato arahato sammāsambuddhassa ^T-1

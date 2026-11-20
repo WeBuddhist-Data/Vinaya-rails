@@ -15,7 +15,8 @@ Commands:
   push     create what is missing          --only (text kinds): text, edition, toc, yigchungs,
                                            durchens, footnotes, alignment;  (audio): audio, recording, cues
   update   PATCH / re-sync what changed    --only (text kinds): details, content, toc, yigchungs,
-                                           durchens, footnotes;  (audio): audio, recording
+                                           durchens, footnotes, ids;  (audio): audio, recording
+           (ids: frontmatter ids that are gone from the server get the server's current id)
   replace  text kinds: re-segmentation — DELETE segmentation -> one full content REPLACE ->
            POST segmentation -> annotations again; refused for a linked text unless --dev.
            audio: the file changed -> new recording on the same audio, old one deleted, cues again.
@@ -27,7 +28,8 @@ Every write prints its plan and sends nothing without --yes; a protected environ
 also needs --confirm <env>. Text payloads come from the vault's own linter and parser
 (4-SYSTEM/scripts/); read-only commands put back any frontmatter the linter fills in.
 Ids: the notes' frontmatter holds one environment's (default prod: text_id, edition_id,
-toc_id, aligned_to_edition_id), written only on that environment and never overwritten;
+toc_id, aligned_to_edition_id), written only on that environment and never overwritten —
+except an id this tool replaced or confirmed gone (state ids-stale), which gets its successor;
 every environment's ids are in the git-ignored ledgers 4-SYSTEM/ledgers/<env>/.
 """
 from __future__ import annotations
@@ -56,7 +58,7 @@ ONLY = {
 for _k in TEXT_KINDS:
     _push = ("text", "edition", *ANN) + (("alignment",) if _k != "text" else ())
     ONLY[(_k, "push")] = (_push, _push)
-    ONLY[(_k, "update")] = (("details", "content", *ANN), ("details", "content", *ANN))
+    ONLY[(_k, "update")] = (("details", "content", *ANN, "ids"), ("details", "content", *ANN, "ids"))
     ONLY[(_k, "delete")] = ((*ANN,) + (("alignment",) if _k != "text" else ()), ())
 
 
