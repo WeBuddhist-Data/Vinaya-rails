@@ -118,7 +118,7 @@ def main(argv=None):
     ap.add_argument("--full-replace", action="store_true",
                     help="replace only, with --dev: re-segment every named note (delete segmentation, replace the "
                          "whole content, post segmentation, annotations), even when in-place patching would do. "
-                         "Breaks its alignments: push them again afterwards. Vault-local addition.")
+                         "Breaks its alignments: push them again afterwards.")
     ap.add_argument("--yes", action="store_true", help="send the plan (without it nothing is sent)")
     ap.add_argument("--confirm", help="repeat the environment's name to write to a protected one (prod)")
     ap.add_argument("--report", nargs="?", const="", metavar="FILE",

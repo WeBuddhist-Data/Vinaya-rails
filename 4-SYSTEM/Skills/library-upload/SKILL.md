@@ -63,7 +63,7 @@ the rest of this skill.
 | `status` | the state of every note on that environment | same | no |
 | `push` | create what is missing — `--only text,edition,toc,yigchungs,durchens,footnotes,alignment` | `--only audio,recording,cues` | yes |
 | `update` | in place — `--only details,content,toc,yigchungs,durchens,footnotes,ids` | `--only audio,recording` | yes |
-| `replace` | **re-segmentation** (gated, see Rules) | the file changed: new recording, old one deleted, cues again | yes |
+| `replace` | **re-segmentation** (gated, see Rules); with `--dev --full-replace`, also notes that could be patched in place (Rule 12) | the file changed: new recording, old one deleted, cues again | yes |
 | `delete` | `--only alignment,toc,yigchungs,durchens,footnotes` (texts never) | `--only cues,recording,audio` | yes |
 | `verify` | everything not ok, and frontmatter/ledger agreement | sizes, cues, deletions | no |
 
@@ -80,8 +80,8 @@ Notes default to the kind's whole folder; name notes or folders to work on part 
   `replace` or `update --only toc` deletes a table of contents and posts a new one, the new
   `toc_id` replaces the deleted one in the frontmatter at once; and `status` flags any
   frontmatter id that no longer exists there as `ids-stale` (fix: `update --only ids`).
-  **Every** environment's ids go to the ledgers `4-SYSTEM/ledgers/<env>/texts.json` and
-  `audio.json` (keyed by the note's vault path).
+  **Every** environment's ids go to the ledgers
+  `4-SYSTEM/ledgers/<env>/texts.json` and `audio.json` (keyed by the note's vault path).
 - Reports in `4-SYSTEM/reports/<env>/`.
 
 ## Output file format
@@ -123,7 +123,7 @@ dev audio and recording belongs to which note** — keep a backup.
 | `link-differs` | `translation_of` / `commentary_of` points elsewhere; settable only at creation → stop, ask a developer |
 | `blocked` | the linter or parser refused the note (reason quoted) → fix the note, never the check |
 | `gone` / `edition-mismatch` | the server and the records disagree → stop and report |
-| `ids-stale` | (frontmatter environment only) a frontmatter id is gone from the server and one clear successor is there — e.g. the `toc_id` after a TOC was replaced → `update --only ids`, which writes only that frontmatter line and the ledger |
+| `ids-stale` | (frontmatter environment only) a frontmatter id is gone from the server and one clear successor is there — e.g. the `toc_id` after a TOC was replaced → `update --only ids`, which writes only that frontmatter line and the ledger (Rule 13) |
 
 Audio: `new`, `partial`, `cues-pending` / `cues-changed` / `cues-extra`, `file-changed`,
 `audio-details` / `recording-details` / `recording-edition`, `blocked`, `text-not-on-env`,
@@ -167,18 +167,16 @@ Audio: `new`, `partial`, `cues-pending` / `cues-changed` / `cues-extra`, `file-c
     upload (`--yes`) is running.
 11. Never edit a ledger or the frontmatter ids by hand, never call the API with curl or a
     one-off script for something this tool does, and never work around a refusal.
-12. **Vault-local addition (Vinaya-rails, 2026-11-20), not yet in rails-template:**
-    `replace --dev --full-replace` runs the re-segmentation sequence (Rule 5) on every named
-    note, even one whose boundaries are unchanged and could be patched in place. Use it only
-    when a developer asks for a full replace. It breaks every alignment to and from those notes,
-    so run `push --only alignment` afterwards. Offer it upstream or drop it at the next sync.
-13. **Vault-local addition (Vinaya-rails, 2026-11-20), not yet in rails-template: frontmatter
-    follows the server.** A frontmatter id is replaced only when the tool itself deleted it
-    (a replaced TOC) or `status` confirmed it is gone and names one successor (`ids-stale`).
-    Before, a replaced TOC left the old `toc_id` in the frontmatter and `verify` still said
-    `ok`. Files: `webuddhist/frontmatter.py` (`write_ids(supersedes=…)`), `webuddhist/text.py`
-    (`_stale_frontmatter`, `_fix_frontmatter_ids`, `_post_toc(replaced=…)`), `library.py`
-    (`--only ids`). Offer it upstream with Rule 12.
+12. **A full replace is a developer's call.** `replace --dev --full-replace` runs the
+    Rule 5 sequence on every named note, even one whose boundaries are unchanged and
+    could be patched in place — e.g. when a developer wants every edition rebuilt, or
+    the segment types reset. It works only with `replace` and `--dev`, and breaks every
+    alignment to and from those notes: run `push --only alignment` afterwards, then
+    `status` / `verify`. Without it, Rule 4 holds: content edits go in place.
+13. **The frontmatter follows the server.** A frontmatter id is replaced only when the
+    tool itself deleted it (a replaced table of contents) or `status` confirmed it is
+    gone and names one successor (`ids-stale` → `update --only ids`). Any other id
+    already there is never overwritten (Rule 11).
 
 ## Procedure
 
@@ -191,7 +189,7 @@ Audio: `new`, `partial`, `cues-pending` / `cues-changed` / `cues-extra`, `file-c
 
 **Notes were edited after upload** — `status` → `details-changed` → `update --only details`;
 `content-patchable` → `update --only content`; annotations `-differs` → `update --only <them>`;
-`resegment-needed` / `refs-renumbered` → `replace` (Rule 6).
+`resegment-needed` / `refs-renumbered` → `replace` (Rule 6); `ids-stale` → `update --only ids`.
 
 **New recordings (audio)** — skill `convert-audio` (WAV → AAC .m4a, exact length) →
 `python 4-SYSTEM/Skills/library-upload/scripts/audio_notes_to_m4a.py --write` (points the notes at the .m4a) →

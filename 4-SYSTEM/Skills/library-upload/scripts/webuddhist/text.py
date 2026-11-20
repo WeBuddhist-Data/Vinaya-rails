@@ -202,7 +202,7 @@ class Ctx:
     client: object
     ledger: object
     dev: bool = False
-    full_replace: bool = False   # vault-local: re-segment every named note, even when in-place patching would do
+    full_replace: bool = False   # developer: re-segment every named note, even when in-place patching would do
     unsupported: set = field(default_factory=set)   # annotation kinds this environment's API lacks
 
 
@@ -945,7 +945,7 @@ def plan_replace(states, ctx):
     for it in states:
         f = it.flags
         resegment = "resegment-needed" in f or "refs-renumbered" in f or "types-differ" in f
-        # --full-replace (developer only, vault-local addition 2026-11-20): every named note on the
+        # --full-replace (developer only): every named note on the
         # environment gets the whole sequence, even when its boundaries are unchanged.
         if not resegment and not (ctx.full_replace and "new" not in f and "gone" not in f):
             continue
