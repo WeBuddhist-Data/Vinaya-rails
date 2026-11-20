@@ -1761,7 +1761,7 @@ Sañcarittānubhāsanañca, atirekañca cīvaraṃ.
 Lomāni padasodhammo, bhūtaṃ saṃvidhānena ca;
 Theyyadesanacorī ca, ananuññātāya terasa.
 Terasete samuṭṭhāna nayā, viññūhi cintitā.
-Ekekasmiṃ samuṭṭhāne, sadisā idha dissare. ^5-U2
+Ekekasmiṃ samuṭṭhāne, sadisā idha dissare. ^5-U1
 
 #### 1. Paṭhamapārājikasamuṭṭhānaṃ ^5-2-3-0
 
@@ -3211,7 +3211,7 @@ Tādiso codako jhāpeti attānanti.
 Codanākaṇḍaṃ niṭṭhitaṃ.
 Tassuddānaṃ –
 Codanā anuvijjā ca, ādi mūlenuposatho;
-Gati codanakaṇḍamhi, sāsanaṃ patiṭṭhāpayanti. ^5-U3
+Gati codanakaṇḍamhi, sāsanaṃ patiṭṭhāpayanti. ^5-U2
 
 ### Cūḷasaṅgāmo ^5-12-0
 

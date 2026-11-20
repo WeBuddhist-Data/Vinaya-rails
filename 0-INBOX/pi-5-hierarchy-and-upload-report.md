@@ -39,7 +39,7 @@ Every source word is present in order (fidelity check: root 63,281 words; commen
 
 ### The book's opening line `1. Bhikkhuvibhaṅgo`
 
-> **Superseded 2026-11-20.** `1. Bhikkhuvibhaṅgo` is now a heading, `#### 1. Bhikkhuvibhaṅgo ^5-1-1-0` under `Soḷasamahāvāro`, and `^5-U1` no longer exists. See `0-INBOX/xml-verification/pi-5-verification.md` §2 and `vault-annex.md` §2. The text below records the earlier decision.
+> **Superseded 2026-11-20.** `1. Bhikkhuvibhaṅgo` is now a heading, `#### 1. Bhikkhuvibhaṅgo ^5-1-1-0` under `Soḷasamahāvāro`, and the old `^5-U1` no longer exists. The two gāthā blocks `^5-U2` and `^5-U3` mentioned below are now `^5-U1` and `^5-U2`. See `0-INBOX/xml-verification/pi-5-verification.md` §2 and `vault-annex.md` §2. The text below records the earlier decision.
 
 The XML prints `<head rend="title">1. Bhikkhuvibhaṅgo</head>` right after the book title, before the first chapter. The site shows it as a title-style line in the book's own opening text (paragraph role `title`, in the `vp-pv` book node), **not** as a node of its contents tree: the tree, and all five commentaries, begin the Parivāra at `Soḷasamahāvāro`. As a heading it moved every top-level division one place down against the site (19 differences).
 

@@ -95,7 +95,7 @@ The recognised deviation types are listed in `annotation-conventions.md` §7: in
   - each vibhaṅga closes its own 16 vāras.
 
   A Markdown heading tree cannot put a child before its parent, so the line has to move for the two vibhaṅgas to be siblings.
-- **For later contributors.** Do not move it back above `Soḷasamahāvāro`, and do not turn it back into a text line (`^5-U1`, the state until 2026-11-20). The record is in `0-INBOX/xml-verification/pi-5-verification.md` §2.
+- **For later contributors.** Do not move it back above `Soḷasamahāvāro`, and do not turn it back into a text line (`^5-U1`, the state until 2026-11-20). With that line gone, the two remaining unnumbered blocks were renumbered from `^5-U2`, `^5-U3` to `^5-U1`, `^5-U2`. The record is in `0-INBOX/xml-verification/pi-5-verification.md` §2.
 
 ### Re-segmentation and ID-migration log
 

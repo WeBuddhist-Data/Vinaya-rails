@@ -17,7 +17,7 @@
 | Heading IDs vs `#` depth | | | all consistent, no skipped levels |
 | Stray digits after `<pb>` | 0 | | |
 
-The only content-level differences are layout: in **34 places** the XML puts a gāthā's paragraph number on its own line (`<p rend="hangnum">3.</p>`), and the vault joins it to the first verse line (`3. Upāli dāsako ceva, …`) so it can start the `^5-3` block. That is why the vault has 34 fewer lines. Besides the homage `^T-1`, there are 3 unnumbered blocks: `^5-U2` and `^5-U3` (gāthā blocks right after a heading) and `^5-U1` (finding 2a).
+The only content-level differences are layout: in **34 places** the XML puts a gāthā's paragraph number on its own line (`<p rend="hangnum">3.</p>`), and the vault joins it to the first verse line (`3. Upāli dāsako ceva, …`) so it can start the `^5-3` block. That is why the vault has 34 fewer lines. Besides the homage `^T-1`, there are 2 unnumbered blocks: `^5-U1` and `^5-U2`, gāthā blocks right after a heading. Until 2026-11-20 these were `^5-U2` and `^5-U3`, and `^5-U1` was the line `1. Bhikkhuvibhaṅgo` (finding 2a).
 
 ## Findings
 
@@ -55,12 +55,12 @@ The source itself has **22 spaces** before punctuation (A 1, B 7, D 14). These s
 > - **The one change of printed order.** In the XML, `<head rend="title">1. Bhikkhuvibhaṅgo</head>` stands *before* `Soḷasamahāvāro`, outside the chapter div. That is why tipitaka.app shows it as a title in its reading view but not in its contents tree. The vault moves this one heading line below `### Soḷasamahāvāro`, because a tree cannot put a child before its parent. No other line moves. This is registered in `vault-annex.md` §2 as a vault-only deviation.
 > - **Checks:**
 >   - **What changed:** 121 heading lines, plus the converted line. The bhikkhu vāras move one level deeper, and all 56 vaggas are now seven levels deep in **bold**.
->   - **What didn't:** every other non-heading line, the line count and the CRLF line endings. The 501 numbered paragraph IDs `^5-1` … `^5-501` run in sequence; `^T-1`, `^5-U2` and `^5-U3` are unchanged.
->   - **`^5-U1` is gone.** Nothing in 1-SOURCES, 2-RAILS or 3-TRANSFORMATIONS linked to it or to any pi-5 heading ID.
+>   - **What didn't:** every other non-heading line, the line count and the CRLF line endings. The 501 numbered paragraph IDs `^5-1` … `^5-501` run in sequence, and `^T-1` is unchanged.
+>   - **Unnumbered IDs renumbered.** The old `^5-U1` is gone, so the two gāthā blocks `^5-U2` and `^5-U3` became `^5-U1` (line 1764) and `^5-U2` (line 3214), and the `U` series runs without a gap. Nothing in 1-SOURCES, 2-RAILS or 3-TRANSFORMATIONS linked to any of them, or to any pi-5 heading ID. The `U` series in pi-1 to pi-4 was checked too and has no gaps.
 >   - **Transclusions:** all 5 Parivāra commentaries pass [`check_links.py`](check_links.py): 544 links in 488 groups, 0 mismatches, 0 missing targets.
 >   - **Re-check against the XML:** 3,576 identical lines plus the 34 hangnum merges. The only new difference is the moved heading line. The old block-ID warning `^5-U1 but paragraph number 1` is gone.
 >   - **Backup:** [`backups/pi-5.pre-bhikkhuvibhanga-fix.md.bak`](backups/).
->   - **Library:** the prod edition still has `^5-U1` as a segment, and its TOC is the old one. Both need updating there.
+>   - **Library:** the prod edition still has the old segments `5-U1`, `5-U2` and `5-U3` and the old TOC. Both need updating there.
 
 > **Fixed on the user's approval** with [`restructure_pi5_solasa.py`](restructure_pi5_solasa.py). The chapter's 120 headings were re-parented by type, and their IDs renumbered from the new tree:
 >
