@@ -19,7 +19,7 @@ description: >
 
 # aligned-corpus-intake
 
-Converts a corpus whose segmentation, alignment, headings and citations were made **by people** into `1-SOURCES/` files without losing any of that work. A manifest names every work and the raw files that supply its text, segmentation, headings and alignment; adapters read them; a writer emits the vault markdown the publication tools read (`translation-upload`'s linter and parser), and a sidecar JSON per file keeps everything markdown cannot carry. A verifier then proves that every letter of every source reached the output, and that structure and transclusions are sound.
+Converts a corpus whose segmentation, alignment, headings and citations were made **by people** into `1-SOURCES/` files without losing any of that work. A manifest names every work and the raw files that supply its text, segmentation, headings and alignment; adapters read them; a writer emits the vault markdown the publication tools read (the vault's shared linter and parser, as `library-upload` runs them), and a sidecar JSON per file keeps everything markdown cannot carry. A verifier then proves that every letter of every source reached the output, and that structure and transclusions are sound.
 
 **The numbers are the alignment.** In these corpora a number written in front of a commentary segment (`14`, `1-3`, `198,199,201`, `12.`, `4-12.`) *is* the id of the root segment(s) it comments on. So the root file must be keyed by exactly the numbering the commentaries cite — find the numbered copy of the root they were aligned against and make its numbers the block ids — and each number is then transcluded as written: `1-3` → `^1 ^2 ^3`. A segment with no number has no alignment and gets no transclusion. Never re-map the numbers onto a different segmentation of the root; record other segmentations in the sidecar instead.
 
@@ -90,7 +90,7 @@ intake: {skill, adapter, date, annotations: <sidecar path>}
 ```
 
 Ids follow `4-SYSTEM/Guidelines/annotation-conventions.md`:
-- **flat** (`id_scheme: flat`): `^N` = the human segment number, so a block id *is* the number the commentaries write. Translations aligned row-for-row keep the root's id (identity alignment, which `translation-upload` requires).
+- **flat** (`id_scheme: flat`): `^N` = the human segment number, so a block id *is* the number the commentaries write. Translations aligned row-for-row keep the root's id (identity alignment, which `library-upload` requires).
 - **h2** (`id_scheme: h2`): headings carry their full outline path (`^3-4-2-6-7-7-0`; seven or more levels keep `######` and a bold title); body blocks are `^<top-level>-<n>`, counted through deeper headings, so content ids never exceed the parser's three parts.
 
 Sidecar (`<stem>.annotations.json`): `blocks.<id>` → `source` (raw doc, paragraph, line, rows, typed prefix, refs), `role` (lemma/body), `annotations` (every formatted run with offsets and legend meaning; projected variant readings), `comments` (Word comments with author and date), `overlays` (secondary alignments); plus `headings`, `legend`, `notes`, `ref_map` (the reference-numbering concordance), `raw_alignment` / `tsadrel` (row-level pairs), `excluded_paragraphs` (with reason).
@@ -107,7 +107,7 @@ Sidecar (`<stem>.annotations.json`): `blocks.<id>` → `source` (raw doc, paragr
 6. **`1-SOURCES/` is written only by this skill's build, whole files at a time,** from raw data in `0-INBOX/raw-data/`. Raw files are never modified. Re-running the build regenerates the files; once anything cites them, re-segmenting is a migration (annex log) — rebuild downstream rails.
 7. **Metadata only from the source.** Author/translator ids from OpenPecha `text.json` or the catalogue; cell text, not hyperlinks; never the known-shifted columns (see the reference). `category_id` is left empty for a human.
 8. **Commentary `registered_id`s are registered in the vault annex** before or with the build; the annex also declares `1-SOURCES/Annotations/` as a typed folder.
-9. **Publication is a separate, confirmed step** (`translation-upload`). This skill never calls the library API to write.
+9. **Publication is a separate, confirmed step** (`library-upload`). This skill never calls the library API to write.
 
 ---
 
@@ -123,7 +123,7 @@ Sidecar (`<stem>.annotations.json`): `blocks.<id>` → `source` (raw doc, paragr
    `python3 scripts/build_sources.py 0-INBOX/raw-data/intake-manifest.yaml --out <scratch> --report <scratch>/report.json`
    then `python3 scripts/verify.py 0-INBOX/raw-data/intake-manifest.yaml --root <scratch>`.
    Fix the manifest (not the output) until every work is `OK` with `missing=0`. Then confirm, per commentary, that every numbered block's transclusions equal its written number(s) and every unnumbered block has none. Read every `unmapped_*`, `unresolved_refs`, `inferred_by_position`, overlay `unplaced` and tsadrel-agreement figure in the report.
-7. **Publication dry run on a copy.** Run `translation-upload`'s `linter-root-text/lint_text_input.py` and `parser-root-text/parser.py` on a scratch copy (the linter edits files in place and both write into their own folder). Expect only: empty `category_id`, missing alt titles, contributors without ids.
+7. **Publication dry run on a copy.** Run the vault's `4-SYSTEM/scripts/linter-root-text/lint_text_input.py` and `parser-root-text/parser.py` (the tools `library-upload` uses) on a scratch copy (the linter edits files in place and both write into their own folder). Expect only: empty `category_id`, missing alt titles, contributors without ids.
 9. **Build into the vault:** the same command without `--out`, then `verify.py` again on the vault.
 10. **Report** in `0-INBOX/<corpus>-intake-report.md`: the works table, every review item, what was not ingested and why, and the verifier output. Hand the review items to the human.
 
@@ -176,7 +176,7 @@ Use this route when the Google Docs arrive as **Markdown** (`Download → Markdo
 - [ ] Every unique raw document is either in the manifest (as a work, an overlay, a ref map or `extra_raw`) or listed in the report as not ingested, with the reason
 - [ ] `verify.py` prints `OK` and `missing=0` for every work, on the vault
 - [ ] The publication linter reports no errors other than the empty `category_id`; the parser builds text, edition, TOC and alignment payloads for every file
-- [ ] Translations meant for `translation-upload` show `identity_alignment: true` in the report
+- [ ] Translations meant for `library-upload` show `identity_alignment: true` in the report
 - [ ] Every review item (drift, typo'd reference, candidate refs, inferred refs, misfiled docs) is in the report
 - [ ] New `registered_id`s and the `Annotations/` folder are in the vault annex
 - [ ] Nothing under `0-INBOX/raw-data/` changed

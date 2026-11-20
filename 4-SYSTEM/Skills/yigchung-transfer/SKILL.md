@@ -15,7 +15,7 @@ description: >
 
 # yigchung-transfer
 
-A yigchung — an instruction, colophon or rubric set in small type — is marked `<small>…</small>` in the root. The same passage is a rubric in every translation, and `yigchung-upload` can only publish what the translation file marks. This skill finds each root block that carries `<small>`, and marks the rendering of that small text in the translation block with the same id.
+A yigchung — an instruction, colophon or rubric set in small type — is marked `<small>…</small>` in the root. The same passage is a rubric in every translation, and `library-upload` can only publish what the translation file marks. This skill finds each root block that carries `<small>`, and marks the rendering of that small text in the translation block with the same id.
 
 The block is certain — block ids align the files. What needs deciding is *which part* of the translated block renders the small text:
 
@@ -109,7 +109,7 @@ The worklist:
      --root "<root file>" --translation "<translation file>" --check
    ```
    It must print `consistent`.
-6. Review: run `yigchung-upload` as a dry run (`--no-live` before the translation is uploaded) and read its review file next to the root's — every span on the same segment, each one rendering the root's rubric.
+6. Review: run `library-upload`'s `translation status` (and `push --only yigchungs` without `--yes`) and compare the planned yigchung spans with the root's — every span on the same segment, each one rendering the root's rubric.
 
 ---
 
@@ -119,5 +119,5 @@ The worklist:
 - [ ] Mechanical cases applied; notes on line-count differences read
 - [ ] Every worklist block marked by meaning (or none were partial)
 - [ ] `--check` prints `consistent`
-- [ ] `yigchung-upload` dry-run review: same segments as the root, spans render the rubrics
+- [ ] `library-upload` yigchung plan review: same segments as the root, spans render the rubrics
 - [ ] No translated word edited — only tags added

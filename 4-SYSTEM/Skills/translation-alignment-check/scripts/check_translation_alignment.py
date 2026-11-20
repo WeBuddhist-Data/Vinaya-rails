@@ -43,8 +43,11 @@ import urllib.request
 SKILL_DIR = pathlib.Path(__file__).resolve().parent
 VAULT = pathlib.Path(os.environ.get("VAULT_ROOT", pathlib.Path.cwd()))
 PARSER = SKILL_DIR / "parser-root-text/parser.py"
-PAYLOAD_DIR = pathlib.Path(
-    os.environ.get("PAYLOAD_DIR", SKILL_DIR / "parser-root-text/output"))
+# Payloads: $PAYLOAD_DIR, else the vault's shared parser output (what library-upload builds,
+# one folder per note), else this skill's own parser output.
+_SHARED_OUT = VAULT / "4-SYSTEM" / "scripts" / "parser-root-text" / "output"
+PAYLOAD_DIR = pathlib.Path(os.environ.get(
+    "PAYLOAD_DIR", _SHARED_OUT if _SHARED_OUT.is_dir() else SKILL_DIR / "parser-root-text/output"))
 BASE = os.environ.get("WEBUDDHIST_API_BASE", "https://library.webuddhist.com").rstrip("/")
 TRANS_RE = re.compile(r"!\[\[.*?#\^([A-Za-z0-9-]+)\]\]")
 
@@ -184,11 +187,13 @@ def check(root, tr, payload_dir=None):
 
     if payload_dir:
         stem = pathlib.Path(tr["path"]).stem
-        ed = payload_dir / f"{stem}.edition.json"
-        toc = payload_dir / f"{stem}.toc.json"
-        al = payload_dir / f"{stem}.alignment.json"
+        d = payload_dir / stem if (payload_dir / stem).is_dir() else payload_dir   # per-note folder (shared parser)
+        ed = d / f"{stem}.edition.json"
+        toc = d / f"{stem}.toc.json"
+        al = d / f"{stem}.alignment.json"
         if not (ed.exists() and toc.exists() and al.exists()):
-            fails.append(f"payloads missing under {payload_dir} (run the dry-run upload first)")
+            fails.append(f"payloads missing under {payload_dir} (run `library-upload`'s "
+                         "`translation status` first: it builds them)")
         else:
             E = json.loads(ed.read_text(encoding="utf-8"))
             T = json.loads(toc.read_text(encoding="utf-8"))

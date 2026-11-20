@@ -377,4 +377,4 @@ not change.
 
 `machine-translate` (glossary-primed draft) → `graded-translate` Phase 2 and 3 →
 back-translation meaning check → `commentary-fact-check` light check against the
-existing consensus → `translation-qa` → native review → `translation-upload`.
+existing consensus → `translation-qa` → native review → `library-upload`.

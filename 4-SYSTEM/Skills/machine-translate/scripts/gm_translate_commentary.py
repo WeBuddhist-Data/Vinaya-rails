@@ -25,7 +25,7 @@ Same contract as the machine-translate skill:
   * <track>/style.md is seeded once and then read back VERBATIM as the system
     prompt, followed by the fixed output contract. Edit the file, not the script.
 
-Rendered output (translation-upload shape, as the other commentary tracks):
+Rendered output (library-upload shape, as the other commentary tracks):
 frontmatter; the H1 and every heading translated, keeping its block ID; each
 body block as a transclusion of the SOURCE commentary's block, a blank line,
 and the translation ending in the same ` ^id`. The source's root-text

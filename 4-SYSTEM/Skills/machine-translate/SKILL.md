@@ -52,7 +52,7 @@ The sibling of `dharmamitra-translate` for languages DharmaMitra's `cat-translat
 
 The output is a **machine baseline**: `track_type: machine-baseline`, `rails_used: none`, `status: draft`, never cited by any other `3-TRANSFORMATIONS/` output, never promoted past draft by an LLM.
 
-This engine assumes a vault that serves **one text**. A collection vault translating many short texts at once needs corpus drivers this skill does not carry — a title registry and a batch launcher — because its unit of work is the corpus, not the file. Everything Engine 2 states under **Conventions** (track layout, output filename, transclusion layout, the headings flag, preserved frontmatter, the warning in the `note:` key, and publishing via `translation-upload`) applies here unchanged.
+This engine assumes a vault that serves **one text**. A collection vault translating many short texts at once needs corpus drivers this skill does not carry — a title registry and a batch launcher — because its unit of work is the corpus, not the file. Everything Engine 2 states under **Conventions** (track layout, output filename, transclusion layout, the headings flag, preserved frontmatter, the warning in the `note:` key, and publishing via `library-upload`) applies here unchanged.
 
 ---
 
@@ -157,7 +157,7 @@ No API calls: every ledger's parity flags, every rendered file's counts and titl
 
 #### Step 5 — Upload (separate decision)
 
-Never from here. The `translation-upload` skill lints, parses, checks the live root and asks for confirmation before sending. The backend must know the language first (`GET /v2/languages`; `hi`, `mn`, `ne`, `vi` are all registered as of 2026-09-17).
+Never from here. The `library-upload` skill lints, parses, checks the live root and asks for confirmation before sending. The backend must know the language first (`GET /v2/languages`; `hi`, `mn`, `ne`, `vi` are all registered as of 2026-09-17).
 
 ---
 
@@ -177,7 +177,7 @@ Never from here. The `translation-upload` skill lints, parses, checks the live r
 `gm_translate.py` translates a line-by-line text from the Tibetan root. `4-SYSTEM/Skills/machine-translate/scripts/gm_translate_commentary.py` is its sibling for a block-ID'd **commentary** (prose paragraphs, verse quotations, headings at any depth, root-text transclusions, footnotes), translated from whatever language the commentary is written in — e.g. an English commentary into Traditional Chinese. Same contract: structured `{"blocks": [{"id", "lines"}]}` output, ids back identical and in order, line parity per block, every `[^n]` footnote marker of a source block present in its translation, an append-only ledger in `<track>/work/<stem>.jsonl`, and `<track>/style.md` seeded once then read back verbatim.
 
 - Three passes, each resumable: body blocks (default, batches of adjacent blocks with rolling context), `--headings` (the H1 and all headings, one call), `--notes` (the footnote notes, one call).
-- The render is the `translation-upload` shape: each body block a transclusion of the **source commentary's** block, a blank line, and the translation ending in the same ` ^id`. The source's root-text transclusions are not carried over — the file aligns to the commentary, block for block, and reaches the root only through it.
+- The render is the shape `library-upload` aligns from: each body block a transclusion of the **source commentary's** block, a blank line, and the translation ending in the same ` ^id`. The source's root-text transclusions are not carried over — the file aligns to the commentary, block for block, and reaches the root only through it.
 - `--source-label`, `--target-label`, `--language-name`, `--lang-tag`, `--track` set the pair; the defaults are English → Traditional Chinese (Taiwan). `--script traditional` treats Simplified-only characters in the output as a failed check (re-run alone, up to `--attempts`); `--forbid` lists words the output may not contain.
 - Needs `GEMINI_API_KEY` in the environment.
 
@@ -189,7 +189,7 @@ python3 4-SYSTEM/Skills/machine-translate/scripts/gm_translate_commentary.py --s
 python3 4-SYSTEM/Skills/machine-translate/scripts/gm_translate_commentary.py --source "1-SOURCES/Commentaries/<commentary>.md" --notes
 ```
 
-Upload the result with `translation-upload` after the commentary itself is live (`commentary-upload`).
+Upload the result with `library-upload` (`translation push`) after the commentary itself is live (`commentary push`).
 
 ---
 
@@ -218,7 +218,7 @@ The behaviour that is specific to a single-text vault — the default track root
 | Headings | `##` section headings are translated **separately** with `--headings` (one call each, under `HEADING_STYLE`, never batched with verse). Until then the Tibetan heading is reproduced verbatim. The H1 is never machine-translated: it is the work's title from the frontmatter. |
 | Frontmatter | What the vault linter expects of `file_type: translation` (`title` in the target language, `root_text`, `language`, `lang_tag`, `category_id`, `license`, `source`, `edition_type`) plus the provenance keys. Keys the renderer cannot know — researched title, backend ids, import provenance (`PRESERVE_FM_KEYS`) — are carried over from the file being overwritten and can be seeded with `--extra-fm <json>`. There is **no separate stamping pass** in this vault. |
 | Warning callout | Lives in the frontmatter `note:` key, not in the body — the linter requires every non-transclusion body block to end in a block id. |
-| Upload | Never from this skill. See `translation-upload` (`4-SYSTEM/scripts/upload_translation.py`). |
+| Upload | Never from this skill. See `library-upload` (`translation push`). |
 | Authentication | `DHARMAMITRA_API_KEY`, sent as the `X-API-Key` header, lifts the daily quota. The script reads it from the environment or from a `DHARMAMITRA_API_KEY=…` line in the repo's **git-ignored** `4-SYSTEM/scripts/.env` (`$DHARMAMITRA_ENV_FILE` overrides the path), and prints only where it came from (`auth : X-API-Key from …`). See **Authentication and parallel runs** below. |
 
 ---
@@ -433,7 +433,7 @@ Blocks done / total, calls made, headings translated, the track path, the style 
 
 #### Step 6 — Upload (separate decision)
 
-Uploading is outward-facing and is done by the `translation-upload` skill, never from here: it lints, parses, checks the live root and asks for confirmation before sending.
+Uploading is outward-facing and is done by the `library-upload` skill, never from here: it lints, parses, checks the live root and asks for confirmation before sending.
 
 ---
 

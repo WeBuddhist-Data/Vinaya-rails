@@ -59,7 +59,7 @@ SMALL_RE = re.compile(r"<small>.*?</small>", re.DOTALL)
 TIB_TSHEG = "་"
 
 # Keys that belong to the live copy of the old commentary and must not be
-# carried over: a file carrying text_id is treated by commentary-upload as
+# carried over: a file carrying text_id is treated by library-upload as
 # already uploaded.
 LIVE_ID_KEYS = ("text_id", "edition_id", "toc_id", "aligned_to_edition_id")
 

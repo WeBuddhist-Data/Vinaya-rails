@@ -47,7 +47,7 @@ With `--live`, the root file is compared against what is already published (GET 
 |---|---|---|
 | Root file | `--root <path>` — the root text every translation is checked against | yes |
 | Translation files | Positional paths. Default: every block-aligned translation under `3-TRANSFORMATIONS/Translations/` whose stem derives from the root's | no |
-| `--payloads` | Also check the parser outputs. Run the `translation-upload` dry run first so they exist | no |
+| `--payloads` | Also check the parser outputs. Run `library-upload`'s `translation status` first: it builds them | no |
 | `--live` | Compare against the published edition. Needs the API credentials in the environment | no |
 
 **Credentials.** The `--live` mode reads its key from the environment. Keep it in a git-ignored `4-SYSTEM/scripts/.env` and source that file before running; never pass a key on the command line, and never commit one.

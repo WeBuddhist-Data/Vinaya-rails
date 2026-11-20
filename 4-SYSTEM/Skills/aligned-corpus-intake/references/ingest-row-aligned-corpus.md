@@ -101,7 +101,7 @@ python3 4-SYSTEM/Skills/aligned-corpus-intake/scripts/build_sources.py 0-INBOX/r
 python3 4-SYSTEM/Skills/aligned-corpus-intake/scripts/verify.py 0-INBOX/raw-data/intake-manifest.yaml --root <scratch> --json <scratch>/verify.json
 ```
 
-Every work must read `OK … missing=0`, `rows` = blocks (plus rows that were only a TOC label), `aligned_ok n/n`, `content_ok n/n`. Then run `translation-upload`'s linter and parser on a **copy** (the linter rewrites files and both write into their own folders): the only error should be the empty `category_id`; the parser must build text, edition, TOC and alignment payloads.
+Every work must read `OK … missing=0`, `rows` = blocks (plus rows that were only a TOC label), `aligned_ok n/n`, `content_ok n/n`. Then run the vault's shared linter and parser (the ones `library-upload` uses) on a **copy** (the linter rewrites files and both write into their own folders): the only error should be the empty `category_id`; the parser must build text, edition, TOC and alignment payloads.
 
 ### 3.6 Build into the vault
 
@@ -127,5 +127,5 @@ Transclusions sit on their own lines directly before the block they belong to. A
 - `toc-generate`'s Phase C prompt writes no `[[line]]` pointers although its checker and ingest script expect them → the placement pass (3.4 step 4).
 - A TOC doc's numbers can be one running count across levels (`༢༽ …`, `༼༡༽ …`, `༤༽ …`): the doc does not state the nesting, so the labels go in flat rather than inventing a hierarchy.
 - A TOC doc may contain author's sentences the aligned commentary lacks (three *sa bcad* sentences in Tāranātha's): report them; do not add text to the commentary.
-- `translation-upload`'s current upload script requires *identity* alignment (translation `^N` = root `^N`). A real translation pairing is rarely pure identity (translator-only rows, corrected pairings, a 111-row Chinese against a 32-row Tibetan). The parser builds the pairs correctly; the upload step needs to accept non-identity alignments for these files.
+- A real translation pairing is rarely pure identity (translator-only rows, corrected pairings, a 111-row Chinese against a 32-row Tibetan). The parser builds the pairs from the transclusions, and `library-upload` sends exactly those pairs; identity (translation `^N` = root `^N`) is only its fallback for a translation with no transclusions. (The retired `translation-upload` required identity.)
 - Edition variants between two Tibetan copies (spellings, ཨོཾ in the mantra, a missing གཟིགས) are expected: `verify.py` lists rows below 90 % letter agreement as variants, and fails only below 50 %.

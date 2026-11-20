@@ -71,7 +71,7 @@ The recognised deviation types are listed in `annotation-conventions.md` §7: in
   - `pi-mahavagga-yojana.md`: 5 headings
   - `pi-culavagga-yojana.md`: 9 headings
 
-  The per-file lists are in `0-INBOX/xml-verification/*-verification.md`.
+  The per-file lists were in `0-INBOX/xml-verification/*-verification.md`; the inbox was cleared on 2026-11-20, so read them from git history (`git show dab18f7:0-INBOX/xml-verification/<file>`).
 - **Why.** The unnumbered heading really is a sub-part of the section above it:
   - a list that belongs to one kamma: `1. Tajjanīyakammaṃ` → `Adhammakammadvādasakaṃ`, `Dhammakammadvādasakaṃ`, …;
   - a topic within a bhāṇavāra: `1. Paṭhamabhāṇavāro` → `Vihārānujānanaṃ`, …;
@@ -95,7 +95,7 @@ The recognised deviation types are listed in `annotation-conventions.md` §7: in
   - each vibhaṅga closes its own 16 vāras.
 
   A Markdown heading tree cannot put a child before its parent, so the line has to move for the two vibhaṅgas to be siblings.
-- **For later contributors.** Do not move it back above `Soḷasamahāvāro`, and do not turn it back into a text line (`^5-U1`, the state until 2026-11-20). With that line gone, the two remaining unnumbered blocks were renumbered from `^5-U2`, `^5-U3` to `^5-U1`, `^5-U2`. The record is in `0-INBOX/xml-verification/pi-5-verification.md` §2.
+- **For later contributors.** Do not move it back above `Soḷasamahāvāro`, and do not turn it back into a text line (`^5-U1`, the state until 2026-11-20). With that line gone, the two remaining unnumbered blocks were renumbered from `^5-U2`, `^5-U3` to `^5-U1`, `^5-U2`. The record is `0-INBOX/xml-verification/pi-5-verification.md` §2, in git history (`git show dab18f7:0-INBOX/xml-verification/pi-5-verification.md`).
 
 ### Re-segmentation and ID-migration log
 

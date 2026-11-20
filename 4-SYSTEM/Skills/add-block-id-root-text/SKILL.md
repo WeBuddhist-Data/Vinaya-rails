@@ -286,4 +286,4 @@ Book 7 exists in the workspace and has been fully processed. What was previously
 
 ## Vinaya vault note
 
-In this vault the book numbers are the Vinayapiṭaka order: `1` Pārājikapāḷi, `2` Pācittiyapāḷi (with the Bhikkhunīvibhaṅga), `3` Mahāvaggapāḷi, `4` Cūḷavaggapāḷi, `5` Parivārapāḷi. The book-7 and `M`-zone notes above are Abhidhamma-specific; no Vinaya book has a mātikā or more than one numbering run. The end-to-end Vinaya build (XML → JSON → markdown → these IDs → checks) is `0-INBOX/raw-data/build_all.sh`, using `4-SYSTEM/scripts/tipitaka-xml-to-json/`.
+In this vault the book numbers are the Vinayapiṭaka order: `1` Pārājikapāḷi, `2` Pācittiyapāḷi (with the Bhikkhunīvibhaṅga), `3` Mahāvaggapāḷi, `4` Cūḷavaggapāḷi, `5` Parivārapāḷi. The book-7 and `M`-zone notes above are Abhidhamma-specific; no Vinaya book has a mātikā or more than one numbering run. The end-to-end Vinaya build (XML → JSON → markdown → these IDs → checks) is `0-INBOX/raw-data/build_all.sh` (cleared from the inbox 2026-11-20; `git show dab18f7:0-INBOX/raw-data/build_all.sh`), using `4-SYSTEM/scripts/tipitaka-xml-to-json/`.

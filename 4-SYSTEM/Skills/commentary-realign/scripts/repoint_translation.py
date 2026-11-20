@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Re-point a translation of a commentary at the commentary's re-aligned copy.
 
-A translation of a commentary is uploaded with translation-upload as a
+A translation of a commentary is uploaded with library-upload as a
 translation *of that commentary*: its blocks carry the commentary's block IDs,
 each block transcludes its source block (``![[<commentary>#^X]]``), and the
 library aligns it to the commentary segment for segment. It reaches the root
@@ -13,7 +13,7 @@ ids and the old translation_of link (the translation linter fills translation_of
 from the re-aligned commentary's text_id once that is uploaded).
 
 Checks: only transclusion lines change; the translation's block IDs equal the
-source commentary's content block IDs one for one (translation-upload aligns by
+source commentary's content block IDs one for one (library-upload aligns by
 identity); every block has its source transclusion.
 
 Dry run by default.

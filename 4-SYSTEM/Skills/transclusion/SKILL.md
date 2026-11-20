@@ -22,7 +22,7 @@ description: >
 | 2 — Commentary, sa-bcad introduced | Commentary that announces each verse with a sa-bcad statement | Before the sa-bcad statement that introduces the verse | no — by hand |
 | 3 — Commentary, by section category | Commentary whose sections fall into overview / verse-by-verse / other | Classify each section first, then place by category | no — by hand |
 | 4 — Second root-text version | Another version or edition of the root text | Structurally matching position | Type 1 yes — 3 scripts |
-| 5 — Commentary, heading-scoped (alignment) | Commentary that explains each verse inside a sa-bcad sub-tree of headings, and will be parsed by `4-SYSTEM/Skills/commentary-upload/scripts/parser-commentary/` (the `commentary-upload` skill) | Right **after** every heading of the verse's sub-tree that has text of its own, plus before the first block on a new verse inside a section | mapping by hand, insertion scripted |
+| 5 — Commentary, heading-scoped (alignment) | Commentary that explains each verse inside a sa-bcad sub-tree of headings, and will be parsed by `4-SYSTEM/scripts/parser-commentary/` (what `library-upload` uploads) | Right **after** every heading of the verse's sub-tree that has text of its own, plus before the first block on a new verse inside a section | mapping by hand, insertion scripted |
 
 **If the commentary is going to the API through `parser-commentary`, use Mode 5.** The
 parser aligns a commentary block to the root segments of the transclusion group above
@@ -797,11 +797,11 @@ For non-Tibetan-master commentaries, insert the transclusion at the very beginni
 
 ## Mode 5 — Commentary, heading-scoped placement for alignment
 
-For a commentary whose transclusions feed `4-SYSTEM/Skills/commentary-upload/scripts/parser-commentary/` (the `commentary-upload` skill)
+For a commentary whose transclusions feed `4-SYSTEM/scripts/parser-commentary/` (what `library-upload` uploads)
 (`alignment.json`). Placement is dictated by how that parser reads scope, so read
 this mode as the parser's rule written down.
 
-### How the parser decides alignment (`4-SYSTEM/Skills/commentary-upload/scripts/parser-commentary/parser.py`, `build_alignment`)
+### How the parser decides alignment (`4-SYSTEM/scripts/parser-commentary/parser.py`, `build_alignment`)
 
 1. A transclusion line, or a run of transclusion lines, opens a **scope**. Lines
    separated only by blank lines still form **one group**.

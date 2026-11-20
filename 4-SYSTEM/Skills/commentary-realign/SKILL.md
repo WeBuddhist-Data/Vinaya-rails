@@ -24,7 +24,7 @@ description: >
 
 The library lets a commentary be aligned to **one** root text only. When the same root passage also lives inside a second root text — for example a praise recited three times inside a longer ritual text — the commentary has to be uploaded again as a new commentary of the second root. This skill builds that copy from the alignment the commentary already has, instead of re-aligning it by hand.
 
-Correct output is a copy that differs from the original **only** in its transclusion lines and its frontmatter; whose alignment (as `parser-commentary` reads it) is exactly the old alignment carried through the block map; in which every commentary block that pointed at a repeated root passage now points at every occurrence of it; and that carries no live id of the original, so `commentary-upload` creates a new text instead of touching the old one.
+Correct output is a copy that differs from the original **only** in its transclusion lines and its frontmatter; whose alignment (as `parser-commentary` reads it) is exactly the old alignment carried through the block map; in which every commentary block that pointed at a repeated root passage now points at every occurrence of it; and that carries no live id of the original, so `library-upload` creates a new text instead of touching the old one.
 
 ---
 
@@ -36,7 +36,7 @@ Correct output is a copy that differs from the original **only** in its transclu
 | **New root** | The root text to align to, in `1-SOURCES/Text/`, with block IDs; it should carry `text_id` (uploaded) so `commentary_of` can be set | yes |
 | **New title** | A title for the copy that is not already a title or alt title of any text in the same language on the library (titles are unique per language; the original keeps its titles) | yes, for `--write` |
 | **Translations** | Optional: translations of the commentary (`file_type: translation`, `root_text:` = the commentary) with the same block IDs, each block transcluding its source block (`![[<commentary>#^X]]`), e.g. machine translations in `3-TRANSFORMATIONS/Translations/`. Each needs its own new unique title | no |
-| **parser-commentary** | The scripts import the commentary parser to read alignments. It ships with `commentary-upload` (`4-SYSTEM/Skills/commentary-upload/scripts/parser-commentary/`), so install that skill too; a vault copy under `4-SYSTEM/scripts/` is used first if present | yes |
+| **parser-commentary** | The scripts import the commentary parser to read alignments. It is the vault's shared `4-SYSTEM/scripts/parser-commentary/` (the one `library-upload` uses), so keep that skill too; a vault copy under `4-SYSTEM/scripts/` is used first if present | yes |
 | **Overrides** | Optional JSON `{"<old ref>": ["<new ref>", …]}` replacing the automatic matches for those refs (`[]` = leave unaligned) | no |
 
 If the new title is not given, stop and ask for it. Do not invent one without the human's approval.
@@ -87,7 +87,7 @@ realigned_from_root_text: 1-SOURCES/Text/<old-root>.md
 # removed: text_id, edition_id, toc_id, aligned_to_edition_id, alt_titles
 ```
 
-A **translation** copy stays a translation of the commentary. Its body keeps one transclusion per block, re-pointed from the old commentary to the re-aligned copy (`![[<old commentary>#^X]]` → `![[<re-aligned commentary>#^X]]`); it gets **no** root transclusions. `translation-upload` aligns it to the re-aligned commentary by identity (block `^X` ↔ block `^X`), so it reaches the new root only through the commentary. Frontmatter, changes only:
+A **translation** copy stays a translation of the commentary. Its body keeps one transclusion per block, re-pointed from the old commentary to the re-aligned copy (`![[<old commentary>#^X]]` → `![[<re-aligned commentary>#^X]]`); it gets **no** root transclusions. `library-upload` aligns it to the re-aligned commentary by identity (block `^X` ↔ block `^X`), so it reaches the new root only through the commentary. Frontmatter, changes only:
 
 ```yaml
 title: <new unique title>
@@ -111,12 +111,12 @@ realigned_from_translation_of: <old commentary text_id>
 1. **Dry run first, always.** Read the block map before writing. Every ref must have the expected number of targets (a passage the new root repeats N times has N targets; one it contains once has 1). A `⚠ close call` (accepted score within 0.15 of the best rejected block) or an unexpected count must be settled with an `--map` override, never by lowering the threshold blindly.
 2. **Only transclusion lines and frontmatter change.** The script verifies this and refuses to delete the old file if anything else differs. Never hand-edit the commentary text in this skill.
 3. **The copy's alignment must equal the old alignment mapped through the block map.** Verified with `parser-commentary` on both files; a mismatch stops the run.
-4. **Never carry live ids over.** `text_id`, `edition_id`, `toc_id`, `aligned_to_edition_id` belong to the original's live text; the copy gets its own from `commentary-upload`.
+4. **Never carry live ids over.** `text_id`, `edition_id`, `toc_id`, `aligned_to_edition_id` belong to the original's live text; the copy gets its own from `library-upload`.
 5. **Never reuse a title.** The new title must differ from the original's title and alt titles.
 6. **The original on the library is untouched.** This skill deletes the old *file* only; the live text stays a commentary of the old root. Deleting anything on the library is not part of this skill.
-7. **Uploading is a separate step.** Run `commentary-upload` on the copy (dry run, then `--execute` only after explicit human confirmation).
+7. **Uploading is a separate step.** Run `library-upload` (`commentary push`) on the copy (plan first, then `--yes` only after explicit human confirmation).
 8. **Translations are translations of the commentary, never commentaries of the root.** `repoint_translation.py` keeps `file_type: translation`, points `root_text` at the re-aligned commentary, and adds no root transclusions. The translation's block IDs must equal the commentary's content block IDs one for one (identity alignment), or it stops.
-9. **Upload order: root → commentary → translations.** The translations' `translation_of` and their identity check against the live commentary segmentation need the commentary's `text_id` and `edition_id`; `upload_translation.py` refuses to run before they exist.
+9. **Upload order: root → commentary → translations.** The translations' `translation_of` and their identity check against the live commentary segmentation need the commentary's `text_id` and `edition_id`; `library-upload` refuses a translation whose root is not on the environment.
 10. **Report stale links.** After `--delete-old` each script lists the files that still link to the deleted file; re-point them or tell the human.
 
 ---
@@ -141,7 +141,7 @@ realigned_from_translation_of: <old commentary text_id>
    python3 4-SYSTEM/Skills/commentary-realign/scripts/repoint_translation.py "<translation.md>" --source "<re-aligned commentary.md>" --title "<new title>" --write --delete-old
    ```
    The dry run must print `OK`: block IDs identical to the commentary, every block transcluding its commentary block, only transclusion lines changing.
-6. **Prepare the payloads.** Commentary: `commentary-upload` dry run (lint clean, `commentary_of` = the new root's `text_id`, the expected pair count, no duplicate). Translations: until the commentary is live, run the `translation-upload` linter and parser directly (`4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/lint_text_input.py`, then `parser-root-text/parser.py <file> <lint.json>`) and check the edition's references equal the commentary edition's references and the alignment is identity; `translation_of` is empty until the commentary has a `text_id`. After the commentary is uploaded, run the full `translation-upload` dry run for each translation.
+6. **Prepare the payloads.** Commentary: `library-upload` `commentary push` without `--yes` (lint clean, `commentary_of` = the new root's `text_id`, the expected pair count, no duplicate). Translations: until the commentary is live, run the vault's shared linter and parser directly (`4-SYSTEM/scripts/linter-root-text/lint_text_input.py`, then `parser-root-text/parser.py <file> <lint.json>`) and check the edition's references equal the commentary edition's references and the alignment is identity; `translation_of` is empty until the commentary has a `text_id`. After the commentary is uploaded, run `library-upload`'s `translation push` without `--yes` for each translation.
 7. **Report** to the human: the block map summary, pair counts old → new, commentary blocks left unaligned, the files that still name the old file, and the upload dry run. Upload only on an explicit yes.
 
 ---
@@ -155,5 +155,5 @@ realigned_from_translation_of: <old commentary text_id>
 - [ ] Old file deleted only after verification passed
 - [ ] Files still naming the old file reported to the human
 - [ ] Each translation re-pointed with `repoint_translation.py`: checks `OK`, still `file_type: translation`, `root_text` = the re-aligned commentary, new unique title, old file deleted
-- [ ] Commentary payload: `commentary-upload` dry run passes
-- [ ] Translation payloads: references equal the commentary edition's, identity alignment; full `translation-upload` dry run after the commentary is live
+- [ ] Commentary payload: `library-upload` `commentary push` plan has no problem
+- [ ] Translation payloads: references equal the commentary edition's, identity alignment; `library-upload` `translation push` plan after the commentary is live
