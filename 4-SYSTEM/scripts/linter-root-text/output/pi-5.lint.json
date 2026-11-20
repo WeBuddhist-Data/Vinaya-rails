@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Text/pi-5.md",
-  "validated_at": "2026-11-13T03:42:33.364256+00:00",
+  "validated_at": "2026-11-20T06:02:34.065919+00:00",
   "notes": [
     "bdrc_work_id: not set (optional)",
     "wiki: not set (optional)",
@@ -9,7 +9,7 @@
     "commentary_of: not set (optional)",
     "translation_of: not set (optional)",
     "source: source = 'https://github.com/VipassanaTech/tipitaka-xml/blob/main/romn/vin02m4.mul.xml'",
-    "toc: 255 headers found"
+    "toc: 256 headers found"
   ],
   "warnings": [
     "contributions: author/translator missing — ignored for now",

@@ -6,7 +6,7 @@
       },
       "span": {
         "start": 46,
-        "end": 738928
+        "end": 738671
       },
       "subsections": [
         {
@@ -15,7 +15,7 @@
           },
           "span": {
             "start": 46,
-            "end": 738928
+            "end": 738671
           },
           "subsections": [
             {
@@ -24,7 +24,7 @@
               },
               "span": {
                 "start": 46,
-                "end": 366979
+                "end": 366848
               },
               "subsections": [
                 {
@@ -33,7 +33,7 @@
                   },
                   "span": {
                     "start": 46,
-                    "end": 84843
+                    "end": 84818
                   },
                   "subsections": [
                     {
@@ -42,7 +42,7 @@
                       },
                       "span": {
                         "start": 46,
-                        "end": 9184
+                        "end": 9181
                       }
                     },
                     {
@@ -50,8 +50,8 @@
                         "pi": "2. Omasavādasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 9184,
-                        "end": 32342
+                        "start": 9181,
+                        "end": 32331
                       }
                     },
                     {
@@ -59,8 +59,8 @@
                         "pi": "3. Pesuññasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 32342,
-                        "end": 40872
+                        "start": 32331,
+                        "end": 40858
                       }
                     },
                     {
@@ -68,8 +68,8 @@
                         "pi": "4. Padasodhammasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 40872,
-                        "end": 43247
+                        "start": 40858,
+                        "end": 43232
                       }
                     },
                     {
@@ -77,8 +77,8 @@
                         "pi": "5. Sahaseyyasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 43247,
-                        "end": 46951
+                        "start": 43232,
+                        "end": 46936
                       }
                     },
                     {
@@ -86,8 +86,8 @@
                         "pi": "6. Dutiyasahaseyyasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 46951,
-                        "end": 52737
+                        "start": 46936,
+                        "end": 52719
                       }
                     },
                     {
@@ -95,8 +95,8 @@
                         "pi": "7. Dhammadesanāsikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 52737,
-                        "end": 58158
+                        "start": 52719,
+                        "end": 58139
                       }
                     },
                     {
@@ -104,8 +104,8 @@
                         "pi": "8. Bhūtārocanasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 58158,
-                        "end": 78356
+                        "start": 58139,
+                        "end": 78333
                       }
                     },
                     {
@@ -113,8 +113,8 @@
                         "pi": "9. Duṭṭhullārocanasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 78356,
-                        "end": 82198
+                        "start": 78333,
+                        "end": 82173
                       }
                     },
                     {
@@ -122,8 +122,8 @@
                         "pi": "10. Pathavīkhaṇanasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 82198,
-                        "end": 84843
+                        "start": 82173,
+                        "end": 84818
                       }
                     }
                   ]
@@ -133,8 +133,8 @@
                     "pi": "2. Bhūtagāmavaggo"
                   },
                   "span": {
-                    "start": 84843,
-                    "end": 117332
+                    "start": 84818,
+                    "end": 117300
                   },
                   "subsections": [
                     {
@@ -142,8 +142,8 @@
                         "pi": "1. Bhūtagāmasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 84843,
-                        "end": 88062
+                        "start": 84818,
+                        "end": 88037
                       }
                     },
                     {
@@ -151,8 +151,8 @@
                         "pi": "2. Aññavādakasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 88062,
-                        "end": 93475
+                        "start": 88037,
+                        "end": 93448
                       }
                     },
                     {
@@ -160,8 +160,8 @@
                         "pi": "3. Ujjhāpanakasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 93475,
-                        "end": 96730
+                        "start": 93448,
+                        "end": 96702
                       }
                     },
                     {
@@ -169,8 +169,8 @@
                         "pi": "4. Paṭhamasenāsanasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 96730,
-                        "end": 99984
+                        "start": 96702,
+                        "end": 99956
                       }
                     },
                     {
@@ -178,8 +178,8 @@
                         "pi": "5. Dutiyasenāsanasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 99984,
-                        "end": 103353
+                        "start": 99956,
+                        "end": 103324
                       }
                     },
                     {
@@ -187,8 +187,8 @@
                         "pi": "6. Anupakhajjasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 103353,
-                        "end": 105988
+                        "start": 103324,
+                        "end": 105958
                       }
                     },
                     {
@@ -196,8 +196,8 @@
                         "pi": "7. Nikkaḍḍhanasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 105988,
-                        "end": 109912
+                        "start": 105958,
+                        "end": 109881
                       }
                     },
                     {
@@ -205,8 +205,8 @@
                         "pi": "8. Vehāsakuṭisikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 109912,
-                        "end": 112293
+                        "start": 109881,
+                        "end": 112262
                       }
                     },
                     {
@@ -214,8 +214,8 @@
                         "pi": "9. Mahallakavihārasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 112293,
-                        "end": 115445
+                        "start": 112262,
+                        "end": 115413
                       }
                     },
                     {
@@ -223,8 +223,8 @@
                         "pi": "10. Sappāṇakasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 115445,
-                        "end": 117332
+                        "start": 115413,
+                        "end": 117300
                       }
                     }
                   ]
@@ -234,8 +234,8 @@
                     "pi": "3. Ovādavaggo"
                   },
                   "span": {
-                    "start": 117332,
-                    "end": 158190
+                    "start": 117300,
+                    "end": 158140
                   },
                   "subsections": [
                     {
@@ -243,8 +243,8 @@
                         "pi": "1. Ovādasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 117332,
-                        "end": 128244
+                        "start": 117300,
+                        "end": 128209
                       }
                     },
                     {
@@ -252,8 +252,8 @@
                         "pi": "2. Atthaṅgatasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 128244,
-                        "end": 131464
+                        "start": 128209,
+                        "end": 131429
                       }
                     },
                     {
@@ -261,8 +261,8 @@
                         "pi": "3. Bhikkhunupassayasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 131464,
-                        "end": 135284
+                        "start": 131429,
+                        "end": 135245
                       }
                     },
                     {
@@ -270,8 +270,8 @@
                         "pi": "4. Āmisasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 135284,
-                        "end": 137985
+                        "start": 135245,
+                        "end": 137945
                       }
                     },
                     {
@@ -279,8 +279,8 @@
                         "pi": "5. Cīvaradānasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 137985,
-                        "end": 141483
+                        "start": 137945,
+                        "end": 141441
                       }
                     },
                     {
@@ -288,8 +288,8 @@
                         "pi": "6. Cīvarasibbanasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 141483,
-                        "end": 144441
+                        "start": 141441,
+                        "end": 144398
                       }
                     },
                     {
@@ -297,8 +297,8 @@
                         "pi": "7. Saṃvidhānasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 144441,
-                        "end": 148305
+                        "start": 144398,
+                        "end": 148261
                       }
                     },
                     {
@@ -306,8 +306,8 @@
                         "pi": "8. Nāvābhiruhanasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 148305,
-                        "end": 152021
+                        "start": 148261,
+                        "end": 151973
                       }
                     },
                     {
@@ -315,8 +315,8 @@
                         "pi": "9. Paripācitasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 152021,
-                        "end": 155994
+                        "start": 151973,
+                        "end": 155946
                       }
                     },
                     {
@@ -324,8 +324,8 @@
                         "pi": "10. Rahonisajjasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 155994,
-                        "end": 158190
+                        "start": 155946,
+                        "end": 158140
                       }
                     }
                   ]
@@ -335,8 +335,8 @@
                     "pi": "4. Bhojanavaggo"
                   },
                   "span": {
-                    "start": 158190,
-                    "end": 201174
+                    "start": 158140,
+                    "end": 201112
                   },
                   "subsections": [
                     {
@@ -344,8 +344,8 @@
                         "pi": "1. Āvasathapiṇḍasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 158190,
-                        "end": 161821
+                        "start": 158140,
+                        "end": 161771
                       }
                     },
                     {
@@ -353,8 +353,8 @@
                         "pi": "2. Gaṇabhojanasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 161821,
-                        "end": 169525
+                        "start": 161771,
+                        "end": 169472
                       }
                     },
                     {
@@ -362,8 +362,8 @@
                         "pi": "3. Paramparabhojanasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 169525,
-                        "end": 176725
+                        "start": 169472,
+                        "end": 176669
                       }
                     },
                     {
@@ -371,8 +371,8 @@
                         "pi": "4. Kāṇamātusikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 176725,
-                        "end": 182141
+                        "start": 176669,
+                        "end": 182084
                       }
                     },
                     {
@@ -380,8 +380,8 @@
                         "pi": "5. Paṭhamapavāraṇāsikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 182141,
-                        "end": 186253
+                        "start": 182084,
+                        "end": 186194
                       }
                     },
                     {
@@ -389,8 +389,8 @@
                         "pi": "6. Dutiyapavāraṇāsikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 186253,
-                        "end": 190116
+                        "start": 186194,
+                        "end": 190056
                       }
                     },
                     {
@@ -398,8 +398,8 @@
                         "pi": "7. Vikālabhojanasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 190116,
-                        "end": 192472
+                        "start": 190056,
+                        "end": 192412
                       }
                     },
                     {
@@ -407,8 +407,8 @@
                         "pi": "8. Sannidhikārakasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 192472,
-                        "end": 194896
+                        "start": 192412,
+                        "end": 194836
                       }
                     },
                     {
@@ -416,8 +416,8 @@
                         "pi": "9. Paṇītabhojanasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 194896,
-                        "end": 198445
+                        "start": 194836,
+                        "end": 198384
                       }
                     },
                     {
@@ -425,8 +425,8 @@
                         "pi": "10. Dantaponasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 198445,
-                        "end": 201174
+                        "start": 198384,
+                        "end": 201112
                       }
                     }
                   ]
@@ -436,8 +436,8 @@
                     "pi": "5. Acelakavaggo"
                   },
                   "span": {
-                    "start": 201174,
-                    "end": 235919
+                    "start": 201112,
+                    "end": 235841
                   },
                   "subsections": [
                     {
@@ -445,8 +445,8 @@
                         "pi": "1. Acelakasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 201174,
-                        "end": 204466
+                        "start": 201112,
+                        "end": 204404
                       }
                     },
                     {
@@ -454,8 +454,8 @@
                         "pi": "2. Uyyojanasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 204466,
-                        "end": 207418
+                        "start": 204404,
+                        "end": 207354
                       }
                     },
                     {
@@ -463,8 +463,8 @@
                         "pi": "3. Sabhojanasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 207418,
-                        "end": 210325
+                        "start": 207354,
+                        "end": 210261
                       }
                     },
                     {
@@ -472,8 +472,8 @@
                         "pi": "4. Rahopaṭicchannasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 210325,
-                        "end": 213000
+                        "start": 210261,
+                        "end": 212936
                       }
                     },
                     {
@@ -481,8 +481,8 @@
                         "pi": "5. Rahonisajjasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 213000,
-                        "end": 215475
+                        "start": 212936,
+                        "end": 215411
                       }
                     },
                     {
@@ -490,8 +490,8 @@
                         "pi": "6. Cārittasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 215475,
-                        "end": 221816
+                        "start": 215411,
+                        "end": 221748
                       }
                     },
                     {
@@ -499,8 +499,8 @@
                         "pi": "7. Mahānāmasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 221816,
-                        "end": 228074
+                        "start": 221748,
+                        "end": 228002
                       }
                     },
                     {
@@ -508,8 +508,8 @@
                         "pi": "8. Uyyuttasenāsikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 228074,
-                        "end": 231421
+                        "start": 228002,
+                        "end": 231347
                       }
                     },
                     {
@@ -517,8 +517,8 @@
                         "pi": "9. Senāvāsasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 231421,
-                        "end": 233359
+                        "start": 231347,
+                        "end": 233285
                       }
                     },
                     {
@@ -526,8 +526,8 @@
                         "pi": "10. Uyyodhikasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 233359,
-                        "end": 235919
+                        "start": 233285,
+                        "end": 235841
                       }
                     }
                   ]
@@ -537,8 +537,8 @@
                     "pi": "6. Surāpānavaggo"
                   },
                   "span": {
-                    "start": 235919,
-                    "end": 265507
+                    "start": 235841,
+                    "end": 265414
                   },
                   "subsections": [
                     {
@@ -546,8 +546,8 @@
                         "pi": "1. Surāpānasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 235919,
-                        "end": 240289
+                        "start": 235841,
+                        "end": 240205
                       }
                     },
                     {
@@ -555,8 +555,8 @@
                         "pi": "2. Aṅgulipatodakasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 240289,
-                        "end": 242359
+                        "start": 240205,
+                        "end": 242273
                       }
                     },
                     {
@@ -564,8 +564,8 @@
                         "pi": "3. Hasadhammasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 242359,
-                        "end": 244655
+                        "start": 242273,
+                        "end": 244568
                       }
                     },
                     {
@@ -573,8 +573,8 @@
                         "pi": "4. Anādariyasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 244655,
-                        "end": 246557
+                        "start": 244568,
+                        "end": 246469
                       }
                     },
                     {
@@ -582,8 +582,8 @@
                         "pi": "5. Bhiṃsāpanasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 246557,
-                        "end": 248531
+                        "start": 246469,
+                        "end": 248442
                       }
                     },
                     {
@@ -591,8 +591,8 @@
                         "pi": "6. Jotikasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 248531,
-                        "end": 251596
+                        "start": 248442,
+                        "end": 251506
                       }
                     },
                     {
@@ -600,8 +600,8 @@
                         "pi": "7. Nahānasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 251596,
-                        "end": 257839
+                        "start": 251506,
+                        "end": 257748
                       }
                     },
                     {
@@ -609,8 +609,8 @@
                         "pi": "8. Dubbaṇṇakaraṇasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 257839,
-                        "end": 260128
+                        "start": 257748,
+                        "end": 260037
                       }
                     },
                     {
@@ -618,8 +618,8 @@
                         "pi": "9. Vikappanasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 260128,
-                        "end": 262679
+                        "start": 260037,
+                        "end": 262587
                       }
                     },
                     {
@@ -627,8 +627,8 @@
                         "pi": "10. Cīvaraapanidhānasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 262679,
-                        "end": 265507
+                        "start": 262587,
+                        "end": 265414
                       }
                     }
                   ]
@@ -638,8 +638,8 @@
                     "pi": "7. Sappāṇakavaggo"
                   },
                   "span": {
-                    "start": 265507,
-                    "end": 301681
+                    "start": 265414,
+                    "end": 301575
                   },
                   "subsections": [
                     {
@@ -647,8 +647,8 @@
                         "pi": "1. Sañciccasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 265507,
-                        "end": 266984
+                        "start": 265414,
+                        "end": 266890
                       }
                     },
                     {
@@ -656,8 +656,8 @@
                         "pi": "2. Sappāṇakasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 266984,
-                        "end": 268368
+                        "start": 266890,
+                        "end": 268272
                       }
                     },
                     {
@@ -665,8 +665,8 @@
                         "pi": "3. Ukkoṭanasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 268368,
-                        "end": 270201
+                        "start": 268272,
+                        "end": 270105
                       }
                     },
                     {
@@ -674,8 +674,8 @@
                         "pi": "4. Duṭṭhullasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 270201,
-                        "end": 273216
+                        "start": 270105,
+                        "end": 273119
                       }
                     },
                     {
@@ -683,8 +683,8 @@
                         "pi": "5. Ūnavīsativassasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 273216,
-                        "end": 277701
+                        "start": 273119,
+                        "end": 277602
                       }
                     },
                     {
@@ -692,8 +692,8 @@
                         "pi": "6. Theyyasatthasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 277701,
-                        "end": 280277
+                        "start": 277602,
+                        "end": 280178
                       }
                     },
                     {
@@ -701,8 +701,8 @@
                         "pi": "7. Saṃvidhānasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 280277,
-                        "end": 283256
+                        "start": 280178,
+                        "end": 283157
                       }
                     },
                     {
@@ -710,8 +710,8 @@
                         "pi": "8. Ariṭṭhasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 283256,
-                        "end": 290944
+                        "start": 283157,
+                        "end": 290841
                       }
                     },
                     {
@@ -719,8 +719,8 @@
                         "pi": "9. Ukkhittasambhogasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 290944,
-                        "end": 294022
+                        "start": 290841,
+                        "end": 293918
                       }
                     },
                     {
@@ -728,8 +728,8 @@
                         "pi": "10. Kaṇṭakasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 294022,
-                        "end": 301681
+                        "start": 293918,
+                        "end": 301575
                       }
                     }
                   ]
@@ -739,8 +739,8 @@
                     "pi": "8. Sahadhammikavaggo"
                   },
                   "span": {
-                    "start": 301681,
-                    "end": 332678
+                    "start": 301575,
+                    "end": 332559
                   },
                   "subsections": [
                     {
@@ -748,8 +748,8 @@
                         "pi": "1. Sahadhammikasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 301681,
-                        "end": 304940
+                        "start": 301575,
+                        "end": 304834
                       }
                     },
                     {
@@ -757,8 +757,8 @@
                         "pi": "2. Vilekhanasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 304940,
-                        "end": 308038
+                        "start": 304834,
+                        "end": 307931
                       }
                     },
                     {
@@ -766,8 +766,8 @@
                         "pi": "3. Mohanasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 308038,
-                        "end": 311628
+                        "start": 307931,
+                        "end": 311519
                       }
                     },
                     {
@@ -775,8 +775,8 @@
                         "pi": "4. Pahārasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 311628,
-                        "end": 313391
+                        "start": 311519,
+                        "end": 313281
                       }
                     },
                     {
@@ -784,8 +784,8 @@
                         "pi": "5. Talasattikasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 313391,
-                        "end": 315314
+                        "start": 313281,
+                        "end": 315204
                       }
                     },
                     {
@@ -793,8 +793,8 @@
                         "pi": "6. Amūlakasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 315314,
-                        "end": 316954
+                        "start": 315204,
+                        "end": 316842
                       }
                     },
                     {
@@ -802,8 +802,8 @@
                         "pi": "7. Sañciccasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 316954,
-                        "end": 319290
+                        "start": 316842,
+                        "end": 319176
                       }
                     },
                     {
@@ -811,8 +811,8 @@
                         "pi": "8. Upassutisikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 319290,
-                        "end": 321941
+                        "start": 319176,
+                        "end": 321826
                       }
                     },
                     {
@@ -820,8 +820,8 @@
                         "pi": "9. Kammapaṭibāhanasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 321941,
-                        "end": 324214
+                        "start": 321826,
+                        "end": 324099
                       }
                     },
                     {
@@ -829,8 +829,8 @@
                         "pi": "10. Chandaṃadatvāgamanasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 324214,
-                        "end": 326538
+                        "start": 324099,
+                        "end": 326422
                       }
                     },
                     {
@@ -838,8 +838,8 @@
                         "pi": "11. Dubbalasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 326538,
-                        "end": 329525
+                        "start": 326422,
+                        "end": 329408
                       }
                     },
                     {
@@ -847,8 +847,8 @@
                         "pi": "12. Pariṇāmanasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 329525,
-                        "end": 332678
+                        "start": 329408,
+                        "end": 332559
                       }
                     }
                   ]
@@ -858,8 +858,8 @@
                     "pi": "9. Ratanavaggo"
                   },
                   "span": {
-                    "start": 332678,
-                    "end": 366979
+                    "start": 332559,
+                    "end": 366848
                   },
                   "subsections": [
                     {
@@ -867,8 +867,8 @@
                         "pi": "1. Antepurasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 332678,
-                        "end": 340724
+                        "start": 332559,
+                        "end": 340603
                       }
                     },
                     {
@@ -876,8 +876,8 @@
                         "pi": "2. Ratanasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 340724,
-                        "end": 346613
+                        "start": 340603,
+                        "end": 346492
                       }
                     },
                     {
@@ -885,8 +885,8 @@
                         "pi": "3. Vikālagāmappavisanasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 346613,
-                        "end": 351996
+                        "start": 346492,
+                        "end": 351871
                       }
                     },
                     {
@@ -894,8 +894,8 @@
                         "pi": "4. Sūcigharasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 351996,
-                        "end": 354305
+                        "start": 351871,
+                        "end": 354179
                       }
                     },
                     {
@@ -903,8 +903,8 @@
                         "pi": "5. Mañcapīṭhasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 354305,
-                        "end": 356165
+                        "start": 354179,
+                        "end": 356039
                       }
                     },
                     {
@@ -912,8 +912,8 @@
                         "pi": "6. Tūlonaddhasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 356165,
-                        "end": 358124
+                        "start": 356039,
+                        "end": 357997
                       }
                     },
                     {
@@ -921,8 +921,8 @@
                         "pi": "7. Nisīdanasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 358124,
-                        "end": 360745
+                        "start": 357997,
+                        "end": 360618
                       }
                     },
                     {
@@ -930,8 +930,8 @@
                         "pi": "8. Kaṇḍuppaṭicchādisikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 360745,
-                        "end": 362727
+                        "start": 360618,
+                        "end": 362598
                       }
                     },
                     {
@@ -939,8 +939,8 @@
                         "pi": "9. Vassikasāṭikāsikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 362727,
-                        "end": 364578
+                        "start": 362598,
+                        "end": 364448
                       }
                     },
                     {
@@ -948,8 +948,8 @@
                         "pi": "10. Nandasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 364578,
-                        "end": 366979
+                        "start": 364448,
+                        "end": 366848
                       }
                     }
                   ]
@@ -961,8 +961,8 @@
                 "pi": "6. Pāṭidesanīyakaṇḍaṃ"
               },
               "span": {
-                "start": 366979,
-                "end": 385788
+                "start": 366848,
+                "end": 385647
               },
               "subsections": [
                 {
@@ -970,8 +970,8 @@
                     "pi": "1. Paṭhamapāṭidesanīyasikkhāpadaṃ"
                   },
                   "span": {
-                    "start": 366979,
-                    "end": 370898
+                    "start": 366848,
+                    "end": 370764
                   }
                 },
                 {
@@ -979,8 +979,8 @@
                     "pi": "2. Dutiyapāṭidesanīyasikkhāpadaṃ"
                   },
                   "span": {
-                    "start": 370898,
-                    "end": 373735
+                    "start": 370764,
+                    "end": 373599
                   }
                 },
                 {
@@ -988,8 +988,8 @@
                     "pi": "3. Tatiyapāṭidesanīyasikkhāpadaṃ"
                   },
                   "span": {
-                    "start": 373735,
-                    "end": 379835
+                    "start": 373599,
+                    "end": 379696
                   }
                 },
                 {
@@ -997,8 +997,8 @@
                     "pi": "4. Catutthapāṭidesanīyasikkhāpadaṃ"
                   },
                   "span": {
-                    "start": 379835,
-                    "end": 385788
+                    "start": 379696,
+                    "end": 385647
                   }
                 }
               ]
@@ -1008,8 +1008,8 @@
                 "pi": "7. Sekhiyakaṇḍaṃ"
               },
               "span": {
-                "start": 385788,
-                "end": 432453
+                "start": 385647,
+                "end": 432298
               },
               "subsections": [
                 {
@@ -1017,8 +1017,8 @@
                     "pi": "1. Parimaṇḍalavaggo"
                   },
                   "span": {
-                    "start": 385788,
-                    "end": 391647
+                    "start": 385647,
+                    "end": 391506
                   }
                 },
                 {
@@ -1026,8 +1026,8 @@
                     "pi": "2. Ujjagghikavaggo"
                   },
                   "span": {
-                    "start": 391647,
-                    "end": 396768
+                    "start": 391506,
+                    "end": 396624
                   }
                 },
                 {
@@ -1035,8 +1035,8 @@
                     "pi": "3. Khambhakatavaggo"
                   },
                   "span": {
-                    "start": 396768,
-                    "end": 401616
+                    "start": 396624,
+                    "end": 401472
                   }
                 },
                 {
@@ -1044,8 +1044,8 @@
                     "pi": "4. Sakkaccavaggo"
                   },
                   "span": {
-                    "start": 401616,
-                    "end": 408379
+                    "start": 401472,
+                    "end": 408230
                   }
                 },
                 {
@@ -1053,8 +1053,8 @@
                     "pi": "5. Kabaḷavaggo"
                   },
                   "span": {
-                    "start": 408379,
-                    "end": 412788
+                    "start": 408230,
+                    "end": 412638
                   }
                 },
                 {
@@ -1062,8 +1062,8 @@
                     "pi": "6. Surusuruvaggo"
                   },
                   "span": {
-                    "start": 412788,
-                    "end": 421081
+                    "start": 412638,
+                    "end": 420930
                   }
                 },
                 {
@@ -1071,8 +1071,8 @@
                     "pi": "7. Pādukavaggo"
                   },
                   "span": {
-                    "start": 421081,
-                    "end": 432453
+                    "start": 420930,
+                    "end": 432298
                   }
                 }
               ]
@@ -1082,8 +1082,8 @@
                 "pi": "8. Adhikaraṇasamathā"
               },
               "span": {
-                "start": 432453,
-                "end": 433542
+                "start": 432298,
+                "end": 433387
               }
             },
             {
@@ -1091,8 +1091,8 @@
                 "pi": "Bhikkhunīvibhaṅgo"
               },
               "span": {
-                "start": 433542,
-                "end": 738928
+                "start": 433387,
+                "end": 738671
               },
               "subsections": [
                 {
@@ -1100,8 +1100,8 @@
                     "pi": "1. Pārājikakaṇḍaṃ (bhikkhunīvibhaṅgo)"
                   },
                   "span": {
-                    "start": 433542,
-                    "end": 457675
+                    "start": 433387,
+                    "end": 457509
                   },
                   "subsections": [
                     {
@@ -1109,8 +1109,8 @@
                         "pi": "1. Paṭhamapārājikaṃ"
                       },
                       "span": {
-                        "start": 433542,
-                        "end": 444649
+                        "start": 433387,
+                        "end": 444486
                       }
                     },
                     {
@@ -1118,8 +1118,8 @@
                         "pi": "2. Dutiyapārājikaṃ"
                       },
                       "span": {
-                        "start": 444649,
-                        "end": 448275
+                        "start": 444486,
+                        "end": 448110
                       }
                     },
                     {
@@ -1127,8 +1127,8 @@
                         "pi": "3. Tatiyapārājikaṃ"
                       },
                       "span": {
-                        "start": 448275,
-                        "end": 453176
+                        "start": 448110,
+                        "end": 453011
                       }
                     },
                     {
@@ -1136,8 +1136,8 @@
                         "pi": "4. Catutthapārājikaṃ"
                       },
                       "span": {
-                        "start": 453176,
-                        "end": 457675
+                        "start": 453011,
+                        "end": 457509
                       }
                     }
                   ]
@@ -1147,8 +1147,8 @@
                     "pi": "2. Saṅghādisesakaṇḍaṃ (bhikkhunīvibhaṅgo)"
                   },
                   "span": {
-                    "start": 457675,
-                    "end": 507296
+                    "start": 457509,
+                    "end": 507112
                   },
                   "subsections": [
                     {
@@ -1156,8 +1156,8 @@
                         "pi": "1. Paṭhamasaṅghādisesasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 457675,
-                        "end": 461943
+                        "start": 457509,
+                        "end": 461775
                       }
                     },
                     {
@@ -1165,8 +1165,8 @@
                         "pi": "2. Dutiyasaṅghādisesasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 461943,
-                        "end": 465901
+                        "start": 461775,
+                        "end": 465732
                       }
                     },
                     {
@@ -1174,8 +1174,8 @@
                         "pi": "3. Tatiyasaṅghādisesasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 465901,
-                        "end": 472323
+                        "start": 465732,
+                        "end": 472150
                       }
                     },
                     {
@@ -1183,8 +1183,8 @@
                         "pi": "4. Catutthasaṅghādisesasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 472323,
-                        "end": 476338
+                        "start": 472150,
+                        "end": 476162
                       }
                     },
                     {
@@ -1192,8 +1192,8 @@
                         "pi": "5. Pañcamasaṅghādisesasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 476338,
-                        "end": 479167
+                        "start": 476162,
+                        "end": 478991
                       }
                     },
                     {
@@ -1201,8 +1201,8 @@
                         "pi": "6. Chaṭṭhasaṅghādisesasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 479167,
-                        "end": 482742
+                        "start": 478991,
+                        "end": 482566
                       }
                     },
                     {
@@ -1210,8 +1210,8 @@
                         "pi": "7. Sattamasaṅghādisesasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 482742,
-                        "end": 488812
+                        "start": 482566,
+                        "end": 488631
                       }
                     },
                     {
@@ -1219,8 +1219,8 @@
                         "pi": "8. Aṭṭhamasaṅghādisesasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 488812,
-                        "end": 493905
+                        "start": 488631,
+                        "end": 493723
                       }
                     },
                     {
@@ -1228,8 +1228,8 @@
                         "pi": "9. Navamasaṅghādisesasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 493905,
-                        "end": 498872
+                        "start": 493723,
+                        "end": 498690
                       }
                     },
                     {
@@ -1237,8 +1237,8 @@
                         "pi": "10. Dasamasaṅghādisesasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 498872,
-                        "end": 507296
+                        "start": 498690,
+                        "end": 507112
                       }
                     }
                   ]
@@ -1248,8 +1248,8 @@
                     "pi": "3. Nissaggiyakaṇḍaṃ (bhikkhunīvibhaṅgo)"
                   },
                   "span": {
-                    "start": 507296,
-                    "end": 540737
+                    "start": 507112,
+                    "end": 540542
                   },
                   "subsections": [
                     {
@@ -1257,117 +1257,119 @@
                         "pi": "1. Pattavaggo"
                       },
                       "span": {
-                        "start": 507296,
-                        "end": 507296
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "1. Paṭhamasikkhāpadaṃ"
+                        "start": 507112,
+                        "end": 540542
                       },
-                      "span": {
-                        "start": 507296,
-                        "end": 511432
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "2. Dutiyasikkhāpadaṃ"
-                      },
-                      "span": {
-                        "start": 511432,
-                        "end": 514253
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "3. Tatiyasikkhāpadaṃ"
-                      },
-                      "span": {
-                        "start": 514253,
-                        "end": 517354
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "4. Catutthasikkhāpadaṃ"
-                      },
-                      "span": {
-                        "start": 517354,
-                        "end": 519983
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "5. Pañcamasikkhāpadaṃ"
-                      },
-                      "span": {
-                        "start": 519983,
-                        "end": 522753
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "6. Chaṭṭhasikkhāpadaṃ"
-                      },
-                      "span": {
-                        "start": 522753,
-                        "end": 525219
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "7. Sattamasikkhāpadaṃ"
-                      },
-                      "span": {
-                        "start": 525219,
-                        "end": 527538
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "8. Aṭṭhamasikkhāpadaṃ"
-                      },
-                      "span": {
-                        "start": 527538,
-                        "end": 529843
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "9. Navamasikkhāpadaṃ"
-                      },
-                      "span": {
-                        "start": 529843,
-                        "end": 532252
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "10. Dasamasikkhāpadaṃ"
-                      },
-                      "span": {
-                        "start": 532252,
-                        "end": 534824
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "11. Ekādasamasikkhāpadaṃ"
-                      },
-                      "span": {
-                        "start": 534824,
-                        "end": 537626
-                      }
-                    },
-                    {
-                      "title": {
-                        "pi": "12. Dvādasamasikkhāpadaṃ"
-                      },
-                      "span": {
-                        "start": 537626,
-                        "end": 540737
-                      }
+                      "subsections": [
+                        {
+                          "title": {
+                            "pi": "1. Paṭhamasikkhāpadaṃ"
+                          },
+                          "span": {
+                            "start": 507112,
+                            "end": 511246
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "2. Dutiyasikkhāpadaṃ"
+                          },
+                          "span": {
+                            "start": 511246,
+                            "end": 514063
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "3. Tatiyasikkhāpadaṃ"
+                          },
+                          "span": {
+                            "start": 514063,
+                            "end": 517164
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "4. Catutthasikkhāpadaṃ"
+                          },
+                          "span": {
+                            "start": 517164,
+                            "end": 519793
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "5. Pañcamasikkhāpadaṃ"
+                          },
+                          "span": {
+                            "start": 519793,
+                            "end": 522563
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "6. Chaṭṭhasikkhāpadaṃ"
+                          },
+                          "span": {
+                            "start": 522563,
+                            "end": 525029
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "7. Sattamasikkhāpadaṃ"
+                          },
+                          "span": {
+                            "start": 525029,
+                            "end": 527347
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "8. Aṭṭhamasikkhāpadaṃ"
+                          },
+                          "span": {
+                            "start": 527347,
+                            "end": 529651
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "9. Navamasikkhāpadaṃ"
+                          },
+                          "span": {
+                            "start": 529651,
+                            "end": 532060
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "10. Dasamasikkhāpadaṃ"
+                          },
+                          "span": {
+                            "start": 532060,
+                            "end": 534632
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "11. Ekādasamasikkhāpadaṃ"
+                          },
+                          "span": {
+                            "start": 534632,
+                            "end": 537433
+                          }
+                        },
+                        {
+                          "title": {
+                            "pi": "12. Dvādasamasikkhāpadaṃ"
+                          },
+                          "span": {
+                            "start": 537433,
+                            "end": 540542
+                          }
+                        }
+                      ]
                     }
                   ]
                 },
@@ -1376,8 +1378,8 @@
                     "pi": "4. Pācittiyakaṇḍaṃ (bhikkhunīvibhaṅgo)"
                   },
                   "span": {
-                    "start": 540737,
-                    "end": 728175
+                    "start": 540542,
+                    "end": 727921
                   },
                   "subsections": [
                     {
@@ -1385,8 +1387,8 @@
                         "pi": "1. Lasuṇavaggo"
                       },
                       "span": {
-                        "start": 540737,
-                        "end": 559526
+                        "start": 540542,
+                        "end": 559325
                       },
                       "subsections": [
                         {
@@ -1394,8 +1396,8 @@
                             "pi": "1. Paṭhamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 540737,
-                            "end": 543683
+                            "start": 540542,
+                            "end": 543488
                           }
                         },
                         {
@@ -1403,8 +1405,8 @@
                             "pi": "2. Dutiyasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 543683,
-                            "end": 544984
+                            "start": 543488,
+                            "end": 544789
                           }
                         },
                         {
@@ -1412,8 +1414,8 @@
                             "pi": "3. Tatiyasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 544984,
-                            "end": 546017
+                            "start": 544789,
+                            "end": 545822
                           }
                         },
                         {
@@ -1421,8 +1423,8 @@
                             "pi": "4. Catutthasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 546017,
-                            "end": 547473
+                            "start": 545822,
+                            "end": 547278
                           }
                         },
                         {
@@ -1430,8 +1432,8 @@
                             "pi": "5. Pañcamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 547473,
-                            "end": 549661
+                            "start": 547278,
+                            "end": 549464
                           }
                         },
                         {
@@ -1439,8 +1441,8 @@
                             "pi": "6. Chaṭṭhasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 549661,
-                            "end": 551778
+                            "start": 549464,
+                            "end": 551581
                           }
                         },
                         {
@@ -1448,8 +1450,8 @@
                             "pi": "7. Sattamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 551778,
-                            "end": 553247
+                            "start": 551581,
+                            "end": 553049
                           }
                         },
                         {
@@ -1457,8 +1459,8 @@
                             "pi": "8. Aṭṭhamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 553247,
-                            "end": 555573
+                            "start": 553049,
+                            "end": 555374
                           }
                         },
                         {
@@ -1466,8 +1468,8 @@
                             "pi": "9. Navamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 555573,
-                            "end": 557629
+                            "start": 555374,
+                            "end": 557428
                           }
                         },
                         {
@@ -1475,8 +1477,8 @@
                             "pi": "10. Dasamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 557629,
-                            "end": 559526
+                            "start": 557428,
+                            "end": 559325
                           }
                         }
                       ]
@@ -1486,8 +1488,8 @@
                         "pi": "2. Andhakāravaggo"
                       },
                       "span": {
-                        "start": 559526,
-                        "end": 580162
+                        "start": 559325,
+                        "end": 579957
                       },
                       "subsections": [
                         {
@@ -1495,8 +1497,8 @@
                             "pi": "1. Paṭhamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 559526,
-                            "end": 561343
+                            "start": 559325,
+                            "end": 561141
                           }
                         },
                         {
@@ -1504,8 +1506,8 @@
                             "pi": "2. Dutiyasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 561343,
-                            "end": 563299
+                            "start": 561141,
+                            "end": 563097
                           }
                         },
                         {
@@ -1513,8 +1515,8 @@
                             "pi": "3. Tatiyasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 563299,
-                            "end": 565224
+                            "start": 563097,
+                            "end": 565022
                           }
                         },
                         {
@@ -1522,8 +1524,8 @@
                             "pi": "4. Catutthasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 565224,
-                            "end": 567674
+                            "start": 565022,
+                            "end": 567471
                           }
                         },
                         {
@@ -1531,8 +1533,8 @@
                             "pi": "5. Pañcamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 567674,
-                            "end": 570102
+                            "start": 567471,
+                            "end": 569899
                           }
                         },
                         {
@@ -1540,8 +1542,8 @@
                             "pi": "6. Chaṭṭhasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 570102,
-                            "end": 572506
+                            "start": 569899,
+                            "end": 572301
                           }
                         },
                         {
@@ -1549,8 +1551,8 @@
                             "pi": "7. Sattamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 572506,
-                            "end": 575186
+                            "start": 572301,
+                            "end": 574981
                           }
                         },
                         {
@@ -1558,8 +1560,8 @@
                             "pi": "8. Aṭṭhamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 575186,
-                            "end": 576888
+                            "start": 574981,
+                            "end": 576683
                           }
                         },
                         {
@@ -1567,8 +1569,8 @@
                             "pi": "9. Navamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 576888,
-                            "end": 579031
+                            "start": 576683,
+                            "end": 578826
                           }
                         },
                         {
@@ -1576,8 +1578,8 @@
                             "pi": "10. Dasamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 579031,
-                            "end": 580162
+                            "start": 578826,
+                            "end": 579957
                           }
                         }
                       ]
@@ -1587,8 +1589,8 @@
                         "pi": "3. Naggavaggo"
                       },
                       "span": {
-                        "start": 580162,
-                        "end": 600414
+                        "start": 579957,
+                        "end": 600195
                       },
                       "subsections": [
                         {
@@ -1596,8 +1598,8 @@
                             "pi": "1. Paṭhamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 580162,
-                            "end": 581493
+                            "start": 579957,
+                            "end": 581287
                           }
                         },
                         {
@@ -1605,8 +1607,8 @@
                             "pi": "2. Dutiyasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 581493,
-                            "end": 583447
+                            "start": 581287,
+                            "end": 583239
                           }
                         },
                         {
@@ -1614,8 +1616,8 @@
                             "pi": "3. Tatiyasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 583447,
-                            "end": 586564
+                            "start": 583239,
+                            "end": 586355
                           }
                         },
                         {
@@ -1623,8 +1625,8 @@
                             "pi": "4. Catutthasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 586564,
-                            "end": 588388
+                            "start": 586355,
+                            "end": 588177
                           }
                         },
                         {
@@ -1632,8 +1634,8 @@
                             "pi": "5. Pañcamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 588388,
-                            "end": 590344
+                            "start": 588177,
+                            "end": 590130
                           }
                         },
                         {
@@ -1641,8 +1643,8 @@
                             "pi": "6. Chaṭṭhasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 590344,
-                            "end": 592125
+                            "start": 590130,
+                            "end": 591910
                           }
                         },
                         {
@@ -1650,8 +1652,8 @@
                             "pi": "7. Sattamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 592125,
-                            "end": 593944
+                            "start": 591910,
+                            "end": 593729
                           }
                         },
                         {
@@ -1659,8 +1661,8 @@
                             "pi": "8. Aṭṭhamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 593944,
-                            "end": 595531
+                            "start": 593729,
+                            "end": 595316
                           }
                         },
                         {
@@ -1668,8 +1670,8 @@
                             "pi": "9. Navamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 595531,
-                            "end": 597872
+                            "start": 595316,
+                            "end": 597655
                           }
                         },
                         {
@@ -1677,8 +1679,8 @@
                             "pi": "10. Dasamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 597872,
-                            "end": 600414
+                            "start": 597655,
+                            "end": 600195
                           }
                         }
                       ]
@@ -1688,8 +1690,8 @@
                         "pi": "4. Tuvaṭṭavaggo"
                       },
                       "span": {
-                        "start": 600414,
-                        "end": 620425
+                        "start": 600195,
+                        "end": 620199
                       },
                       "subsections": [
                         {
@@ -1697,8 +1699,8 @@
                             "pi": "1. Paṭhamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 600414,
-                            "end": 601661
+                            "start": 600195,
+                            "end": 601441
                           }
                         },
                         {
@@ -1706,8 +1708,8 @@
                             "pi": "2. Dutiyasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 601661,
-                            "end": 603412
+                            "start": 601441,
+                            "end": 603191
                           }
                         },
                         {
@@ -1715,8 +1717,8 @@
                             "pi": "3. Tatiyasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 603412,
-                            "end": 605756
+                            "start": 603191,
+                            "end": 605535
                           }
                         },
                         {
@@ -1724,8 +1726,8 @@
                             "pi": "4. Catutthasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 605756,
-                            "end": 607237
+                            "start": 605535,
+                            "end": 607015
                           }
                         },
                         {
@@ -1733,8 +1735,8 @@
                             "pi": "5. Pañcamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 607237,
-                            "end": 611195
+                            "start": 607015,
+                            "end": 610973
                           }
                         },
                         {
@@ -1742,8 +1744,8 @@
                             "pi": "6. Chaṭṭhasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 611195,
-                            "end": 614754
+                            "start": 610973,
+                            "end": 614529
                           }
                         },
                         {
@@ -1751,8 +1753,8 @@
                             "pi": "7. Sattamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 614754,
-                            "end": 616271
+                            "start": 614529,
+                            "end": 616046
                           }
                         },
                         {
@@ -1760,8 +1762,8 @@
                             "pi": "8. Aṭṭhamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 616271,
-                            "end": 617805
+                            "start": 616046,
+                            "end": 617579
                           }
                         },
                         {
@@ -1769,8 +1771,8 @@
                             "pi": "9. Navamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 617805,
-                            "end": 619139
+                            "start": 617579,
+                            "end": 618913
                           }
                         },
                         {
@@ -1778,8 +1780,8 @@
                             "pi": "10. Dasamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 619139,
-                            "end": 620425
+                            "start": 618913,
+                            "end": 620199
                           }
                         }
                       ]
@@ -1789,8 +1791,8 @@
                         "pi": "5. Cittāgāravaggo"
                       },
                       "span": {
-                        "start": 620425,
-                        "end": 637025
+                        "start": 620199,
+                        "end": 636796
                       },
                       "subsections": [
                         {
@@ -1798,8 +1800,8 @@
                             "pi": "1. Paṭhamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 620425,
-                            "end": 622426
+                            "start": 620199,
+                            "end": 622200
                           }
                         },
                         {
@@ -1807,8 +1809,8 @@
                             "pi": "2. Dutiyasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 622426,
-                            "end": 623813
+                            "start": 622200,
+                            "end": 623586
                           }
                         },
                         {
@@ -1816,8 +1818,8 @@
                             "pi": "3. Tatiyasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 623813,
-                            "end": 625026
+                            "start": 623586,
+                            "end": 624799
                           }
                         },
                         {
@@ -1825,8 +1827,8 @@
                             "pi": "4. Catutthasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 625026,
-                            "end": 626075
+                            "start": 624799,
+                            "end": 625848
                           }
                         },
                         {
@@ -1834,8 +1836,8 @@
                             "pi": "5. Pañcamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 626075,
-                            "end": 628673
+                            "start": 625848,
+                            "end": 628446
                           }
                         },
                         {
@@ -1843,8 +1845,8 @@
                             "pi": "6. Chaṭṭhasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 628673,
-                            "end": 630519
+                            "start": 628446,
+                            "end": 630292
                           }
                         },
                         {
@@ -1852,8 +1854,8 @@
                             "pi": "7. Sattamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 630519,
-                            "end": 632170
+                            "start": 630292,
+                            "end": 631942
                           }
                         },
                         {
@@ -1861,8 +1863,8 @@
                             "pi": "8. Aṭṭhamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 632170,
-                            "end": 634308
+                            "start": 631942,
+                            "end": 634079
                           }
                         },
                         {
@@ -1870,8 +1872,8 @@
                             "pi": "9. Navamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 634308,
-                            "end": 635691
+                            "start": 634079,
+                            "end": 635462
                           }
                         },
                         {
@@ -1879,8 +1881,8 @@
                             "pi": "10. Dasamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 635691,
-                            "end": 637025
+                            "start": 635462,
+                            "end": 636796
                           }
                         }
                       ]
@@ -1890,8 +1892,8 @@
                         "pi": "6. Ārāmavaggo"
                       },
                       "span": {
-                        "start": 637025,
-                        "end": 657344
+                        "start": 636796,
+                        "end": 657107
                       },
                       "subsections": [
                         {
@@ -1899,8 +1901,8 @@
                             "pi": "1. Paṭhamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 637025,
-                            "end": 640414
+                            "start": 636796,
+                            "end": 640185
                           }
                         },
                         {
@@ -1908,8 +1910,8 @@
                             "pi": "2. Dutiyasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 640414,
-                            "end": 643208
+                            "start": 640185,
+                            "end": 642976
                           }
                         },
                         {
@@ -1917,8 +1919,8 @@
                             "pi": "3. Tatiyasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 643208,
-                            "end": 645604
+                            "start": 642976,
+                            "end": 645372
                           }
                         },
                         {
@@ -1926,8 +1928,8 @@
                             "pi": "4. Catutthasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 645604,
-                            "end": 648154
+                            "start": 645372,
+                            "end": 647920
                           }
                         },
                         {
@@ -1935,8 +1937,8 @@
                             "pi": "5. Pañcamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 648154,
-                            "end": 649927
+                            "start": 647920,
+                            "end": 649693
                           }
                         },
                         {
@@ -1944,8 +1946,8 @@
                             "pi": "6. Chaṭṭhasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 649927,
-                            "end": 651248
+                            "start": 649693,
+                            "end": 651013
                           }
                         },
                         {
@@ -1953,8 +1955,8 @@
                             "pi": "7. Sattamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 651248,
-                            "end": 652591
+                            "start": 651013,
+                            "end": 652355
                           }
                         },
                         {
@@ -1962,8 +1964,8 @@
                             "pi": "8. Aṭṭhamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 652591,
-                            "end": 653874
+                            "start": 652355,
+                            "end": 653638
                           }
                         },
                         {
@@ -1971,8 +1973,8 @@
                             "pi": "9. Navamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 653874,
-                            "end": 655026
+                            "start": 653638,
+                            "end": 654790
                           }
                         },
                         {
@@ -1980,8 +1982,8 @@
                             "pi": "10. Dasamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 655026,
-                            "end": 657344
+                            "start": 654790,
+                            "end": 657107
                           }
                         }
                       ]
@@ -1991,8 +1993,8 @@
                         "pi": "7. Gabbhinīvaggo"
                       },
                       "span": {
-                        "start": 657344,
-                        "end": 682938
+                        "start": 657107,
+                        "end": 682694
                       },
                       "subsections": [
                         {
@@ -2000,8 +2002,8 @@
                             "pi": "1. Paṭhamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 657344,
-                            "end": 659082
+                            "start": 657107,
+                            "end": 658843
                           }
                         },
                         {
@@ -2009,8 +2011,8 @@
                             "pi": "2. Dutiyasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 659082,
-                            "end": 660810
+                            "start": 658843,
+                            "end": 660571
                           }
                         },
                         {
@@ -2018,8 +2020,8 @@
                             "pi": "3. Tatiyasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 660810,
-                            "end": 664491
+                            "start": 660571,
+                            "end": 664251
                           }
                         },
                         {
@@ -2027,8 +2029,8 @@
                             "pi": "4. Catutthasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 664491,
-                            "end": 668178
+                            "start": 664251,
+                            "end": 667936
                           }
                         },
                         {
@@ -2036,8 +2038,8 @@
                             "pi": "5. Pañcamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 668178,
-                            "end": 670759
+                            "start": 667936,
+                            "end": 670516
                           }
                         },
                         {
@@ -2045,8 +2047,8 @@
                             "pi": "6. Chaṭṭhasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 670759,
-                            "end": 674598
+                            "start": 670516,
+                            "end": 674355
                           }
                         },
                         {
@@ -2054,8 +2056,8 @@
                             "pi": "7. Sattamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 674598,
-                            "end": 678683
+                            "start": 674355,
+                            "end": 678440
                           }
                         },
                         {
@@ -2063,8 +2065,8 @@
                             "pi": "8. Aṭṭhamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 678683,
-                            "end": 680184
+                            "start": 678440,
+                            "end": 679941
                           }
                         },
                         {
@@ -2072,8 +2074,8 @@
                             "pi": "9. Navamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 680184,
-                            "end": 681419
+                            "start": 679941,
+                            "end": 681176
                           }
                         },
                         {
@@ -2081,8 +2083,8 @@
                             "pi": "10. Dasamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 681419,
-                            "end": 682938
+                            "start": 681176,
+                            "end": 682694
                           }
                         }
                       ]
@@ -2092,8 +2094,8 @@
                         "pi": "8. Kumārībhūtavaggo"
                       },
                       "span": {
-                        "start": 682938,
-                        "end": 711578
+                        "start": 682694,
+                        "end": 711327
                       },
                       "subsections": [
                         {
@@ -2101,8 +2103,8 @@
                             "pi": "1. Paṭhamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 682938,
-                            "end": 685088
+                            "start": 682694,
+                            "end": 684844
                           }
                         },
                         {
@@ -2110,8 +2112,8 @@
                             "pi": "2. Dutiyasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 685088,
-                            "end": 688865
+                            "start": 684844,
+                            "end": 688619
                           }
                         },
                         {
@@ -2119,8 +2121,8 @@
                             "pi": "3. Tatiyasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 688865,
-                            "end": 692975
+                            "start": 688619,
+                            "end": 692727
                           }
                         },
                         {
@@ -2128,8 +2130,8 @@
                             "pi": "4. Catutthasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 692975,
-                            "end": 694275
+                            "start": 692727,
+                            "end": 694027
                           }
                         },
                         {
@@ -2137,8 +2139,8 @@
                             "pi": "5. Pañcamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 694275,
-                            "end": 697707
+                            "start": 694027,
+                            "end": 697458
                           }
                         },
                         {
@@ -2146,8 +2148,8 @@
                             "pi": "6. Chaṭṭhasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 697707,
-                            "end": 699510
+                            "start": 697458,
+                            "end": 699261
                           }
                         },
                         {
@@ -2155,8 +2157,8 @@
                             "pi": "7. Sattamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 699510,
-                            "end": 701495
+                            "start": 699261,
+                            "end": 701245
                           }
                         },
                         {
@@ -2164,8 +2166,8 @@
                             "pi": "8. Aṭṭhamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 701495,
-                            "end": 703577
+                            "start": 701245,
+                            "end": 703327
                           }
                         },
                         {
@@ -2173,8 +2175,8 @@
                             "pi": "9. Navamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 703577,
-                            "end": 705400
+                            "start": 703327,
+                            "end": 705150
                           }
                         },
                         {
@@ -2182,8 +2184,8 @@
                             "pi": "10. Dasamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 705400,
-                            "end": 707102
+                            "start": 705150,
+                            "end": 706852
                           }
                         },
                         {
@@ -2191,8 +2193,8 @@
                             "pi": "11. Ekādasamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 707102,
-                            "end": 708705
+                            "start": 706852,
+                            "end": 708454
                           }
                         },
                         {
@@ -2200,8 +2202,8 @@
                             "pi": "12. Dvādasamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 708705,
-                            "end": 710089
+                            "start": 708454,
+                            "end": 709838
                           }
                         },
                         {
@@ -2209,8 +2211,8 @@
                             "pi": "13. Terasamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 710089,
-                            "end": 711578
+                            "start": 709838,
+                            "end": 711327
                           }
                         }
                       ]
@@ -2220,8 +2222,8 @@
                         "pi": "9. Chattupāhanavaggo"
                       },
                       "span": {
-                        "start": 711578,
-                        "end": 728175
+                        "start": 711327,
+                        "end": 727921
                       },
                       "subsections": [
                         {
@@ -2229,8 +2231,8 @@
                             "pi": "1. Paṭhamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 711578,
-                            "end": 713705
+                            "start": 711327,
+                            "end": 713453
                           }
                         },
                         {
@@ -2238,8 +2240,8 @@
                             "pi": "2. Dutiyasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 713705,
-                            "end": 715540
+                            "start": 713453,
+                            "end": 715287
                           }
                         },
                         {
@@ -2247,8 +2249,8 @@
                             "pi": "3. Tatiyasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 715540,
-                            "end": 716916
+                            "start": 715287,
+                            "end": 716663
                           }
                         },
                         {
@@ -2256,8 +2258,8 @@
                             "pi": "4. Catutthasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 716916,
-                            "end": 718094
+                            "start": 716663,
+                            "end": 717841
                           }
                         },
                         {
@@ -2265,8 +2267,8 @@
                             "pi": "5. Pañcamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 718094,
-                            "end": 719313
+                            "start": 717841,
+                            "end": 719060
                           }
                         },
                         {
@@ -2274,8 +2276,8 @@
                             "pi": "6. Chaṭṭhasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 719313,
-                            "end": 720603
+                            "start": 719060,
+                            "end": 720350
                           }
                         },
                         {
@@ -2283,8 +2285,8 @@
                             "pi": "7. Sattamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 720603,
-                            "end": 721949
+                            "start": 720350,
+                            "end": 721696
                           }
                         },
                         {
@@ -2292,8 +2294,8 @@
                             "pi": "8-9-10. Aṭṭhama-navama-dasamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 721949,
-                            "end": 723507
+                            "start": 721696,
+                            "end": 723254
                           }
                         },
                         {
@@ -2301,8 +2303,8 @@
                             "pi": "11. Ekādasamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 723507,
-                            "end": 724866
+                            "start": 723254,
+                            "end": 724612
                           }
                         },
                         {
@@ -2310,8 +2312,8 @@
                             "pi": "12. Dvādasamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 724866,
-                            "end": 726420
+                            "start": 724612,
+                            "end": 726166
                           }
                         },
                         {
@@ -2319,8 +2321,8 @@
                             "pi": "13. Terasamasikkhāpadaṃ"
                           },
                           "span": {
-                            "start": 726420,
-                            "end": 728175
+                            "start": 726166,
+                            "end": 727921
                           }
                         }
                       ]
@@ -2332,8 +2334,8 @@
                     "pi": "5. Pāṭidesanīyakaṇḍaṃ (bhikkhunīvibhaṅgo)"
                   },
                   "span": {
-                    "start": 728175,
-                    "end": 734441
+                    "start": 727921,
+                    "end": 734185
                   },
                   "subsections": [
                     {
@@ -2341,8 +2343,8 @@
                         "pi": "1. Paṭhamapāṭidesanīyasikkhāpadaṃ"
                       },
                       "span": {
-                        "start": 728175,
-                        "end": 730947
+                        "start": 727921,
+                        "end": 730692
                       }
                     },
                     {
@@ -2350,8 +2352,8 @@
                         "pi": "2. Dutiyādipāṭidesanīyasikkhāpadāni"
                       },
                       "span": {
-                        "start": 730947,
-                        "end": 734441
+                        "start": 730692,
+                        "end": 734185
                       }
                     }
                   ]
@@ -2361,8 +2363,8 @@
                     "pi": "6. Sekhiyakaṇḍaṃ (bhikkhunīvibhaṅgo)"
                   },
                   "span": {
-                    "start": 734441,
-                    "end": 737897
+                    "start": 734185,
+                    "end": 737640
                   },
                   "subsections": [
                     {
@@ -2370,8 +2372,8 @@
                         "pi": "1. Parimaṇḍalavaggo"
                       },
                       "span": {
-                        "start": 734441,
-                        "end": 735707
+                        "start": 734185,
+                        "end": 735451
                       }
                     },
                     {
@@ -2379,8 +2381,8 @@
                         "pi": "7. Pādukavaggo"
                       },
                       "span": {
-                        "start": 735707,
-                        "end": 737897
+                        "start": 735451,
+                        "end": 737640
                       }
                     }
                   ]
@@ -2390,8 +2392,8 @@
                     "pi": "7. Adhikaraṇasamathā (bhikkhunīvibhaṅgo)"
                   },
                   "span": {
-                    "start": 737897,
-                    "end": 738928
+                    "start": 737640,
+                    "end": 738671
                   }
                 }
               ]
