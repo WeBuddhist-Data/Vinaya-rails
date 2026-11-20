@@ -1,0 +1,204 @@
+---
+name: library-upload
+description: >
+  Keep the WeBuddhist library in step with a rails vault, per environment (dev, prod, …):
+  see each note's state, upload what is missing, patch what changed in place, re-segment
+  under a developer gate, and verify — for root texts, translations, commentaries (text,
+  edition, table of contents, yigchungs, durchens, footnotes, alignment) and audio
+  (audio, recordings, cues). Payloads come from the vault's own linter and parser. Plans
+  are printed first; nothing is sent without explicit confirmation.
+
+  Trigger this skill whenever the user wants anything published to or checked against
+  the library: "upload the root text / translation / commentary", "push to dev",
+  "what is out of date on prod", "update the library with my edits", "send the cues",
+  "re-upload the recording", "delete this alignment", "is everything right on dev".
+---
+
+# library-upload
+
+One tool for everything the vault sends to the library, and for checking what is there:
+
+```
+python 4-SYSTEM/Skills/library-upload/scripts/library.py <text|translation|commentary|audio> <command> --env <dev|testing|prod> [notes or folders] [options]
+```
+
+Run it from the vault root. It builds every text payload with the vault's **own** shared
+linter and parser (`4-SYSTEM/scripts/linter-root-text`, `parser-root-text`,
+`linter-commentary`, `parser-commentary` — kept in step with rails-template), compares the
+result with what the chosen environment actually holds, and gives every note a state.
+Every write is printed as a plan first and sent only with `--yes`.
+
+It replaces `root-text-upload`, `translation-upload`, `commentary-upload` and
+`yigchung-upload`: first uploads are `push`; what those could not do — see what is out of
+date, patch an edition in place, keep dev and prod apart, re-segment safely, verify — is
+the rest of this skill.
+
+## Inputs
+
+| Kind | Notes (folder) | Linked to its root by |
+|------|----------------|-----------------------|
+| `text` | `1-SOURCES/Text/` (`file_type: root-text` / `edition`) | — |
+| `translation` | `1-SOURCES/Translations/` (`file_type: translation`) | `root_text:`; aligned from its `![[root#^id]]` transclusions, else block N to root block N when the block ids match |
+| `commentary` | `1-SOURCES/Commentaries/` (`file_type: commentary`) | `root_text:`; aligned commentary → root from its transclusions |
+| `audio` | `1-SOURCES/Audio/<text>/audio/*-recitation.md` | `root_text:`; cues from the note's Mapping table |
+
+- The environment (`--env`), always named: **dev** (`dev.library.webuddhist.com/api`), **testing** (`testing.library.webuddhist.com/api`) or **prod** (`library-prod.webuddhist.com`). dev unless the person names another.
+- The vault's shared linter and parser in `4-SYSTEM/scripts/` (text kinds).
+- For audio: the audio files (not in the repo; `Audio/` at the vault root, `--audio-dir` or `$AUDIO_FILES_DIR`).
+- Credentials: testing and prod each need their own API key, in the git-ignored `.env` (vault root or `4-SYSTEM/scripts/`): `testing_api_key=…`, `prod_api_key=…` (dev needs none). Each environment reads only its own key. Never typed into chat, never printed.
+- Optional vault settings in `4-SYSTEM/library-upload.json` — only when the vault differs from the defaults:
+
+```json
+{
+  "frontmatter_env": "prod",
+  "folders": {"translation": "3-TRANSFORMATIONS/Translations"},
+  "environments": {"staging": {"url": "https://…", "protected": false, "key_dotenv": ["staging_api_key"]}}
+}
+```
+
+## Commands
+
+| Command | text / translation / commentary | audio | Writes |
+|---------|---------------------------------|-------|--------|
+| `status` | the state of every note on that environment | same | no |
+| `push` | create what is missing — `--only text,edition,toc,yigchungs,durchens,footnotes,alignment` | `--only audio,recording,cues` | yes |
+| `update` | in place — `--only details,content,toc,yigchungs,durchens,footnotes` | `--only audio,recording` | yes |
+| `replace` | **re-segmentation** (gated, see Rules) | the file changed: new recording, old one deleted, cues again | yes |
+| `delete` | `--only alignment,toc,yigchungs,durchens,footnotes` (texts never) | `--only cues,recording,audio` | yes |
+| `verify` | everything not ok, and frontmatter/ledger agreement | sizes, cues, deletions | no |
+
+Notes default to the kind's whole folder; name notes or folders to work on part of them.
+`--report` writes `4-SYSTEM/reports/<env>/<kind>-<command>.md`.
+
+## Output
+
+- On the library: what the plan listed, read back after every call.
+- Ids: the **frontmatter** of each note records one environment's ids — `text_id`,
+  `edition_id`, `toc_id`, `aligned_to_edition_id` — by default **prod**'s (set
+  `frontmatter_env` otherwise). They are written only on that environment, only into an
+  empty key, never overwritten. **Every** environment's ids go to the ledgers
+  `4-SYSTEM/ledgers/<env>/texts.json` and `audio.json` (keyed by the note's vault path).
+- Reports in `4-SYSTEM/reports/<env>/`.
+
+## Output file format
+
+`4-SYSTEM/ledgers/<env>/texts.json`:
+
+```json
+{
+  "1-SOURCES/Commentaries/<note>.md": {
+    "note": "1-SOURCES/Commentaries/<note>.md",
+    "text_id": "…", "edition_id": "…", "toc_id": "…", "aligned_to_edition_id": "…",
+    "content_patched": "2026-11-19",
+    "resegmented": ["2026-11-19"],
+    "deleted": [{"what": "footnotes", "date": "2026-11-19"}]
+  }
+}
+```
+
+`4-SYSTEM/ledgers/<env>/audio.json`: per audio note, `audio_id`, `recording_id`, `sha256`,
+`file`, `recording` (format, size, duration, edition), `cues` (count, date), and the
+`replaced` / `deleted` history. Add `4-SYSTEM/ledgers/` to `.gitignore`: the ledgers are
+local, and on a vault that keeps them nowhere else **they are the only record of which
+dev audio and recording belongs to which note** — keep a backup.
+
+## Reading `status`
+
+| State | Meaning → what to do |
+|-------|----------------------|
+| `ok` | matches the note |
+| `new` | not on this environment → `push` |
+| `details-changed` | title / alt titles / license / category / bdrc / date / authors, or tags the note has and the library lacks → `update --only details` (tags are only ever added) |
+| `content-patchable` | content edits that keep every segment boundary (the server's own span arithmetic, replayed) → `update --only content` |
+| `resegment-needed` | a split, merge or retype → `replace` (gated) |
+| `refs-renumbered` | same content and spans, only the references differ → `replace` (gated); harmless as it is — do not re-segment just to tidy |
+| `<annotation>-missing` / `-differs` / `-extra` | toc, yigchungs, durchens, footnotes → `push` / `update` / `delete --only <annotation>` (ask before deleting) |
+| `alignment-missing` / `alignment-differs` | → `push --only alignment` |
+| `alignment-blocked` | no alignment can be built on that environment (reason given): fix the transclusions or re-segment the root |
+| `root-not-on-env` | push the root text to that environment first |
+| `link-differs` | `translation_of` / `commentary_of` points elsewhere; settable only at creation → stop, ask a developer |
+| `blocked` | the linter or parser refused the note (reason quoted) → fix the note, never the check |
+| `gone` / `edition-mismatch` | the server and the records disagree → stop and report |
+
+Audio: `new`, `partial`, `cues-pending` / `cues-changed` / `cues-extra`, `file-changed`,
+`audio-details` / `recording-details` / `recording-edition`, `blocked`, `text-not-on-env`,
+`twin`, `gone` — each with the command to run in the status output.
+
+## Rules
+
+1. **Environments are never mixed.** `--env` is always given (dev, testing, prod); ids are per environment.
+   dev was replicated from prod once: older texts share ids, newer ones exist only where
+   they were made. Use dev unless the person names another. Writing to a protected
+   environment (prod) needs `--confirm prod` as well as `--yes`, and only after the
+   person said "prod" for this very action. Audio is uploaded to dev only, for now.
+2. **Plan, ask, send, check.** Run the command without `--yes`, tell the person in plain
+   words what will be sent (which notes, which calls, which environment), quote every
+   `skip` / `blocked` line, and only after their clear yes run it with `--yes`; then
+   `status` / `verify`.
+3. **Never delete and re-create a text.** Its `text_id` is referenced everywhere; there
+   is no `--recreate`. `translation_of` / `commentary_of` can only be set at creation.
+4. **Content edits that keep every segment boundary go in place** (`update --only content`),
+   proven by replaying the server's span arithmetic. Alignments survive; recordings that
+   follow the edition are named in the plan — check `audio status` afterwards.
+5. **Re-segmentation is one fixed sequence**, never "delete the segmentation and post a
+   new one": `DELETE …/segmentation` → `PATCH …/content` (one REPLACE of the whole content,
+   only if it changed) → `POST …/segmentation` → the annotations again. Each step is read
+   back before the next; a failure stops there and the ledger says how far it got.
+6. **Before any re-segmentation the links are checked in both directions** — translations,
+   commentaries, alignments, recordings, notes in the vault built on the text, or the text
+   being itself a translation or commentary. **If anything is linked, `replace` refuses
+   unless `--dev`.** Pass `--dev` only after the person has said they are a developer —
+   never on a guess. Re-segmenting breaks those links; a developer knows which repos
+   transclude the text, redoes the transclusions, and judges whether translations need
+   redoing (edits inside segments may leave them valid). Show them the refusal's list.
+7. **Tags are only added**, never removed: tags are also attached outside the notes.
+8. **No `alt_titles` in another language** on a new text (they claim that title in the
+   library for good and cannot be removed); a commentary never carries `translation_of`;
+   a root never gets a second commentary with the same title. `push` refuses these.
+9. **Annotations follow content.** They are compared only when the content matches, and
+   an environment whose API lacks one (e.g. no footnotes endpoint) is reported, not forced.
+10. **Read-only commands change no note.** The linter fills in frontmatter (language,
+    `translation_of`, `category_id`); the note is put back byte for byte unless a real
+    upload (`--yes`) is running.
+11. Never edit a ledger or the frontmatter ids by hand, never call the API with curl or a
+    one-off script for something this tool does, and never work around a refusal.
+12. **Vault-local addition (Vinaya-rails, 2026-11-20), not yet in rails-template:**
+    `replace --dev --full-replace` runs the re-segmentation sequence (Rule 5) on every named
+    note, even one whose boundaries are unchanged and could be patched in place. Use it only
+    when a developer asks for a full replace. It breaks every alignment to and from those notes,
+    so run `push --only alignment` afterwards. Offer it upstream or drop it at the next sync.
+
+## Procedure
+
+**A root text, translation or commentary is ready to publish**
+1. For a translation: run `translation-alignment-check` first.
+2. `library.py <kind> status --env dev <note>` → `new`, or the problem to fix.
+3. `library.py <kind> push --env dev <note>` → read the plan to the person; on yes, add `--yes`.
+4. `library.py <kind> status --env dev <note>` → `ok`. The root goes before its translations
+   and commentaries (they need its ids on that environment).
+
+**Notes were edited after upload** — `status` → `details-changed` → `update --only details`;
+`content-patchable` → `update --only content`; annotations `-differs` → `update --only <them>`;
+`resegment-needed` / `refs-renumbered` → `replace` (Rule 6).
+
+**New recordings (audio)** — skill `convert-audio` (WAV → AAC .m4a, exact length) →
+`python 4-SYSTEM/Skills/library-upload/scripts/audio_notes_to_m4a.py --write` (points the notes at the .m4a) →
+`audio status --env dev` → `audio push --env dev`.
+
+**An .otr arrives** — skill `otr-to-mapping` (fills the Mapping table) → `audio push --env dev --only cues <text>`.
+
+**A recording file changed** — `file-changed` → `audio replace`.
+
+**Is everything right?** — `status` and `verify` on the environment.
+
+**Something must go** — `delete --only …` naming the notes; list exactly what goes and get
+a yes first. Texts and editions are never deleted. A deleted recording's file stays in the
+server's storage; an audio can be deleted only once it has no recordings.
+
+## Completion check
+
+- [ ] The environment was named by the person (or dev), and prod only with their explicit word.
+- [ ] The plan was shown and agreed before any `--yes`.
+- [ ] `status` afterwards shows `ok` for what was sent; every remaining state reported.
+- [ ] No `--dev` without the person saying they are a developer.
+- [ ] Ledgers git-ignored; frontmatter ids only on the frontmatter environment.

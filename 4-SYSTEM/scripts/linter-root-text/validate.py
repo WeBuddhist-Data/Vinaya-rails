@@ -314,6 +314,23 @@ def _extract_ref(lines):
     return None
 
 
+def _glued_heading(lines):
+    """A heading must be a block of its own, with a blank line before and after
+    it. For a block that mixes a heading with any other line (text, a
+    transclusion, another heading), return (heading, neighbour, where) with
+    where 'after' or 'before' the heading; otherwise None. The parser would
+    lose something either way: text under a heading drops out of the edition,
+    and a heading under text or above a transclusion drops out of the TOC."""
+    rows = [l.strip() for l in lines if l.strip()]
+    heads = [i for i, l in enumerate(rows) if l.startswith('#')]
+    if len(rows) < 2 or not heads:
+        return None
+    h = heads[0]
+    if h + 1 < len(rows):
+        return rows[h], rows[h + 1], 'after'
+    return rows[h], rows[h - 1], 'before'
+
+
 def _validate_segmentation_refs(body, items):
     blocks = re.split(r'\n[ \t]*\n', body.strip())
     header_seen = {}
@@ -327,6 +344,17 @@ def _validate_segmentation_refs(body, items):
         lines = block.split('\n')
         content_lines = [l for l in lines if not TRANSCLUSION_RE.match(l)]
         if not any(l.strip() for l in content_lines):
+            continue
+        glued = _glued_heading(lines)
+        if glued:
+            head, other, where = glued
+            m = REF_RE.search(head)
+            name = m.group(1) if m else repr(head.lstrip('#').strip()[:40])
+            items.append(("ERROR",
+                f"header {name}: a heading must be a block of its own — {other[:50]!r} is on the "
+                f"line {where} it with no blank line between, and the parser would drop "
+                f"{'that text' if where == 'after' and not other.startswith(('#', '![[')) else 'the heading'}; "
+                f"add a blank line {where} the heading"))
             continue
         is_header = lines[0].lstrip().startswith('#')
         ref = _extract_ref(lines)

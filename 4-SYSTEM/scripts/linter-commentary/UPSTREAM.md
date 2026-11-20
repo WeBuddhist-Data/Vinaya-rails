@@ -25,4 +25,4 @@ Same notes as linter-root-text on `output/` and on the two helper scripts the wa
 
 ## Template changes
 
-None yet.
+- 2026-11-17: **a heading is a block of its own** (`validate.py`, `_glued_heading()`). Same change as linter-root-text: a heading with text, a transclusion or another heading on the line next to it is an ERROR, where the parser used to drop the text or the heading silently. Offer it back to Nalanda-texts-rails.

@@ -25,7 +25,7 @@ Use it for root texts, editions and translations. Commentaries have their own li
 | Field | Rule |
 |-------|------|
 | `title` | Required. A string, or an object of `{lang: title}` |
-| `alt_titles` | Optional (warning if missing). A string or a list of strings, in the same language as the file |
+| `alt_titles` | Optional (warning if missing). Preferred: a list of `{lang: title}` items, one per title, any language (`- bo: "…"`, `- en: "…"`). A bare string or list of strings is still accepted and keyed with the file's own language |
 | `language` | Required: a language code or name known to the API. If missing, it is inferred from a valid `lang_tag` |
 | `lang_tag` | If set, must be a known language code |
 | `category_id` | Required |
@@ -45,6 +45,7 @@ Pali (`pi`) titles must be in Roman script; see [Titles](#titles).
 - `edition_type`, if set, must be `diplomatic`, `critical` or `collated`; anything other than `critical` gives a warning
 - The body must not be empty
 - Blocks are separated by blank lines. Every block must end with a block ID (`^ref`), except blocks that contain only transclusions (`![[...#^ref]]`), which are skipped
+- A heading is a block of its own: a blank line before and after it. A heading with text, a transclusion or another heading on the line next to it is an error, because the parser would drop the text from the edition or the heading from the TOC
 - Heading IDs may have any number of parts (`^n-n-n-…`); content IDs may have at most 3 (`^n-n-n`)
 - Block IDs must be unique (headings and content are checked separately)
 - `<small>…</small>` (yigchung) tags must pair up: a `</small>` with no open `<small>`, a `<small>` inside an open run, or a `<small>` not closed by the end of its block (or of its heading line) is an error. A run may continue onto the next line of the same block. The parser turns each run into a yigchung annotation, so a stray tag would put marks on the wrong text
@@ -73,16 +74,18 @@ The `… in English` / `…_in_english` variants of these fields take priority w
 
 ### Titles
 
-`title` and `alt_titles` are keyed by the text's own language code (`lang_tag`, or `language` if `lang_tag` is not set), with no script suffix, and kept in the script they are written in:
+A plain `title` is keyed by the text's own language code (`lang_tag`, or `language` if `lang_tag` is not set), with no script suffix, and kept in the script it is written in. Write each alternative title with its own language key; those keys are kept as written:
 
 ```yaml
 lang_tag: sa
 title: बोधिचर्यावतार
 alt_titles:
-  - bodhicaryāvatāra
+  - sa: "bodhicaryāvatāra"
+  - bo: "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།"
+  - en: "Entering the Way of the Bodhisattva"
 ```
 
-→ `title: {"sa": "बोधिचर्यावतार"}`, `alt_titles: [{"sa": "bodhicaryāvatāra"}]`, `language: "sa"`
+→ `title: {"sa": "बोधिचर्यावतार"}`, `alt_titles: [{"sa": "bodhicaryāvatāra"}, {"bo": "…"}, {"en": "…"}]`, `language: "sa"`. A bare alt title (`- bodhicaryāvatāra`) still works and gets the text's own key (`sa`).
 
 - **Exception — Pali:** titles are still keyed `pi`, but must be written in Roman script (e.g. IAST: `Dhammasaṅgaṇī`). Any non-Latin letter (Sinhala, Thai, Burmese, Devanagari, …) is an error
 - `title_in_english` (or `title in English`) is added under `en`

@@ -401,6 +401,10 @@ Grades one plan day file against the plan's declared session shape, its groundin
 
 ## 13. Publishing
 
+### `library-upload`
+Keeps the library in step with the vault, per environment (dev, prod, …): each note's state, then push what is missing, patch what changed in place, re-segment under a developer gate, delete annotations or alignments, verify — for root texts, translations and commentaries (text, edition, table of contents, yigchungs, durchens, footnotes, alignment) and audio (audio, recordings, cues). Payloads come from the vault's own linter and parser. Plans first; nothing is sent without explicit confirmation. The root goes first: its translations and commentaries need its ids. Installed from rails-template on 2026-11-20; it replaces the four upload skills below, which stay only because their `upload_ledger*.json` files hold this vault's upload history.
+→ [`library-upload/SKILL.md`](library-upload/SKILL.md)
+
 ### `root-text-upload`
 Lints, parses and uploads a root text to the library backend as a text, an edition and a table of contents. The root goes first: its translations need its ids.
 → [`root-text-upload/SKILL.md`](root-text-upload/SKILL.md)

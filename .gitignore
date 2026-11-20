@@ -14,6 +14,13 @@
 # Claude Code worktrees (local only)
 .claude/worktrees/
 
+# library-upload: ids created per environment (local; keep a backup) and its reports
+4-SYSTEM/ledgers/
+4-SYSTEM/reports/
+
+# Secrets (API keys)
+.env
+
 # Python bytecode caches (any directory)
 __pycache__/
 *.pyc

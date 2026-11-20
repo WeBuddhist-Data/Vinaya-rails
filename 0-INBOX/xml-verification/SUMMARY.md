@@ -60,7 +60,11 @@ Stray digits after a `<pb>` in VRI's own text, also in the `deva master` files:
 
 ## 4. Still to do
 
-- **Library:** re-upload all 29 texts. The uploaded copies still have the old spacing; segment IDs are unchanged.
+- **Library:** ✅ **done on prod 2026-11-20** with `library-upload` (installed from rails-template the same day), by a developer's decision:
+  - All 29 editions were fully replaced: segmentation deleted → whole content replaced → segmentation posted → TOC rebuilt. pi-5 needed this anyway (504 segments, the old `^5-U1` is gone). The other 28 used the vault-local `--full-replace` flag.
+  - The alignments of all 24 commentaries were pushed again from their transclusions.
+  - `status` and `verify` report all 29 `ok`, including the segment types (paragraph → verse) that had differed in 23 commentaries.
+  - The new `toc_id`s are only in the git-ignored ledger `4-SYSTEM/ledgers/prod/texts.json`. The notes' frontmatter still holds the old ones, because the tool never overwrites an id.
 - **TOC fixes:** ✅ all done 2026-11-17. Every row in section 2 is fixed or accepted, and each fix has a `*.pre-toc-fix.md.bak` backup in [`backups/`](backups/).
 - **Commit:** nothing has been committed.
 

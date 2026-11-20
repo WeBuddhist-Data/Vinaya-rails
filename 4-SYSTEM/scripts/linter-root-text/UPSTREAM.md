@@ -27,4 +27,4 @@ Two warnings name helper scripts that are not in the template, because they rewr
 
 ## Template changes
 
-None yet.
+- 2026-11-17: **a heading is a block of its own** (`validate.py`, `_glued_heading()`). A heading with text, a transclusion or another heading on the next or previous line, with no blank line between, is now an ERROR. Before, it passed and the parser silently dropped something: text under a heading left the edition, and a heading under text, or a heading above a transclusion or another heading, left the TOC (a heading above a transclusion only got a misleading "missing reference"). No new error on the 563 source files of Nalanda-texts-rails. Same change in linter-commentary. Offer it back to Nalanda-texts-rails.
