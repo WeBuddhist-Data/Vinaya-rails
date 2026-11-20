@@ -106,6 +106,8 @@ If a claim cannot be cited, do not make it. Leave the field blank and mark `stat
 | `3-TRANSFORMATIONS/`| yes — only when explicitly instructed |
 | `4-SYSTEM/` | **mostly no** — see the skills-and-scripts exception below |
 
+**All temporary and working files go in `0-INBOX/`, never outside the vault.** This covers scratch scripts, intermediate outputs, comparison and dry-run reports, and backups taken before editing a file. Do not write them to the system temp folder, an agent scratchpad directory, or anywhere else outside this repository. Put them in a task subfolder, e.g. `0-INBOX/<task>/` or `0-INBOX/<task>/backups/`, so a human can find, review and delete them.
+
 **`4-SYSTEM/` exception — skills and scripts.** The default "no write" rule for `4-SYSTEM/` protects the *operational rules*: this `CLAUDE.md`, the folder `About *.md` files, the `Guidelines/`, and the templates. The LLM **may** create and edit **skills** (`4-SYSTEM/Skills/<skill>/`, including `SKILL.md` and bundled scripts) and **standalone scripts** (`4-SYSTEM/scripts/`) when explicitly asked to build or improve tooling — that is what the `create-skill` skill is for. When it adds or changes a skill it also updates `4-SYSTEM/Skills/SKILLS-CATALOG.md` and `.claude/commands/<skill>.md` to match. Everything else in `4-SYSTEM/` — the rules themselves — still requires a human contributor.
 
 **`1-SOURCES/` exception — whole-file creation by an intake skill.** An intake skill may *create* a new file in `1-SOURCES/` from material a human has already reviewed in `0-INBOX/`. It never edits an existing `1-SOURCES/` file in place beyond the permitted additions below.

@@ -58,6 +58,28 @@ Format each one as: what the default says, what this vault does instead, and **w
 
 The recognised deviation types are listed in `annotation-conventions.md` §7: intro / back-matter zones, Bible-style `book-verse`, letter sub-namespaces, and flat `^N` for collections.]
 
+### ⚑ Unnumbered sub-headings nested under the numbered heading they belong to — departs from the source's flat heading level (registered 2026-11-17)
+
+**This is a convention of this vault only.** It is not a general Railroads rule. Do not backport it to the template or to shared skills.
+
+- **What the source does.** In the CST XML (`tipitaka-xml/romn/`), the section headings inside a khandhaka are all one flat level (`<p rend="subhead">`). That includes both numbered headings (`147. Soṇakoḷivisavatthu`) and unnumbered ones (`Soṇassa pabbajjā`). By default the vault's heading depth follows that structure.
+- **What this vault does.** An unnumbered heading that is **part of the numbered section before it** is nested one level under that section. It gets a child heading ID, e.g. `##### Soṇassa pabbajjā ^3-5-1-1-0` under `#### 147. Soṇakoḷivisavatthu ^3-5-1-0`.
+- **Only where it makes sense.** An unnumbered heading that does not belong to the numbered section before it stays at the source's level. For example, `Khuddakavatthūni` in `pi-4.md` has no numbered heading before it in its khandhaka.
+- **Where it applies** (checked against the XML on 2026-11-17):
+  - `pi-3.md`: 2 headings
+  - `pi-4.md`: 123 headings
+  - `pi-mahavagga-yojana.md`: 5 headings
+  - `pi-culavagga-yojana.md`: 9 headings
+
+  The per-file lists are in `0-INBOX/xml-verification/*-verification.md`.
+- **Why.** The unnumbered heading really is a sub-part of the section above it:
+  - a list that belongs to one kamma: `1. Tajjanīyakammaṃ` → `Adhammakammadvādasakaṃ`, `Dhammakammadvādasakaṃ`, …;
+  - a topic within a bhāṇavāra: `1. Paṭhamabhāṇavāro` → `Vihārānujānanaṃ`, …;
+  - an episode within a story: `147. Soṇakoḷivisavatthu` → `Soṇassa pabbajjā`.
+
+  Flattening would lose that, and in the Kammakkhandhaka it would leave runs of identical titles, the same lists repeated for each of the seven kammas, with nothing to say which kamma each belongs to.
+- **For later contributors.** Do not "fix" these back to the XML's flat level. The text and the paragraph IDs `^N-N` are identical either way; only heading depth and heading IDs differ.
+
 ### Re-segmentation and ID-migration log
 
 [Every change to an addressing scheme after rails already cited it. One dated entry each: what changed, where the pre-change file is kept, and what has to be re-checked.
