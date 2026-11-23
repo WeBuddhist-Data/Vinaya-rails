@@ -19,7 +19,7 @@ are untouched.
 
 In the Vinaya XML every square bracket comes from a <note> element (vin02m2,
 the Mahāvagga root, has one literal bracket: check it by hand when building
-pi-3), so all brackets in text lines are notes.
+pi-mahavaggapali), so all brackets in text lines are notes.
 
 Usage: source_form.py <file.md> <source.json>
 """
@@ -43,10 +43,10 @@ def key(t):
 
 def braces(t):
     """A note's outer brackets become braces; brackets inside the note's own
-    text stay, as the site shows them (pi-1: {[ ] etthantare pāṭhā …}).
+    text stay, as the site shows them (pi-parajikapali: {[ ] etthantare pāṭhā …}).
     A <note> always closes in its own paragraph, so a '[' that is never
     closed on the line is the source's own bracket and stays as printed
-    (pi-3, vin02m2: '… āgatā} [ Evaṃ vutte bhagavā …')."""
+    (pi-mahavaggapali, vin02m2: '… āgatā} [ Evaṃ vutte bhagavā …')."""
     out, i, notes, inbrace = [], 0, 0, 0
     while i < len(t):
         # already a note in the site's form (re-running the step): leave its text alone
@@ -77,7 +77,7 @@ def main(md_path, json_path):
     segs = []
     for s in json.loads(Path(json_path).read_text(encoding="utf-8"))["segments"]:
         c = s["content"]
-        # A long note printed inside a heading (pi-4 '10. Dutiyanavakaṃ <note>…')
+        # A long note printed inside a heading (pi-culavaggapali '10. Dutiyanavakaṃ <note>…')
         # is moved out by apply_site_toc.py into its own block under the
         # heading, so the heading reads as the site's contents tree titles it.
         # Match it the same way: the heading, then the note.

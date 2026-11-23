@@ -12,16 +12,35 @@ This file may be renamed for its text (`<text-slug>-annex.md`) as long as `READM
 
 ## 1. The text
 
-This vault serves **[name of text]** — [one-sentence description of the text and its tradition].
+This vault serves the **Pāli Vinaya Piṭaka**, the first basket of the Pāli Canon, in the Chaṭṭha Saṅgāyana (CSCD) edition of the Vipassana Research Institute (`tipitaka-xml/romn/`).
 
-Source-text files in `1-SOURCES/Text/` correspond to the following books / volumes:
+Source-text files in `1-SOURCES/Text/` correspond to the following books (the five books of the canon, as tipitaka.app lists them):
 
-| Order | Book / Volume | Filename |
-| ----- | ------------- | -------- |
-| 1 | [Title] | `[lang]-[slug].md` |
-| 2 | [Title] | `[lang]-[slug].md` |
+| Order | Book | CSCD source | Filename |
+| ----- | ---- | ----------- | -------- |
+| 1 | Pārājikapāḷi | `vin01m.mul.xml` | `pi-parajikapali.md` |
+| 2 | Pācittiyapāḷi | `vin02m1.mul.xml` | `pi-pacittiyapali.md` |
+| 3 | Mahāvaggapāḷi | `vin02m2.mul.xml` | `pi-mahavaggapali.md` |
+| 4 | Cūḷavaggapāḷi | `vin02m3.mul.xml` | `pi-culavaggapali.md` |
+| 5 | Parivārapāḷi | `vin02m4.mul.xml` | `pi-parivarapali.md` |
 
-Only books that have been ingested are present in the folder. The primary text currently being railed out is **[book / chapter]**.
+All five books are ingested, each with its commentaries (§3): the aṭṭhakathā (Samantapāsādikā), the Sāratthadīpanī-, Vajirabuddhi- and Vimativinodanī-ṭīkā, and the Pācityādiyojanā (books 2–5; it does not cover the Pārājika).
+
+### Works in the CSCD Vinaya shelf **not** ingested (decided 2026-11-23: documented, left for now)
+
+tipitaka.app lists seven more works in its Vinaya Ṭīkā section. They are post-canonical and do not comment on one of the five books paragraph by paragraph, so the vault leaves them out for now:
+
+| tipitaka.app entry | CSCD file | Size | What it is |
+| --- | --- | --- | --- |
+| Dvemātikāpāḷi – Kaṅkhāvitaraṇī-aṭṭhakathā | `vin04t.nrf` | ~58k words | **Extract + commentary:** the Bhikkhu- and Bhikkhunī-Pātimokkha (the rule sentences of the Suttavibhaṅga, i.e. of `pi-parajikapali`/`pi-pacittiyapali`, gathered for recitation; same wording up to spelling, e.g. *appaccakkhāya* / root *apaccakkhāya*, plus the recitation frame), followed by the Kaṅkhāvitaraṇī, the aṭṭhakathā on the Pātimokkha |
+| Vinayasaṅgaha-aṭṭhakathā | `vin05t.nrf` | ~98k | **Handbook (prose):** the commentaries' rulings rearranged by topic, 35 chapters |
+| Vinayālaṅkāra-ṭīkā | `vin08t.nrf` | ~135k | **Commentary** on the Vinayasaṅgaha |
+| Kaṅkhāvitaraṇīpurāṇa-ṭīkā (+ abhinava-ṭīkā) | `vin09t.nrf` | ~89k | **Commentary:** two ṭīkās on the Kaṅkhāvitaraṇī, by kaṇḍa |
+| Vinayavinicchaya-uttaravinicchaya | `vin10t.nrf` | ~47k | **Handbook (new verse):** the whole Vinaya restated in verse, book by book |
+| Vinayavinicchaya-ṭīkā | `vin11t.nrf` | ~155k | **Commentary** on those verses |
+| Khuddasikkhā-mūlasikkhā | `vin13t.nrf` | ~72k | **Handbooks (new verse)** for novices, with their ṭīkās |
+
+If they are taken in later: the Pātimokkha repeats rules already in `pi-parajikapali`/`pi-pacittiyapali`; the Kaṅkhāvitaraṇī and its ṭīkās are true commentary and can be linked rule by rule to `pi-parajikapali`/`pi-pacittiyapali`; the handbooks follow their own topics or verse and cannot be aligned paragraph by paragraph with the five books.
 
 ---
 
@@ -64,10 +83,10 @@ The recognised deviation types are listed in `annotation-conventions.md` §7: in
 
 - **What the source does.** In the CST XML (`tipitaka-xml/romn/`), the section headings inside a khandhaka are all one flat level (`<p rend="subhead">`). That includes both numbered headings (`147. Soṇakoḷivisavatthu`) and unnumbered ones (`Soṇassa pabbajjā`). By default the vault's heading depth follows that structure.
 - **What this vault does.** An unnumbered heading that is **part of the numbered section before it** is nested one level under that section. It gets a child heading ID, e.g. `##### Soṇassa pabbajjā ^3-5-1-1-0` under `#### 147. Soṇakoḷivisavatthu ^3-5-1-0`.
-- **Only where it makes sense.** An unnumbered heading that does not belong to the numbered section before it stays at the source's level. For example, `Khuddakavatthūni` in `pi-4.md` has no numbered heading before it in its khandhaka.
+- **Only where it makes sense.** An unnumbered heading that does not belong to the numbered section before it stays at the source's level. For example, `Khuddakavatthūni` in `pi-culavaggapali.md` has no numbered heading before it in its khandhaka.
 - **Where it applies** (checked against the XML on 2026-11-17):
-  - `pi-3.md`: 2 headings
-  - `pi-4.md`: 123 headings
+  - `pi-mahavaggapali.md`: 2 headings
+  - `pi-culavaggapali.md`: 123 headings
   - `pi-mahavagga-yojana.md`: 5 headings
   - `pi-culavagga-yojana.md`: 9 headings
 
@@ -80,7 +99,7 @@ The recognised deviation types are listed in `annotation-conventions.md` §7: in
   Flattening would lose that, and in the Kammakkhandhaka it would leave runs of identical titles, the same lists repeated for each of the seven kammas, with nothing to say which kamma each belongs to.
 - **For later contributors.** Do not "fix" these back to the XML's flat level. The text and the paragraph IDs `^N-N` are identical either way; only heading depth and heading IDs differ.
 
-### ⚑ `pi-5.md`: `1. Bhikkhuvibhaṅgo` moved below `Soḷasamahāvāro` — one heading line out of printed order (registered 2026-11-20)
+### ⚑ `pi-parivarapali.md`: `1. Bhikkhuvibhaṅgo` moved below `Soḷasamahāvāro` — one heading line out of printed order (registered 2026-11-20)
 
 **This is a convention of this vault only.** It is not a general Railroads rule.
 
@@ -95,7 +114,7 @@ The recognised deviation types are listed in `annotation-conventions.md` §7: in
   - each vibhaṅga closes its own 16 vāras.
 
   A Markdown heading tree cannot put a child before its parent, so the line has to move for the two vibhaṅgas to be siblings.
-- **For later contributors.** Do not move it back above `Soḷasamahāvāro`, and do not turn it back into a text line (`^5-U1`, the state until 2026-11-20). With that line gone, the two remaining unnumbered blocks were renumbered from `^5-U2`, `^5-U3` to `^5-U1`, `^5-U2`. The record is `0-INBOX/xml-verification/pi-5-verification.md` §2, in git history (`git show dab18f7:0-INBOX/xml-verification/pi-5-verification.md`).
+- **For later contributors.** Do not move it back above `Soḷasamahāvāro`, and do not turn it back into a text line (`^5-U1`, the state until 2026-11-20). With that line gone, the two remaining unnumbered blocks were renumbered from `^5-U2`, `^5-U3` to `^5-U1`, `^5-U2`. The record is `0-INBOX/xml-verification/pi-parivarapali-verification.md` §2, in git history (`git show dab18f7:0-INBOX/xml-verification/pi-parivarapali-verification.md`).
 
 ### Re-segmentation and ID-migration log
 

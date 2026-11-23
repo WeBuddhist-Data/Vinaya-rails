@@ -193,7 +193,7 @@ def main():
     
     out_lines = []
     out_lines.append("---")
-    out_lines.append("source_file: 1-SOURCES/Text/pi-1.md")
+    out_lines.append("source_file: 1-SOURCES/Text/pi-parajikapali.md")
     out_lines.append("source_language: pi")
     out_lines.append("target_file: 3-TRANSFORMATIONS/Translations/en-Contemporary-English-Abhidhamma/en-dhammasangani-ai.md")
     out_lines.append("target_language: English")

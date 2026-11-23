@@ -68,7 +68,7 @@ def main(md_path, toc_path):
         sub_end = next((b for b in range(t + 1, len(site)) if site[b]["depth"] <= site[t]["depth"]), len(site))
     # A title the source prints before the site tree's first node, and that
     # the tree does not list, is part of the book's own opening on the site
-    # (pi-5: '1. Bhikkhuvibhaṅgo', shown in the text of the 'vp-pv' book node,
+    # (pi-parivarapali: '1. Bhikkhuvibhaṅgo', shown in the text of the 'vp-pv' book node,
     # not as a contents node; the commentaries start at Soḷasamahāvāro too).
     # Keep its words as a text line under the book heading, not a heading.
     first_a = next((a1 for op, a1, a2, b1, b2 in ops if op == "equal"), None)

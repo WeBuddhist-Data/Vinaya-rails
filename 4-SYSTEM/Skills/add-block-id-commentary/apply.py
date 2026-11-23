@@ -96,6 +96,12 @@ BOOK_SLUGS = {
     "pi-dhatukatha": 3, "pi-3": 3,
     "pi-puggalapannatti": 4, "pi-4": 4,
     "pi-kathavatthu": 5, "pi-5": 5,
+    # Vinaya roots, renamed 2026-11-23 from pi-1 … pi-5
+    "pi-parajikapali": 1,
+    "pi-pacittiyapali": 2,
+    "pi-mahavaggapali": 3,
+    "pi-culavaggapali": 4,
+    "pi-parivarapali": 5,
     "pi-yamaka": 6, "pi-6": 6,
     "pi-patthana": 7, "pi-7": 7,
 }
